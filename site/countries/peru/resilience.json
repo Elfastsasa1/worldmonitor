@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "slug": "peru",
+  "rank": 37,
+  "overallScore": 61.1,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lluvias en regiones del Perú por El Niño EN VIVO HOY: últimas noticias y pronósticos de lloviznas, desbordes e inundaciones",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/peru/la-libertad/lluvias-en-regiones-del-peru-por-fenomeno-el-nino-en-vivo-hoy-regiones-en-alerta-posibles-desbordes-inundaciones-huaicos-y-pronostico-de-senamhi-lbposting-noticia/",
+        "publishedAt": "2026-11-24T02:41:44.000Z"
+      },
+      {
+        "title": "Luna del Castor de noviembre de 2026: a qué hora verla en Perú y cuándo llega la próxima superluna, justo antes de Nochebuena",
+        "source": "La República Peru",
+        "url": "https://larepublica.pe/ciencia/2026/11/23/luna-del-castor-de-noviembre-de-2026-a-que-hora-verla-en-peru-y-cuando-llega-la-proxima-superluna-justo-antes-de-nochebuena-2251976",
+        "publishedAt": "2026-11-24T01:39:00.000Z"
+      },
+      {
+        "title": "Un ecuatoriano lleva a Sport Huancayo a la gloria en Perú",
+        "source": "El Comercio",
+        "url": "https://www.elcomercio.com/deportes/futbol/ecuatoriano-porozo-huancayo-campeon-clausura-peru/",
+        "publishedAt": "2026-11-24T00:26:59.000Z"
+      },
+      {
+        "title": "Perú archiva proceso contra Ollanta Humala y Nadine Heredia por caso Odebrecht",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/mundo/peru-archiva-proceso-contra-ollanta-humala-y-nadine-heredia-por-caso-odebrecht/",
+        "publishedAt": "2026-11-23T21:15:00.000Z"
+      },
+      {
+        "title": "Uruguayos campeones en Chile, Paraguay y Perú",
+        "source": "La Diaria",
+        "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/uruguayos-campeones-en-chile-paraguay-y-peru/",
+        "publishedAt": "2026-11-23T15:15:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLluvias en regiones del Perú por El Niño están causando lloviznas, desbordes e inundaciones, según reportes en vivo. [1]\n\nWHAT THIS MEANS FOR PERU\nThe ongoing El Niño rains and floods reported in Peru may affect travel safety, as the most severe government travel advisory for Peru is Exercise Increased Caution. [1][E1]",
+      "generatedAt": "2026-11-24T04:54:46.017Z",
+      "sources": [
+        {
+          "title": "Lluvias en regiones del Perú por El Niño EN VIVO HOY: últimas noticias y pronósticos de lloviznas, desbordes e inundaciones",
+          "source": "El Comercio Peru",
+          "url": "https://elcomercio.pe/peru/la-libertad/lluvias-en-regiones-del-peru-por-fenomeno-el-nino-en-vivo-hoy-regiones-en-alerta-posibles-desbordes-inundaciones-huaicos-y-pronostico-de-senamhi-lbposting-noticia/",
+          "publishedAt": "2026-11-24T02:41:44.000Z"
+        },
+        {
+          "title": "Luna del Castor de noviembre de 2026: a qué hora verla en Perú y cuándo llega la próxima superluna, justo antes de Nochebuena",
+          "source": "La República Peru",
+          "url": "https://larepublica.pe/ciencia/2026/11/23/luna-del-castor-de-noviembre-de-2026-a-que-hora-verla-en-peru-y-cuando-llega-la-proxima-superluna-justo-antes-de-nochebuena-2251976",
+          "publishedAt": "2026-11-24T01:39:00.000Z"
+        },
+        {
+          "title": "Un ecuatoriano lleva a Sport Huancayo a la gloria en Perú",
+          "source": "El Comercio",
+          "url": "https://www.elcomercio.com/deportes/futbol/ecuatoriano-porozo-huancayo-campeon-clausura-peru/",
+          "publishedAt": "2026-11-24T00:26:59.000Z"
+        },
+        {
+          "title": "Perú archiva proceso contra Ollanta Humala y Nadine Heredia por caso Odebrecht",
+          "source": "La Prensa",
+          "url": "https://www.prensa.com/mundo/peru-archiva-proceso-contra-ollanta-humala-y-nadine-heredia-por-caso-odebrecht/",
+          "publishedAt": "2026-11-23T21:15:00.000Z"
+        },
+        {
+          "title": "Uruguayos campeones en Chile, Paraguay y Perú",
+          "source": "La Diaria",
+          "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/uruguayos-campeones-en-chile-paraguay-y-peru/",
+          "publishedAt": "2026-11-23T15:15:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Peru is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

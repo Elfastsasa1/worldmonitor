@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "slug": "georgia",
+  "rank": 50,
+  "overallScore": 58.2,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Best i Rati ja s’incorporen amb el Canadà i Geòrgia",
+        "source": "Diari d'Andorra",
+        "url": "https://www.diariandorra.ad/esports/261124/best-i-rati-ja-s-incorporen-amb-canada-i-georgia_209463.html",
+        "publishedAt": "2026-11-24T04:03:21.000Z"
+      },
+      {
+        "title": "What led to Democrats' sweeping victories in Georgia: ABC News analysis",
+        "source": "ABC News",
+        "url": "https://abcnews.com/Politics/led-democrats-sweeping-victories-georgia-abc-news-analysis/story?id=138297496",
+        "publishedAt": "2026-11-23T22:20:33.000Z"
+      },
+      {
+        "title": "Citing Trafficking Risks, Georgia Plans Total Ban on Surrogacy",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/citing-trafficking-risks-georgia-plans-total-ban-on-surrogacy",
+        "publishedAt": "2026-11-23T20:08:00.000Z"
+      },
+      {
+        "title": "U.S. Army veteran mauled to death by pack of dogs in Georgia",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/us-army-veteran-mauled-death-pack-dogs-georgia-rcna610896",
+        "publishedAt": "2026-11-23T18:11:12.000Z"
+      },
+      {
+        "title": "‘My last hope has died’: Georgia plans to ban surrogacy, prompting backlash",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/my-last-hope-has-died-georgia-plans-to-ban-surrogacy-prompting-backlash/",
+        "publishedAt": "2026-11-23T14:26:59.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGeorgia plans a total ban on surrogacy, citing trafficking risks. [3]\n\nWHAT THIS MEANS FOR GEORGIA\nThe planned surrogacy ban could affect individuals who rely on the practice, as the government cites trafficking risks. [3][5][E1]\n\nKEY RISKS\nGeorgia has a net energy import dependency of 78% (Eurostat, 2024). [E3]\n\nWATCH ITEMS\nWhether the government will implement the total ban on surrogacy as planned. [3]",
+      "generatedAt": "2026-11-24T04:51:00.100Z",
+      "sources": [
+        {
+          "title": "Best i Rati ja s’incorporen amb el Canadà i Geòrgia",
+          "source": "Diari d'Andorra",
+          "url": "https://www.diariandorra.ad/esports/261124/best-i-rati-ja-s-incorporen-amb-canada-i-georgia_209463.html",
+          "publishedAt": "2026-11-24T04:03:21.000Z"
+        },
+        {
+          "title": "What led to Democrats' sweeping victories in Georgia: ABC News analysis",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/led-democrats-sweeping-victories-georgia-abc-news-analysis/story?id=138297496",
+          "publishedAt": "2026-11-23T22:20:33.000Z"
+        },
+        {
+          "title": "Citing Trafficking Risks, Georgia Plans Total Ban on Surrogacy",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/citing-trafficking-risks-georgia-plans-total-ban-on-surrogacy",
+          "publishedAt": "2026-11-23T20:08:00.000Z"
+        },
+        {
+          "title": "U.S. Army veteran mauled to death by pack of dogs in Georgia",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/us-army-veteran-mauled-death-pack-dogs-georgia-rcna610896",
+          "publishedAt": "2026-11-23T18:11:12.000Z"
+        },
+        {
+          "title": "‘My last hope has died’: Georgia plans to ban surrogacy, prompting backlash",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/my-last-hope-has-died-georgia-plans-to-ban-surrogacy-prompting-backlash/",
+          "publishedAt": "2026-11-23T14:26:59.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for Georgia is Exercise Normal Precautions, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "78%",
+          "factText": "Georgia has a net energy import dependency of 78% (Eurostat, 2024).",
+          "asOf": "2024-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

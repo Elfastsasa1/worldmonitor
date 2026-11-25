@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "slug": "iceland",
+  "rank": 3,
+  "overallScore": 74.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bifröst, The Oh-So-Quiet Side Of War",
+        "source": "The Reykjavík Grapevine",
+        "url": "https://grapevine.is/feature/2026/11/22/bifrost-the-oh-so-quiet-side-of-war/",
+        "publishedAt": "2026-11-22T23:29:08.000Z"
+      },
+      {
+        "title": "How Iceland's Blue Lagoon is faring after its long-awaited stock market debut",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/how-icelands-blue-lagoon-is-faring-after-its-long-awaited-stock-market-debut",
+        "publishedAt": "2026-11-23T15:38:58.000Z"
+      },
+      {
+        "title": "Three Sheep Rescued From Flooded Cave in East Iceland",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/sheep-rescued-flooded-cave-east-iceland/",
+        "publishedAt": "2026-11-23T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "First in: 360 Hotel, Iceland",
+        "source": "cntraveller.com",
+        "url": "https://www.cntraveller.com/hotels/first-in-360-hotel-iceland",
+        "publishedAt": "2026-11-23T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "COP31 Ends Without Overarching Deal; Iceland Turns Home",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/cop31-ends-without-deal-iceland-2026/",
+        "publishedAt": "2026-11-23T10:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCOP31 ended without an overarching deal, prompting Iceland to turn its focus homeward. [5]\nThree sheep were rescued from a flooded cave in East Iceland. [3]\n\nKEY RISKS\nIceland is linked to 1 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Iceland will pursue a domestic climate strategy following the collapse of COP31 talks. [5]\nHow the Blue Lagoon's stock market debut will affect its operations and tourism in Iceland. [2]",
+      "generatedAt": "2026-11-24T04:28:12.734Z",
+      "sources": [
+        {
+          "title": "Bifröst, The Oh-So-Quiet Side Of War",
+          "source": "The Reykjavík Grapevine",
+          "url": "https://grapevine.is/feature/2026/11/22/bifrost-the-oh-so-quiet-side-of-war/",
+          "publishedAt": "2026-11-22T23:29:08.000Z"
+        },
+        {
+          "title": "How Iceland's Blue Lagoon is faring after its long-awaited stock market debut",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/how-icelands-blue-lagoon-is-faring-after-its-long-awaited-stock-market-debut",
+          "publishedAt": "2026-11-23T15:38:58.000Z"
+        },
+        {
+          "title": "Three Sheep Rescued From Flooded Cave in East Iceland",
+          "source": "icelandreview.com",
+          "url": "https://www.icelandreview.com/news/sheep-rescued-flooded-cave-east-iceland/",
+          "publishedAt": "2026-11-23T20:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "First in: 360 Hotel, Iceland",
+          "source": "cntraveller.com",
+          "url": "https://www.cntraveller.com/hotels/first-in-360-hotel-iceland",
+          "publishedAt": "2026-11-23T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "COP31 Ends Without Overarching Deal; Iceland Turns Home",
+          "source": "icelandreview.com",
+          "url": "https://www.icelandreview.com/news/cop31-ends-without-deal-iceland-2026/",
+          "publishedAt": "2026-11-23T10:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "1",
+          "factText": "Iceland is linked to 1 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

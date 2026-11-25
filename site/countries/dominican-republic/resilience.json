@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "slug": "dominican-republic",
+  "rank": 89,
+  "overallScore": 52.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "UAE to train one million AI coders in Dominican Republic under digital drive",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/uae/2026/11/22/uae-to-train-1-million-ai-coders-in-dominican-republic-under-digital-drive/",
+        "publishedAt": "2026-11-22T13:08:19.000Z"
+      },
+      {
+        "title": "The Dominican Republic Just Hit 10 Million Visitors Earlier Than Ever, With a Big Jump in Cruise Arrivals",
+        "source": "caribjournal.com",
+        "url": "https://www.caribjournal.com/2026/11/23/dominican-republic-tourist-arrivals-early/",
+        "publishedAt": "2026-11-23T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "American Airlines flight AA2471 diverts to Santiago de los Caballeros, Dominican Republic",
+        "source": "cedarnews.net",
+        "url": "https://cedarnews.net/newstasks/1182225/american-airlines-flight-aa2471-diverts-to-santiago-de-los-caballeros-dominican-republic/",
+        "publishedAt": "2026-11-23T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Quake Shakes Eastern Dominican Republic",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/dominican-republic-quake-la-romana-magnitude-4-6/",
+        "publishedAt": "2026-11-21T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "M4.4 earthquake strikes near La Romana, Dominican Republic",
+        "source": "cedarnews.net",
+        "url": "https://cedarnews.net/newstasks/1175768/m4-4-earthquake-strikes-near-la-romana-dominican-republic/",
+        "publishedAt": "2026-11-21T15:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Dominican Republic reached 10 million visitors earlier than ever, with a significant increase in cruise arrivals. [2]\nAn M4.4 earthquake struck near La Romana, Dominican Republic. [5]\n\nWATCH ITEMS\nWhether the UAE will train one million AI coders in the Dominican Republic under its digital drive. [1]\nThe outcome of the diverted American Airlines flight AA2471 to Santiago de los Caballeros. [3]",
+      "generatedAt": "2026-11-24T04:25:41.458Z",
+      "sources": [
+        {
+          "title": "UAE to train one million AI coders in Dominican Republic under digital drive",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/uae/2026/11/22/uae-to-train-1-million-ai-coders-in-dominican-republic-under-digital-drive/",
+          "publishedAt": "2026-11-22T13:08:19.000Z"
+        },
+        {
+          "title": "The Dominican Republic Just Hit 10 Million Visitors Earlier Than Ever, With a Big Jump in Cruise Arrivals",
+          "source": "caribjournal.com",
+          "url": "https://www.caribjournal.com/2026/11/23/dominican-republic-tourist-arrivals-early/",
+          "publishedAt": "2026-11-23T19:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "American Airlines flight AA2471 diverts to Santiago de los Caballeros, Dominican Republic",
+          "source": "cedarnews.net",
+          "url": "https://cedarnews.net/newstasks/1182225/american-airlines-flight-aa2471-diverts-to-santiago-de-los-caballeros-dominican-republic/",
+          "publishedAt": "2026-11-23T01:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Quake Shakes Eastern Dominican Republic",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/dominican-republic-quake-la-romana-magnitude-4-6/",
+          "publishedAt": "2026-11-21T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "M4.4 earthquake strikes near La Romana, Dominican Republic",
+          "source": "cedarnews.net",
+          "url": "https://cedarnews.net/newstasks/1175768/m4-4-earthquake-strikes-near-la-romana-dominican-republic/",
+          "publishedAt": "2026-11-21T15:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

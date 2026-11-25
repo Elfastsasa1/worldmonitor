@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "slug": "madagascar",
+  "rank": 137,
+  "overallScore": 42.7,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Corée-Madagascar : Séoul veut accélérer son offensive économique",
+        "source": "Midi Madagasikara",
+        "url": "https://midi-madagasikara.mg/coree-madagascar-seoul-veut-accelerer-son-offensive-economique/?utm_source=rss&utm_medium=rss&utm_campaign=coree-madagascar-seoul-veut-accelerer-son-offensive-economique",
+        "publishedAt": "2026-11-24T03:00:00.000Z"
+      },
+      {
+        "title": "BADMINTON – CHAMPIONNATS DE MADAGASCAR - Toky et Stephania conservent leur titre",
+        "source": "L'Express de Madagascar",
+        "url": "https://www.lexpress.mg/feeds/4720463994785167838/comments/default",
+        "publishedAt": "2026-11-24T02:30:00.000Z"
+      },
+      {
+        "title": "DROITS DE L’ENFANT – L’éducation en tête des priorités exprimées par les enfants à l’occasion de la Journée mondiale de l’enfance à Madagascar",
+        "source": "2424.mg",
+        "url": "https://www.2424.mg/droits-de-lenfant-leducation-en-tete-des-priorites-exprimees-par-les-enfants-a-loccasion-de-la-journee-mondiale-de-lenfance-a-madagascar",
+        "publishedAt": "2026-11-23T17:39:52.000Z"
+      },
+      {
+        "title": "How a tiny rare frog became an ecological warning sign for Madagascar",
+        "source": "Guardian Africa",
+        "url": "https://www.theguardian.com/environment/2026/nov/23/tiny-rare-frog-warning-sign-madagascar-illegal-gold-mining-aoe",
+        "publishedAt": "2026-11-23T11:00:54.000Z"
+      },
+      {
+        "title": "Madagascar: Radio Saint Vincent De Paul - A new voice of faith",
+        "source": "Vatican News English",
+        "url": "https://www.vaticannews.va/en/africa/news/2026-11/madagascar-radio-saint-vincent-de-paul-a-new-voice-of-faith.html",
+        "publishedAt": "2026-11-23T09:30:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA tiny rare frog has become an ecological warning sign for Madagascar. [4]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Madagascar is Exercise Increased Caution, as of Nov 24, 2026. [E1]\nMadagascar is linked to 1 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:53:32.984Z",
+      "sources": [
+        {
+          "title": "Corée-Madagascar : Séoul veut accélérer son offensive économique",
+          "source": "Midi Madagasikara",
+          "url": "https://midi-madagasikara.mg/coree-madagascar-seoul-veut-accelerer-son-offensive-economique/?utm_source=rss&utm_medium=rss&utm_campaign=coree-madagascar-seoul-veut-accelerer-son-offensive-economique",
+          "publishedAt": "2026-11-24T03:00:00.000Z"
+        },
+        {
+          "title": "BADMINTON – CHAMPIONNATS DE MADAGASCAR - Toky et Stephania conservent leur titre",
+          "source": "L'Express de Madagascar",
+          "url": "https://www.lexpress.mg/feeds/4720463994785167838/comments/default",
+          "publishedAt": "2026-11-24T02:30:00.000Z"
+        },
+        {
+          "title": "DROITS DE L’ENFANT – L’éducation en tête des priorités exprimées par les enfants à l’occasion de la Journée mondiale de l’enfance à Madagascar",
+          "source": "2424.mg",
+          "url": "https://www.2424.mg/droits-de-lenfant-leducation-en-tete-des-priorites-exprimees-par-les-enfants-a-loccasion-de-la-journee-mondiale-de-lenfance-a-madagascar",
+          "publishedAt": "2026-11-23T17:39:52.000Z"
+        },
+        {
+          "title": "How a tiny rare frog became an ecological warning sign for Madagascar",
+          "source": "Guardian Africa",
+          "url": "https://www.theguardian.com/environment/2026/nov/23/tiny-rare-frog-warning-sign-madagascar-illegal-gold-mining-aoe",
+          "publishedAt": "2026-11-23T11:00:54.000Z"
+        },
+        {
+          "title": "Madagascar: Radio Saint Vincent De Paul - A new voice of faith",
+          "source": "Vatican News English",
+          "url": "https://www.vaticannews.va/en/africa/news/2026-11/madagascar-radio-saint-vincent-de-paul-a-new-voice-of-faith.html",
+          "publishedAt": "2026-11-23T09:30:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Madagascar is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "1",
+          "factText": "Madagascar is linked to 1 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

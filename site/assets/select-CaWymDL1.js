@@ -1,0 +1,3 @@
+import{aw as m,ax as o}from"./gdelt-intel-DU-_Fjx7.js";function g(n,e,r){n=+n,e=+e,r=(a=arguments.length)<2?(e=n,n=0,1):a<3?1:+r;for(var u=-1,a=Math.max(0,Math.ceil((e-n)/r))|0,i=new Array(a);++u<a;)i[u]=n+u*r;return i}function l(n){return typeof n=="string"?new m([[document.querySelector(n)]],[document.documentElement]):new m([[n]],o)}export{g as r,l as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["select-CaWymDL1.js"]=0;

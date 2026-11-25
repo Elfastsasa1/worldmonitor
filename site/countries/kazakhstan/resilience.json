@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "slug": "kazakhstan",
+  "rank": 53,
+  "overallScore": 57.8,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kazakhstan's 'tech prodigy' receives Google funding at age 17. - Vietnam.vn",
+        "source": "Startup School",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUFMTzJBNjFJQWdMbHB6c0tvZzVqQV9pZHFodko1Vm5SNWF0Ulk1dURwV29VR25hV2dNZWxtRmltb1piQXpTTGRuM01KUmVmbFhaX044dHo5Rno3aDdzem5Zcm94dXAwSHF5aFFJMVp6eDhHS3RkTmtVemRXYnktdzhmRkI2LUhDZGpSODZvbw?oc=5",
+        "publishedAt": "2026-11-23T05:51:02.000Z"
+      },
+      {
+        "title": "Uzbekistan to reopen Gisht Kuprik border crossing with Kazakhstan on November 25",
+        "source": "Akipress",
+        "url": "https://akipress.com/news:932827",
+        "publishedAt": "2026-11-24T03:54:56.000Z"
+      },
+      {
+        "title": "CBI Secures Deportation Of Haryana Murder Accused From Kazakhstan",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
+        "publishedAt": "2026-11-24T01:31:11.000Z"
+      },
+      {
+        "title": "CBI facilitates return of murder accused from Kazakhstan",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+        "publishedAt": "2026-11-23T21:28:22.000Z"
+      },
+      {
+        "title": "Kazakhstan Strengthens Economic Diplomacy to Attract Foreign Investment",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/11/kazakhstan-strengthens-economic-diplomacy-to-attract-foreign-investment/",
+        "publishedAt": "2026-11-23T17:37:11.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nKazakhstan's 'tech prodigy' receives Google funding at age 17. [1]\nUzbekistan will reopen the Gisht Kuprik border crossing with Kazakhstan on November 25. [2]\n\nKEY RISKS\nKazakhstan is linked to 23 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the CBI will secure further deportations of murder accused from Kazakhstan. [3][4]",
+      "generatedAt": "2026-11-24T04:29:12.408Z",
+      "sources": [
+        {
+          "title": "Kazakhstan's 'tech prodigy' receives Google funding at age 17. - Vietnam.vn",
+          "source": "Startup School",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUFMTzJBNjFJQWdMbHB6c0tvZzVqQV9pZHFodko1Vm5SNWF0Ulk1dURwV29VR25hV2dNZWxtRmltb1piQXpTTGRuM01KUmVmbFhaX044dHo5Rno3aDdzem5Zcm94dXAwSHF5aFFJMVp6eDhHS3RkTmtVemRXYnktdzhmRkI2LUhDZGpSODZvbw?oc=5",
+          "publishedAt": "2026-11-23T05:51:02.000Z"
+        },
+        {
+          "title": "Uzbekistan to reopen Gisht Kuprik border crossing with Kazakhstan on November 25",
+          "source": "Akipress",
+          "url": "https://akipress.com/news:932827",
+          "publishedAt": "2026-11-24T03:54:56.000Z"
+        },
+        {
+          "title": "CBI Secures Deportation Of Haryana Murder Accused From Kazakhstan",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
+          "publishedAt": "2026-11-24T01:31:11.000Z"
+        },
+        {
+          "title": "CBI facilitates return of murder accused from Kazakhstan",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+          "publishedAt": "2026-11-23T21:28:22.000Z"
+        },
+        {
+          "title": "Kazakhstan Strengthens Economic Diplomacy to Attract Foreign Investment",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/11/kazakhstan-strengthens-economic-diplomacy-to-attract-foreign-investment/",
+          "publishedAt": "2026-11-23T17:37:11.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "23",
+          "factText": "Kazakhstan is linked to 23 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

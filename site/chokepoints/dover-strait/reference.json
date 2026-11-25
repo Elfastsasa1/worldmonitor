@@ -1,0 +1,18 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "dover_strait",
+  "displayName": "Dover Strait",
+  "slug": "dover-strait",
+  "lat": 51,
+  "lon": 1.5,
+  "region": "English Channel ↔ North Sea",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [],
+  "capturedAt": "2026-11-01",
+  "volumeObservedAt": "2026-11-01",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

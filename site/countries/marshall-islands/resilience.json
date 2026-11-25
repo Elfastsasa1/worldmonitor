@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MH",
+  "countryName": "Marshall Islands",
+  "slug": "marshall-islands",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.63,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Marshall Islands refuses to join consensus at COP31",
+        "source": "Islands Business",
+        "url": "https://islandsbusiness.com/news-break/marshall-islands-refuses-to-join-consensus-at-cop31/",
+        "publishedAt": "2026-11-23T23:32:08.000Z"
+      },
+      {
+        "title": "Structurally Compromised Chinese Bulker Threatens Marshall Islands Lagoon",
+        "source": "maritime-executive.com",
+        "url": "https://maritime-executive.com/article/structurally-compromised-chinese-bulker-threatens-marshall-islands-lagoon",
+        "publishedAt": "2026-11-23T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Coast Guard conducts maritime law enforcement operations with the Marshall Islands",
+        "source": "seapowermagazine.org",
+        "url": "https://seapowermagazine.org/coast-guard-conducts-maritime-law-enforcement-operations-with-the-marshall-islands/",
+        "publishedAt": "2026-11-20T22:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Taiwan to provide US$20 million for Marshall Islands SME loan guarantees",
+        "source": "focustaiwan.tw",
+        "url": "https://focustaiwan.tw/politics/202611210011",
+        "publishedAt": "2026-11-21T11:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMarshall Islands refused to join consensus at COP31. [1]\nA structurally compromised Chinese bulker threatens a Marshall Islands lagoon. [2]\n\nKEY RISKS\nMarshall Islands is linked to 163 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the structurally compromised Chinese bulker will be removed from the lagoon. [2]\nWhether Marshall Islands will alter its stance on COP31 consensus. [1]",
+      "generatedAt": "2026-11-24T04:30:26.709Z",
+      "sources": [
+        {
+          "title": "Marshall Islands refuses to join consensus at COP31",
+          "source": "Islands Business",
+          "url": "https://islandsbusiness.com/news-break/marshall-islands-refuses-to-join-consensus-at-cop31/",
+          "publishedAt": "2026-11-23T23:32:08.000Z"
+        },
+        {
+          "title": "Structurally Compromised Chinese Bulker Threatens Marshall Islands Lagoon",
+          "source": "maritime-executive.com",
+          "url": "https://maritime-executive.com/article/structurally-compromised-chinese-bulker-threatens-marshall-islands-lagoon",
+          "publishedAt": "2026-11-23T23:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Coast Guard conducts maritime law enforcement operations with the Marshall Islands",
+          "source": "seapowermagazine.org",
+          "url": "https://seapowermagazine.org/coast-guard-conducts-maritime-law-enforcement-operations-with-the-marshall-islands/",
+          "publishedAt": "2026-11-20T22:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Taiwan to provide US$20 million for Marshall Islands SME loan guarantees",
+          "source": "focustaiwan.tw",
+          "url": "https://focustaiwan.tw/politics/202611210011",
+          "publishedAt": "2026-11-21T11:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "163",
+          "factText": "Marshall Islands is linked to 163 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

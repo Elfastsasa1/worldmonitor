@@ -1,0 +1,200 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "slug": "taiwan",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.4,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Eswatini Foreign Affairs Minister seeking to manipulate China’s diplomatic ally South Africa to push a Taiwan project seeking to destroy Swaziland News amid “One China Policy” battle of narratives” signs countering of information funding agreement with Islan - Swaziland News",
+        "source": "Swaziland News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS3BoQ1E5SUVZbmVPRFotU29Ya0U1WTRJSDZFN3h3WkVtalc0YXhfNWRtS3VEOGlFYk9taDZiS1FsZEpwaW1yNUxBS3FmS1pjVzZMOA?oc=5",
+        "publishedAt": "2026-11-23T20:08:55.000Z"
+      },
+      {
+        "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+        "publishedAt": "2026-11-24T02:20:36.000Z"
+      },
+      {
+        "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits - CNBC",
+        "source": "Taiwan Tech",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5",
+        "publishedAt": "2026-11-24T00:24:00.000Z"
+      },
+      {
+        "title": "Taiwan Housing Market Stabilises, but Inflation and Unsold Homes Weigh - Realty Plus Magazine",
+        "source": "Economic Data",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFRoZC1jdDlLSWdtcnJMLUJMclBWZ0hKNDdIWlJLdmxxa2ZSOURLbm9MNm1RU0VDZnlJNS01R2pNY0tJYng3c1E4cDlFMlBOTVhBS2ttZE51c0RPYzNWQVpXQ0N2ajVMbE9GUzVNZ3lWV2NoRjJzaERSeGFzamVZNVJRU0RibkFpNG81OWp3VXZZVkNuUExsa2tKOEdINnAtOU9IVElZYjMzQ05JRlJWZzdMM3k1aXQ2U3hqRkJ3?oc=5",
+        "publishedAt": "2026-11-24T03:53:52.000Z"
+      },
+      {
+        "title": "Embajada de China en Colombia rechaza visita oficial de congresistas a Taiwán",
+        "source": "La República Colombia",
+        "url": "https://www.larepublica.co/globoeconomia/embajada-de-china-en-colombia-rechaza-visita-oficial-de-congresistas-a-taiwan-4531526",
+        "publishedAt": "2026-11-24T01:58:44.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTaiwan's housing market has stabilised, but inflation and unsold homes remain concerns. [4]\n\nWHAT THIS MEANS FOR TAIWAN\nNvidia-related stock surges in Taiwan, with shares near price limits, reflect investor optimism despite the Taiwan Strait being a shipping chokepoint World Monitor tracks for Taiwan. [2][E4]\n\nKEY RISKS\nTaiwan is linked to 34 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E3]\nThe Taiwan Strait is a shipping chokepoint World Monitor tracks for Taiwan, posing a risk to maritime trade. [E4]\n\nOUTLOOK\nA Polymarket market, \"Will Puma Shen win the next Taipei Mayor election?\", is priced Yes at 32% on Nov 24, 2026, and closes Nov 29, 2026. [E6]\nA Polymarket market, \"Will Su Chiao-hui win the next New Taipei Mayor election?\", is priced Yes at 58% on Nov 24, 2026, and closes Nov 29, 2026. [E7]\n\nWATCH ITEMS\nWhether the Eswatini Foreign Affairs Minister will succeed in pushing a Taiwan project that seeks to destroy Swaziland News. [1]",
+      "generatedAt": "2026-11-24T04:56:47.847Z",
+      "sources": [
+        {
+          "title": "Eswatini Foreign Affairs Minister seeking to manipulate China’s diplomatic ally South Africa to push a Taiwan project seeking to destroy Swaziland News amid “O...",
+          "source": "Swaziland News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS3BoQ1E5SUVZbmVPRFotU29Ya0U1WTRJSDZFN3h3WkVtalc0YXhfNWRtS3VEOGlFYk9taDZiS1FsZEpwaW1yNUxBS3FmS1pjVzZMOA?oc=5",
+          "publishedAt": "2026-11-23T20:08:55.000Z"
+        },
+        {
+          "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+          "publishedAt": "2026-11-24T02:20:36.000Z"
+        },
+        {
+          "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits - CNBC",
+          "source": "Taiwan Tech",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5",
+          "publishedAt": "2026-11-24T00:24:00.000Z"
+        },
+        {
+          "title": "Taiwan Housing Market Stabilises, but Inflation and Unsold Homes Weigh - Realty Plus Magazine",
+          "source": "Economic Data",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFRoZC1jdDlLSWdtcnJMLUJMclBWZ0hKNDdIWlJLdmxxa2ZSOURLbm9MNm1RU0VDZnlJNS01R2pNY0tJYng3c1E4cDlFMlBOTVhBS2ttZE51c0RPYzNWQVpXQ0N2ajVMbE9GUzVNZ3lWV2NoRjJzaERSeGFzamVZNVJRU0RibkFpNG81OWp3VXZZVkNuUExsa2tKOEdINnAtOU9IVElZYjMzQ05JRlJWZzdMM3k1aXQ2U3hqRkJ3?oc=5",
+          "publishedAt": "2026-11-24T03:53:52.000Z"
+        },
+        {
+          "title": "Embajada de China en Colombia rechaza visita oficial de congresistas a Taiwán",
+          "source": "La República Colombia",
+          "url": "https://www.larepublica.co/globoeconomia/embajada-de-china-en-colombia-rechaza-visita-oficial-de-congresistas-a-taiwan-4531526",
+          "publishedAt": "2026-11-24T01:58:44.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "34",
+          "factText": "Taiwan is linked to 34 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        },
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Taiwan Strait",
+          "factText": "Taiwan Strait is a shipping chokepoint World Monitor tracks for Taiwan.",
+          "asOf": "2026-11-24T04:56:44.141Z",
+          "url": "https://www.worldmonitor.app/chokepoints/taiwan-strait/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "32%",
+          "factText": "A Polymarket market related to Taiwan, \"Will Puma Shen win the next Taipei Mayor election?\", priced Yes at 32% on Nov 24, 2026; it closes Nov 29, 2026.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "58%",
+          "factText": "A Polymarket market related to Taiwan, \"Will Su Chiao-hui win the next New Taipei Mayor election?\", priced Yes at 58% on Nov 24, 2026; it closes Nov 29, 2026.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/new-taipei-mayor-election-winner-20260813125857200"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 195 — in Taiwan",
+        "summary": "source: www.ibtimes.com",
+        "sourceUrl": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
+        "occurredAt": "2026-11-24T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "Cross-Strait activity 2026-11-24: plaAircraftSorties: 3; planShips: 9; medianLineCrossings: 3; adizEntries: 3",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/EN/News/PLAAct/88343",
+        "occurredAt": "2026-11-24T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "GDELT 190 — in Taiwan",
+        "summary": "source: www.telegraph.co.uk",
+        "sourceUrl": "https://www.telegraph.co.uk/world-news/2026/11/23/china-sends-spy-balloons-over-taiwan-before-elections/",
+        "occurredAt": "2026-11-23T14:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Taiwan",
+        "summary": "source: www.telegraph.co.uk",
+        "sourceUrl": "https://www.telegraph.co.uk/world-news/2026/11/23/china-sends-spy-balloons-over-taiwan-before-elections/",
+        "occurredAt": "2026-11-23T14:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Taiwan",
+        "summary": "source: focustaiwan.tw",
+        "sourceUrl": "https://focustaiwan.tw/politics/202611230011",
+        "occurredAt": "2026-11-23T09:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Taiwan",
+        "summary": "source: focustaiwan.tw",
+        "sourceUrl": "https://focustaiwan.tw/sci-tech/202611230013",
+        "occurredAt": "2026-11-23T09:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "Cross-Strait activity 2026-11-23: plaAircraftSorties: 6; planShips: 12; medianLineCrossings: 5; adizEntries: 5",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/88319",
+        "occurredAt": "2026-11-23T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "GDELT 193 — in Taiwan",
+        "summary": "source: www.taipeitimes.com",
+        "sourceUrl": "https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868210",
+        "occurredAt": "2026-11-22T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Taiwan",
+        "summary": "source: www.taipeitimes.com",
+        "sourceUrl": "https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868210",
+        "occurredAt": "2026-11-22T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Taiwan",
+        "summary": "source: focustaiwan.tw",
+        "sourceUrl": "https://focustaiwan.tw/society/202611220002",
+        "occurredAt": "2026-11-22T10:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

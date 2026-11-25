@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FR",
+  "countryName": "France",
+  "slug": "france",
+  "rank": 28,
+  "overallScore": 62.5,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "What to do with those Thanksgiving leftovers? Look to the French",
+        "source": "GOOD Magazine",
+        "url": "https://www.good.is/thanksgiving-leftovers-french/",
+        "publishedAt": "2026-11-23T19:27:13.000Z"
+      },
+      {
+        "title": "French Banks: Country Risk Versus Company Fundamentals - Seeking Alpha",
+        "source": "Seeking Alpha Metals",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmpXajg0emJ6Nlh1VjNKTFBmem44WTh3em9NOVVtY21sUmFtaS1GWHBQaTRrMzNaODNGTGF3dW91S0h0UnJpMmlEWFBhUmRRUlFaYVZJX011S2R3WHFmMzJoUHE2YUF0YmhkUkpHQktFZXZRdG5Uck1HRHJjUEtHZlJScHlUOHBQenZPR3lsZ29obXhtMWppTTVn?oc=5",
+        "publishedAt": "2026-11-24T00:05:00.000Z"
+      },
+      {
+        "title": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
+        "source": "Le Monde à la une",
+        "url": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
+        "publishedAt": "2026-11-24T04:00:12.000Z"
+      },
+      {
+        "title": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
+        "source": "Franceinfo",
+        "url": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
+        "publishedAt": "2026-11-23T23:34:43.000Z"
+      },
+      {
+        "title": "«Choose France»: les entrepreneurs face à l'incertitude économique",
+        "source": "RFI",
+        "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261123-choose-france-les-entrepreneurs-face-%C3%A0-l-incertitude-%C3%A9conomique",
+        "publishedAt": "2026-11-23T23:02:30.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEntrepreneurs involved in Choose France face economic uncertainty. [5]\n\nKEY RISKS\nFrance is linked to 48 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E3]\n\nWATCH ITEMS\nWhether entrepreneurs will act amid economic uncertainty in Choose France. [5]",
+      "generatedAt": "2026-11-24T04:50:44.971Z",
+      "sources": [
+        {
+          "title": "What to do with those Thanksgiving leftovers? Look to the French",
+          "source": "GOOD Magazine",
+          "url": "https://www.good.is/thanksgiving-leftovers-french/",
+          "publishedAt": "2026-11-23T19:27:13.000Z"
+        },
+        {
+          "title": "French Banks: Country Risk Versus Company Fundamentals - Seeking Alpha",
+          "source": "Seeking Alpha Metals",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmpXajg0emJ6Nlh1VjNKTFBmem44WTh3em9NOVVtY21sUmFtaS1GWHBQaTRrMzNaODNGTGF3dW91S0h0UnJpMmlEWFBhUmRRUlFaYVZJX011S2R3WHFmMzJoUHE2YUF0YmhkUkpHQktFZXZRdG5Uck1HRHJjUEtHZlJScHlUOHBQenZPR3lsZ29obXhtMWppTTVn?oc=5",
+          "publishedAt": "2026-11-24T00:05:00.000Z"
+        },
+        {
+          "title": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
+          "source": "Le Monde à la une",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
+          "publishedAt": "2026-11-24T04:00:12.000Z"
+        },
+        {
+          "title": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
+          "source": "Franceinfo",
+          "url": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
+          "publishedAt": "2026-11-23T23:34:43.000Z"
+        },
+        {
+          "title": "«Choose France»: les entrepreneurs face à l'incertitude économique",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261123-choose-france-les-entrepreneurs-face-%C3%A0-l-incertitude-%C3%A9conomique",
+          "publishedAt": "2026-11-23T23:02:30.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "48",
+          "factText": "France is linked to 48 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

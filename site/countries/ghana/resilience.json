@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "slug": "ghana",
+  "rank": 107,
+  "overallScore": 49.6,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mining Giants including Newmont made Ghana number one gold producer in Africa - Lands Minister - GhanaWeb",
+        "source": "Gold Majors",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaUJJNmVoZGMzWTFsUzJraUZUaGZBc25tREFuMjY4QmMxcm1GOVBuN0p1Ql9pVmlJSDdYcjFaSUFNOHFyQ0JnM09RS2I4VGppVDBkMWFURmlyZmM2S21SQ09JbTZJdll3MWtzblZ1X1FTNlBlOWMwUDEzWm1zdUl3TFByWmw1LUxtelZaQzZmY200dHlZVzNKaVlnSk45ZlRWWnZMS1hrYkhGMTVDaFVzWXlNeHhoS2xjLWNIcXR3ZTFzUUt3aXg5VWhLaGVvQUxGbkcxM0RjSQ?oc=5",
+        "publishedAt": "2026-11-24T00:28:43.000Z"
+      },
+      {
+        "title": "Tullow Oil cuts cash flow forecast after settling $387m tax disputes with Ghana",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/tullow-oil-cuts-cash-flow-forecast-after-settling-387m-tax-disputes-with-ghana/",
+        "publishedAt": "2026-11-24T04:21:00.000Z"
+      },
+      {
+        "title": "Afrika-Reise - Steinmeier eröffnet in Ghana Deutsch-Afrikanischen Wirtschaftsgipfel",
+        "source": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/steinmeier-eroeffnet-in-ghana-deutsch-afrikanischen-wirtschaftsgipfel-100.html",
+        "publishedAt": "2026-11-24T04:05:42.000Z"
+      },
+      {
+        "title": "El Niño could worsen dust pollution, raise respiratory health risks in Ghana – GMet",
+        "source": "Ghana Business News",
+        "url": "https://www.ghanabusinessnews.com/2026/11/23/el-nino-could-worsen-dust-pollution-raise-respiratory-health-risks-in-ghana-gmet/",
+        "publishedAt": "2026-11-23T16:01:33.000Z"
+      },
+      {
+        "title": "Football pour amputés : Le Ghana décroche son premier titre mondial après 19 ans de persévérance",
+        "source": "leFaso.net",
+        "url": "https://lefaso.net/spip.php?article150975",
+        "publishedAt": "2026-11-23T13:27:16.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMining giants including Newmont have made Ghana the number one gold producer in Africa. [1]\nTullow Oil settled $387m tax disputes with Ghana and subsequently cut its cash flow forecast. [2]\n\nKEY RISKS\nGhana is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Tullow Oil's reduced cash flow forecast will affect its operations in Ghana following the $387m tax settlement. [2]",
+      "generatedAt": "2026-11-24T04:51:05.705Z",
+      "sources": [
+        {
+          "title": "Mining Giants including Newmont made Ghana number one gold producer in Africa - Lands Minister - GhanaWeb",
+          "source": "Gold Majors",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaUJJNmVoZGMzWTFsUzJraUZUaGZBc25tREFuMjY4QmMxcm1GOVBuN0p1Ql9pVmlJSDdYcjFaSUFNOHFyQ0JnM09RS2I4VGppVDBkMWFURmlyZmM2S21SQ09JbTZJdll3MWtzblZ1X1FTNlBlOWMwUDEzWm1zdUl3TFByWmw1LUxtelZaQzZmY200dHlZVzNKaVlnSk45ZlRWWnZMS1hrYkhGMTVDaFVzWXlNeHhoS2xjLWNIcXR3ZTFzUUt3aXg5VWhLaGVvQUxGbkcxM0RjSQ?oc=5",
+          "publishedAt": "2026-11-24T00:28:43.000Z"
+        },
+        {
+          "title": "Tullow Oil cuts cash flow forecast after settling $387m tax disputes with Ghana",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/tullow-oil-cuts-cash-flow-forecast-after-settling-387m-tax-disputes-with-ghana/",
+          "publishedAt": "2026-11-24T04:21:00.000Z"
+        },
+        {
+          "title": "Afrika-Reise - Steinmeier eröffnet in Ghana Deutsch-Afrikanischen Wirtschaftsgipfel",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/steinmeier-eroeffnet-in-ghana-deutsch-afrikanischen-wirtschaftsgipfel-100.html",
+          "publishedAt": "2026-11-24T04:05:42.000Z"
+        },
+        {
+          "title": "El Niño could worsen dust pollution, raise respiratory health risks in Ghana – GMet",
+          "source": "Ghana Business News",
+          "url": "https://www.ghanabusinessnews.com/2026/11/23/el-nino-could-worsen-dust-pollution-raise-respiratory-health-risks-in-ghana-gmet/",
+          "publishedAt": "2026-11-23T16:01:33.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "3",
+          "factText": "Ghana is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "slug": "italy",
+  "rank": 13,
+  "overallScore": 65.3,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+        "publishedAt": "2026-11-20T12:02:00.000Z"
+      },
+      {
+        "title": "Document - Italy weekly sea arrivals update - 23 November 2026 - UNHCR - The UN Refugee Agency",
+        "source": "UNHCR",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sTnNjZHNtaE4yWGo1M2NNS1FEU0R5VlJMSy1ncTlEQ2dTNDUtLUIxYmJGTzZsZnRLeTJQczBsWS1KMlc3VVlxZUVkYS1wd244d2hVbWFFQWdiS0xKZ2Zz?oc=5",
+        "publishedAt": "2026-11-23T16:13:19.000Z"
+      },
+      {
+        "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+        "source": "New York Times World",
+        "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+        "publishedAt": "2026-11-23T15:39:34.000Z"
+      },
+      {
+        "title": "Qatar, Italy discuss ways to strengthen bilateral military cooperation",
+        "source": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/738832/qatar/qatar-italy-discuss-ways-to-strengthen-bilateral-military-cooperation",
+        "publishedAt": "2026-11-23T12:41:00.000Z"
+      },
+      {
+        "title": "After Italy, rogue bomb threats target schools in Germany, Denmark",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/world/europe/after-italy-rogue-bomb-threats-target-schools-in-germany-denmark",
+        "publishedAt": "2026-11-23T11:45:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US has sanctioned an Italian mafia group in Canada and an Australian biker gang with a global footprint. [1]\n\nOUTLOOK\nA Polymarket market, \"Will Silvia Salis be the next Prime Minister of Italy?\", is priced Yes at 6% on Nov 24, 2026 and closes Dec 31, 2028. [E5]\n\nWATCH ITEMS\nWhether Qatar and Italy will strengthen bilateral military cooperation as discussed. [4]\nWhether rogue bomb threats targeting schools in Germany and Denmark will also affect Italy after similar incidents. [5]",
+      "generatedAt": "2026-11-24T04:52:07.336Z",
+      "sources": [
+        {
+          "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+          "publishedAt": "2026-11-20T12:02:00.000Z"
+        },
+        {
+          "title": "Document - Italy weekly sea arrivals update - 23 November 2026 - UNHCR - The UN Refugee Agency",
+          "source": "UNHCR",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sTnNjZHNtaE4yWGo1M2NNS1FEU0R5VlJMSy1ncTlEQ2dTNDUtLUIxYmJGTzZsZnRLeTJQczBsWS1KMlc3VVlxZUVkYS1wd244d2hVbWFFQWdiS0xKZ2Zz?oc=5",
+          "publishedAt": "2026-11-23T16:13:19.000Z"
+        },
+        {
+          "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+          "source": "New York Times World",
+          "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+          "publishedAt": "2026-11-23T15:39:34.000Z"
+        },
+        {
+          "title": "Qatar, Italy discuss ways to strengthen bilateral military cooperation",
+          "source": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/738832/qatar/qatar-italy-discuss-ways-to-strengthen-bilateral-military-cooperation",
+          "publishedAt": "2026-11-23T12:41:00.000Z"
+        },
+        {
+          "title": "After Italy, rogue bomb threats target schools in Germany, Denmark",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/europe/after-italy-rogue-bomb-threats-target-schools-in-germany-denmark",
+          "publishedAt": "2026-11-23T11:45:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "6%",
+          "factText": "A Polymarket market related to Italy, \"Will Silvia Salis be the next Prime Minister of Italy?\", priced Yes at 6% on Nov 24, 2026; it closes Dec 31, 2028.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-italy"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

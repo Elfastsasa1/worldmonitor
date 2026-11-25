@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "slug": "luxembourg",
+  "rank": 10,
+  "overallScore": 66.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Droits de l’enfant au Luxembourg: qui répond des défaillances?",
+        "source": "Luxemburger Wort",
+        "url": "https://www.wort.lu/meinung/leserbriefe/droits-de-lenfant-au-luxembourg-qui-repond-des-defaillances/164680659.html",
+        "publishedAt": "2026-11-23T08:49:25.000Z"
+      },
+      {
+        "title": "Luxembourg's CSSF's Claude Marx says financial regulators need data scientists and AI training",
+        "source": "medianama.com",
+        "url": "https://world.medianama.com/luxembourgs-cssfs-claude-marx-says-financial-regulators-need-data-scientists-and-ai-training/",
+        "publishedAt": "2026-11-23T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Luxembourg Launches New Online Campaign Against Online Hate Speech",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/at-home/64827-luxembourg-launches-new-online-campaign-against-online-hate-speech",
+        "publishedAt": "2026-11-23T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Luxembourg Launches Support Scheme to Develop Music Entrepreneurship",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/culture/64830-luxembourg-launches-support-scheme-to-develop-music-entrepreneurship",
+        "publishedAt": "2026-11-23T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Luxembourg's Oldest Shoe Retailer Celebrates Employee Loyalty & Family Spirit",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/living-in-luxembourg/64823-luxembourgs-oldest-shoe-retailer-celebrates-employee-loyalty-family-spirit",
+        "publishedAt": "2026-11-23T17:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLuxembourg's CSSF's Claude Marx says financial regulators need data scientists and AI training. [2]\nLuxembourg Launches New Online Campaign Against Online Hate Speech. [3]\n\nKEY RISKS\nLuxembourg is linked to 22 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Luxembourg will address the child rights failings questioned in the headline. [1]",
+      "generatedAt": "2026-11-24T04:29:50.106Z",
+      "sources": [
+        {
+          "title": "Droits de l’enfant au Luxembourg: qui répond des défaillances?",
+          "source": "Luxemburger Wort",
+          "url": "https://www.wort.lu/meinung/leserbriefe/droits-de-lenfant-au-luxembourg-qui-repond-des-defaillances/164680659.html",
+          "publishedAt": "2026-11-23T08:49:25.000Z"
+        },
+        {
+          "title": "Luxembourg's CSSF's Claude Marx says financial regulators need data scientists and AI training",
+          "source": "medianama.com",
+          "url": "https://world.medianama.com/luxembourgs-cssfs-claude-marx-says-financial-regulators-need-data-scientists-and-ai-training/",
+          "publishedAt": "2026-11-23T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Luxembourg Launches New Online Campaign Against Online Hate Speech",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/at-home/64827-luxembourg-launches-new-online-campaign-against-online-hate-speech",
+          "publishedAt": "2026-11-23T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Luxembourg Launches Support Scheme to Develop Music Entrepreneurship",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/culture/64830-luxembourg-launches-support-scheme-to-develop-music-entrepreneurship",
+          "publishedAt": "2026-11-23T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Luxembourg's Oldest Shoe Retailer Celebrates Employee Loyalty & Family Spirit",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/living-in-luxembourg/64823-luxembourgs-oldest-shoe-retailer-celebrates-employee-loyalty-family-spirit",
+          "publishedAt": "2026-11-23T17:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "22",
+          "factText": "Luxembourg is linked to 22 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

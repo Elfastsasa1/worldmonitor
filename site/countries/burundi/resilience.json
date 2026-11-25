@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "slug": "burundi",
+  "rank": 150,
+  "overallScore": 40.4,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "L’éducation des aveugles au Burundi : un combat de vie pour Zingiza",
+        "source": "Yaga Burundi",
+        "url": "https://www.yaga-burundi.com/education-aveugles-burundi/?utm_source=rss&utm_medium=rss&utm_campaign=education-aveugles-burundi",
+        "publishedAt": "2026-11-21T13:08:01.000Z"
+      },
+      {
+        "title": "Et s’il y avait des midterms au Burundi…",
+        "source": "Iwacu",
+        "url": "https://www.iwacu-burundi.org/et-sil-y-avait-des-midterms-au-burundi/",
+        "publishedAt": "2026-11-20T05:14:15.000Z"
+      },
+      {
+        "title": "BURUNDI - DIPLOMACY : EAC assembly to hold seminar in Burundi",
+        "source": "burundi-agnews.org",
+        "url": "https://burundi-agnews.org/burundi-diplomacy-eac-assembly-to-hold-seminar-in-burundi/",
+        "publishedAt": "2026-11-23T21:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Key Burundi opposition figure files presidential nomination",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/key-burundi-opposition-figure-files-presidential-nomination/",
+        "publishedAt": "2026-11-23T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ex-opposition leader to stand as independent in Burundi's presidential poll",
+        "source": "africanews.com",
+        "url": "https://www.africanews.com/2026/11/22/ex-opposition-leader-to-stand-as-independent-in-burundis-presidential-poll/",
+        "publishedAt": "2026-11-22T15:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA key Burundi opposition figure has filed a presidential nomination, and an ex-opposition leader will stand as an independent in the presidential poll. [4][5]\n\nWHAT THIS MEANS FOR BURUNDI\nThe filing of a presidential nomination by a key opposition figure, alongside an ex-opposition leader running as an independent, suggests a potentially competitive electoral field in Burundi, though the most severe government travel advisory for the country is Reconsider Travel. [4][5][E1]\n\nKEY RISKS\nThe Reconsider Travel advisory for Burundi indicates a risk to travelers, which may affect international engagement with the country. [E1]\n\nWATCH ITEMS\nWhether the EAC assembly will hold its seminar in Burundi as planned. [3]",
+      "generatedAt": "2026-11-24T04:23:36.317Z",
+      "sources": [
+        {
+          "title": "L’éducation des aveugles au Burundi : un combat de vie pour Zingiza",
+          "source": "Yaga Burundi",
+          "url": "https://www.yaga-burundi.com/education-aveugles-burundi/?utm_source=rss&utm_medium=rss&utm_campaign=education-aveugles-burundi",
+          "publishedAt": "2026-11-21T13:08:01.000Z"
+        },
+        {
+          "title": "Et s’il y avait des midterms au Burundi…",
+          "source": "Iwacu",
+          "url": "https://www.iwacu-burundi.org/et-sil-y-avait-des-midterms-au-burundi/",
+          "publishedAt": "2026-11-20T05:14:15.000Z"
+        },
+        {
+          "title": "BURUNDI - DIPLOMACY : EAC assembly to hold seminar in Burundi",
+          "source": "burundi-agnews.org",
+          "url": "https://burundi-agnews.org/burundi-diplomacy-eac-assembly-to-hold-seminar-in-burundi/",
+          "publishedAt": "2026-11-23T21:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Key Burundi opposition figure files presidential nomination",
+          "source": "channelafrica.co.za",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/key-burundi-opposition-figure-files-presidential-nomination/",
+          "publishedAt": "2026-11-23T13:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Ex-opposition leader to stand as independent in Burundi's presidential poll",
+          "source": "africanews.com",
+          "url": "https://www.africanews.com/2026/11/22/ex-opposition-leader-to-stand-as-independent-in-burundis-presidential-poll/",
+          "publishedAt": "2026-11-22T15:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Burundi is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

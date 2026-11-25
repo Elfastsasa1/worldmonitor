@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "slug": "ethiopia",
+  "rank": 160,
+  "overallScore": 36.3,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "UN condemns drone strikes in Khartoum suspected to have come from Ethiopia",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20261123-un-condemns-drone-strikes-in-khartoum-suspected-to-have-come-from-ethiopia",
+        "publishedAt": "2026-11-23T11:49:14.000Z"
+      },
+      {
+        "title": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+        "publishedAt": "2026-11-22T16:38:14.000Z"
+      },
+      {
+        "title": "Ethiopia Needs Political Reconciliation, Not Another Military Victory",
+        "source": "Ethiopia Insight",
+        "url": "https://www.ethiopia-insight.com/2026/11/24/ethiopia-needs-political-reconciliation-not-another-military-victory/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-needs-political-reconciliation-not-another-military-victory&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-needs-political-reconciliation-not-another-military-victory",
+        "publishedAt": "2026-11-23T23:09:26.000Z"
+      },
+      {
+        "title": "Pakistan Brings Drug Registration Complaints into Ethiopia’s WTO Endgame",
+        "source": "Addis Fortune",
+        "url": "https://addisfortune.news/pakistan-brings-drug-registration-complaints-into-ethiopias-wto-endgame",
+        "publishedAt": "2026-11-22T02:57:05.000Z"
+      },
+      {
+        "title": "ShebaMiles Breach Tests Ethiopia’s 72-hour Data Rule",
+        "source": "Addis Fortune",
+        "url": "https://addisfortune.news/shebamiles-breach-tests-ethiopias-72-hour-data-rule",
+        "publishedAt": "2026-11-22T02:55:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe UN has condemned drone strikes in Khartoum suspected to have come from Ethiopia. [1]\nDrone strikes have hit homes and a UN building in Sudan's Khartoum. [2]\n\nWHAT THIS MEANS FOR ETHIOPIA\nThe UN condemnation of suspected Ethiopian drone strikes in Khartoum may deepen Ethiopia's diplomatic isolation, as the most severe government travel advisory for Ethiopia is Reconsider Travel. [1][E1]\n\nWATCH ITEMS\nWhether Pakistan will bring drug registration complaints into Ethiopia's WTO endgame. [4]\nWhether the ShebaMiles breach will test Ethiopia's 72-hour data rule. [5]",
+      "generatedAt": "2026-11-24T04:26:14.452Z",
+      "sources": [
+        {
+          "title": "UN condemns drone strikes in Khartoum suspected to have come from Ethiopia",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20261123-un-condemns-drone-strikes-in-khartoum-suspected-to-have-come-from-ethiopia",
+          "publishedAt": "2026-11-23T11:49:14.000Z"
+        },
+        {
+          "title": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+          "publishedAt": "2026-11-22T16:38:14.000Z"
+        },
+        {
+          "title": "Ethiopia Needs Political Reconciliation, Not Another Military Victory",
+          "source": "Ethiopia Insight",
+          "url": "https://www.ethiopia-insight.com/2026/11/24/ethiopia-needs-political-reconciliation-not-another-military-victory/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-needs-political-reconciliation-not-another-military-victory&utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-needs-political-reconciliation-not-another-military-victory",
+          "publishedAt": "2026-11-23T23:09:26.000Z"
+        },
+        {
+          "title": "Pakistan Brings Drug Registration Complaints into Ethiopia’s WTO Endgame",
+          "source": "Addis Fortune",
+          "url": "https://addisfortune.news/pakistan-brings-drug-registration-complaints-into-ethiopias-wto-endgame",
+          "publishedAt": "2026-11-22T02:57:05.000Z"
+        },
+        {
+          "title": "ShebaMiles Breach Tests Ethiopia’s 72-hour Data Rule",
+          "source": "Addis Fortune",
+          "url": "https://addisfortune.news/shebamiles-breach-tests-ethiopias-72-hour-data-rule",
+          "publishedAt": "2026-11-22T02:55:12.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Ethiopia is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 193 — in Ethiopia",
+        "summary": "source: www.justiceinfo.net",
+        "sourceUrl": "https://www.justiceinfo.net/en/168908-amnesty-alleges-possible-war-crimes-in-ethiopia-shelling.html",
+        "occurredAt": "2026-11-23T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Ethiopia",
+        "summary": "source: www.justiceinfo.net",
+        "sourceUrl": "https://www.justiceinfo.net/en/168908-amnesty-alleges-possible-war-crimes-in-ethiopia-shelling.html",
+        "occurredAt": "2026-11-23T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: www.justiceinfo.net",
+        "sourceUrl": "https://www.justiceinfo.net/en/168908-amnesty-alleges-possible-war-crimes-in-ethiopia-shelling.html",
+        "occurredAt": "2026-11-23T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/moyale-the-answer-ethiopia-refuses-to-hear/",
+        "occurredAt": "2026-11-23T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/moyale-the-answer-ethiopia-refuses-to-hear/",
+        "occurredAt": "2026-11-23T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/moyale-the-answer-ethiopia-refuses-to-hear/",
+        "occurredAt": "2026-11-23T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: www.catholicworldreport.com",
+        "sourceUrl": "https://www.catholicworldreport.com/2026/11/22/kenyan-priest-urges-continued-welcome-for-people-fleeing-fighting-in-ethiopia/",
+        "occurredAt": "2026-11-22T18:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: www.catholicworldreport.com",
+        "sourceUrl": "https://www.catholicworldreport.com/2026/11/22/kenyan-priest-urges-continued-welcome-for-people-fleeing-fighting-in-ethiopia/",
+        "occurredAt": "2026-11-22T18:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: www.e-n.org.uk",
+        "sourceUrl": "https://www.e-n.org.uk/world-news/2026-12-violence-rises-against-christians-in-ethiopia/",
+        "occurredAt": "2026-11-22T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ethiopia",
+        "summary": "source: garoweonline.com",
+        "sourceUrl": "https://garoweonline.com/en/world/africa/ethiopia-says-it-acquired-12-russian-fighter-jets-amid-rising-tensions-with-eritrea",
+        "occurredAt": "2026-11-21T21:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

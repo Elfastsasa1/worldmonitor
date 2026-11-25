@@ -1,0 +1,159 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "slug": "kuwait",
+  "rank": 25,
+  "overallScore": 62.8,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Financial firms facilitated 'breathtaking' corrupt payments to director of Kuwait public pension fund - Compliance Week",
+        "source": "Sovereign Wealth",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzFmZ2R2Q3dNVkhhM0JkTzFncFRCNFNnU1hPcm9hMXJKSGRzZHpqRjFvWjhPUzRFZ1BFTld6WnBnM3c5LWNHSE8wS1owenV0MHRqWXc1WWpyemRjbm9ROW1rbFY4Zm9JQlk4X1Q4bmh2RGJRclI3d1VaTUpWb29fLWRnYkY3UmxLeF9OWHNXUzlvOU1oM2hmd0xCWUtNUUZQd2lqMXZuWUhuaExYdHRBX0Q3TXVUcVNwOENwT2huMVBqVGhfQWFaVmJobVd5MkZaeGlmWnVJLVJEU3V2eHhUNFIzMlpOMDhaVFE?oc=5",
+        "publishedAt": "2026-11-24T00:37:40.000Z"
+      },
+      {
+        "title": "Saudi crown prince, Kuwaiti emir discuss strengthening bilateral ties - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0U1Q2RfeVQ4Q0tSYTV0UlpJZWJYYkoxalBCcWhtZE1nWVdyWDltdWxkajZPTTR4cFBQN3pIYzZXLUxQU2c0VUhLdFZ3N1hTczhxN2hLUzA0Qmx2MG81WkNraTZob3pKcjlNVlAyZ3FyM3RGWEtMVlg1NmV6ZXZUVHU0S1M5MlVnTmxuZHpVNU1RZ0NMcXI4NFN1YkljVFppSUluZ2RuanFiMWozb2lsTk03dWw?oc=5",
+        "publishedAt": "2026-11-23T16:26:14.000Z"
+      },
+      {
+        "title": "How Kuwait-originated capital built aviation empire in East Africa",
+        "source": "The Independent (Uganda)",
+        "url": "https://www.independent.co.ug/how-kuwait-originated-capital-built-an-aviation-empire-in-east-africa/",
+        "publishedAt": "2026-11-23T06:00:13.000Z"
+      },
+      {
+        "title": "Bonnici denies personal motive behind Kuwait visit, insists trip was official",
+        "source": "The Shift News",
+        "url": "https://theshiftnews.com/2026/11/22/bonnici-denies-personal-motive-behind-kuwait-visit-insists-trip-was-official/",
+        "publishedAt": "2026-11-22T08:13:04.000Z"
+      },
+      {
+        "title": "Kuwait arrests 13 suspects for stealing diesel from company trucks and reselling it",
+        "source": "arabtimesonline.com",
+        "url": "https://www.arabtimesonline.com/news/kuwait-arrests-13-suspects-for-stealing-diesel-from-company-trucks-and-reselling-it/",
+        "publishedAt": "2026-11-24T02:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFinancial firms facilitated corrupt payments to the director of Kuwait's public pension fund. [1]\nKuwait arrested 13 suspects for stealing diesel from company trucks and reselling it. [5]\n\nWATCH ITEMS\nWhether the Saudi crown prince and Kuwaiti emir will finalize new bilateral agreements after discussing strengthening ties. [2]",
+      "generatedAt": "2026-11-24T04:52:50.708Z",
+      "sources": [
+        {
+          "title": "Financial firms facilitated 'breathtaking' corrupt payments to director of Kuwait public pension fund - Compliance Week",
+          "source": "Sovereign Wealth",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzFmZ2R2Q3dNVkhhM0JkTzFncFRCNFNnU1hPcm9hMXJKSGRzZHpqRjFvWjhPUzRFZ1BFTld6WnBnM3c5LWNHSE8wS1owenV0MHRqWXc1WWpyemRjbm9ROW1rbFY4Zm9JQlk4X1Q4bmh2RGJRclI3d1VaTUpWb29fLWRnYkY3UmxLeF9OWHNXUzlvOU1oM2hmd0xCWUtNUUZQd2lqMXZuWUhuaExYdHRBX0Q3TXVUcVNwOENwT2huMVBqVGhfQWFaVmJobVd5MkZaeGlmWnVJLVJEU3V2eHhUNFIzMlpOMDhaVFE?oc=5",
+          "publishedAt": "2026-11-24T00:37:40.000Z"
+        },
+        {
+          "title": "Saudi crown prince, Kuwaiti emir discuss strengthening bilateral ties - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0U1Q2RfeVQ4Q0tSYTV0UlpJZWJYYkoxalBCcWhtZE1nWVdyWDltdWxkajZPTTR4cFBQN3pIYzZXLUxQU2c0VUhLdFZ3N1hTczhxN2hLUzA0Qmx2MG81WkNraTZob3pKcjlNVlAyZ3FyM3RGWEtMVlg1NmV6ZXZUVHU0S1M5MlVnTmxuZHpVNU1RZ0NMcXI4NFN1YkljVFppSUluZ2RuanFiMWozb2lsTk03dWw?oc=5",
+          "publishedAt": "2026-11-23T16:26:14.000Z"
+        },
+        {
+          "title": "How Kuwait-originated capital built aviation empire in East Africa",
+          "source": "The Independent (Uganda)",
+          "url": "https://www.independent.co.ug/how-kuwait-originated-capital-built-an-aviation-empire-in-east-africa/",
+          "publishedAt": "2026-11-23T06:00:13.000Z"
+        },
+        {
+          "title": "Bonnici denies personal motive behind Kuwait visit, insists trip was official",
+          "source": "The Shift News",
+          "url": "https://theshiftnews.com/2026/11/22/bonnici-denies-personal-motive-behind-kuwait-visit-insists-trip-was-official/",
+          "publishedAt": "2026-11-22T08:13:04.000Z"
+        },
+        {
+          "title": "Kuwait arrests 13 suspects for stealing diesel from company trucks and reselling it",
+          "source": "arabtimesonline.com",
+          "url": "https://www.arabtimesonline.com/news/kuwait-arrests-13-suspects-for-stealing-diesel-from-company-trucks-and-reselling-it/",
+          "publishedAt": "2026-11-24T02:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.theepochtimes.com",
+        "sourceUrl": "https://www.theepochtimes.com/world/us-embassy-issues-security-alert-for-middle-east-travelers-6128186",
+        "occurredAt": "2026-11-23T16:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.arabtimesonline.com",
+        "sourceUrl": "https://www.arabtimesonline.com/news/kuwait-court-issues-two-death-sentences-in-separate-murder-and-child-abuse-cases/",
+        "occurredAt": "2026-11-22T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Kuwait",
+        "summary": "source: www.arabtimesonline.com",
+        "sourceUrl": "https://www.arabtimesonline.com/news/kuwait-court-issues-two-death-sentences-in-separate-murder-and-child-abuse-cases/",
+        "occurredAt": "2026-11-22T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.arabtimesonline.com",
+        "sourceUrl": "https://www.arabtimesonline.com/news/kuwait-court-issues-two-death-sentences-in-separate-murder-and-child-abuse-cases/",
+        "occurredAt": "2026-11-22T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Kuwait",
+        "summary": "source: www.arabtimesonline.com",
+        "sourceUrl": "https://www.arabtimesonline.com/news/young-man-critically-injured-in-chest-stabbing-during-fight-in-sabahiyah/",
+        "occurredAt": "2026-11-21T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.cbsnews.com",
+        "sourceUrl": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/",
+        "occurredAt": "2026-11-21T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.middle-east-online.com",
+        "sourceUrl": "https://www.middle-east-online.com/en/trump-rejects-iranian-deal-terms",
+        "occurredAt": "2026-11-21T10:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.middle-east-online.com",
+        "sourceUrl": "https://www.middle-east-online.com/en/trump-rejects-iranian-deal-terms",
+        "occurredAt": "2026-11-21T10:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Kuwait",
+        "summary": "source: www.witn.com",
+        "sourceUrl": "https://www.witn.com/2026/11/20/hangar-mcas-new-river-rededicated-captain-killed-action-kuwait/",
+        "occurredAt": "2026-11-20T22:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

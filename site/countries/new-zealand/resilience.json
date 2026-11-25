@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "slug": "new-zealand",
+  "rank": 6,
+  "overallScore": 68.7,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Hai lần bóng đá trẻ Việt Nam suýt thắng New Zealand ở World Cup: Tiếc nuối!",
+        "source": "Thanh Niên",
+        "url": "https://thanhnien.vn/hai-lan-bong-da-tre-viet-nam-suyt-thang-new-zealand-o-world-cup-tiec-nuoi-185261124011421748.htm",
+        "publishedAt": "2026-11-24T02:00:00.000Z"
+      },
+      {
+        "title": "'A proud moment for Ngāti Rehua': New Zealand's longest lizard returns to Aotea Great Barrier Island",
+        "source": "RNZ",
+        "url": "https://www.rnz.co.nz/news/te-manu-korihi/2762036/a-proud-moment-for-ngati-rehua-new-zealand-s-longest-lizard-returns-to-aotea-great-barrier-island",
+        "publishedAt": "2026-11-24T01:17:45.000Z"
+      },
+      {
+        "title": "New Zealand Rugby re-sign possible future All Blacks coach",
+        "source": "Stuff NZ",
+        "url": "https://www.stuff.co.nz/sport/361062799/highlanders-coach-jamie-joseph-re-signs-dunedin-based-franchise-through-2031",
+        "publishedAt": "2026-11-23T22:52:19.000Z"
+      },
+      {
+        "title": "New Zealand rearguard holds India to draw first Test",
+        "source": "ABC News Australia",
+        "url": "https://www.abc.net.au/news/2026-11-23/new-zealand-bat-out-draw-with-india-in-first-test/107418280",
+        "publishedAt": "2026-11-23T06:33:19.000Z"
+      },
+      {
+        "title": "Estonia's advice to New Zealand on dealing with Russia",
+        "source": "RNZ",
+        "url": "https://www.rnz.co.nz/news/world/2759955/estonia-s-advice-to-new-zealand-on-dealing-with-russia",
+        "publishedAt": "2026-11-23T23:54:29.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNew Zealand's longest lizard has returned to Aotea Great Barrier Island, described as a proud moment for Ngāti Rehua. [1]\nEstonia has provided advice to New Zealand on dealing with Russia. [3]\n\nOUTLOOK\nA Polymarket market on the Reserve Bank of New Zealand making no change to the official cash rate at the March meeting is priced Yes at 50% as of Nov 24, 2026, closing Mar 17, 2027. [E6]\nA Kalshi market on National winning the next New Zealand general election is priced Yes at 38% as of Nov 24, 2026, closing Dec 31, 2027. [E7]\n\nWATCH ITEMS\nWhether the Reserve Bank of New Zealand will make no change to the official cash rate at the March meeting. [E6]\nWhether National will win the next New Zealand general election. [E7]",
+      "generatedAt": "2026-11-24T04:54:35.054Z",
+      "sources": [
+        {
+          "title": "'A proud moment for Ngāti Rehua': New Zealand's longest lizard returns to Aotea Great Barrier Island",
+          "source": "RNZ",
+          "url": "https://www.rnz.co.nz/news/te-manu-korihi/2762036/a-proud-moment-for-ngati-rehua-new-zealand-s-longest-lizard-returns-to-aotea-great-barrier-island",
+          "publishedAt": "2026-11-24T01:17:45.000Z"
+        },
+        {
+          "title": "New Zealand rearguard holds India to draw first Test",
+          "source": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-11-23/new-zealand-bat-out-draw-with-india-in-first-test/107418280",
+          "publishedAt": "2026-11-23T06:33:19.000Z"
+        },
+        {
+          "title": "Estonia's advice to New Zealand on dealing with Russia",
+          "source": "RNZ",
+          "url": "https://www.rnz.co.nz/news/world/2759955/estonia-s-advice-to-new-zealand-on-dealing-with-russia",
+          "publishedAt": "2026-11-23T23:54:29.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "50%",
+          "factText": "A Polymarket market related to New Zealand, \"Will the Reserve Bank of New Zealand make no change to the official cash rate at the March meeting?\", priced Yes at 50% on Nov 24, 2026; it closes Mar 17, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/reserve-bank-of-new-zealand-decision-in-march-2027"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "38%",
+          "factText": "A Kalshi market related to New Zealand, \"Will National win the next New Zealand general election?\", priced Yes at 38% on Nov 24, 2026; it closes Dec 31, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://kalshi.com/markets/KXNEWZEALANDPARLI-26DEC31-NAT"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "slug": "lithuania",
+  "rank": 16,
+  "overallScore": 64.7,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Germany sent tanks to Lithuania by rail instead of driving them through Poland ‘to avoid provoking Putin,’ Bild reports",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/11/23/germany-sent-tanks-to-lithuania-by-rail-instead-of-driving-them-through-poland-to-avoid-provoking-putin-bild-reports",
+        "publishedAt": "2026-11-23T19:59:26.000Z"
+      },
+      {
+        "title": "Lithuania plans joint investigation with three EU countries into Starlink arson attacks",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3123336/lithuania-plans-joint-investigation-with-three-eu-countries-into-starlink-arson-attacks",
+        "publishedAt": "2026-11-23T15:27:00.000Z"
+      },
+      {
+        "title": "How a Kaliningrad air raid alert turned into an operation against Lithuania",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3123322/how-a-kaliningrad-air-raid-alert-turned-into-an-operation-against-lithuania",
+        "publishedAt": "2026-11-23T15:03:00.000Z"
+      },
+      {
+        "title": "Vilnius marks Lithuania’s Armed Forces Day – photos",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3123186/vilnius-marks-lithuania-s-armed-forces-day-photos",
+        "publishedAt": "2026-11-23T11:25:00.000Z"
+      },
+      {
+        "title": "Lithuanian citizens freed in DR Congo: ‘They were tourists’",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3123094/lithuanian-citizens-freed-in-dr-congo-they-were-tourists",
+        "publishedAt": "2026-11-23T08:21:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGermany sent tanks to Lithuania by rail instead of driving them through Poland to avoid provoking Putin, according to Bild. [1]\nLithuania plans a joint investigation with three EU countries into Starlink arson attacks. [2]\n\nWATCH ITEMS\nWhether the joint investigation with three EU countries into Starlink arson attacks will identify those responsible. [2]\nWhether the Kaliningrad air raid alert that turned into an operation against Lithuania will lead to further incidents. [3]",
+      "generatedAt": "2026-11-24T04:29:45.620Z",
+      "sources": [
+        {
+          "title": "Germany sent tanks to Lithuania by rail instead of driving them through Poland ‘to avoid provoking Putin,’ Bild reports",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/11/23/germany-sent-tanks-to-lithuania-by-rail-instead-of-driving-them-through-poland-to-avoid-provoking-putin-bild-reports",
+          "publishedAt": "2026-11-23T19:59:26.000Z"
+        },
+        {
+          "title": "Lithuania plans joint investigation with three EU countries into Starlink arson attacks",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3123336/lithuania-plans-joint-investigation-with-three-eu-countries-into-starlink-arson-attacks",
+          "publishedAt": "2026-11-23T15:27:00.000Z"
+        },
+        {
+          "title": "How a Kaliningrad air raid alert turned into an operation against Lithuania",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3123322/how-a-kaliningrad-air-raid-alert-turned-into-an-operation-against-lithuania",
+          "publishedAt": "2026-11-23T15:03:00.000Z"
+        },
+        {
+          "title": "Vilnius marks Lithuania’s Armed Forces Day – photos",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3123186/vilnius-marks-lithuania-s-armed-forces-day-photos",
+          "publishedAt": "2026-11-23T11:25:00.000Z"
+        },
+        {
+          "title": "Lithuanian citizens freed in DR Congo: ‘They were tourists’",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3123094/lithuanian-citizens-freed-in-dr-congo-they-were-tourists",
+          "publishedAt": "2026-11-23T08:21:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

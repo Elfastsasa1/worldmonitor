@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "syria-conflict",
+  "title": "Syria conflict tracker",
+  "shortTitle": "Syria conflict",
+  "description": "Syria conflict: the transition, SDF integration, Suwayda, Israel, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Syria. It is a country-level pulse, not a comprehensive incident ledger, a full casualty count for the 2011-2024 civil war, or a forecast.",
+  "coverage": [
+    {
+      "code": "SY",
+      "name": "Syria"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 170,
+    "fatalities": 31,
+    "politicalViolenceEvents": 102,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "SY",
+        "name": "Syria",
+        "events": 170,
+        "fatalities": 31,
+        "political": 102,
+        "demonstrations": 68,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

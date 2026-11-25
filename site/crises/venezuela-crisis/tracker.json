@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "venezuela-crisis",
+  "title": "Venezuela crisis tracker",
+  "shortTitle": "Venezuela crisis",
+  "description": "Venezuela crisis: US strikes, Maduro's capture, the election push, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Venezuela. It is a country-level pulse, not a comprehensive incident ledger, a count of deaths from US strikes on boats at sea, or a forecast.",
+  "coverage": [
+    {
+      "code": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 138,
+    "fatalities": 11,
+    "politicalViolenceEvents": 15,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "VE",
+        "name": "Venezuela",
+        "events": 138,
+        "fatalities": 11,
+        "political": 15,
+        "demonstrations": 123,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

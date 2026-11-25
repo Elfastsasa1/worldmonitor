@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TT",
+  "countryName": "Trinidad and Tobago",
+  "slug": "trinidad-and-tobago",
+  "rank": 86,
+  "overallScore": 53.1,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Trinidad and Tobago government to shut down scrap iron industry",
+        "source": "The St. Kitts-Nevis Observer",
+        "url": "https://www.thestkittsnevisobserver.com/trinidad-and-tobago-government-to-shut-down-scrap-iron-industry/",
+        "publishedAt": "2026-11-23T22:07:51.000Z"
+      },
+      {
+        "title": "iQor Launches Impact Sourcing Initiative in Trinidad and Tobago",
+        "source": "manilatimes.net",
+        "url": "https://www.manilatimes.net/2026/11/23/tmt-newswire/globenewswire/iqor-launches-impact-sourcing-initiative-in-trinidad-and-tobago/2476368",
+        "publishedAt": "2026-11-23T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "JetBlue Is Bringing Back Nonstop Flights From Fort Lauderdale to Trinidad and Tobago — Just for Carnival",
+        "source": "caribjournal.com",
+        "url": "https://www.caribjournal.com/2026/11/22/jetblue-trinidad-carnival-flights/",
+        "publishedAt": "2026-11-22T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Trinidad and Tobago issues solar tender",
+        "source": "finanznachrichten.de",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70186163-trinidad-and-tobago-issues-solar-tender-451.htm",
+        "publishedAt": "2026-11-20T09:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guyana backs revival of Trinidad and Tobago's oil refinery",
+        "source": "kaieteurnewsonline.com",
+        "url": "https://kaieteurnewsonline.com/2026/11/19/guyana-backs-revival-of-trinidad-and-tobagos-oil-refinery/",
+        "publishedAt": "2026-11-19T15:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Trinidad and Tobago government plans to shut down the scrap iron industry. [1]\n\nWATCH ITEMS\nWhether the Trinidad and Tobago government will proceed with shutting down the scrap iron industry as announced. [1]",
+      "generatedAt": "2026-11-24T04:35:40.517Z",
+      "sources": [
+        {
+          "title": "Trinidad and Tobago government to shut down scrap iron industry",
+          "source": "The St. Kitts-Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/trinidad-and-tobago-government-to-shut-down-scrap-iron-industry/",
+          "publishedAt": "2026-11-23T22:07:51.000Z"
+        },
+        {
+          "title": "iQor Launches Impact Sourcing Initiative in Trinidad and Tobago",
+          "source": "manilatimes.net",
+          "url": "https://www.manilatimes.net/2026/11/23/tmt-newswire/globenewswire/iqor-launches-impact-sourcing-initiative-in-trinidad-and-tobago/2476368",
+          "publishedAt": "2026-11-23T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "JetBlue Is Bringing Back Nonstop Flights From Fort Lauderdale to Trinidad and Tobago — Just for Carnival",
+          "source": "caribjournal.com",
+          "url": "https://www.caribjournal.com/2026/11/22/jetblue-trinidad-carnival-flights/",
+          "publishedAt": "2026-11-22T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Trinidad and Tobago issues solar tender",
+          "source": "finanznachrichten.de",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70186163-trinidad-and-tobago-issues-solar-tender-451.htm",
+          "publishedAt": "2026-11-20T09:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Guyana backs revival of Trinidad and Tobago's oil refinery",
+          "source": "kaieteurnewsonline.com",
+          "url": "https://kaieteurnewsonline.com/2026/11/19/guyana-backs-revival-of-trinidad-and-tobagos-oil-refinery/",
+          "publishedAt": "2026-11-19T15:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

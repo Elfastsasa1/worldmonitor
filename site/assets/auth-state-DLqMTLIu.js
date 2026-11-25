@@ -1,0 +1,3 @@
+import{v as i,F as u,n as a,e as t,g as l}from"./clerk-CAuJ7nO4.js";let n={user:null,isPending:!0};function r(){const e=l();return e?(t(s=>s.setUser({id:e.id})),{user:{id:e.id,name:e.name,email:e.email,image:e.image,role:e.plan},isPending:!1}):(t(s=>s.setUser(null)),{user:null,isPending:!1})}async function d(){if(!i()){n=r();return}u()}function c(e){return e(n),a(()=>{n=r(),e(n)})}function f(){return n}export{f as g,d as i,c as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["auth-state-DLqMTLIu.js"]=1;

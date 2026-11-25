@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RS",
+  "countryName": "Serbia",
+  "slug": "serbia",
+  "rank": 31,
+  "overallScore": 61.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Western Balkans: How Serbia’s political tsunami changes the region - European Council on Foreign Relations",
+        "source": "ECFR",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjZEYVVKa2d1eHFENmx3YXlDZm1TLWxMRzc2YndCM3dQTVkxUHBSd2ZMT2h4TFNHVVlMOVFLcFVLaTZrbGxpY3NyQlktRHRKb1RobGdMSEc1RGZoQVIwY2ktelc0ejJGLU5VUGdFbkRaemR3aTJHTHJkUmxRUkI0Rk9pUlcwYXdNSGRhVThoTE9OdWtoTGh0UXEwOE5EQ0E?oc=5",
+        "publishedAt": "2026-11-20T15:44:05.000Z"
+      },
+      {
+        "title": "Serbia’s Student Movement Criticises European Parliament’s Vukovar Resolution",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/23/serbias-student-movement-criticises-european-parliaments-vukovar-resolution/bi/",
+        "publishedAt": "2026-11-23T16:08:19.000Z"
+      },
+      {
+        "title": "Gli studenti in Serbia contro i servizi segreti e la criminalità organizzata",
+        "source": "Il Post",
+        "url": "https://www.ilpost.it/2026/11/22/serbia-servizi-segreti-crimine-organizzato/",
+        "publishedAt": "2026-11-22T08:31:32.000Z"
+      },
+      {
+        "title": "Cristo Liurai: Liurai Ida Ne’ebé Mak Serbí, Hadomi no Salva",
+        "source": "Timor Post",
+        "url": "https://timorpost.com/relijiaun/tp-69879/cristo-liurai-liurai-ida-neebe-mak-serbi-hadomi-no-salva/",
+        "publishedAt": "2026-11-21T20:52:53.000Z"
+      },
+      {
+        "title": "Serbia Formally Drops ‘Violent Overthrow’ Case Against Student Protesters",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/serbia-formally-drops-violent-overthrow-case-against-student-protesters/bi/",
+        "publishedAt": "2026-11-20T14:11:44.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSerbia has formally dropped the 'violent overthrow' case against student protesters. [5]\nSerbia's student movement has criticised the European Parliament's Vukovar Resolution. [2]\n\nOUTLOOK\nA Polymarket market related to Serbia, \"Will Radomir Saičić win the next Serbia presidential election?\", priced Yes at 81% on Nov 24, 2026; it closes May 2, 2027. [E4]\n\nWATCH ITEMS\nWhether Serbia's student movement will continue its protests against the secret services and organised crime. [3]\nWhether Radomir Saičić will win the next Serbia presidential election as the Polymarket market closes on May 2, 2027. [E4]",
+      "generatedAt": "2026-11-24T04:33:21.285Z",
+      "sources": [
+        {
+          "title": "Western Balkans: How Serbia’s political tsunami changes the region - European Council on Foreign Relations",
+          "source": "ECFR",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjZEYVVKa2d1eHFENmx3YXlDZm1TLWxMRzc2YndCM3dQTVkxUHBSd2ZMT2h4TFNHVVlMOVFLcFVLaTZrbGxpY3NyQlktRHRKb1RobGdMSEc1RGZoQVIwY2ktelc0ejJGLU5VUGdFbkRaemR3aTJHTHJkUmxRUkI0Rk9pUlcwYXdNSGRhVThoTE9OdWtoTGh0UXEwOE5EQ0E?oc=5",
+          "publishedAt": "2026-11-20T15:44:05.000Z"
+        },
+        {
+          "title": "Serbia’s Student Movement Criticises European Parliament’s Vukovar Resolution",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/23/serbias-student-movement-criticises-european-parliaments-vukovar-resolution/bi/",
+          "publishedAt": "2026-11-23T16:08:19.000Z"
+        },
+        {
+          "title": "Gli studenti in Serbia contro i servizi segreti e la criminalità organizzata",
+          "source": "Il Post",
+          "url": "https://www.ilpost.it/2026/11/22/serbia-servizi-segreti-crimine-organizzato/",
+          "publishedAt": "2026-11-22T08:31:32.000Z"
+        },
+        {
+          "title": "Cristo Liurai: Liurai Ida Ne’ebé Mak Serbí, Hadomi no Salva",
+          "source": "Timor Post",
+          "url": "https://timorpost.com/relijiaun/tp-69879/cristo-liurai-liurai-ida-neebe-mak-serbi-hadomi-no-salva/",
+          "publishedAt": "2026-11-21T20:52:53.000Z"
+        },
+        {
+          "title": "Serbia Formally Drops ‘Violent Overthrow’ Case Against Student Protesters",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/serbia-formally-drops-violent-overthrow-case-against-student-protesters/bi/",
+          "publishedAt": "2026-11-20T14:11:44.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "81%",
+          "factText": "A Polymarket market related to Serbia, \"Will Radomir Saičić win the next Serbia presidential election?\", priced Yes at 81% on Nov 24, 2026; it closes May 2, 2027.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/next-serbia-presidential-election-winner-20260629192336823"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

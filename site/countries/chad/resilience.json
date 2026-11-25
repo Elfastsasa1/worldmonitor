@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "slug": "chad",
+  "rank": 161,
+  "overallScore": 34.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Gulfport Fire Department announces Chad Asher's promotion to battalion chief",
+        "source": "wxxv25.com",
+        "url": "https://www.wxxv25.com/gulfport-fire-department-announces-chad-ashers-promotion-to-battalion-chief/",
+        "publishedAt": "2026-11-23T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gulfport, Mississippi Fire Department announces Chad Asher's promotion to battalion chief",
+        "source": "cedarnews.net",
+        "url": "https://cedarnews.net/newstasks/1182356/gulfport-mississippi-fire-department-announces-chad-ashers/",
+        "publishedAt": "2026-11-23T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chad Bianco's security detail cost taxpayers millions — Ritz-Carlton rooms and a $665 steak dinner",
+        "source": "cedarnews.net",
+        "url": "https://cedarnews.net/newstasks/1175112/chad-biancos-security-detail-cost-taxpayers-millions/",
+        "publishedAt": "2026-11-21T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Triple H 'addressed the Shorty G thing' before Chad Gable re-signed with WWE",
+        "source": "cagesideseats.com",
+        "url": "https://www.cagesideseats.com/wwe/487825/triple-h-addressed-the-shorty-g-thing-before-chad-gable-re-signed-with-wwe",
+        "publishedAt": "2026-11-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Days of Our Lives Spoilers Friday, November 20: Xander's Arrest Mess, Maggie's Plan Flops, Chad's Rescue Effort",
+        "source": "celebdirtylaundry.com",
+        "url": "https://www.celebdirtylaundry.com/2026/days-of-our-lives-spoilers-friday-november-20-xanders-arrest-mess-maggies-plan-flops-chads-rescue-effort/",
+        "publishedAt": "2026-11-20T03:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

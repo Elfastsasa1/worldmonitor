@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "sudan-conflict",
+  "title": "Sudan war tracker",
+  "shortTitle": "Sudan war",
+  "description": "Sudan war between the army (SAF) and the RSF: background, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities for Sudan.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Sudan. It is a country-level pulse, not a comprehensive incident ledger, displacement estimate, or forecast.",
+  "coverage": [
+    {
+      "code": "SD",
+      "name": "Sudan"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 123,
+    "fatalities": 514,
+    "politicalViolenceEvents": 120,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "SD",
+        "name": "Sudan",
+        "events": 123,
+        "fatalities": 514,
+        "political": 120,
+        "demonstrations": 3,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

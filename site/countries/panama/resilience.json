@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "slug": "panama",
+  "rank": 85,
+  "overallScore": 53.3,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Podcast: Murder of Costa Rican Journalist Follows Bombing in Panama - El Faro | El primer périodico digital latinoamericano",
+        "source": "El Faro",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXNoc0M5NW15V1poVzN0dEI5R2JYVWpYMU5IUlBCdDNEb3hra09LV0VlbW1NcmVIeE5UMlF6T1ZSbllwMVQ3dnYxMEhWZ0xGQ2pocjFjcDFRVkw4ZDJCaWRtUXhVc2tQZXl1ZTVpWGVtaEs3c2FnU0JjM1JrOUJKVzZ2bjdoeWRKSUE3UXdDZkNpRUk?oc=5",
+        "publishedAt": "2026-11-21T01:08:50.000Z"
+      },
+      {
+        "title": "Podcast: Murder of Costa Rican Journalist Follows Bombing in Panama - El Faro | El primer périodico digital latinoamericano",
+        "source": "El Faro",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2xJN0VadGJhaENIUk5sNFBBRkp4WnNIbGRyREczSlptc2doWUdnSnp5TDNMT2cydTg4NXlfWk1zLUFrUVJ4Rll6bXg1aHZOVmFQUE9LLTB5SFg5ZXktVzRwUm9lOU8zaVdrWmd0VDVrYi1wV0hwVDUyejItT0xSZWo0NndKeElZVzFuRi1ydw?oc=5",
+        "publishedAt": "2026-11-21T01:08:47.000Z"
+      },
+      {
+        "title": "Panama says First Quantum accepts conditions for talks on reopening Cobre Panama mine - Reuters",
+        "source": "Reuters — Panama",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzJDeElCQ2FXcXlHMXJLdmNXYXlfYW9SaFo4UjEzd0s5bjJjZUkzd056YjV6UlpJNWNTN0VpQkhUdE1yUU1OZUdFTkRHQ0VNUS1Rd0V2Y1VzTTFBdENjNGpRSVFKRDVaUXU1WjZRc3R1cnJzN000dExvQU90d1FNaTliYjNhUzhnSmM5ZDBjTk1tLU5EVHZ0N2xGQUZ0SWRpbGoxQlJ6aHZ5RzNHZlJRazI3NGNjTmJyNzRFbV9R?oc=5",
+        "publishedAt": "2026-11-23T19:51:40.000Z"
+      },
+      {
+        "title": "Las dos Panamá ante el cambio climático",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/opinion/las-dos-panama-ante-el-cambio-climatico/",
+        "publishedAt": "2026-11-24T04:00:00.000Z"
+      },
+      {
+        "title": "Perú se suma a los 8 terremotos de magnitud 6.7 o más que sacudieron América Latina en 2026: el sismo de Junín se une a los de Panamá y Venezuela",
+        "source": "La República Peru",
+        "url": "https://larepublica.pe/mundo/2026/11/21/los-ocho-terremotos-de-magnitud-67-o-mas-en-america-latina-en-2026-el-de-junin-en-peru-se-suma-a-los-de-venezuela-y-panama-1175097",
+        "publishedAt": "2026-11-24T01:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA bombing in Panama has been followed by the murder of a Costa Rican journalist, as reported in a podcast. [1]\nFirst Quantum has accepted conditions for talks on reopening the Cobre Panama mine, according to Panama. [3]\n\nWHAT THIS MEANS FOR PANAMA\nThe bombing in Panama and the subsequent murder of a Costa Rican journalist may affect security perceptions, though the most severe government travel advisory for Panama is Exercise Increased Caution. [1][E1]\n\nWATCH ITEMS\nWhether First Quantum and Panama will proceed with reopening the Cobre Panama mine following the accepted conditions for talks. [3]",
+      "generatedAt": "2026-11-24T04:54:41.823Z",
+      "sources": [
+        {
+          "title": "Podcast: Murder of Costa Rican Journalist Follows Bombing in Panama - El Faro | El primer périodico digital latinoamericano",
+          "source": "El Faro",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXNoc0M5NW15V1poVzN0dEI5R2JYVWpYMU5IUlBCdDNEb3hra09LV0VlbW1NcmVIeE5UMlF6T1ZSbllwMVQ3dnYxMEhWZ0xGQ2pocjFjcDFRVkw4ZDJCaWRtUXhVc2tQZXl1ZTVpWGVtaEs3c2FnU0JjM1JrOUJKVzZ2bjdoeWRKSUE3UXdDZkNpRUk?oc=5",
+          "publishedAt": "2026-11-21T01:08:50.000Z"
+        },
+        {
+          "title": "Podcast: Murder of Costa Rican Journalist Follows Bombing in Panama - El Faro | El primer périodico digital latinoamericano",
+          "source": "El Faro",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2xJN0VadGJhaENIUk5sNFBBRkp4WnNIbGRyREczSlptc2doWUdnSnp5TDNMT2cydTg4NXlfWk1zLUFrUVJ4Rll6bXg1aHZOVmFQUE9LLTB5SFg5ZXktVzRwUm9lOU8zaVdrWmd0VDVrYi1wV0hwVDUyejItT0xSZWo0NndKeElZVzFuRi1ydw?oc=5",
+          "publishedAt": "2026-11-21T01:08:47.000Z"
+        },
+        {
+          "title": "Panama says First Quantum accepts conditions for talks on reopening Cobre Panama mine - Reuters",
+          "source": "Reuters — Panama",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzJDeElCQ2FXcXlHMXJLdmNXYXlfYW9SaFo4UjEzd0s5bjJjZUkzd056YjV6UlpJNWNTN0VpQkhUdE1yUU1OZUdFTkRHQ0VNUS1Rd0V2Y1VzTTFBdENjNGpRSVFKRDVaUXU1WjZRc3R1cnJzN000dExvQU90d1FNaTliYjNhUzhnSmM5ZDBjTk1tLU5EVHZ0N2xGQUZ0SWRpbGoxQlJ6aHZ5RzNHZlJRazI3NGNjTmJyNzRFbV9R?oc=5",
+          "publishedAt": "2026-11-23T19:51:40.000Z"
+        },
+        {
+          "title": "Las dos Panamá ante el cambio climático",
+          "source": "La Prensa",
+          "url": "https://www.prensa.com/opinion/las-dos-panama-ante-el-cambio-climatico/",
+          "publishedAt": "2026-11-24T04:00:00.000Z"
+        },
+        {
+          "title": "Perú se suma a los 8 terremotos de magnitud 6.7 o más que sacudieron América Latina en 2026: el sismo de Junín se une a los de Panamá y Venezuela",
+          "source": "La República Peru",
+          "url": "https://larepublica.pe/mundo/2026/11/21/los-ocho-terremotos-de-magnitud-67-o-mas-en-america-latina-en-2026-el-de-junin-en-peru-se-suma-a-los-de-venezuela-y-panama-1175097",
+          "publishedAt": "2026-11-24T01:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Panama is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

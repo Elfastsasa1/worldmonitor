@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "slug": "norway",
+  "rank": 2,
+  "overallScore": 75.3,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Norway’s sovereign wealth fund votes against Lovisa CEO, pay report - AFR",
+        "source": "Sovereign Wealth",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSncyX1NxWW9GYUVZOU1fR09TYl9MM2hNWTlFXzJJOXBhemlFWTVvOU9tdUxPZVBMRnVvMkR2dkdXUVRldmQyNTVObFNZczJQVVlubE9CV2NTMUJndVI3bXhma2FCR3RHRmNNdGZmR2ttQkNyQ1hSSVYtSjZzOExVWVQ5ZUJVYXFMZUF2TExTZk1yaERWZ1E5V2dwbHVUMHRzaWFjUkJDdF9CZEJEQUN2QTdRQWZHWWl6TUdz?oc=5",
+        "publishedAt": "2026-11-24T01:44:00.000Z"
+      },
+      {
+        "title": "Norway urges South Sudan leaders to address political crisis as NPA marks 40 years",
+        "source": "Eye Radio",
+        "url": "https://eyeradio.org/norway-urges-south-sudan-leaders-to-address-political-crisis-as-npa-marks-40-years/?utm_source=rss&utm_medium=rss&utm_campaign=norway-urges-south-sudan-leaders-to-address-political-crisis-as-npa-marks-40-years",
+        "publishedAt": "2026-11-23T09:39:27.000Z"
+      },
+      {
+        "title": "Norway's sovereign wealth fund votes against Lovisa CEO, pay report",
+        "source": "afr.com",
+        "url": "https://www.afr.com/companies/retail/norway-s-sovereign-wealth-fund-votes-against-lovisa-ceo-pay-report-20261124-p61ghr",
+        "publishedAt": "2026-11-24T04:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Vår Energi to Acquire ConocoPhillips Norway Assets and Teesside Stake for $4.425 billion",
+        "source": "kenya-today.com",
+        "url": "https://kenya-today.com/report-var-energi-to-acquire-conocophillips-norway-assets-and-teesside-stake-for-4425-billion-32170/",
+        "publishedAt": "2026-11-24T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mine sale sets off warnings | Norway's News in English — www.newsinenglish.no",
+        "source": "newsinenglish.no",
+        "url": "https://www.newsinenglish.no/2026/11/23/mine-sale-sets-off-warnings/",
+        "publishedAt": "2026-11-23T22:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorway's sovereign wealth fund voted against Lovisa CEO and a pay report. [1][3]\nVår Energi plans to acquire ConocoPhillips Norway Assets and Teesside Stake for $4.425 billion. [4]\n\nWHAT THIS MEANS FOR NORWAY\nThe sovereign wealth fund's vote against Lovisa CEO and pay report may influence corporate governance practices in Norway. [1][3][E1]\n\nWATCH ITEMS\nThe outcome of the mine sale and the nature of the warnings it has set off. [5]",
+      "generatedAt": "2026-11-24T04:31:59.955Z",
+      "sources": [
+        {
+          "title": "Norway’s sovereign wealth fund votes against Lovisa CEO, pay report - AFR",
+          "source": "Sovereign Wealth",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSncyX1NxWW9GYUVZOU1fR09TYl9MM2hNWTlFXzJJOXBhemlFWTVvOU9tdUxPZVBMRnVvMkR2dkdXUVRldmQyNTVObFNZczJQVVlubE9CV2NTMUJndVI3bXhma2FCR3RHRmNNdGZmR2ttQkNyQ1hSSVYtSjZzOExVWVQ5ZUJVYXFMZUF2TExTZk1yaERWZ1E5V2dwbHVUMHRzaWFjUkJDdF9CZEJEQUN2QTdRQWZHWWl6TUdz?oc=5",
+          "publishedAt": "2026-11-24T01:44:00.000Z"
+        },
+        {
+          "title": "Norway urges South Sudan leaders to address political crisis as NPA marks 40 years",
+          "source": "Eye Radio",
+          "url": "https://eyeradio.org/norway-urges-south-sudan-leaders-to-address-political-crisis-as-npa-marks-40-years/?utm_source=rss&utm_medium=rss&utm_campaign=norway-urges-south-sudan-leaders-to-address-political-crisis-as-npa-marks-40-years",
+          "publishedAt": "2026-11-23T09:39:27.000Z"
+        },
+        {
+          "title": "Norway's sovereign wealth fund votes against Lovisa CEO, pay report",
+          "source": "afr.com",
+          "url": "https://www.afr.com/companies/retail/norway-s-sovereign-wealth-fund-votes-against-lovisa-ceo-pay-report-20261124-p61ghr",
+          "publishedAt": "2026-11-24T04:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Vår Energi to Acquire ConocoPhillips Norway Assets and Teesside Stake for $4.425 billion",
+          "source": "kenya-today.com",
+          "url": "https://kenya-today.com/report-var-energi-to-acquire-conocophillips-norway-assets-and-teesside-stake-for-4425-billion-32170/",
+          "publishedAt": "2026-11-24T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mine sale sets off warnings | Norway's News in English — www.newsinenglish.no",
+          "source": "newsinenglish.no",
+          "url": "https://www.newsinenglish.no/2026/11/23/mine-sale-sets-off-warnings/",
+          "publishedAt": "2026-11-23T22:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for Norway is Exercise Normal Precautions, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

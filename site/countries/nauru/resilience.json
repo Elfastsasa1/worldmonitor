@@ -1,0 +1,19 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NR",
+  "countryName": "Nauru",
+  "slug": "nauru",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.63,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": null
+}

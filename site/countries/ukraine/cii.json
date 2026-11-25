@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "UA",
+  "countryName": "Ukraine",
+  "methodologyVersion": "v14",
+  "score": 75,
+  "approximate24HourMovement": 0,
+  "instabilityLevel": "High",
+  "observedAt": "2026-11-24T04:44:58.181Z",
+  "capturedAt": "2026-11-24",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

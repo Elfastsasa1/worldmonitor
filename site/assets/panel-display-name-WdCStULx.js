@@ -1,0 +1,3 @@
+import{n as u}from"./panels-XFlv2Kkw.js";import{S as f,t as s}from"./theme-colors-ToRFEbn-.js";function m(t){const r=s(t);return r===t?null:r}function A(t,r=t,e=f){var i,o;if(t==="runtime-config")return s("modals.runtimeConfig.title");const n=t.replace(/-([a-z])/g,(l,c)=>c.toUpperCase()),a=(o=(i=u[e])==null?void 0:i[t])==null?void 0:o.name;return a?m(`panelVariants.${e}.${n}`)??a:m(`panels.${n}`)??r}export{A as g};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["panel-display-name-WdCStULx.js"]=1;

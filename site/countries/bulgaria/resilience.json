@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "slug": "bulgaria",
+  "rank": 22,
+  "overallScore": 63.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bulgaria issues warning of dangerous weather for November 23 over forecast strong winds",
+        "source": "The Sofia Globe",
+        "url": "https://sofiaglobe.com/2026/11/22/bulgaria-issues-warning-of-dangerous-weather-for-november-23-over-forecast-strong-winds/",
+        "publishedAt": "2026-11-22T10:16:47.000Z"
+      },
+      {
+        "title": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power",
+        "source": "Indian Express",
+        "url": "https://indianexpress.com/article/india/bulgaria-foreign-minister-velislava-petrova-chamova-interview-india-eu-fta-ukraine-black-sea-10972956/",
+        "publishedAt": "2026-11-21T13:57:25.000Z"
+      },
+      {
+        "title": "Gavriil, Bulgarian Orthodox Church Metropolitan of Lovech, dies at 76",
+        "source": "The Sofia Globe",
+        "url": "https://sofiaglobe.com/2026/11/22/gavriil-bulgarian-orthodox-church-metropolitan-of-lovech-dies-at-76/",
+        "publishedAt": "2026-11-22T10:15:13.000Z"
+      },
+      {
+        "title": "EC approves Bulgaria’s final payment request under NextGenerationEU",
+        "source": "The Sofia Globe",
+        "url": "https://sofiaglobe.com/2026/11/20/ec-approves-bulgarias-final-payment-request-under-nextgenerationeu/",
+        "publishedAt": "2026-11-20T14:27:34.000Z"
+      },
+      {
+        "title": "Bulgarian Parliament elects 11 members of Supreme Judicial Council",
+        "source": "The Sofia Globe",
+        "url": "https://sofiaglobe.com/2026/11/20/bulgarian-parliament-elects-11-members-of-supreme-judicial-council/",
+        "publishedAt": "2026-11-20T14:26:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBulgaria issued a warning of dangerous weather for November 23 due to forecast strong winds. [1]\nThe Bulgarian Parliament elected 11 members of the Supreme Judicial Council. [5]\n\nWATCH ITEMS\nWhether the newly elected members of the Supreme Judicial Council will influence judicial reforms. [5]",
+      "generatedAt": "2026-11-24T04:23:27.567Z",
+      "sources": [
+        {
+          "title": "Bulgaria issues warning of dangerous weather for November 23 over forecast strong winds",
+          "source": "The Sofia Globe",
+          "url": "https://sofiaglobe.com/2026/11/22/bulgaria-issues-warning-of-dangerous-weather-for-november-23-over-forecast-strong-winds/",
+          "publishedAt": "2026-11-22T10:16:47.000Z"
+        },
+        {
+          "title": "Bulgaria welcomes India’s Ukraine ceasefire proposal, says Delhi shows it can be a global power",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/bulgaria-foreign-minister-velislava-petrova-chamova-interview-india-eu-fta-ukraine-black-sea-10972956/",
+          "publishedAt": "2026-11-21T13:57:25.000Z"
+        },
+        {
+          "title": "Gavriil, Bulgarian Orthodox Church Metropolitan of Lovech, dies at 76",
+          "source": "The Sofia Globe",
+          "url": "https://sofiaglobe.com/2026/11/22/gavriil-bulgarian-orthodox-church-metropolitan-of-lovech-dies-at-76/",
+          "publishedAt": "2026-11-22T10:15:13.000Z"
+        },
+        {
+          "title": "EC approves Bulgaria’s final payment request under NextGenerationEU",
+          "source": "The Sofia Globe",
+          "url": "https://sofiaglobe.com/2026/11/20/ec-approves-bulgarias-final-payment-request-under-nextgenerationeu/",
+          "publishedAt": "2026-11-20T14:27:34.000Z"
+        },
+        {
+          "title": "Bulgarian Parliament elects 11 members of Supreme Judicial Council",
+          "source": "The Sofia Globe",
+          "url": "https://sofiaglobe.com/2026/11/20/bulgarian-parliament-elects-11-members-of-supreme-judicial-council/",
+          "publishedAt": "2026-11-20T14:26:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

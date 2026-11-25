@@ -1,0 +1,181 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "slug": "south-sudan",
+  "rank": 167,
+  "overallScore": 28.4,
+  "dimensionCoverage": 0.72,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "NPA marks 40 years in South Sudan, urges protection of civic space",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/npa-marks-40-years-in-south-sudan-urges-protection-of-civic-space",
+        "publishedAt": "2026-11-23T15:38:22.000Z"
+      },
+      {
+        "title": "NDM chairman urges South Sudanese to register in ongoing voter registration exercise",
+        "source": "Eye Radio",
+        "url": "https://eyeradio.org/ndm-chairman-urges-south-sudanese-to-register-in-ongoing-voter-registration-exercise/?utm_source=rss&utm_medium=rss&utm_campaign=ndm-chairman-urges-south-sudanese-to-register-in-ongoing-voter-registration-exercise",
+        "publishedAt": "2026-11-23T12:47:37.000Z"
+      },
+      {
+        "title": "South Sudan central bank threatens closure of unlicensed forex dealers",
+        "source": "Sudans Post",
+        "url": "https://www.sudanspost.com/boss-threatens-closure-of-unlicensed-forex-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=boss-threatens-closure-of-unlicensed-forex-dealers",
+        "publishedAt": "2026-11-23T08:52:37.000Z"
+      },
+      {
+        "title": "Russian Embassy announces scholarship opportunities for South Sudanese",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/russian-embassy-announces-scholarship-opportunities-for-south-sudanese",
+        "publishedAt": "2026-11-23T13:27:11.000Z"
+      },
+      {
+        "title": "Opinion| Guarantors should push for peace implementation instead of elections in South Sudan",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/opinion-guarantors-should-push-for-peace-implementation-instead-of-elections-in-south-sudan",
+        "publishedAt": "2026-11-23T09:40:06.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNDM chairman urges South Sudanese to register in ongoing voter registration exercise. [2]\n\nKEY RISKS\nSouth Sudan is linked to 33 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\nThe most severe government travel advisory World Monitor tracks for South Sudan is Do Not Travel, as of Nov 24, 2026. [E1]",
+      "generatedAt": "2026-11-24T04:34:47.034Z",
+      "sources": [
+        {
+          "title": "NPA marks 40 years in South Sudan, urges protection of civic space",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/npa-marks-40-years-in-south-sudan-urges-protection-of-civic-space",
+          "publishedAt": "2026-11-23T15:38:22.000Z"
+        },
+        {
+          "title": "NDM chairman urges South Sudanese to register in ongoing voter registration exercise",
+          "source": "Eye Radio",
+          "url": "https://eyeradio.org/ndm-chairman-urges-south-sudanese-to-register-in-ongoing-voter-registration-exercise/?utm_source=rss&utm_medium=rss&utm_campaign=ndm-chairman-urges-south-sudanese-to-register-in-ongoing-voter-registration-exercise",
+          "publishedAt": "2026-11-23T12:47:37.000Z"
+        },
+        {
+          "title": "South Sudan central bank threatens closure of unlicensed forex dealers",
+          "source": "Sudans Post",
+          "url": "https://www.sudanspost.com/boss-threatens-closure-of-unlicensed-forex-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=boss-threatens-closure-of-unlicensed-forex-dealers",
+          "publishedAt": "2026-11-23T08:52:37.000Z"
+        },
+        {
+          "title": "Russian Embassy announces scholarship opportunities for South Sudanese",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/russian-embassy-announces-scholarship-opportunities-for-south-sudanese",
+          "publishedAt": "2026-11-23T13:27:11.000Z"
+        },
+        {
+          "title": "Opinion| Guarantors should push for peace implementation instead of elections in South Sudan",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/opinion-guarantors-should-push-for-peace-implementation-instead-of-elections-in-south-sudan",
+          "publishedAt": "2026-11-23T09:40:06.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for South Sudan is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "33",
+          "factText": "South Sudan is linked to 33 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840326.html",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: unmiss.unmissions.org",
+        "sourceUrl": "https://unmiss.unmissions.org/en/press-releases/unmiss-supports-efforts-to-deter-further-violence-in-tonj-east-following",
+        "occurredAt": "2026-11-23T18:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: unmiss.unmissions.org",
+        "sourceUrl": "https://unmiss.unmissions.org/en/press-releases/unmiss-supports-efforts-to-deter-further-violence-in-tonj-east-following",
+        "occurredAt": "2026-11-23T18:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: eyeradio.org",
+        "sourceUrl": "https://eyeradio.org/msf-suspends-activities-in-yei-for-three-months-following-abduction-of-two-healthcare-workers/",
+        "occurredAt": "2026-11-23T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202611230523.html",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.msf.org",
+        "sourceUrl": "https://www.msf.org/south-sudan-msf-suspends-all-activities-yei-river-county-following-abduction",
+        "occurredAt": "2026-11-23T14:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.msf.org",
+        "sourceUrl": "https://www.msf.org/south-sudan-msf-suspends-all-activities-yei-river-county-following-abduction",
+        "occurredAt": "2026-11-23T14:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in South Sudan",
+        "summary": "source: www.radiotamazuj.org",
+        "sourceUrl": "https://www.radiotamazuj.org/en/news/article/msf-suspends-operations-in-yei-after-abduction-of-two-health-workers",
+        "occurredAt": "2026-11-23T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/south-sudan-official-says-21-killed-tonj-east-cattle-camp/",
+        "occurredAt": "2026-11-23T08:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/south-sudan-official-says-21-killed-tonj-east-cattle-camp/",
+        "occurredAt": "2026-11-23T08:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

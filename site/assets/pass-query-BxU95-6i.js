@@ -1,0 +1,3 @@
+import{S as s}from"./sensor-profiles-CVTvuztH.js";const r=864e5,i=10,o=new Map(s.map(t=>[t.id,t]));function d(t){return o.get(t)}function m(t,a){if(!Number.isFinite(t.lat)||!Number.isFinite(t.lon)||Math.abs(t.lat)>90||Math.abs(t.lon)>180)throw new RangeError("point must have a finite latitude within ±90 and longitude within ±180");const{startMs:e,endMs:n}=a;if(!Number.isFinite(e)||!Number.isFinite(n)||n<e||n-e>i*r)throw new RangeError(`window must be finite, ordered and at most ${i} days long`)}export{m as a,d as p};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["pass-query-BxU95-6i.js"]=1;

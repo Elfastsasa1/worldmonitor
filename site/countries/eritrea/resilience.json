@@ -1,0 +1,182 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "slug": "eritrea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.57,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Eritrean President receives credentials of Oman’s ambassador",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1200135/oman/eritrean-president-receives-credentials-of-omans-ambassador",
+        "publishedAt": "2026-11-23T12:21:15.000Z"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Eritrea: Meeting to assess situation of war disabled citizens",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/eritrea-meeting-to-assess-situation-of-war-disabled-citizens",
+        "publishedAt": "2026-11-23T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Eritrea: Training for female teachers in the Central Region",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/eritrea-training-for-female-teachers-in-the-central-region",
+        "publishedAt": "2026-11-23T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "MEA Secy interacts with Indian community in Eritrea, highlights diaspora welfare initiatives",
+        "source": "webindia123.com",
+        "url": "https://news.webindia123.com/news/Articles/World/20261122/4522902.html",
+        "publishedAt": "2026-11-22T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Eritrea Condemns Ethiopian Army Chief's Territorial Claims Over Its Land",
+        "source": "garoweonline.com",
+        "url": "https://garoweonline.com/en/world/africa/eritrea-condemns-ethiopian-army-chief-s-territorial-claims-over-its-land",
+        "publishedAt": "2026-11-21T21:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEritrea condemned territorial claims made by the Ethiopian Army Chief over its land. [5]\nA meeting was held in Eritrea to assess the situation of war disabled citizens. [2]\n\nWHAT THIS MEANS FOR ERITREA\nEritrea's condemnation of Ethiopian territorial claims may affect regional stability given that the Bab el-Mandeb shipping chokepoint is relevant to Eritrea. [5][E4]\n\nWATCH ITEMS\nWhether Ethiopia will respond to Eritrea's condemnation of its territorial claims. [5]",
+      "generatedAt": "2026-11-24T04:26:05.786Z",
+      "sources": [
+        {
+          "title": "Eritrean President receives credentials of Oman’s ambassador",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1200135/oman/eritrean-president-receives-credentials-of-omans-ambassador",
+          "publishedAt": "2026-11-23T12:21:15.000Z"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Eritrea: Meeting to assess situation of war disabled citizens",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/eritrea-meeting-to-assess-situation-of-war-disabled-citizens",
+          "publishedAt": "2026-11-23T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Eritrea: Training for female teachers in the Central Region",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/eritrea-training-for-female-teachers-in-the-central-region",
+          "publishedAt": "2026-11-23T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "MEA Secy interacts with Indian community in Eritrea, highlights diaspora welfare initiatives",
+          "source": "webindia123.com",
+          "url": "https://news.webindia123.com/news/Articles/World/20261122/4522902.html",
+          "publishedAt": "2026-11-22T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Eritrea Condemns Ethiopian Army Chief's Territorial Claims Over Its Land",
+          "source": "garoweonline.com",
+          "url": "https://garoweonline.com/en/world/africa/eritrea-condemns-ethiopian-army-chief-s-territorial-claims-over-its-land",
+          "publishedAt": "2026-11-21T21:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Bab el-Mandeb",
+          "factText": "Bab el-Mandeb is a shipping chokepoint World Monitor tracks for Eritrea.",
+          "asOf": "2026-11-24T04:26:04.550Z",
+          "url": "https://www.worldmonitor.app/chokepoints/bab-el-mandeb/"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 192 — in Eritrea",
+        "summary": "source: capitalethiopia.com",
+        "sourceUrl": "https://capitalethiopia.com/2026/11/22/the-role-of-political-culture-in-asmaras-hostility-toward-addis-ababa/",
+        "occurredAt": "2026-11-22T02:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Eritrea",
+        "summary": "source: www.amren.com",
+        "sourceUrl": "https://www.amren.com/news/2026/11/utah-jury-convicts-mexico-linked-gang-members-for-killing-teen-eritrean-migrant-at-hiking-trail/",
+        "occurredAt": "2026-11-20T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Eritrea",
+        "summary": "source: www.amren.com",
+        "sourceUrl": "https://www.amren.com/news/2026/11/utah-jury-convicts-mexico-linked-gang-members-for-killing-teen-eritrean-migrant-at-hiking-trail/",
+        "occurredAt": "2026-11-20T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Eritrea",
+        "summary": "source: www.amren.com",
+        "sourceUrl": "https://www.amren.com/news/2026/11/utah-jury-convicts-mexico-linked-gang-members-for-killing-teen-eritrean-migrant-at-hiking-trail/",
+        "occurredAt": "2026-11-20T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Eritrea",
+        "summary": "source: www.middleeastmonitor.com",
+        "sourceUrl": "https://www.middleeastmonitor.com/20261119-death-of-migrant-under-torture-exposes-detention-of-483-eritreans-in-libya/",
+        "occurredAt": "2026-11-19T11:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Eritrea",
+        "summary": "source: www.middleeastmonitor.com",
+        "sourceUrl": "https://www.middleeastmonitor.com/20261119-death-of-migrant-under-torture-exposes-detention-of-483-eritreans-in-libya/",
+        "occurredAt": "2026-11-19T11:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Eritrea",
+        "summary": "source: www.middleeastmonitor.com",
+        "sourceUrl": "https://www.middleeastmonitor.com/20261119-death-of-migrant-under-torture-exposes-detention-of-483-eritreans-in-libya/",
+        "occurredAt": "2026-11-19T11:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Eritrea",
+        "summary": "source: kenya-today.com",
+        "sourceUrl": "https://kenya-today.com/report-horn-of-africa-diaspora-protests-in-washington-over-ethiopia-conflict-29659/",
+        "occurredAt": "2026-11-19T08:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Eritrea",
+        "summary": "source: www.breitbart.com",
+        "sourceUrl": "https://www.breitbart.com/crime/2026/11/17/jury-convicts-2-gang-members-in-utah-trailhead-killing-of-refugee/",
+        "occurredAt": "2026-11-18T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Eritrea",
+        "summary": "source: www.breitbart.com",
+        "sourceUrl": "https://www.breitbart.com/crime/2026/11/17/jury-convicts-2-gang-members-in-utah-trailhead-killing-of-refugee/",
+        "occurredAt": "2026-11-18T14:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

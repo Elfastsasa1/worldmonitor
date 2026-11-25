@@ -1,0 +1,97 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BZ",
+  "countryName": "Belize",
+  "slug": "belize",
+  "rank": 64,
+  "overallScore": 56.1,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Caribbean’s Only Sugar Refinery Officially Opens in Belize - Love FM Belize",
+        "source": "Refinery & Disruptions",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUZ2MjJYSEgwS1dtS01CcGNEVFRZa29mUGN5TEljSVpqaUViWkhTc2N4R0NpTE04bC0zTV95MEpMMFROSjU3OThnNEt0X1lxRmQ4NGdtUXJXSUZhMW9RbFRCOWNGNXRZTVk5MElhQ2RGb2lwal9IN1JJNVBNV3pNM2IwUQ?oc=5",
+        "publishedAt": "2026-11-24T04:00:15.000Z"
+      },
+      {
+        "title": "Belize Advances the Better Care for Non-communicable Diseases Initiative Through Expansion of the HEARTS Initiative",
+        "source": "The San Pedro Sun",
+        "url": "https://www.sanpedrosun.com/community-and-society/2026/11/21/belize-advances-the-better-care-for-non-communicable-diseases-initiative-through-expansion-of-the-hearts-initiative/",
+        "publishedAt": "2026-11-21T21:48:38.000Z"
+      },
+      {
+        "title": "Prime Minister Friday joins Belize in celebrating Garifuna Settlement Day",
+        "source": "NBC Radio",
+        "url": "https://www.nbcsvg.com/2026/11/20/prime-minister-friday-joins-belize-in-celebrating-garifuna-settlement-day/",
+        "publishedAt": "2026-11-20T18:14:56.000Z"
+      },
+      {
+        "title": "Peace Corps Belize: 65 Years of Opening Homes, Building Communities and Changing Lives",
+        "source": "greaterbelize.com",
+        "url": "https://www.greaterbelize.com/peace-corps-belize-65-years-of-opening-homes-building-communities-and-changing-lives/",
+        "publishedAt": "2026-11-23T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New Sugar Refinery Marks Major Step for Belize's Sugar Industry",
+        "source": "greaterbelize.com",
+        "url": "https://www.greaterbelize.com/new-sugar-refinery-marks-major-step-for-belizes-sugar-industry/",
+        "publishedAt": "2026-11-22T18:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Caribbean’s only sugar refinery officially opened in Belize, marking a major step for the country's sugar industry. [1][5]\n\nWATCH ITEMS\nWhether Belize will expand the HEARTS Initiative for non-communicable diseases as announced. [2]",
+      "generatedAt": "2026-11-24T04:48:57.957Z",
+      "sources": [
+        {
+          "title": "Caribbean’s Only Sugar Refinery Officially Opens in Belize - Love FM Belize",
+          "source": "Refinery & Disruptions",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUZ2MjJYSEgwS1dtS01CcGNEVFRZa29mUGN5TEljSVpqaUViWkhTc2N4R0NpTE04bC0zTV95MEpMMFROSjU3OThnNEt0X1lxRmQ4NGdtUXJXSUZhMW9RbFRCOWNGNXRZTVk5MElhQ2RGb2lwal9IN1JJNVBNV3pNM2IwUQ?oc=5",
+          "publishedAt": "2026-11-24T04:00:15.000Z"
+        },
+        {
+          "title": "Belize Advances the Better Care for Non-communicable Diseases Initiative Through Expansion of the HEARTS Initiative",
+          "source": "The San Pedro Sun",
+          "url": "https://www.sanpedrosun.com/community-and-society/2026/11/21/belize-advances-the-better-care-for-non-communicable-diseases-initiative-through-expansion-of-the-hearts-initiative/",
+          "publishedAt": "2026-11-21T21:48:38.000Z"
+        },
+        {
+          "title": "Prime Minister Friday joins Belize in celebrating Garifuna Settlement Day",
+          "source": "NBC Radio",
+          "url": "https://www.nbcsvg.com/2026/11/20/prime-minister-friday-joins-belize-in-celebrating-garifuna-settlement-day/",
+          "publishedAt": "2026-11-20T18:14:56.000Z"
+        },
+        {
+          "title": "Peace Corps Belize: 65 Years of Opening Homes, Building Communities and Changing Lives",
+          "source": "greaterbelize.com",
+          "url": "https://www.greaterbelize.com/peace-corps-belize-65-years-of-opening-homes-building-communities-and-changing-lives/",
+          "publishedAt": "2026-11-23T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "New Sugar Refinery Marks Major Step for Belize's Sugar Industry",
+          "source": "greaterbelize.com",
+          "url": "https://www.greaterbelize.com/new-sugar-refinery-marks-major-step-for-belizes-sugar-industry/",
+          "publishedAt": "2026-11-22T18:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AG",
+  "countryName": "Antigua and Barbuda",
+  "slug": "antigua-and-barbuda",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Antigua and Barbuda wins overallSilver at Taste of the Caribbean 2026",
+        "source": "Antigua Observer",
+        "url": "https://antiguaobserver.com/antigua-and-barbuda-wins-overallsilver-at-taste-of-the-caribbean-2026/",
+        "publishedAt": "2026-11-24T03:28:00.000Z"
+      },
+      {
+        "title": "Who Benefits When Tourism Grows? Antigua and Barbuda Looks to New Skills and Local Business",
+        "source": "Antigua.news",
+        "url": "https://antigua.news/2026/11/23/who-benefits-when-tourism-grows-antigua-and-barbuda-looks-to-new-skills-and-local-business",
+        "publishedAt": "2026-11-24T00:17:06.000Z"
+      },
+      {
+        "title": "Antigua rejects $100M Royal Caribbean deal over beach access",
+        "source": "St Vincent Times",
+        "url": "https://www.stvincenttimes.com/antigua-rejects-100m-royal-caribbean-deal-over-beach-access/",
+        "publishedAt": "2026-11-23T22:23:37.000Z"
+      },
+      {
+        "title": "Sócrates y su antigua reflexión sobre las creencias y el amor: \"Si consigues una buena pareja, serás feliz. Si consigues una mala, te convertirás en filósofo\"",
+        "source": "La República Peru",
+        "url": "https://larepublica.pe/mundo/2026/11/22/la-antigua-reflexion-de-socrates-sobre-el-amor-y-la-felicidad-si-consigues-una-buena-pareja-seras-feliz-si-consigues-una-mala-te-convertiras-en-filosofo-1251558",
+        "publishedAt": "2026-11-23T19:41:29.000Z"
+      },
+      {
+        "title": "Antigua and Barbuda Inflation Climbs to 8.6% in October",
+        "source": "Antigua.news",
+        "url": "https://antigua.news/2026/11/23/antigua-and-barbuda-inflation-climbs-to-8-6-in-october",
+        "publishedAt": "2026-11-23T22:49:42.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAntigua and Barbuda won overallSilver at Taste of the Caribbean 2026. [1]\nAntigua and Barbuda inflation climbed to 8.6% in October. [5]\n\nKEY RISKS\nAntigua & Barbuda is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the rejected $100M Royal Caribbean deal over beach access will be renegotiated or replaced. [3]",
+      "generatedAt": "2026-11-24T04:22:26.400Z",
+      "sources": [
+        {
+          "title": "Antigua and Barbuda wins overallSilver at Taste of the Caribbean 2026",
+          "source": "Antigua Observer",
+          "url": "https://antiguaobserver.com/antigua-and-barbuda-wins-overallsilver-at-taste-of-the-caribbean-2026/",
+          "publishedAt": "2026-11-24T03:28:00.000Z"
+        },
+        {
+          "title": "Who Benefits When Tourism Grows? Antigua and Barbuda Looks to New Skills and Local Business",
+          "source": "Antigua.news",
+          "url": "https://antigua.news/2026/11/23/who-benefits-when-tourism-grows-antigua-and-barbuda-looks-to-new-skills-and-local-business",
+          "publishedAt": "2026-11-24T00:17:06.000Z"
+        },
+        {
+          "title": "Antigua rejects $100M Royal Caribbean deal over beach access",
+          "source": "St Vincent Times",
+          "url": "https://www.stvincenttimes.com/antigua-rejects-100m-royal-caribbean-deal-over-beach-access/",
+          "publishedAt": "2026-11-23T22:23:37.000Z"
+        },
+        {
+          "title": "Sócrates y su antigua reflexión sobre las creencias y el amor: \"Si consigues una buena pareja, serás feliz. Si consigues una mala, te convertirás en filósofo\"",
+          "source": "La República Peru",
+          "url": "https://larepublica.pe/mundo/2026/11/22/la-antigua-reflexion-de-socrates-sobre-el-amor-y-la-felicidad-si-consigues-una-buena-pareja-seras-feliz-si-consigues-una-mala-te-convertiras-en-filosofo-1251558",
+          "publishedAt": "2026-11-23T19:41:29.000Z"
+        },
+        {
+          "title": "Antigua and Barbuda Inflation Climbs to 8.6% in October",
+          "source": "Antigua.news",
+          "url": "https://antigua.news/2026/11/23/antigua-and-barbuda-inflation-climbs-to-8-6-in-october",
+          "publishedAt": "2026-11-23T22:49:42.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "2",
+          "factText": "Antigua & Barbuda is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

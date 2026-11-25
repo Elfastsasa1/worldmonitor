@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "slug": "benin",
+  "rank": 155,
+  "overallScore": 38.9,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Salon national du livre au Bénin : Éric Joël Békalé parmi les voix de la poésie africaine",
+        "source": "Gabon Actu",
+        "url": "https://gabonactu.com/blog/2026/11/23/salon-national-du-livre-au-benin-eric-joel-bekale-parmi-les-voix-de-la-poesie-africaine/",
+        "publishedAt": "2026-11-23T21:49:06.000Z"
+      },
+      {
+        "title": "Bénin : l’Organisation mondiale des douanes tient sa 95e session à Cotonou du 1er au 3 décembre",
+        "source": "La Nouvelle Tribune",
+        "url": "https://lanouvelletribune.info/2026/11/benin-lorganisation-mondiale-des-douanes-tient-sa-95e-session-a-cotonou-du-1er-au-3-decembre/",
+        "publishedAt": "2026-11-23T21:00:07.000Z"
+      },
+      {
+        "title": "Okpebholo Promises Third Benin Flyover If Tinubu Wins 2027 Election",
+        "source": "Channels TV",
+        "url": "https://www.channelstv.com/2026/11/23/okpebholo-promises-third-benin-flyover-if-tinubu-wins-2027-election/",
+        "publishedAt": "2026-11-23T17:32:01.000Z"
+      },
+      {
+        "title": "Bénin : six morts dans un accident à Guéné",
+        "source": "IciLome",
+        "url": "https://icilome.com/2026/11/benin-six-morts-dans-un-accident-a-guene/",
+        "publishedAt": "2026-11-23T14:55:01.000Z"
+      },
+      {
+        "title": "Bénin : En 25 ans de mariage, il entretient 38 maitresses, sa femme divorce",
+        "source": "Linfodrome",
+        "url": "https://www.linfodrome.com/faits-divers/127948-benin-en-25-ans-de-mariage-il-entretient-38-maitresses-sa-femme-divorce",
+        "publishedAt": "2026-11-23T13:27:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA road accident in Guéné has left six dead. [4]\n\nKEY RISKS\nBenin is linked to 10 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:23:40.424Z",
+      "sources": [
+        {
+          "title": "Salon national du livre au Bénin : Éric Joël Békalé parmi les voix de la poésie africaine",
+          "source": "Gabon Actu",
+          "url": "https://gabonactu.com/blog/2026/11/23/salon-national-du-livre-au-benin-eric-joel-bekale-parmi-les-voix-de-la-poesie-africaine/",
+          "publishedAt": "2026-11-23T21:49:06.000Z"
+        },
+        {
+          "title": "Bénin : l’Organisation mondiale des douanes tient sa 95e session à Cotonou du 1er au 3 décembre",
+          "source": "La Nouvelle Tribune",
+          "url": "https://lanouvelletribune.info/2026/11/benin-lorganisation-mondiale-des-douanes-tient-sa-95e-session-a-cotonou-du-1er-au-3-decembre/",
+          "publishedAt": "2026-11-23T21:00:07.000Z"
+        },
+        {
+          "title": "Okpebholo Promises Third Benin Flyover If Tinubu Wins 2027 Election",
+          "source": "Channels TV",
+          "url": "https://www.channelstv.com/2026/11/23/okpebholo-promises-third-benin-flyover-if-tinubu-wins-2027-election/",
+          "publishedAt": "2026-11-23T17:32:01.000Z"
+        },
+        {
+          "title": "Bénin : six morts dans un accident à Guéné",
+          "source": "IciLome",
+          "url": "https://icilome.com/2026/11/benin-six-morts-dans-un-accident-a-guene/",
+          "publishedAt": "2026-11-23T14:55:01.000Z"
+        },
+        {
+          "title": "Bénin : En 25 ans de mariage, il entretient 38 maitresses, sa femme divorce",
+          "source": "Linfodrome",
+          "url": "https://www.linfodrome.com/faits-divers/127948-benin-en-25-ans-de-mariage-il-entretient-38-maitresses-sa-femme-divorce",
+          "publishedAt": "2026-11-23T13:27:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "10",
+          "factText": "Benin is linked to 10 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

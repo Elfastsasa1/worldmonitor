@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "methodologyVersion": "v14",
+  "score": 80,
+  "approximate24HourMovement": 8,
+  "instabilityLevel": "High",
+  "observedAt": "2026-11-24T04:34:46.946Z",
+  "capturedAt": "2026-11-24",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

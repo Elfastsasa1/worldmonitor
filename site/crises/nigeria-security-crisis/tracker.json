@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "nigeria-security-crisis",
+  "title": "Nigeria security crisis tracker",
+  "shortTitle": "Nigeria security crisis",
+  "description": "Nigeria security crisis: Boko Haram, ISWAP, bandit kidnappings and Middle Belt violence, actors, a sourced timeline, what to watch, and monthly conflict data.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Nigeria, aggregated from subnational records. It combines the north-eastern insurgency, banditry and communal violence into one national total and does not separate them.",
+  "coverage": [
+    {
+      "code": "NG",
+      "name": "Nigeria"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 179,
+    "fatalities": 347,
+    "politicalViolenceEvents": 159,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "NG",
+        "name": "Nigeria",
+        "events": 179,
+        "fatalities": 347,
+        "political": 159,
+        "demonstrations": 20,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

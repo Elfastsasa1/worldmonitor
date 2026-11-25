@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "slug": "sudan",
+  "rank": 169,
+  "overallScore": 19.8,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "UN condemns drone strikes in Khartoum suspected to have come from Ethiopia",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20261123-un-condemns-drone-strikes-in-khartoum-suspected-to-have-come-from-ethiopia",
+        "publishedAt": "2026-11-23T11:49:14.000Z"
+      },
+      {
+        "title": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+        "publishedAt": "2026-11-22T16:38:14.000Z"
+      },
+      {
+        "title": "Reports: ‘Famine in Sudan is a product of war, not a natural disaster’",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/reports-famine-in-sudan-is-a-product-of-war-not-a-natural-disaster",
+        "publishedAt": "2026-11-23T10:00:00.000Z"
+      },
+      {
+        "title": "Jordan Condemns Drone Attacks on Sudanese Capital Khartoum",
+        "source": "Jordan News",
+        "url": "https://www.jordannews.jo/Section-109/News/Jordan-Condemns-Drone-Attacks-on-Sudanese-Capital-Khartoum-59275",
+        "publishedAt": "2026-11-23T16:01:08.000Z"
+      },
+      {
+        "title": "Sudan’s war will end, but will it be too late?",
+        "source": "The Independent (Uganda)",
+        "url": "https://www.independent.co.ug/sudans-war-will-end-but-will-it-be-too-late/",
+        "publishedAt": "2026-11-23T13:00:29.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nDrone strikes hit homes and a UN building in Sudan's Khartoum, and the UN condemned the strikes suspected to have come from Ethiopia. [1][2]\nReports indicate that famine in Sudan is a product of war, not a natural disaster. [3]\n\nWHAT THIS MEANS FOR SUDAN\nThe UN condemnation of drone strikes in Khartoum underscores the severity of the conflict, as the most severe government travel advisory for Sudan is Do Not Travel. [1][E1]\n\nWATCH ITEMS\nWhether the war in Sudan will end before it is too late, as questioned in a headline. [5]",
+      "generatedAt": "2026-11-24T04:33:47.003Z",
+      "sources": [
+        {
+          "title": "UN condemns drone strikes in Khartoum suspected to have come from Ethiopia",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20261123-un-condemns-drone-strikes-in-khartoum-suspected-to-have-come-from-ethiopia",
+          "publishedAt": "2026-11-23T11:49:14.000Z"
+        },
+        {
+          "title": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+          "publishedAt": "2026-11-22T16:38:14.000Z"
+        },
+        {
+          "title": "Reports: ‘Famine in Sudan is a product of war, not a natural disaster’",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/reports-famine-in-sudan-is-a-product-of-war-not-a-natural-disaster",
+          "publishedAt": "2026-11-23T10:00:00.000Z"
+        },
+        {
+          "title": "Jordan Condemns Drone Attacks on Sudanese Capital Khartoum",
+          "source": "Jordan News",
+          "url": "https://www.jordannews.jo/Section-109/News/Jordan-Condemns-Drone-Attacks-on-Sudanese-Capital-Khartoum-59275",
+          "publishedAt": "2026-11-23T16:01:08.000Z"
+        },
+        {
+          "title": "Sudan’s war will end, but will it be too late?",
+          "source": "The Independent (Uganda)",
+          "url": "https://www.independent.co.ug/sudans-war-will-end-but-will-it-be-too-late/",
+          "publishedAt": "2026-11-23T13:00:29.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Sudan is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 181 — in Sudan",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/msf-suspends-yei-river-county-abduction/",
+        "occurredAt": "2026-11-24T01:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.buffalorising.com",
+        "sourceUrl": "https://www.buffalorising.com/2026/11/new-book-tells-the-untold-story-of-the-terrorist-attack-that-killed-buffalos-john-granville/",
+        "occurredAt": "2026-11-23T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.buffalorising.com",
+        "sourceUrl": "https://www.buffalorising.com/2026/11/new-book-tells-the-untold-story-of-the-terrorist-attack-that-killed-buffalos-john-granville/",
+        "occurredAt": "2026-11-23T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Sudan",
+        "summary": "source: www.buffalorising.com",
+        "sourceUrl": "https://www.buffalorising.com/2026/11/new-book-tells-the-untold-story-of-the-terrorist-attack-that-killed-buffalos-john-granville/",
+        "occurredAt": "2026-11-23T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.buffalorising.com",
+        "sourceUrl": "https://www.buffalorising.com/2026/11/new-book-tells-the-untold-story-of-the-terrorist-attack-that-killed-buffalos-john-granville/",
+        "occurredAt": "2026-11-23T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.maravipost.com",
+        "sourceUrl": "https://www.maravipost.com/sudans-war-leaves-mothers-fighting-a-second-battle/",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.maravipost.com",
+        "sourceUrl": "https://www.maravipost.com/sudans-war-leaves-mothers-fighting-a-second-battle/",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.maravipost.com",
+        "sourceUrl": "https://www.maravipost.com/sudans-war-leaves-mothers-fighting-a-second-battle/",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.maravipost.com",
+        "sourceUrl": "https://www.maravipost.com/sudans-war-leaves-mothers-fighting-a-second-battle/",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.dabangasudan.org",
+        "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/rsf-accused-of-executing-sudanese-army-prisoners-in-blue-nile",
+        "occurredAt": "2026-11-23T18:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

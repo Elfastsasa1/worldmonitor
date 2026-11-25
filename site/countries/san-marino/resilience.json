@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SM",
+  "countryName": "San Marino",
+  "slug": "san-marino",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.64,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "San Marino. L’ipocondriaco del terzo millennio e il costo della sanità: pretese e conti non coincidono … di Ruggero II",
+        "source": "Giornale.sm",
+        "url": "https://giornalesm.com/san-marino-lipocondriaco-del-terzo-millennio-e-il-costo-della-sanita-pretese-e-conti-non-coincidono/",
+        "publishedAt": "2026-11-24T04:31:46.000Z"
+      },
+      {
+        "title": "Salute nella prima infanzia: a gennaio 2027 parte a San Marino la nuova sorveglianza 0-2 anni",
+        "source": "San Marino RTV",
+        "url": "https://sanmarinortv.sm/news/attualita-c4/salute-nella-prima-infanzia-a-gennaio-2027-parte-a-san-marino-la-nuova-sorveglianza-0-2-anni-a298928",
+        "publishedAt": "2026-11-23T03:18:00.000Z"
+      },
+      {
+        "title": "Dalla COP31 ai veti dell’ONU: perché San Marino si accontenta della vetrina invece di guidare la rivolta contro i carrozzoni internazionali – …di Enrico Lazzari",
+        "source": "Giornale.sm",
+        "url": "https://giornalesm.com/dalla-cop31-ai-veti-dellonu-perche-san-marino-si-accontenta-della-vetrina-invece-di-guidare-la-rivolta-contro-i-carrozzoni-internazionali-di-enrico-lazzari/",
+        "publishedAt": "2026-11-24T04:13:27.000Z"
+      },
+      {
+        "title": "San Marino. Aviosuperficie Torraccia, dibattito a Domagnano 24 novembre",
+        "source": "Giornale.sm",
+        "url": "https://giornalesm.com/san-marino-aviosuperficie-torraccia-dibattito-a-domagnano-24-novembre/",
+        "publishedAt": "2026-11-24T04:07:00.000Z"
+      },
+      {
+        "title": "San Marino. Colloqui gratuiti all’ISS contro la violenza sulle donne nelle giornate di lunedì 23 e martedì 24 novembre",
+        "source": "Giornale.sm",
+        "url": "https://giornalesm.com/san-marino-colloqui-gratuiti-alliss-contro-la-violenza-sulle-donne-nelle-giornate-di-lunedi-23-e-martedi-24-novembre/",
+        "publishedAt": "2026-11-24T04:07:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "empty",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

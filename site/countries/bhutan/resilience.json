@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "slug": "bhutan",
+  "rank": 75,
+  "overallScore": 54.9,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+        "source": "Times of Oman",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+        "publishedAt": "2026-11-24T03:41:00.000Z"
+      },
+      {
+        "title": "5.3 Magnitude Earthquake Hits Nepal, Tremors Felt Across India, Bhutan, China",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
+        "publishedAt": "2026-11-24T03:06:36.000Z"
+      },
+      {
+        "title": "Rising feed costs and market mismatches squeeze Bhutan’s egg farmers",
+        "source": "The Bhutanese",
+        "url": "https://thebhutanese.bt/rising-feed-costs-and-market-mismatches-squeeze-bhutans-egg-farmers/",
+        "publishedAt": "2026-11-21T10:08:36.000Z"
+      },
+      {
+        "title": "The rising cost of doing business in Bhutan: Are small enterprises finding it harder to grow?",
+        "source": "Kuensel",
+        "url": "https://kuenselonline.com/news/the-rising-cost-of-doing-business-in-bhutan-are-small-enterprises-finding-it-harder-to-grow",
+        "publishedAt": "2026-11-21T09:23:45.000Z"
+      },
+      {
+        "title": "Bhutan looks to keep senior citizens economically active as population ages",
+        "source": "The Bhutanese",
+        "url": "https://thebhutanese.bt/bhutan-looks-to-keep-senior-citizens-economically-active-as-population-ages/",
+        "publishedAt": "2026-11-21T09:56:29.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn earthquake of magnitude 5.4 struck Nepal, with tremors felt across India, Bhutan, and China. [1]\nRising feed costs and market mismatches are squeezing Bhutan’s egg farmers. [3]\n\nWATCH ITEMS\nWhether Bhutan will implement policies to keep senior citizens economically active as its population ages. [5]",
+      "generatedAt": "2026-11-24T04:48:49.267Z",
+      "sources": [
+        {
+          "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+          "source": "Times of Oman",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+          "publishedAt": "2026-11-24T03:41:00.000Z"
+        },
+        {
+          "title": "5.3 Magnitude Earthquake Hits Nepal, Tremors Felt Across India, Bhutan, China",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/5-3-magnitude-earthquake-hits-nepal-tremors-felt-across-india-bhutan-china-12368620#publisher=newsstand",
+          "publishedAt": "2026-11-24T03:06:36.000Z"
+        },
+        {
+          "title": "Rising feed costs and market mismatches squeeze Bhutan’s egg farmers",
+          "source": "The Bhutanese",
+          "url": "https://thebhutanese.bt/rising-feed-costs-and-market-mismatches-squeeze-bhutans-egg-farmers/",
+          "publishedAt": "2026-11-21T10:08:36.000Z"
+        },
+        {
+          "title": "The rising cost of doing business in Bhutan: Are small enterprises finding it harder to grow?",
+          "source": "Kuensel",
+          "url": "https://kuenselonline.com/news/the-rising-cost-of-doing-business-in-bhutan-are-small-enterprises-finding-it-harder-to-grow",
+          "publishedAt": "2026-11-21T09:23:45.000Z"
+        },
+        {
+          "title": "Bhutan looks to keep senior citizens economically active as population ages",
+          "source": "The Bhutanese",
+          "url": "https://thebhutanese.bt/bhutan-looks-to-keep-senior-citizens-economically-active-as-population-ages/",
+          "publishedAt": "2026-11-21T09:56:29.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

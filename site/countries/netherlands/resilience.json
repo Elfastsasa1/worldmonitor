@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "slug": "netherlands",
+  "rank": 23,
+  "overallScore": 63.8,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Dutch court bans BYD model from EU over likeness to Land Rover's Defender",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/dutch-court-bans-byd-model-from-eu-over-likeness-to-land-rovers-defender",
+        "publishedAt": "2026-11-23T16:31:04.000Z"
+      },
+      {
+        "title": "BYD hit after Dutch court bars SUV from EU for copying Land Rover design",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/11/23/byd-hit-after-dutch-court-bars-suv-from-eu-over-land-rover-design-copy/",
+        "publishedAt": "2026-11-23T15:06:51.000Z"
+      },
+      {
+        "title": "Crown Prince begins European tour covering Ireland and the Netherlands",
+        "source": "Jordan News",
+        "url": "https://www.jordannews.jo/Section-109/News/Crown-Prince-begins-European-tour-covering-Ireland-and-the-Netherlands-59269",
+        "publishedAt": "2026-11-23T14:25:41.000Z"
+      },
+      {
+        "title": "Heel Holland Bakt-kijkers zien deelnemer worstelen met recept: 'Begrijpend lezen is een dingetje'",
+        "source": "RTL Nieuws",
+        "url": "https://www.rtl.nl/boulevard/artikel/5666656/heel-holland-bakt-kijkers-zien-deelnemer-worstelen-met-recept-begrijpend",
+        "publishedAt": "2026-11-23T11:47:06.000Z"
+      },
+      {
+        "title": "South Africa and Netherlands mark 80 years of international justice",
+        "source": "Mail & Guardian",
+        "url": "https://mg.co.za/thought-leader/the-diplomat/2026-11-23-south-africa-and-netherlands-mark-80-years-of-international-justice/",
+        "publishedAt": "2026-11-23T09:31:43.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA Dutch court banned a BYD model from the EU for copying Land Rover's design. [1][2]\n\nKEY RISKS\nNetherlands is linked to 67 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:31:55.341Z",
+      "sources": [
+        {
+          "title": "Dutch court bans BYD model from EU over likeness to Land Rover's Defender",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/dutch-court-bans-byd-model-from-eu-over-likeness-to-land-rovers-defender",
+          "publishedAt": "2026-11-23T16:31:04.000Z"
+        },
+        {
+          "title": "BYD hit after Dutch court bars SUV from EU for copying Land Rover design",
+          "source": "The Irish Times",
+          "url": "https://www.irishtimes.com/business/2026/11/23/byd-hit-after-dutch-court-bars-suv-from-eu-over-land-rover-design-copy/",
+          "publishedAt": "2026-11-23T15:06:51.000Z"
+        },
+        {
+          "title": "Crown Prince begins European tour covering Ireland and the Netherlands",
+          "source": "Jordan News",
+          "url": "https://www.jordannews.jo/Section-109/News/Crown-Prince-begins-European-tour-covering-Ireland-and-the-Netherlands-59269",
+          "publishedAt": "2026-11-23T14:25:41.000Z"
+        },
+        {
+          "title": "Heel Holland Bakt-kijkers zien deelnemer worstelen met recept: 'Begrijpend lezen is een dingetje'",
+          "source": "RTL Nieuws",
+          "url": "https://www.rtl.nl/boulevard/artikel/5666656/heel-holland-bakt-kijkers-zien-deelnemer-worstelen-met-recept-begrijpend",
+          "publishedAt": "2026-11-23T11:47:06.000Z"
+        },
+        {
+          "title": "South Africa and Netherlands mark 80 years of international justice",
+          "source": "Mail & Guardian",
+          "url": "https://mg.co.za/thought-leader/the-diplomat/2026-11-23-south-africa-and-netherlands-mark-80-years-of-international-justice/",
+          "publishedAt": "2026-11-23T09:31:43.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "67",
+          "factText": "Netherlands is linked to 67 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

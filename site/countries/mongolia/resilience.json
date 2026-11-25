@@ -1,0 +1,99 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "slug": "mongolia",
+  "rank": 70,
+  "overallScore": 55.4,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mongolia’s Foreign Policy Doctrine and the ‘Third Neighbor’",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/11/mongolias-foreign-policy-doctrine-and-the-third-neighbor/",
+        "publishedAt": "2026-11-23T01:36:00.000Z"
+      },
+      {
+        "title": "Mais de 500 camelos atravessam deserto na China em migração anual na Mongólia Interior",
+        "source": "g1 Mundo",
+        "url": "https://g1.globo.com/mundo/noticia/2026/11/21/mais-de-500-camelos-atravessam-deserto-na-china-em-migracao-anual-na-mongolia.ghtml",
+        "publishedAt": "2026-11-21T14:10:19.000Z"
+      },
+      {
+        "title": "Snow covers nearly 80 pct of Mongolia's territory-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20261123/d285b8eb286640b8bcaca7adac1fd867/c.html",
+        "publishedAt": "2026-11-23T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Snow covers nearly 80 pct of Mongolia's territory-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20261123/0f63773398e04b228c8e185db859aa95/c.html",
+        "publishedAt": "2026-11-23T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Foreign Ministers of Mongolia and South Korea discuss issues of cooperation",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:932711:Foreign_Ministers_of_Mongolia_and_South_Korea_discuss_issues_of_cooperation/",
+        "publishedAt": "2026-11-23T09:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Foreign Ministers of Mongolia and South Korea discussed issues of cooperation. [5]\n\nWATCH ITEMS\nWhether the cooperation discussions between the Foreign Ministers of Mongolia and South Korea will lead to tangible agreements. [5]",
+      "generatedAt": "2026-11-24T04:53:46.603Z",
+      "sources": [
+        {
+          "title": "Mongolia’s Foreign Policy Doctrine and the ‘Third Neighbor’",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/11/mongolias-foreign-policy-doctrine-and-the-third-neighbor/",
+          "publishedAt": "2026-11-23T01:36:00.000Z"
+        },
+        {
+          "title": "Mais de 500 camelos atravessam deserto na China em migração anual na Mongólia Interior",
+          "source": "g1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/21/mais-de-500-camelos-atravessam-deserto-na-china-em-migracao-anual-na-mongolia.ghtml",
+          "publishedAt": "2026-11-21T14:10:19.000Z"
+        },
+        {
+          "title": "Snow covers nearly 80 pct of Mongolia's territory-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20261123/d285b8eb286640b8bcaca7adac1fd867/c.html",
+          "publishedAt": "2026-11-23T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Snow covers nearly 80 pct of Mongolia's territory-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/asiapacific/20261123/0f63773398e04b228c8e185db859aa95/c.html",
+          "publishedAt": "2026-11-23T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Foreign Ministers of Mongolia and South Korea discuss issues of cooperation",
+          "source": "akipress.com",
+          "url": "https://akipress.com/news:932711:Foreign_Ministers_of_Mongolia_and_South_Korea_discuss_issues_of_cooperation/",
+          "publishedAt": "2026-11-23T09:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

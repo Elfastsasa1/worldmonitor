@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "slug": "armenia",
+  "rank": 79,
+  "overallScore": 54.5,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Leader's advisor reacts to Armenia's corridor announcement",
+        "source": "Mehr News",
+        "url": "https://en.mehrnews.com/news/249639/Mokhber-warns-against-consequences-of-opening-Trump-corridor",
+        "publishedAt": "2026-11-23T17:05:29.000Z"
+      },
+      {
+        "title": "Armenia treats 3 Palestinian children from Gaza",
+        "source": "OC Media",
+        "url": "https://oc-media.org/armenia-treats-3-palestinian-children-from-gaza/",
+        "publishedAt": "2026-11-23T14:39:24.000Z"
+      },
+      {
+        "title": "Armenia proposes new constitution in step towards peace with Azerbaijan",
+        "source": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/article/2026-11-23-armenia-proposes-new-constitution-in-step-towards-peace-with-azerbaijan/",
+        "publishedAt": "2026-11-23T10:32:19.000Z"
+      },
+      {
+        "title": "Armenia takes major step for peace with Azerbaijan",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/armenia-takes-major-step-for-peace-with-azerbaijan/news",
+        "publishedAt": "2026-11-23T09:49:00.000Z"
+      },
+      {
+        "title": "Armenian authorities urge opposition not to ‘obstruct a referendum on the new Constitution’",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/armenian-authorities-urge-opposition-not-to-obstruct-a-referendum-on-the-new-constitution/",
+        "publishedAt": "2026-11-23T09:37:26.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nArmenia proposes a new constitution in a step towards peace with Azerbaijan. [3]",
+      "generatedAt": "2026-11-24T04:22:35.271Z",
+      "sources": [
+        {
+          "title": "Leader's advisor reacts to Armenia's corridor announcement",
+          "source": "Mehr News",
+          "url": "https://en.mehrnews.com/news/249639/Mokhber-warns-against-consequences-of-opening-Trump-corridor",
+          "publishedAt": "2026-11-23T17:05:29.000Z"
+        },
+        {
+          "title": "Armenia treats 3 Palestinian children from Gaza",
+          "source": "OC Media",
+          "url": "https://oc-media.org/armenia-treats-3-palestinian-children-from-gaza/",
+          "publishedAt": "2026-11-23T14:39:24.000Z"
+        },
+        {
+          "title": "Armenia proposes new constitution in step towards peace with Azerbaijan",
+          "source": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-23-armenia-proposes-new-constitution-in-step-towards-peace-with-azerbaijan/",
+          "publishedAt": "2026-11-23T10:32:19.000Z"
+        },
+        {
+          "title": "Armenia takes major step for peace with Azerbaijan",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/armenia-takes-major-step-for-peace-with-azerbaijan/news",
+          "publishedAt": "2026-11-23T09:49:00.000Z"
+        },
+        {
+          "title": "Armenian authorities urge opposition not to ‘obstruct a referendum on the new Constitution’",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/armenian-authorities-urge-opposition-not-to-obstruct-a-referendum-on-the-new-constitution/",
+          "publishedAt": "2026-11-23T09:37:26.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

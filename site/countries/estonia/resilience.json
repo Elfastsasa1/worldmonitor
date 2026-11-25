@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "slug": "estonia",
+  "rank": 34,
+  "overallScore": 61.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war' - Reuters",
+        "source": "Reuters — Estonia",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5",
+        "publishedAt": "2026-11-23T20:45:41.000Z"
+      },
+      {
+        "title": "Licensing Lawyer Estonia: When Fintechs Should Hire - Global Advisory Experts",
+        "source": "Fintech News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFVhZHRmUWEyZDdTTlBPSE9QMDV4dTAyUlZfMGl1eGVJQks2S0VDX1M4Rzdqcy0xR3JEZktfTVdhdHJBa2tWOVBfVG9IdVpTSTNDMk9qQXlNdXlkTGNaS2dPRDBrUmI2ZTlBdXpWN3JMcnNfM21IQndyODlZOUt4RURLeEI5VkdjWGhTeA?oc=5",
+        "publishedAt": "2026-11-24T02:08:27.000Z"
+      },
+      {
+        "title": "Estonia must get used to Ukrainian drone attacks in the Baltic Sea, Prime Minister says",
+        "source": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-polytics/4187653-estonia-must-get-used-to-ukrainian-drone-attacks-in-the-baltic-sea-prime-minister-says.html",
+        "publishedAt": "2026-11-24T00:37:00.000Z"
+      },
+      {
+        "title": "Estonia's advice to New Zealand on dealing with Russia",
+        "source": "RNZ",
+        "url": "https://www.rnz.co.nz/news/world/2759955/estonia-s-advice-to-new-zealand-on-dealing-with-russia",
+        "publishedAt": "2026-11-23T23:54:29.000Z"
+      },
+      {
+        "title": "Estonia’s interior minister suggests petitioning Putin to end war in Ukraine after Narva resident launches petition to keep border with Russia open for family visits",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/11/24/estonia-s-interior-minister-suggests-petitioning-putin-to-end-war-in-ukraine-after-narva-resident-launches-petition-to-keep-border-with-russia-open-for-family-visits",
+        "publishedAt": "2026-11-23T22:42:38.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMoscow accuses Estonia of hostile actions on the 'verge of triggering open war'. [1]\nEstonia's interior minister suggests petitioning Putin to end war in Ukraine after a Narva resident launches a petition to keep the border with Russia open for family. [5]\n\nWATCH ITEMS\nWhether Moscow will escalate its accusations against Estonia beyond rhetoric. [1]",
+      "generatedAt": "2026-11-24T04:25:57.318Z",
+      "sources": [
+        {
+          "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war' - Reuters",
+          "source": "Reuters — Estonia",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5",
+          "publishedAt": "2026-11-23T20:45:41.000Z"
+        },
+        {
+          "title": "Licensing Lawyer Estonia: When Fintechs Should Hire - Global Advisory Experts",
+          "source": "Fintech News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFVhZHRmUWEyZDdTTlBPSE9QMDV4dTAyUlZfMGl1eGVJQks2S0VDX1M4Rzdqcy0xR3JEZktfTVdhdHJBa2tWOVBfVG9IdVpTSTNDMk9qQXlNdXlkTGNaS2dPRDBrUmI2ZTlBdXpWN3JMcnNfM21IQndyODlZOUt4RURLeEI5VkdjWGhTeA?oc=5",
+          "publishedAt": "2026-11-24T02:08:27.000Z"
+        },
+        {
+          "title": "Estonia must get used to Ukrainian drone attacks in the Baltic Sea, Prime Minister says",
+          "source": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-polytics/4187653-estonia-must-get-used-to-ukrainian-drone-attacks-in-the-baltic-sea-prime-minister-says.html",
+          "publishedAt": "2026-11-24T00:37:00.000Z"
+        },
+        {
+          "title": "Estonia's advice to New Zealand on dealing with Russia",
+          "source": "RNZ",
+          "url": "https://www.rnz.co.nz/news/world/2759955/estonia-s-advice-to-new-zealand-on-dealing-with-russia",
+          "publishedAt": "2026-11-23T23:54:29.000Z"
+        },
+        {
+          "title": "Estonia’s interior minister suggests petitioning Putin to end war in Ukraine after Narva resident launches petition to keep border with Russia open for family...",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/11/24/estonia-s-interior-minister-suggests-petitioning-putin-to-end-war-in-ukraine-after-narva-resident-launches-petition-to-keep-border-with-russia-open-for-family-visits",
+          "publishedAt": "2026-11-23T22:42:38.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

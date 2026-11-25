@@ -1,0 +1,172 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "slug": "somalia",
+  "rank": 168,
+  "overallScore": 21,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Qatar Charity strengthens dialysis services in Somalia",
+        "source": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/738834/qatar/qatar-charity-strengthens-dialysis-services-in-somalia",
+        "publishedAt": "2026-11-23T13:56:00.000Z"
+      },
+      {
+        "title": "Somalia: Galmudug State Minister Resigns Hours After Appointment Over Clan Representation",
+        "source": "garoweonline.com",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-galmudug-state-minister-resigns-hours-after-appointment-over-clan-representation",
+        "publishedAt": "2026-11-24T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Somalia: Hassan Sheikh ally Ahmed Moallim Fiqi removed as defence minister",
+        "source": "garoweonline.com",
+        "url": "https://garoweonline.com/en/news/somalia/somalia-hassan-sheikh-ally-ahmed-moallim-fiqi-removed-as-defence-minister",
+        "publishedAt": "2026-11-24T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Uganda, the US and Somalia's mandate crisis",
+        "source": "garoweonline.com",
+        "url": "https://garoweonline.com/en/news/somalia/uganda-the-us-and-somalias-mandate-crisis",
+        "publishedAt": "2026-11-24T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Uganda, the US and Somalia's mandate crisis",
+        "source": "garoweonline.com",
+        "url": "https://www.garoweonline.com/en/news/somalia/uganda-the-us-and-somalias-mandate-crisis",
+        "publishedAt": "2026-11-24T00:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nQatar Charity strengthens dialysis services in Somalia. [1]\nGalmudug State Minister resigns hours after appointment over clan representation. [2]\n\nWATCH ITEMS\nWhether the mandate crisis involving Uganda, the US and Somalia will be resolved. [4][5]",
+      "generatedAt": "2026-11-24T04:34:27.096Z",
+      "sources": [
+        {
+          "title": "Qatar Charity strengthens dialysis services in Somalia",
+          "source": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/738834/qatar/qatar-charity-strengthens-dialysis-services-in-somalia",
+          "publishedAt": "2026-11-23T13:56:00.000Z"
+        },
+        {
+          "title": "Somalia: Galmudug State Minister Resigns Hours After Appointment Over Clan Representation",
+          "source": "garoweonline.com",
+          "url": "https://garoweonline.com/en/news/somalia/somalia-galmudug-state-minister-resigns-hours-after-appointment-over-clan-representation",
+          "publishedAt": "2026-11-24T00:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Somalia: Hassan Sheikh ally Ahmed Moallim Fiqi removed as defence minister",
+          "source": "garoweonline.com",
+          "url": "https://garoweonline.com/en/news/somalia/somalia-hassan-sheikh-ally-ahmed-moallim-fiqi-removed-as-defence-minister",
+          "publishedAt": "2026-11-24T00:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Uganda, the US and Somalia's mandate crisis",
+          "source": "garoweonline.com",
+          "url": "https://garoweonline.com/en/news/somalia/uganda-the-us-and-somalias-mandate-crisis",
+          "publishedAt": "2026-11-24T00:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Uganda, the US and Somalia's mandate crisis",
+          "source": "garoweonline.com",
+          "url": "https://www.garoweonline.com/en/news/somalia/uganda-the-us-and-somalias-mandate-crisis",
+          "publishedAt": "2026-11-24T00:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [
+      {
+        "title": "GDELT 180 — in Somalia",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/us-politics/article-16316985/Ilhan-Omar-search-warrant-unsealed.html",
+        "occurredAt": "2026-11-24T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Somalia",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/us-politics/article-16316985/Ilhan-Omar-search-warrant-unsealed.html",
+        "occurredAt": "2026-11-24T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/moyale-the-answer-ethiopia-refuses-to-hear/",
+        "occurredAt": "2026-11-23T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/moyale-the-answer-ethiopia-refuses-to-hear/",
+        "occurredAt": "2026-11-23T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.myspiritfm.com",
+        "sourceUrl": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307532",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.myspiritfm.com",
+        "sourceUrl": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307532",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.myspiritfm.com",
+        "sourceUrl": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307532",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.myspiritfm.com",
+        "sourceUrl": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307532",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.myspiritfm.com",
+        "sourceUrl": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307532",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: www.myspiritfm.com",
+        "sourceUrl": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307532",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

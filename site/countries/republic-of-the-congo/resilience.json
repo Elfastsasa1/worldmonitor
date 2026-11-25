@@ -1,0 +1,33 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "slug": "republic-of-the-congo",
+  "rank": 128,
+  "overallScore": 44,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "After Congo-Brazzaville Meeting, Kenya and DRC Presidents Agree to Restore Diplomatic Relations",
+        "source": "KT Press",
+        "url": "https://www.ktpress.rw/2026/11/after-congo-brazzaville-meeting-kenya-and-drc-presidents-agree-to-restore-diplomatic-relations/",
+        "publishedAt": "2026-11-22T19:28:18.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

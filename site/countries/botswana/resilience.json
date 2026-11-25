@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "slug": "botswana",
+  "rank": 121,
+  "overallScore": 46.6,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Botswana’s De Beers Gamble Needs Answers",
+        "source": "The Botswana Gazette",
+        "url": "https://www.thegazette.news/features/botswanas-de-beers-gamble-needs-answers/",
+        "publishedAt": "2026-11-23T13:05:47.000Z"
+      },
+      {
+        "title": "Cheetah from Botswana is Kuno’s latest mom, 4 cubs take India’s population to 62",
+        "source": "Indian Express",
+        "url": "https://indianexpress.com/article/india/cheetah-from-botswana-is-kunos-latest-mom-4-cubs-take-indias-population-to-62-10971264/",
+        "publishedAt": "2026-11-20T09:17:29.000Z"
+      },
+      {
+        "title": "IMF Completes 2026 Mission to Botswana",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/imf-completes-2026-mission-to-botswana-1782203/",
+        "publishedAt": "2026-11-23T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Botswana's education system faces transition crisis :: Mmegi Online",
+        "source": "mmegi.bw",
+        "url": "https://www.mmegi.bw/news/botswanas-education-system-faces-transition-crisis/news",
+        "publishedAt": "2026-11-23T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "BTC to launch Starlink D2D service in Botswana in early 2027",
+        "source": "developingtelecoms.com",
+        "url": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/21166-btc-to-launch-starlink-d2d-service-in-botswana-in-early-2027.html",
+        "publishedAt": "2026-11-23T06:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBotswana's education system is facing a transition crisis. [4]\nThe IMF completed its 2026 mission to Botswana. [3]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Botswana is Exercise Increased Caution, as of Nov 24, 2026. [E1]\n\nWATCH ITEMS\nWhether Botswana's De Beers gamble will provide the needed answers remains unresolved. [1]",
+      "generatedAt": "2026-11-24T04:24:05.580Z",
+      "sources": [
+        {
+          "title": "Botswana’s De Beers Gamble Needs Answers",
+          "source": "The Botswana Gazette",
+          "url": "https://www.thegazette.news/features/botswanas-de-beers-gamble-needs-answers/",
+          "publishedAt": "2026-11-23T13:05:47.000Z"
+        },
+        {
+          "title": "Cheetah from Botswana is Kuno’s latest mom, 4 cubs take India’s population to 62",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/cheetah-from-botswana-is-kunos-latest-mom-4-cubs-take-indias-population-to-62-10971264/",
+          "publishedAt": "2026-11-20T09:17:29.000Z"
+        },
+        {
+          "title": "IMF Completes 2026 Mission to Botswana",
+          "source": "miragenews.com",
+          "url": "https://www.miragenews.com/imf-completes-2026-mission-to-botswana-1782203/",
+          "publishedAt": "2026-11-23T19:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Botswana's education system faces transition crisis :: Mmegi Online",
+          "source": "mmegi.bw",
+          "url": "https://www.mmegi.bw/news/botswanas-education-system-faces-transition-crisis/news",
+          "publishedAt": "2026-11-23T11:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "BTC to launch Starlink D2D service in Botswana in early 2027",
+          "source": "developingtelecoms.com",
+          "url": "https://developingtelecoms.com/telecom-technology/satellite-communications-networks/21166-btc-to-launch-starlink-d2d-service-in-botswana-in-early-2027.html",
+          "publishedAt": "2026-11-23T06:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Botswana is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

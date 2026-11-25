@@ -1,0 +1,79 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "horn-of-africa",
+  "title": "Horn of Africa conflict tracker",
+  "shortTitle": "Horn of Africa",
+  "description": "Horn of Africa conflicts in Ethiopia, Somalia, South Sudan and Eritrea: Tigray, al-Shabaab, key actors, a sourced timeline, what to watch and monthly data.",
+  "overview": "This tracker keeps a fixed four-country boundary across the Horn of Africa. Ethiopia, Somalia and South Sudan report through subnational humanitarian records while Eritrea reports nationally, so a country showing zero recorded events reflects the maintained dataset rather than an absence of risk.",
+  "coverage": [
+    {
+      "code": "ET",
+      "name": "Ethiopia"
+    },
+    {
+      "code": "SO",
+      "name": "Somalia"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 371,
+    "fatalities": 505,
+    "politicalViolenceEvents": 342,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "ER",
+        "name": "Eritrea",
+        "events": 5,
+        "fatalities": 0,
+        "political": 5,
+        "demonstrations": 0,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "ET",
+        "name": "Ethiopia",
+        "events": 136,
+        "fatalities": 376,
+        "political": 132,
+        "demonstrations": 4,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "SO",
+        "name": "Somalia",
+        "events": 193,
+        "fatalities": 91,
+        "political": 168,
+        "demonstrations": 25,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "SS",
+        "name": "South Sudan",
+        "events": 37,
+        "fatalities": 38,
+        "political": 37,
+        "demonstrations": 0,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

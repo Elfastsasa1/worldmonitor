@@ -1,0 +1,191 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SA",
+  "countryName": "Saudi Arabia",
+  "slug": "saudi-arabia",
+  "rank": 60,
+  "overallScore": 56.7,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh - Reuters",
+        "source": "Reuters — Yemen",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5",
+        "publishedAt": "2026-11-20T23:36:00.000Z"
+      },
+      {
+        "title": "UK and Saudi Arabia deepen defence-industrial co-operation at Lancaster House",
+        "source": "UK MOD",
+        "url": "https://www.gov.uk/government/news/uk-and-saudi-arabia-deepen-defence-industrial-co-operation-at-lancaster-house",
+        "publishedAt": "2026-11-23T17:11:27.000Z"
+      },
+      {
+        "title": "Saudi Arabia announces 50% Saudisation for 17 finance jobs: Full list and May 2027 deadline - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXZHc1VrZHA2Y1JjaHpqbm9YQVF2dkdfNm1sWm9ZYjV5cG5GbTNkVVgzb29sVm83VGlMNWZjdXV1NlEzaHpQVVBBc1kta3dDRERfMF8xS0g1eG9VUUxNbXYxNmhrckVUS3pyal9KYS1PZkJEeFFRcm9HS09PNWhoR0JTYXE?oc=5",
+        "publishedAt": "2026-11-23T18:53:43.000Z"
+      },
+      {
+        "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+        "publishedAt": "2026-11-24T01:31:42.000Z"
+      },
+      {
+        "title": "Saudi crown prince, Kuwaiti emir discuss strengthening bilateral ties - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0U1Q2RfeVQ4Q0tSYTV0UlpJZWJYYkoxalBCcWhtZE1nWVdyWDltdWxkajZPTTR4cFBQN3pIYzZXLUxQU2c0VUhLdFZ3N1hTczhxN2hLUzA0Qmx2MG81WkNraTZob3pKcjlNVlAyZ3FyM3RGWEtMVlg1NmV6ZXZUVHU0S1M5MlVnTmxuZHpVNU1RZ0NMcXI4NFN1YkljVFppSUluZ2RuanFiMWozb2lsTk03dWw?oc=5",
+        "publishedAt": "2026-11-23T16:26:14.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSaudi Arabia says it intercepts three Houthi missiles targeting Riyadh. [1]\nThe UK and Saudi Arabia deepen defence-industrial co-operation at Lancaster House. [2]\n\nKEY RISKS\nThe most severe government travel advisory for Saudi Arabia is Do Not Travel, indicating significant risk for foreign nationals. [E2]\n\nOUTLOOK\nA Polymarket market related to Saudi Arabia, \"Will the Houthis enter Saudi Arabia by December 31?\", priced Yes at 17% on Nov 24, 2026; it closes Jan 1, 2027. [E6]\nA Polymarket market related to Saudi Arabia, \"Will the OpenAI spy be accused of working for Saudi Arabia by December 31?\", priced Yes at 8% on Nov 24, 2026; it closes Jan 1, 2027. [E7]\n\nWATCH ITEMS\nWhether the Houthis will enter Saudi Arabia by December 31, as tracked by a Polymarket market. [E6]\nWhether the OpenAI spy will be accused of working for Saudi Arabia by December 31, as tracked by a Polymarket market. [E7]",
+      "generatedAt": "2026-11-24T04:55:29.090Z",
+      "sources": [
+        {
+          "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh - Reuters",
+          "source": "Reuters — Yemen",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5",
+          "publishedAt": "2026-11-20T23:36:00.000Z"
+        },
+        {
+          "title": "UK and Saudi Arabia deepen defence-industrial co-operation at Lancaster House",
+          "source": "UK MOD",
+          "url": "https://www.gov.uk/government/news/uk-and-saudi-arabia-deepen-defence-industrial-co-operation-at-lancaster-house",
+          "publishedAt": "2026-11-23T17:11:27.000Z"
+        },
+        {
+          "title": "Saudi Arabia announces 50% Saudisation for 17 finance jobs: Full list and May 2027 deadline - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXZHc1VrZHA2Y1JjaHpqbm9YQVF2dkdfNm1sWm9ZYjV5cG5GbTNkVVgzb29sVm83VGlMNWZjdXV1NlEzaHpQVVBBc1kta3dDRERfMF8xS0g1eG9VUUxNbXYxNmhrckVUS3pyal9KYS1PZkJEeFFRcm9HS09PNWhoR0JTYXE?oc=5",
+          "publishedAt": "2026-11-23T18:53:43.000Z"
+        },
+        {
+          "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+          "publishedAt": "2026-11-24T01:31:42.000Z"
+        },
+        {
+          "title": "Saudi crown prince, Kuwaiti emir discuss strengthening bilateral ties - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0U1Q2RfeVQ4Q0tSYTV0UlpJZWJYYkoxalBCcWhtZE1nWVdyWDltdWxkajZPTTR4cFBQN3pIYzZXLUxQU2c0VUhLdFZ3N1hTczhxN2hLUzA0Qmx2MG81WkNraTZob3pKcjlNVlAyZ3FyM3RGWEtMVlg1NmV6ZXZUVHU0S1M5MlVnTmxuZHpVNU1RZ0NMcXI4NFN1YkljVFppSUluZ2RuanFiMWozb2lsTk03dWw?oc=5",
+          "publishedAt": "2026-11-23T16:26:14.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Saudi Arabia is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "17%",
+          "factText": "A Polymarket market related to Saudi Arabia, \"Will the Houthis enter Saudi Arabia by December 31?\", priced Yes at 17% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/houthis-enter-saudi-arabia-byptptpt"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "8%",
+          "factText": "A Polymarket market related to Saudi Arabia, \"Will the OpenAI spy be accused of working for Saudi Arabia by December 31?\", priced Yes at 8% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/who-will-the-openai-spy-be-accused-of-working-for-in-2026"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 182 — in Saudi Arabia",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/asia/23-civilians-killed-in-airstrikes-in-yemen-538102",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Saudi Arabia",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/at-least-23-civilians-killed-in-yemen-airstrikes-as-rival-sides-trade-blame",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Saudi Arabia",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/at-least-23-civilians-killed-in-yemen-airstrikes-as-rival-sides-trade-blame",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Saudi Arabia",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/at-least-23-civilians-killed-in-yemen-airstrikes-as-rival-sides-trade-blame",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Saudi Arabia",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/at-least-23-civilians-killed-in-yemen-airstrikes-as-rival-sides-trade-blame",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Saudi Arabia",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-run-government-says-saudi-airstrikes-killed-injured-civilians",
+        "occurredAt": "2026-11-23T21:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Saudi Arabia",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-run-government-says-saudi-airstrikes-killed-injured-civilians",
+        "occurredAt": "2026-11-23T21:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Saudi Arabia",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/news/international/17-killed-in-saudi-attack-on-yemeni-city-houthis/article71735986.ece",
+        "occurredAt": "2026-11-23T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Saudi Arabia",
+        "summary": "source: www.dailymirror.lk",
+        "sourceUrl": "https://www.dailymirror.lk/breaking-news/Houthis-claim-attack-on-Saudi-oil-refinery/108-355563",
+        "occurredAt": "2026-11-23T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Saudi Arabia",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/11/23/houthi-media-says-10-dead-in-saudi-attack-on-yemen-port-city",
+        "occurredAt": "2026-11-23T12:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

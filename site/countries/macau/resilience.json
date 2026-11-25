@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MO",
+  "countryName": "Macau",
+  "slug": "macau",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.61,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How a winemaker found his home and his market in Macao",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/how-a-winemaker-found-his-home-and-his-market-in-macao",
+        "publishedAt": "2026-11-23T14:00:19.000Z"
+      },
+      {
+        "title": "Where Festive Moments Shine: Galaxy Macau Launches Extraordinary Winter Experiences with the Dior Festive Mansion and More",
+        "source": "The Bruneian",
+        "url": "https://thebruneian.news/2026/11/23/where-festive-moments-shine-galaxy-macau-launches-extraordinary-winter-experiences-with-the-dior-festive-mansion-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=where-festive-moments-shine-galaxy-macau-launches-extraordinary-winter-experiences-with-the-dior-festive-mansion-and-more",
+        "publishedAt": "2026-11-23T11:48:00.000Z"
+      },
+      {
+        "title": "Concerts alone won't draw visitors into communities: Dora Ng – MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/concerts-alone-wont-draw-visitors-into-communities-dora-ng.html",
+        "publishedAt": "2026-11-24T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gaming revenue remains stable as visitor spending shifts beyond casinos, gov't says – MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/gaming-revenue-remains-stable-as-visitor-spending-shifts-beyond-casinos-govt-says.html",
+        "publishedAt": "2026-11-24T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gov' to raise local mid- to senior-level management quota at gaming operators to 90% – MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/gov-to-raise-local-mid-to-senior-level-management-quota-at-gaming-operators-to-90.html",
+        "publishedAt": "2026-11-24T03:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGaming revenue remains stable as visitor spending shifts beyond casinos, according to the government. [4]\nThe government will raise the local mid- to senior-level management quota at gaming operators to 90%. [5]\n\nKEY RISKS\nMacao is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E1]\n\nWATCH ITEMS\nWhether the government's plan to raise the local management quota at gaming operators to 90% will affect the industry's operations. [5]",
+      "generatedAt": "2026-11-24T04:30:53.966Z",
+      "sources": [
+        {
+          "title": "How a winemaker found his home and his market in Macao",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/how-a-winemaker-found-his-home-and-his-market-in-macao",
+          "publishedAt": "2026-11-23T14:00:19.000Z"
+        },
+        {
+          "title": "Where Festive Moments Shine: Galaxy Macau Launches Extraordinary Winter Experiences with the Dior Festive Mansion and More",
+          "source": "The Bruneian",
+          "url": "https://thebruneian.news/2026/11/23/where-festive-moments-shine-galaxy-macau-launches-extraordinary-winter-experiences-with-the-dior-festive-mansion-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=where-festive-moments-shine-galaxy-macau-launches-extraordinary-winter-experiences-with-the-dior-festive-mansion-and-more",
+          "publishedAt": "2026-11-23T11:48:00.000Z"
+        },
+        {
+          "title": "Concerts alone won't draw visitors into communities: Dora Ng – MACAU DAILY TIMES 澳門每日時報",
+          "source": "macaudailytimes.com.mo",
+          "url": "https://macaudailytimes.com.mo/concerts-alone-wont-draw-visitors-into-communities-dora-ng.html",
+          "publishedAt": "2026-11-24T03:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Gaming revenue remains stable as visitor spending shifts beyond casinos, gov't says – MACAU DAILY TIMES 澳門每日時報",
+          "source": "macaudailytimes.com.mo",
+          "url": "https://macaudailytimes.com.mo/gaming-revenue-remains-stable-as-visitor-spending-shifts-beyond-casinos-govt-says.html",
+          "publishedAt": "2026-11-24T03:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Gov' to raise local mid- to senior-level management quota at gaming operators to 90% – MACAU DAILY TIMES 澳門每日時報",
+          "source": "macaudailytimes.com.mo",
+          "url": "https://macaudailytimes.com.mo/gov-to-raise-local-mid-to-senior-level-management-quota-at-gaming-operators-to-90.html",
+          "publishedAt": "2026-11-24T03:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "2",
+          "factText": "Macao is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

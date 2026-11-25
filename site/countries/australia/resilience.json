@@ -1,0 +1,112 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "slug": "australia",
+  "rank": 45,
+  "overallScore": 59.3,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+        "publishedAt": "2026-11-20T12:02:00.000Z"
+      },
+      {
+        "title": "BHP maps out major Copper SA expansion strategy - Australian Mining",
+        "source": "BHP News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHFXRjRoVy1KemQyVndyRWZZcXJYenFxSGZFQ3FISzAwZmFhcTFzMTZuUm9zakNXZVYzX0xuTFBZbUtSUFdXNHZETm1GZUZhTW15NVFDQk11RWcyMlBMZlFXZ2QtQ3prWnZ3OV9yMmF4R3p1dkJPQTlvS3RFVHFLMkpVSzlEMUw3WXByZQ?oc=5",
+        "publishedAt": "2026-11-24T00:51:34.000Z"
+      },
+      {
+        "title": "BHP to invest up to US$17.4 billion in doubling South Australia's copper output to 650,000 tons annually by 2040 - CPG Click Oil and Gas",
+        "source": "BHP News",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQi1CT2pqeHNKZmc5dGotakh6NXA1dm9kM3hPV3hnbTFodTV5NmRGLVpGbXBKdG9sRkVUSFdSNDJhNng4MEJaRDQ2WWdwd2s4UnF3S2xiYXFzc0pDMEh4dkRxVjhSN3ZJXzhaNFFxTVhnSGpOWEc0UkJMdW1yem14VFVnTHJDd1RFOUJSSnJIREdLSnkyQU1LVFRPVDliOHJoR2dPUFgydEF6ZzRwbTFYd1ZBaUFYWkdhMWw1THg2eC1hSGZCbGtNV1drQnpvV3JsRzZ2YTFNclk3SUtGWUFId2RfdHY1YTJrR014aHlYLTJabmhXQ0w2dDgwY0pCbklocGJQYXlCUU5DTEJrVGlBaw?oc=5",
+        "publishedAt": "2026-11-23T21:56:00.000Z"
+      },
+      {
+        "title": "Australia to treat AI as key foreign policy issue, warning of risks to democracy - South China Morning Post",
+        "source": "China Tech Policy",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDZNRkNVZUFKTVpBYjR1MVZsV0pxT0gwSERPUnl2SmdpQ2Q4eEZ6REd4Z3pRdGI0UHV5Q0xNemhJSjFXZlU2UWQ4bk5JUzJaeElRZFdEc1VGU0tJV0dqUmRnRUlrMFJuRkMxc3VwaFAwMVhvdmhjdXZjZUFla1R0Qm52NUhwMVNtbFZIRzJLRDJpMm9qOHNsa3FfcjNvSnFZX3c0VDBFUXFVRnV0UEtOWjQ2cmVqS0k0N0t3aTRFWG12eDl5Y0UxX2J30gHKAUFVX3lxTFBkNk1GQ1VlQUpNWkFiNHUxVmxXSnFPSDBIRE9SeXZKZ2lDZDh4RnpER3hnelF0YjRQdXlDTE16aElKMVdmVTZRZDhuTklTMlp4SVFkV0RzVUZTS0lXR2pSZGdFSWswUm5GQzFzdXBoUDAxWG92aGN1dmNlQWVrVHRCbnY1SHAxU21sVkhHMktEMmkyb2o4c2xrcV9yM29KcVlfdzRUMEVRcVVGdXRQS05aNDZyZWpLSTQ3S3dpNEVYbXZ4OXljRTFfYnc?oc=5",
+        "publishedAt": "2026-11-23T11:13:50.000Z"
+      },
+      {
+        "title": "Australian bank NAB apologises after staff learn of layoffs early through automated email - ETHRWorld.com",
+        "source": "Layoffs.fyi",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbm1EM3A3Q2x0YWFPVXNpc3liRTBOY0NtbUNyUTJweTFjSi0wVkVrSEcyODYtdVJjeUZNSW9VbmszYlZJX2M4LV93SG90OC01VmRNTzJDZTF6VnNpdXkwVVcycWluOFJDVG92VUkzOUtVYU9MY3I2N3ZfRERnU3QxV3BiblA2RjFqU19maXB1U1lkdlNnVWVpdTdzcUstNG1hZ2Uwemw4NTF1SFdpVTFsUjNKVVRWM2RDMGFvbnc5d21lbG44V2NQQ01rN0FyTHdnTG5uOUNkYlRBak01SnN5X1NyNkp0eXE2WWNDYWpn0gHuAUFVX3lxTE9ubUQzcDdDbHRhYU9Vc2lzeWJFME5jQ21tQ3JRMnB5MWNKLTBWRWtIRzI4Ni11UmN5Rk1Jb1VuazNiVklfYzgtX3dIb3Q4LTVWZE1PMkNlMXpWc2l1eTBVVzJxaW44UkNUb3ZVSTM5S1VhT0xjcjY3dl9ERGdTdDFXcGJuUDZGMWpTX2ZpcHVTWWR2U2dVZWl1N3NxSy00bWFnZTB6bDg1MXVIV2lVMWxSM0pVVFYzZEMwYW9udzl3bWVsbjhXY1BDTWs3QXJMd2dMbm45Q2RiVEFqTTVKc3lfU3I2SnR5cTZZY0Nhamc?oc=5",
+        "publishedAt": "2026-11-24T01:59:14.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US has sanctioned an Italian mafia group in Canada and an Australian biker gang with a global footprint. [1]\nBHP plans to invest up to US$17.4 billion to double South Australia's copper output to 650,000 tons annually by 2040. [3]\n\nOUTLOOK\nA Polymarket market on whether the Reserve Bank of Australia will make no change to the cash rate target at the February meeting is priced Yes at 77% as of Nov 24, 2026, closing Feb 9, 2027. [E4]\nA Kalshi market on whether Sydney Sweeney is cast as a Bond girl in the next James Bond film is priced Yes at 12% as of Nov 24, 2026, closing Jan 1, 2031. [E5]\n\nWATCH ITEMS\nWhether the Australian biker gang sanctioned by the US will face further international action. [1]",
+      "generatedAt": "2026-11-24T04:48:02.884Z",
+      "sources": [
+        {
+          "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+          "publishedAt": "2026-11-20T12:02:00.000Z"
+        },
+        {
+          "title": "BHP maps out major Copper SA expansion strategy - Australian Mining",
+          "source": "BHP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHFXRjRoVy1KemQyVndyRWZZcXJYenFxSGZFQ3FISzAwZmFhcTFzMTZuUm9zakNXZVYzX0xuTFBZbUtSUFdXNHZETm1GZUZhTW15NVFDQk11RWcyMlBMZlFXZ2QtQ3prWnZ3OV9yMmF4R3p1dkJPQTlvS3RFVHFLMkpVSzlEMUw3WXByZQ?oc=5",
+          "publishedAt": "2026-11-24T00:51:34.000Z"
+        },
+        {
+          "title": "BHP to invest up to US$17.4 billion in doubling South Australia's copper output to 650,000 tons annually by 2040 - CPG Click Oil and Gas",
+          "source": "BHP News",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQi1CT2pqeHNKZmc5dGotakh6NXA1dm9kM3hPV3hnbTFodTV5NmRGLVpGbXBKdG9sRkVUSFdSNDJhNng4MEJaRDQ2WWdwd2s4UnF3S2xiYXFzc0pDMEh4dkRxVjhSN3ZJXzhaNFFxTVhnSGpOWEc0UkJMdW1yem14VFVnTHJDd1RFOUJSSnJIREdLSnkyQU1LVFRPVDliOHJoR2dPUFgydEF6ZzRwbTFYd1ZBaUFYWkdhMWw1THg2eC1hSGZCbGtNV1drQnpvV3JsRzZ2YTFNclk3SUtGWUFId2RfdHY1YTJrR014aHlYLTJabmhXQ0w2dDgwY0pCbklocGJQYXlCUU5DTEJrVGlBaw?oc=5",
+          "publishedAt": "2026-11-23T21:56:00.000Z"
+        },
+        {
+          "title": "Australia to treat AI as key foreign policy issue, warning of risks to democracy - South China Morning Post",
+          "source": "China Tech Policy",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDZNRkNVZUFKTVpBYjR1MVZsV0pxT0gwSERPUnl2SmdpQ2Q4eEZ6REd4Z3pRdGI0UHV5Q0xNemhJSjFXZlU2UWQ4bk5JUzJaeElRZFdEc1VGU0tJV0dqUmRnRUlrMFJuRkMxc3VwaFAwMVhvdmhjdXZjZUFla1R0Qm52NUhwMVNtbFZIRzJLRDJpMm9qOHNsa3FfcjNvSnFZX3c0VDBFUXFVRnV0UEtOWjQ2cmVqS0k0N0t3aTRFWG12eDl5Y0UxX2J30gHKAUFVX3lxTFBkNk1GQ1VlQUpNWkFiNHUxVmxXSnFPSDBIRE9SeXZKZ2lDZDh4RnpER3hnelF0YjRQdXlDTE16aElKMVdmVTZRZDhuTklTMlp4SVFkV0RzVUZTS0lXR2pSZGdFSWswUm5GQzFzdXBoUDAxWG92aGN1dmNlQWVrVHRCbnY1SHAxU21sVkhHMktEMmkyb2o4c2xrcV9yM29KcVlfdzRUMEVRcVVGdXRQS05aNDZyZWpLSTQ3S3dpNEVYbXZ4OXljRTFfYnc?oc=5",
+          "publishedAt": "2026-11-23T11:13:50.000Z"
+        },
+        {
+          "title": "Australian bank NAB apologises after staff learn of layoffs early through automated email - ETHRWorld.com",
+          "source": "Layoffs.fyi",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbm1EM3A3Q2x0YWFPVXNpc3liRTBOY0NtbUNyUTJweTFjSi0wVkVrSEcyODYtdVJjeUZNSW9VbmszYlZJX2M4LV93SG90OC01VmRNTzJDZTF6VnNpdXkwVVcycWluOFJDVG92VUkzOUtVYU9MY3I2N3ZfRERnU3QxV3BiblA2RjFqU19maXB1U1lkdlNnVWVpdTdzcUstNG1hZ2Uwemw4NTF1SFdpVTFsUjNKVVRWM2RDMGFvbnc5d21lbG44V2NQQ01rN0FyTHdnTG5uOUNkYlRBak01SnN5X1NyNkp0eXE2WWNDYWpn0gHuAUFVX3lxTE9ubUQzcDdDbHRhYU9Vc2lzeWJFME5jQ21tQ3JRMnB5MWNKLTBWRWtIRzI4Ni11UmN5Rk1Jb1VuazNiVklfYzgtX3dIb3Q4LTVWZE1PMkNlMXpWc2l1eTBVVzJxaW44UkNUb3ZVSTM5S1VhT0xjcjY3dl9ERGdTdDFXcGJuUDZGMWpTX2ZpcHVTWWR2U2dVZWl1N3NxSy00bWFnZTB6bDg1MXVIV2lVMWxSM0pVVFYzZEMwYW9udzl3bWVsbjhXY1BDTWs3QXJMd2dMbm45Q2RiVEFqTTVKc3lfU3I2SnR5cTZZY0Nhamc?oc=5",
+          "publishedAt": "2026-11-24T01:59:14.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "77%",
+          "factText": "A Polymarket market related to Australia, \"Will the Reserve Bank of Australia make no change to the cash rate target at the February meeting?\", priced Yes at 77% on Nov 24, 2026; it closes Feb 9, 2027.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/reserve-bank-of-australia-decision-in-february-2027"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "12%",
+          "factText": "A Kalshi market related to Australia, \"Next James Bond film: Actress cast as a Bond girl: Sydney Sweeney\", priced Yes at 12% on Nov 24, 2026; it closes Jan 1, 2031.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://kalshi.com/markets/KXPERFORMROLE007-SYD"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

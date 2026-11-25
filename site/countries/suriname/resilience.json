@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SR",
+  "countryName": "Suriname",
+  "slug": "suriname",
+  "rank": 65,
+  "overallScore": 55.8,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Slechts vier dansers bezorgen Suriname negen podiumplaatsen op WK-dans in Amerika",
+        "source": "Suriname Herald",
+        "url": "https://www.srherald.com/suriname/2026/11/23/slechts-vier-dansers-bezorgen-suriname-negen-podiumplaatsen-op-wk-dans-in-amerika/",
+        "publishedAt": "2026-11-24T01:48:46.000Z"
+      },
+      {
+        "title": "Schalkwijk: ‘Betere kredietrating is winst, maar Suriname heeft nog een lange weg te gaan’",
+        "source": "De West",
+        "url": "https://dagbladdewest.com/2026/11/23/schalkwijk-betere-kredietrating-is-winst-maar-suriname-heeft-nog-een-lange-weg-te-gaan/",
+        "publishedAt": "2026-11-23T23:30:11.000Z"
+      },
+      {
+        "title": "Nederland en Suriname zoeken getuigen van massamoord in Suriname in 1986",
+        "source": "RTL Nieuws",
+        "url": "https://www.rtl.nl/nieuws/buitenland/artikel/5666809/politie-zoekt-informatie-over-massamoord-suriname-1986",
+        "publishedAt": "2026-11-23T22:19:16.000Z"
+      },
+      {
+        "title": "Suriname roept hulp Nederland in bij gerechtelijk vooronderzoek Moiwana",
+        "source": "De Ware Tijd",
+        "url": "https://dwtonline.com/suriname-roept-hulp-nederland-in-bij-gerechtelijk-vooronderzoek-moiwana/",
+        "publishedAt": "2026-11-23T19:00:00.000Z"
+      },
+      {
+        "title": "Suriname en Frankrijk bespreken samenwerking tegen illegale goudwinning",
+        "source": "De West",
+        "url": "https://dagbladdewest.com/2026/11/23/suriname-en-frankrijk-bespreken-samenwerking-tegen-illegale-goudwinning/",
+        "publishedAt": "2026-11-23T22:30:35.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "empty",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

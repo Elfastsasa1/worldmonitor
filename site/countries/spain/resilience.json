@@ -1,0 +1,121 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "slug": "spain",
+  "rank": 14,
+  "overallScore": 65,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Spain’s election could see Europe’s far-right ‘firewall’ begin to fall apart - Chatham House",
+        "source": "Chatham House Tech",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2dlX0FzV3phZWVRclQyRE53UG5wUmwzOWVIYUVDZHNPTUNTdVZKc2pnNmhFWFNtWExrZXpyV2JjWlhFTlM0N0pBTXJNMG45Um1pQXN5WEpGTzJZbW52VHhWazJaNHZ5dGllUjFQcmFXZU10SFFNNk9yU2xYNzVOM3FyYl9pbDdPNE1oQUlubmIxRFdPNzNqN00xU09POG5IMjM3cGxIb3VBQQ?oc=5",
+        "publishedAt": "2026-11-23T14:29:32.000Z"
+      },
+      {
+        "title": "Members’ question time: What do the Spanish elections mean at home and abroad - Chatham House",
+        "source": "Chatham House Tech",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2tWTmNZSUwxX0MxdWNQNnR3MER4UjJYanRheW5uWU13aWZvSGIwMENTX0Zoc0VXT3kxUVBMbndrMVJEMmhuVXZwdU1CYm9SWW05Zm83bC1oLVBEcmtjYWFjdVktR2Fkd3pVNXJua05ab2haNU01WXV0MDJpby1zY25ocjE0dGNQTWF2ektyUW9pa0F1bUFQZGpyYlhKQUVzVVFQVEFxS3B6NXJFZEtfTzhCcXZIRWd2TFRUOVNpQQ?oc=5",
+        "publishedAt": "2026-11-22T20:03:32.000Z"
+      },
+      {
+        "title": "The City That Kicked Out Cars Before It Was Cool",
+        "source": "Reasons to be Cheerful",
+        "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+        "publishedAt": "2026-11-23T08:00:33.000Z"
+      },
+      {
+        "title": "A far-right kingmaker could emerge from the elections in Spain",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/opinion/comment/2026/11/24/spanish-elections-vox-partido-popular-parliament/",
+        "publishedAt": "2026-11-24T04:00:00.000Z"
+      },
+      {
+        "title": "Kick Nation Select depart Ghana for Surf Cup International in Spain",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/kick-nation-select-depart-ghana-for-surf-cup-international-in-spain/",
+        "publishedAt": "2026-11-24T01:57:41.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSpain’s election could see Europe’s far-right ‘firewall’ begin to fall apart. [1]\nA far-right kingmaker could emerge from the elections in Spain. [4]\n\nKEY RISKS\nSpain's reliance on the Strait of Gibraltar, a shipping chokepoint World Monitor tracks, poses a risk to its energy imports. [E4]\n\nOUTLOOK\nA Polymarket market related to Spain, \"Will Pedro Sánchez be the next Prime Minister of Spain?\", priced Yes at 11% on Nov 24, 2026; it closes Nov 30, 2026. [E5]\nA Polymarket market related to Spain, \"Spain General Election: PP + Vox Majority?\", priced Yes at 86% on Nov 24, 2026; it closes Nov 30, 2026. [E6]\n\nWATCH ITEMS\nWhether the far-right becomes a kingmaker after the elections in Spain. [4]",
+      "generatedAt": "2026-11-24T04:26:10.596Z",
+      "sources": [
+        {
+          "title": "Spain’s election could see Europe’s far-right ‘firewall’ begin to fall apart - Chatham House",
+          "source": "Chatham House Tech",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2dlX0FzV3phZWVRclQyRE53UG5wUmwzOWVIYUVDZHNPTUNTdVZKc2pnNmhFWFNtWExrZXpyV2JjWlhFTlM0N0pBTXJNMG45Um1pQXN5WEpGTzJZbW52VHhWazJaNHZ5dGllUjFQcmFXZU10SFFNNk9yU2xYNzVOM3FyYl9pbDdPNE1oQUlubmIxRFdPNzNqN00xU09POG5IMjM3cGxIb3VBQQ?oc=5",
+          "publishedAt": "2026-11-23T14:29:32.000Z"
+        },
+        {
+          "title": "Members’ question time: What do the Spanish elections mean at home and abroad - Chatham House",
+          "source": "Chatham House Tech",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2tWTmNZSUwxX0MxdWNQNnR3MER4UjJYanRheW5uWU13aWZvSGIwMENTX0Zoc0VXT3kxUVBMbndrMVJEMmhuVXZwdU1CYm9SWW05Zm83bC1oLVBEcmtjYWFjdVktR2Fkd3pVNXJua05ab2haNU01WXV0MDJpby1zY25ocjE0dGNQTWF2ektyUW9pa0F1bUFQZGpyYlhKQUVzVVFQVEFxS3B6NXJFZEtfTzhCcXZIRWd2TFRUOVNpQQ?oc=5",
+          "publishedAt": "2026-11-22T20:03:32.000Z"
+        },
+        {
+          "title": "The City That Kicked Out Cars Before It Was Cool",
+          "source": "Reasons to be Cheerful",
+          "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+          "publishedAt": "2026-11-23T08:00:33.000Z"
+        },
+        {
+          "title": "A far-right kingmaker could emerge from the elections in Spain",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/opinion/comment/2026/11/24/spanish-elections-vox-partido-popular-parliament/",
+          "publishedAt": "2026-11-24T04:00:00.000Z"
+        },
+        {
+          "title": "Kick Nation Select depart Ghana for Surf Cup International in Spain",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/kick-nation-select-depart-ghana-for-surf-cup-international-in-spain/",
+          "publishedAt": "2026-11-24T01:57:41.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Gibraltar",
+          "factText": "Strait of Gibraltar is a shipping chokepoint World Monitor tracks for Spain.",
+          "asOf": "2026-11-24T04:26:08.131Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-gibraltar/"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "11%",
+          "factText": "A Polymarket market related to Spain, \"Will Pedro Sánchez be the next Prime Minister of Spain?\", priced Yes at 11% on Nov 24, 2026; it closes Nov 30, 2026.",
+          "asOf": "2026-11-24T04:20:45.018Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "86%",
+          "factText": "A Polymarket market related to Spain, \"Spain General Election: PP + Vox Majority?\", priced Yes at 86% on Nov 24, 2026; it closes Nov 30, 2026.",
+          "asOf": "2026-11-24T04:20:45.018Z",
+          "url": "https://polymarket.com/event/spain-general-election-pp-vox-majority"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

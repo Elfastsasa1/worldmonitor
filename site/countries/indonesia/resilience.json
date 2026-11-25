@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "slug": "indonesia",
+  "rank": 94,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Prabowo Names Amran Sulaiman, Sugiono Nominees for Indonesia VP - Bloomberg.com",
+        "source": "Bloomberg Markets",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUJ6QmxDQ1pIZHVXYW1pbUhWVUxHUjBFY1kwNGZ4YnFqR1ZobzdIQWJnS2xRSHU1bHUwdndHb1ZqR3JpWkd1ZFJuakVwZzRmVUNDZVdMeTJRS01PaWdxVWUxMGJfRnRUQmVjM0FSUEdSV253TmtjNmROZlNCYlhGbTZDTmZzNEV4WkxHMHRlbEhjYkh0Z0Nsc25HSUl3MTJIR0lWUlBpTUtJU012bjNvd0dZNA?oc=5",
+        "publishedAt": "2026-11-24T02:56:00.000Z"
+      },
+      {
+        "title": "Indonesia formulating plan for 70% of mining firms’ benefits to go to the state - Mining.com",
+        "source": "Cobalt Market",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWd3b1MxZUN0cDhxRDRPSmE5MlRCZDRTbXpDNjVqRkxkam5iZGUwejFFdkJMQnlxR2NHRXMxUXo3M3ZORXdhRUxxVHVtcW5nQk5URzItcGdWX3pUOEx4TDdUYmYtVzJRNTB0N0k1U2p1eXI5WjBmdXdmRmRmNUxHZzlxYjV0c2xJQ3VRRVFrajBEb09qY3hSTkpXYndLdVdvZkFYM2RDVC0?oc=5",
+        "publishedAt": "2026-11-24T04:07:42.000Z"
+      },
+      {
+        "title": "Tank explosion during refinery maintenance in Indonesia kills worker - HazardEx",
+        "source": "Refinery & Disruptions",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel9uWWEwU3lJLVNmSWFRano2TVBoLVJuUWk2eFE4dmxtamp3TUlEOXEtTnE0UHdCWEdidHh5eGlUb0tZYzJBYktwZ2xIU0VZNVlWSFUxaTdWMkZILUdlckppZndIZVhEbFlndDN4ZmFnMWlSMWc0c0JiUzZ0UnAyZk1TdUZMdUVGekRwMXRtVDJWUl9aQ0NHLXJpaXhxd0FhZnZvaDVTUHZDWUVVdy1Fb085U0lQbkV5M05Takp3?oc=5",
+        "publishedAt": "2026-11-24T01:29:54.000Z"
+      },
+      {
+        "title": "Indonesia plans for 70% of mining shares or revenue to be state-controlled - South China Morning Post",
+        "source": "Indonesia Nickel Policy",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWtDS1owM3p2WTVhM0I1LTM5SFBURk9IR2Jwd0dNWk1JRS05ZEF5dlkxNHBQNEcxbHB3UUU0T3U1aS03N3Q3cGlIMHR1bWUwenFocjhzaVRST2E2cmZYOUs5REpOYTRWMTVvVVdOWkpaTmVaYUFQWWVSZlh4aTNRUzlweXZWN25XTHNDTko4Q0h2eFg0QXhHb0tQaEs0cmhVRV9QbGNjbDVjSDk5YzdGaEN4Zkk0TEt4VGxmaG5FdGNiTnPSAcMBQVVfeXFMTzdxU21OaGhxTUFnSXlkVEo1R1dLWEFVZkpvam5CWVBFeVFxWTdWcEpHRkVPdWExLWlsOXBsdkRFaldkcU9FSG1xRFRYTXBtRzBRNzMxdWxoMnUwQTUtRFFDMkdCRWJYaXhsRTl5dWFoWkVpeE1oTUpTY1hMMndva0pGYkNuMmdUTEhJWmpzTE9PTjAxRW9qQTZKOXYwdEhCV1ViQk5vcFNlTFZQc29sOW03QmkwNlI1dkJFUjl5SHQ5OURj?oc=5",
+        "publishedAt": "2026-11-23T09:05:30.000Z"
+      },
+      {
+        "title": "How Will Indonesia Secure 70% of Mining Revenue for the State? - Tempo.co English",
+        "source": "Mining Regulation",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOenNkUzIyMjhPM05DZFNPMFdxRTZnaEp4MVBOel8yMTFYVmtsSW1zNV9yd0R5WDlwWWsxVlN1Q2wtemZEVlJNZEZGOHdlMy05Vk5PbTA4RkxFS0NSNDJHekZzZ0dwRVdiLXVlSi1RbmhDV0dVM1pPUjA3MUxzYWpaTVpTVkh5OGFFSF9GVUVOSFQtOFNHbnQzRA?oc=5",
+        "publishedAt": "2026-11-23T08:24:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIndonesia is formulating a plan for 70% of mining firms' benefits to go to the state. [2]\nA tank explosion during refinery maintenance in Indonesia killed a worker. [3]\n\nKEY RISKS\nIndonesia is linked to 26 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Indonesia will secure 70% of mining revenue for the state as planned. [5]",
+      "generatedAt": "2026-11-24T04:51:39.155Z",
+      "sources": [
+        {
+          "title": "Prabowo Names Amran Sulaiman, Sugiono Nominees for Indonesia VP - Bloomberg.com",
+          "source": "Bloomberg Markets",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUJ6QmxDQ1pIZHVXYW1pbUhWVUxHUjBFY1kwNGZ4YnFqR1ZobzdIQWJnS2xRSHU1bHUwdndHb1ZqR3JpWkd1ZFJuakVwZzRmVUNDZVdMeTJRS01PaWdxVWUxMGJfRnRUQmVjM0FSUEdSV253TmtjNmROZlNCYlhGbTZDTmZzNEV4WkxHMHRlbEhjYkh0Z0Nsc25HSUl3MTJIR0lWUlBpTUtJU012bjNvd0dZNA?oc=5",
+          "publishedAt": "2026-11-24T02:56:00.000Z"
+        },
+        {
+          "title": "Indonesia formulating plan for 70% of mining firms’ benefits to go to the state - Mining.com",
+          "source": "Cobalt Market",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWd3b1MxZUN0cDhxRDRPSmE5MlRCZDRTbXpDNjVqRkxkam5iZGUwejFFdkJMQnlxR2NHRXMxUXo3M3ZORXdhRUxxVHVtcW5nQk5URzItcGdWX3pUOEx4TDdUYmYtVzJRNTB0N0k1U2p1eXI5WjBmdXdmRmRmNUxHZzlxYjV0c2xJQ3VRRVFrajBEb09qY3hSTkpXYndLdVdvZkFYM2RDVC0?oc=5",
+          "publishedAt": "2026-11-24T04:07:42.000Z"
+        },
+        {
+          "title": "Tank explosion during refinery maintenance in Indonesia kills worker - HazardEx",
+          "source": "Refinery & Disruptions",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel9uWWEwU3lJLVNmSWFRano2TVBoLVJuUWk2eFE4dmxtamp3TUlEOXEtTnE0UHdCWEdidHh5eGlUb0tZYzJBYktwZ2xIU0VZNVlWSFUxaTdWMkZILUdlckppZndIZVhEbFlndDN4ZmFnMWlSMWc0c0JiUzZ0UnAyZk1TdUZMdUVGekRwMXRtVDJWUl9aQ0NHLXJpaXhxd0FhZnZvaDVTUHZDWUVVdy1Fb085U0lQbkV5M05Takp3?oc=5",
+          "publishedAt": "2026-11-24T01:29:54.000Z"
+        },
+        {
+          "title": "Indonesia plans for 70% of mining shares or revenue to be state-controlled - South China Morning Post",
+          "source": "Indonesia Nickel Policy",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWtDS1owM3p2WTVhM0I1LTM5SFBURk9IR2Jwd0dNWk1JRS05ZEF5dlkxNHBQNEcxbHB3UUU0T3U1aS03N3Q3cGlIMHR1bWUwenFocjhzaVRST2E2cmZYOUs5REpOYTRWMTVvVVdOWkpaTmVaYUFQWWVSZlh4aTNRUzlweXZWN25XTHNDTko4Q0h2eFg0QXhHb0tQaEs0cmhVRV9QbGNjbDVjSDk5YzdGaEN4Zkk0TEt4VGxmaG5FdGNiTnPSAcMBQVVfeXFMTzdxU21OaGhxTUFnSXlkVEo1R1dLWEFVZkpvam5CWVBFeVFxWTdWcEpHRkVPdWExLWlsOXBsdkRFaldkcU9FSG1xRFRYTXBtRzBRNzMxdWxoMnUwQTUtRFFDMkdCRWJYaXhsRTl5dWFoWkVpeE1oTUpTY1hMMndva0pGYkNuMmdUTEhJWmpzTE9PTjAxRW9qQTZKOXYwdEhCV1ViQk5vcFNlTFZQc29sOW03QmkwNlI1dkJFUjl5SHQ5OURj?oc=5",
+          "publishedAt": "2026-11-23T09:05:30.000Z"
+        },
+        {
+          "title": "How Will Indonesia Secure 70% of Mining Revenue for the State? - Tempo.co English",
+          "source": "Mining Regulation",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOenNkUzIyMjhPM05DZFNPMFdxRTZnaEp4MVBOel8yMTFYVmtsSW1zNV9yd0R5WDlwWWsxVlN1Q2wtemZEVlJNZEZGOHdlMy05Vk5PbTA4RkxFS0NSNDJHekZzZ0dwRVdiLXVlSi1RbmhDV0dVM1pPUjA3MUxzYWpaTVpTVkh5OGFFSF9GVUVOSFQtOFNHbnQzRA?oc=5",
+          "publishedAt": "2026-11-23T08:24:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "26",
+          "factText": "Indonesia is linked to 26 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

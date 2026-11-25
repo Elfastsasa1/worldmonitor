@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "slug": "fiji",
+  "rank": 63,
+  "overallScore": 56.4,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "From Fiji to San Francisco: How El Nino is wreaking havoc worldwide",
+        "source": "Malay Mail",
+        "url": "https://www.malaymail.com/news/world/2026/11/24/from-fiji-to-san-francisco-how-el-nino-is-wreaking-havoc-worldwide/244536",
+        "publishedAt": "2026-11-24T03:23:00.000Z"
+      },
+      {
+        "title": "Fiji preps for double climate threat",
+        "source": "FBC News",
+        "url": "https://www.fbcnews.com.fj/news/fiji-preps-for-double-climate-threat/",
+        "publishedAt": "2026-11-24T03:00:02.000Z"
+      },
+      {
+        "title": "Drugs no longer needed as Fiji court exhibits under new narcotics law",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/drugs-no-longer-needed-as-fiji-court-exhibits-under-new-narcotics-law/",
+        "publishedAt": "2026-11-20T07:01:22.000Z"
+      },
+      {
+        "title": "Fiji’s matches in Dubai to air live on FBC 2",
+        "source": "FBC News",
+        "url": "https://www.fbcnews.com.fj/sports/sevens/fijis-matches-in-dubai-to-air-live-on-fbc-2/",
+        "publishedAt": "2026-11-24T01:24:10.000Z"
+      },
+      {
+        "title": "Quarterly medical supply system proposed for Fiji",
+        "source": "FBC News",
+        "url": "https://www.fbcnews.com.fj/news/quarterly-medical-supply-system-proposed-for-fiji/",
+        "publishedAt": "2026-11-24T01:20:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFiji is preparing for a double climate threat while El Nino is wreaking havoc worldwide. [1][2]\nA quarterly medical supply system has been proposed for Fiji. [5]\n\nWATCH ITEMS\nWhether the proposed quarterly medical supply system will be implemented in Fiji. [5]",
+      "generatedAt": "2026-11-24T04:26:22.345Z",
+      "sources": [
+        {
+          "title": "From Fiji to San Francisco: How El Nino is wreaking havoc worldwide",
+          "source": "Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/11/24/from-fiji-to-san-francisco-how-el-nino-is-wreaking-havoc-worldwide/244536",
+          "publishedAt": "2026-11-24T03:23:00.000Z"
+        },
+        {
+          "title": "Fiji preps for double climate threat",
+          "source": "FBC News",
+          "url": "https://www.fbcnews.com.fj/news/fiji-preps-for-double-climate-threat/",
+          "publishedAt": "2026-11-24T03:00:02.000Z"
+        },
+        {
+          "title": "Drugs no longer needed as Fiji court exhibits under new narcotics law",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/drugs-no-longer-needed-as-fiji-court-exhibits-under-new-narcotics-law/",
+          "publishedAt": "2026-11-20T07:01:22.000Z"
+        },
+        {
+          "title": "Fiji’s matches in Dubai to air live on FBC 2",
+          "source": "FBC News",
+          "url": "https://www.fbcnews.com.fj/sports/sevens/fijis-matches-in-dubai-to-air-live-on-fbc-2/",
+          "publishedAt": "2026-11-24T01:24:10.000Z"
+        },
+        {
+          "title": "Quarterly medical supply system proposed for Fiji",
+          "source": "FBC News",
+          "url": "https://www.fbcnews.com.fj/news/quarterly-medical-supply-system-proposed-for-fiji/",
+          "publishedAt": "2026-11-24T01:20:12.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

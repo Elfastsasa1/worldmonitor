@@ -1,0 +1,106 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "slug": "montenegro",
+  "rank": 29,
+  "overallScore": 62.2,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Croatia steps up pressure on Montenegro over border dispute as EU accession deadline looms",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/croatia-steps-up-pressure-on-montenegro-over-border-dispute-as-eu-accession-deadline-looms",
+        "publishedAt": "2026-11-23T13:40:26.000Z"
+      },
+      {
+        "title": "Climate Change Redraws Montenegro’s Winemaking Map",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/23/climate-change-redraws-montenegros-winemaking-map/bi/",
+        "publishedAt": "2026-11-23T06:52:27.000Z"
+      },
+      {
+        "title": "A little piece of Dubai in Montenegro: Where luxury meets the wild",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/travel/2026/11/23/a-little-piece-of-dubai-on-the-adriatic-where-luxury-meets-montenegros-wild-side/",
+        "publishedAt": "2026-11-23T03:02:00.000Z"
+      },
+      {
+        "title": "The Minister of Defense of Montenegro planted a nominal fir tree on the territory of the administrative complex of the Ministry of Defense.",
+        "source": "nt.am",
+        "url": "https://nt.am/en/news/363651/",
+        "publishedAt": "2026-11-23T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "InterContinental to Open First Luxury Resort in Montenegro in 2029",
+        "source": "rustourismnews.com",
+        "url": "https://www.rustourismnews.com/2026/11/19/intercontinental-to-open-first-luxury-resort-in-montenegro-in-2029/",
+        "publishedAt": "2026-11-19T18:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCroatia is stepping up pressure on Montenegro over a border dispute as an EU accession deadline looms. [1]\nClimate change is redrawing Montenegro's winemaking map. [2]\n\nKEY RISKS\nMontenegro is linked to 7 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Croatia and Montenegro will resolve their border dispute before the EU accession deadline. [1]\nWhether the InterContinental luxury resort will open in Montenegro in 2029 as announced. [5]",
+      "generatedAt": "2026-11-24T04:30:12.832Z",
+      "sources": [
+        {
+          "title": "Croatia steps up pressure on Montenegro over border dispute as EU accession deadline looms",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/croatia-steps-up-pressure-on-montenegro-over-border-dispute-as-eu-accession-deadline-looms",
+          "publishedAt": "2026-11-23T13:40:26.000Z"
+        },
+        {
+          "title": "Climate Change Redraws Montenegro’s Winemaking Map",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/23/climate-change-redraws-montenegros-winemaking-map/bi/",
+          "publishedAt": "2026-11-23T06:52:27.000Z"
+        },
+        {
+          "title": "A little piece of Dubai in Montenegro: Where luxury meets the wild",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/travel/2026/11/23/a-little-piece-of-dubai-on-the-adriatic-where-luxury-meets-montenegros-wild-side/",
+          "publishedAt": "2026-11-23T03:02:00.000Z"
+        },
+        {
+          "title": "The Minister of Defense of Montenegro planted a nominal fir tree on the territory of the administrative complex of the Ministry of Defense.",
+          "source": "nt.am",
+          "url": "https://nt.am/en/news/363651/",
+          "publishedAt": "2026-11-23T14:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "InterContinental to Open First Luxury Resort in Montenegro in 2029",
+          "source": "rustourismnews.com",
+          "url": "https://www.rustourismnews.com/2026/11/19/intercontinental-to-open-first-luxury-resort-in-montenegro-in-2029/",
+          "publishedAt": "2026-11-19T18:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "7",
+          "factText": "Montenegro is linked to 7 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

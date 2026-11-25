@@ -1,0 +1,3193 @@
+{
+  "schemaVersion": 1,
+  "counts": {
+    "panels": 169,
+    "panelGroups": 22,
+    "proPanels": 11,
+    "layers": 60,
+    "proLayers": 1,
+    "tools": 100,
+    "accountFreeTools": 35,
+    "dashboards": 6
+  },
+  "dashboards": [
+    {
+      "id": "full",
+      "name": "World Monitor",
+      "host": "www.worldmonitor.app"
+    },
+    {
+      "id": "tech",
+      "name": "Tech Monitor",
+      "host": "tech.worldmonitor.app"
+    },
+    {
+      "id": "finance",
+      "name": "Finance Monitor",
+      "host": "finance.worldmonitor.app"
+    },
+    {
+      "id": "commodity",
+      "name": "Commodity Monitor",
+      "host": "commodity.worldmonitor.app"
+    },
+    {
+      "id": "energy",
+      "name": "Energy Monitor",
+      "host": "energy.worldmonitor.app"
+    },
+    {
+      "id": "happy",
+      "name": "Happy Monitor",
+      "host": "happy.worldmonitor.app"
+    }
+  ],
+  "panelGroups": [
+    {
+      "label": "Core",
+      "panels": [
+        {
+          "id": "map",
+          "name": "Global Map",
+          "description": "Maps conflicts, military activity, hotspots, nuclear sites, sanctions, weather and outages as toggleable layers on a WebGL map with an optional 3D globe.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy",
+            "happy"
+          ]
+        },
+        {
+          "id": "live-news",
+          "name": "Live News",
+          "description": "Streams live news video channels from YouTube, such as Bloomberg, Sky News, DW and Al Jazeera, in a switchable player.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "live-webcams",
+          "name": "Live Webcams",
+          "description": "Live feeds from geopolitically significant locations worldwide: conflict zones, capital cities, border crossings, and strategic chokepoints. Streams sourced from YouTube and public networks.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance"
+          ]
+        },
+        {
+          "id": "windy-webcams",
+          "name": "Windy Live Webcam",
+          "description": "Shows the Windy webcams you pin from the map as embedded live players, with controls to pause or unpin each stream.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance"
+          ]
+        },
+        {
+          "id": "insights",
+          "name": "AI Insights",
+          "description": "• World Brief: AI summary (OpenRouter) • Sentiment: News tone analysis • Velocity: Fast-moving stories • Focal Points: Correlates news entities with map signals (military, protests, outages) Desktop only • Powered by Llama 3.3 + Focal Point Detection",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "strategic-posture",
+          "name": "AI Strategic Posture",
+          "description": "Aggregates military aircraft and naval vessels by theater. Normal: Baseline activity; Elevated: Above threshold (50+ aircraft); Critical: High concentration (100+ aircraft). Strike Capable: Tankers + Airborne early warning + Fighters present in sufficient numbers for sustained operations.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "latest-brief",
+          "name": "Latest Brief",
+          "description": "Shows the cover card of your latest World Monitor Brief, the AI-written intelligence digest, with a link to read the full edition.",
+          "pro": true,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intelligence",
+      "panels": [
+        {
+          "id": "cii",
+          "name": "Country Instability",
+          "description": "Unrest: civil disorder & protests; Conflict: armed conflict intensity; Security: military flights/vessels over territory; Information: news velocity and focal point correlation; Hotspot proximity boost (strategic locations). U:C:S:I values show component scores. Focal Point Detection correlates news entities with map signals for accurate scoring.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "strategic-risk",
+          "name": "Strategic Risk Overview",
+          "description": "Composite score (0-100) blending: 50% Country Instability (top 5 weighted); 30% Geographic convergence zones; 20% Infrastructure incidents. Auto-refreshes every 5 minutes.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "threat-timeline",
+          "name": "Threat Timeline",
+          "description": "Charts the daily count of intelligence insights by threat level over the last seven days, with a trend readout and alerts grouped by severity.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "intel",
+          "name": "Intel Feed",
+          "description": "Lists defense and foreign-policy news and analysis from sources such as Defense One, The War Zone, Foreign Policy and RAND.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "gdelt-intel",
+          "name": "Live Intelligence",
+          "description": "Real-time global news monitoring: Curated topic categories (conflicts, cyber, etc.); Articles from 100+ languages translated; Updates every 15 minutes; 14-day media tone & volume trend per topic; 14-day media tone & volume trend per topic. Source: GDELT Project (gdeltproject.org)",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "cascade",
+          "name": "Infrastructure Cascade",
+          "description": "Models infrastructure dependencies: Subsea cables, pipelines, ports, chokepoints; Select infrastructure to simulate failure; Shows affected countries and capacity loss; Identifies redundant routes. Data from TeleGeography and industry sources.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "telegram-intel",
+          "name": "Telegram Intel",
+          "description": "Real-time signals from monitored Telegram open-source intelligence channels",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "x-intel",
+          "name": "X News Accounts",
+          "description": "Curated public news-account posts from X. Official API only.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "forecast",
+          "name": "AI Forecasts",
+          "description": "AI-generated probability estimates for geopolitical and economic events: Cross-domain coverage: conflict, markets, supply chain, cyber, political; Each forecast shows estimated probability, confidence level, and time horizon. Forecasts update as new intelligence signals arrive. Filter by domain using the tabs above.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "cross-source-signals",
+          "name": "Cross-Source Signals",
+          "description": "Lists severity-ranked signals combined from separate datasets such as thermal escalation, GPS jamming, unrest, cyber threats, earthquakes and markets.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "regional-intelligence",
+          "name": "Regional Intelligence",
+          "description": "Shows a per-region intelligence snapshot covering regime, balance of power, key actors, scenarios, transmission paths and a watchlist.",
+          "pro": true,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "deduction",
+          "name": "Deduct Situation",
+          "description": "Answers a scenario question you type with an AI analysis of likely timeline and impact, optionally scoped to a region and an analytical framework.",
+          "pro": true,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "chat-analyst",
+          "name": "WM Analyst",
+          "description": "AI analyst with live context across geopolitical, market, military, and economic domains. Powered by Claude with real-time data injected from active WorldMonitor feeds.",
+          "pro": true,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "thermal-escalation",
+          "name": "Thermal Escalation",
+          "description": "Seeded FIRMS/VIIRS thermal anomaly clusters with baseline comparison, persistence tracking, and strategic context. This panel answers where thermal activity is abnormal and which clusters may signal conflict, industrial disruption, or escalation.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "social-velocity",
+          "name": "Social Velocity",
+          "description": "Trending topics and viral content with geopolitical significance. Measures social media velocity: how rapidly a story spreads relative to baseline. Helps surface emerging narratives before they hit mainstream news.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "geo-hubs",
+          "name": "Geopolitical Hubs",
+          "description": "Shows regions with the most news activity. Hub types: • 🏛️ Capitals — World capitals and government centers • ⚔️ Conflict Zones — Active conflict areas • ⚓ Strategic — Chokepoints and key regions • 🏢 Organizations — UN, NATO, IAEA, etc. Activity levels: • High — Breaking news or 70+ score • Elevated — Score 40-69 • Low — Score below 40 Click a hub to zoom to its location.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Correlation",
+      "panels": [
+        {
+          "id": "military-correlation",
+          "name": "Force Posture",
+          "description": "Correlates military activity with geopolitical context: Military aircraft and naval vessel concentrations by region; Cross-references with active conflict zones and news spikes; Highlights unusual force buildups or repositioning.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "escalation-correlation",
+          "name": "Escalation Monitor",
+          "description": "Detects converging geopolitical signals: Correlates military movements, conflict events, and news spikes; Scores convergence zones by severity (critical/high/medium/low); Tracks escalation or de-escalation trends over time.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "economic-correlation",
+          "name": "Economic Warfare",
+          "description": "Detects converging economic pressure signals: Sanctions, trade restrictions, and currency movements; Commodity disruptions linked to geopolitical actors; Cross-domain correlation between economic and security events.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "disaster-correlation",
+          "name": "Disaster Cascade",
+          "description": "Detects converging natural disaster and infrastructure signals: Correlates earthquakes, wildfires, floods, and weather extremes; Tracks cascading effects on infrastructure and supply chains; Highlights regions with compounding disaster risk.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Regional News",
+      "panels": [
+        {
+          "id": "politics",
+          "name": "World News",
+          "description": "Headlines from 11 news feeds, including BBC World, Guardian World, AP News and Reuters World.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "us",
+          "name": "United States",
+          "description": "Headlines from 36 news feeds, including Reuters US, NPR News, PBS NewsHour and ABC News.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "europe",
+          "name": "Europe",
+          "description": "Headlines from 259 news feeds, including France 24, EuroNews, Le Monde and DW News.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "middleeast",
+          "name": "Middle East",
+          "description": "Headlines from 96 news feeds, including BBC Middle East, Al Jazeera, Al Arabiya and Guardian ME.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "africa",
+          "name": "Africa",
+          "description": "Headlines from 202 news feeds, including BBC Africa, Guardian Africa, France 24 Africa and Africa News.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "latam",
+          "name": "Latin America",
+          "description": "Headlines from 152 news feeds, including BBC Latin America, Guardian Americas, Guardian Caribbean and France 24 LatAm.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "asia",
+          "name": "Asia-Pacific",
+          "description": "Headlines from 179 news feeds, including BBC Asia, Guardian Pacific, France 24 Asia Pacific and The Diplomat.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Markets & Finance",
+      "panels": [
+        {
+          "id": "commodities",
+          "name": "Metals & Materials",
+          "description": "Tradeable non-energy commodity tape focused on metals and materials. Energy prices live in Energy Complex; macro stress indicators live in Macro Stress.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "energy-complex",
+          "name": "Energy Complex",
+          "description": "Physical and tradeable energy signals in one place: US Energy Information Administration metrics: WTI, Brent, US production, and inventories; Live tape: Tradeable energy prices like crude and natural gas; Purpose: Separate physical energy stress from broader macro and commodity panels.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "energy-risk-overview",
+          "name": "Global Energy Risk Overview",
+          "description": "Shows Strait of Hormuz status, EU gas storage fill, the Brent crude price and the count of active energy disruptions as summary tiles.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "pipeline-status",
+          "name": "Oil & Gas Pipeline Status",
+          "description": "Lists oil and gas pipelines from a curated registry, each badged flowing, reduced or offline, with a detail drawer of disruption events.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "storage-facility-map",
+          "name": "Strategic Storage Atlas",
+          "description": "Lists gas storage sites, strategic petroleum reserves, LNG terminals and crude tank farms from a curated registry with an operational status badge.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "oil-inventories",
+          "name": "Oil Inventories",
+          "description": "US commercial crude and strategic reserves, natural gas stocks, European gas storage, and oil stock cover. Sources include the US Energy Information Administration and International Energy Agency.",
+          "pro": false,
+          "variants": [
+            "full",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "fuel-prices",
+          "name": "Fuel Prices",
+          "description": "Retail pump prices for gasoline and diesel across 30+ countries, normalized to USD/liter for comparison. Prices are sourced from official government open-data programs and updated weekly. Cheapest and most expensive countries are highlighted. Week-over-week change shown when prior week data is available.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "chokepoint-strip",
+          "name": "Chokepoint Status",
+          "description": "Live status for the seven global oil & gas shipping chokepoints. Flow estimates calibrated from Portwatch vessel carrying capacity + ship tracking observations. See /docs/methodology/chokepoints for methodology.",
+          "pro": false,
+          "variants": [
+            "energy"
+          ]
+        },
+        {
+          "id": "fuel-shortages",
+          "name": "Global Fuel Shortage Registry",
+          "description": "Lists confirmed and watch-level fuel shortages by country and fuel product from a curated registry, ranked by strength of evidence.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "energy-disruptions",
+          "name": "Energy Disruptions Log",
+          "description": "Lists disruption events on pipelines and storage facilities, newest first, from a curated log you can filter by type and ongoing status.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "hormuz-tracker",
+          "name": "Hormuz Trade Tracker",
+          "description": "WTO DataLab daily shipment indexes for the Strait of Hormuz: crude oil, LNG and fertilizer leaving the Gulf, farm goods arriving. By volume, Jan–Mar 2025 average = 100, AIS-visible vessels only. Charts are daily; status is from WTO commentary.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "energy-crisis",
+          "name": "Energy Crisis Tracker",
+          "description": "Lists government energy-saving and consumer-support measures by country from the IEA 2026 Energy Crisis Policy Response Tracker.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "markets",
+          "name": "Markets",
+          "description": "Delayed or seeded stock indices, equities, and crypto prices. Customize your watchlist with the Watchlist button. Sparklines show recent price trend.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "economic",
+          "name": "Macro Stress",
+          "description": "Macro gauges, government spending, and central bank data: Indicators: VIX, rates, yield curve, labor, inflation; Gov: Recent US government contract awards; Central Banks: Bank for International Settlements policy rates and exchange rate data.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "global-procurement",
+          "name": "Global Procurement",
+          "description": "Lists open public tenders from SAM.gov, EU TED, UK Contracts Finder, CanadaBuys and the World Bank, searchable by buyer, country and source.",
+          "pro": true,
+          "variants": [
+            "full",
+            "tech",
+            "finance"
+          ]
+        },
+        {
+          "id": "trade-policy",
+          "name": "Trade Policy",
+          "description": "General non-preferential tariff baselines from the World Trade Organization, with US effective rates where available. Includes tariff trends, trade flows, technical and food safety barriers, and monthly US customs revenue.",
+          "pro": true,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "sanctions-pressure",
+          "name": "Sanctions Pressure",
+          "description": "OFAC SDN and Consolidated Lists plus Canada SEMA/JVCFOA designations. Country rows use direct associations. Vessel flags and aircraft registries are counted separately under registries; zero country asset counts do not mean no sanctioned assets.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "supply-chain",
+          "name": "Supply Chain",
+          "description": "Global logistics and resource tracking: Chokepoints: Maritime transit status, disruption scores, and vessel counts; Shipping: Baltic Dry Index and freight rate trends; Minerals: Critical mineral concentration risk (producer concentration index) and top producers.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "china-corridors",
+          "name": "China Logistics Corridors",
+          "description": "Tracks four China logistics corridors using port, aviation, hazard, energy and trade data from sources such as IMF PortWatch and UN Comtrade.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "china-activity-nowcast",
+          "name": "China Activity Nowcast",
+          "description": "Compares China's official activity releases with logistics, commodity, market and satellite NO2 proxies to show where the two agree or diverge.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "finance",
+          "name": "Financial",
+          "description": "Headlines from 17 news feeds, including CNBC, MarketWatch, Yahoo Finance and Financial Times.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech"
+          ]
+        },
+        {
+          "id": "polymarket",
+          "name": "Predictions",
+          "description": "Lists prediction markets from Polymarket and Kalshi with the yes/no probability, trading volume and closing date of each question.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "macro-signals",
+          "name": "Market Regime",
+          "description": "Composite signal dashboard for Bitcoin positioning and risk appetite: Liquidity: Net Fed liquidity proxy; Flow: BTC vs QQQ 5-day returns; Regime: QQQ vs XLP rotation (risk-on/off); BTC Trend: Price vs SMA50/200, Mayer Multiple; Hash Rate: 30-day network hash change; Fear & Greed: Market sentiment index. This panel is for regime and positioning, not broad macro data.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "gulf-economies",
+          "name": "Gulf Economies",
+          "description": "Seeded Gulf stock indices, currency rates, and oil prices for Gulf Cooperation Council economies (Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman).",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "etf-flows",
+          "name": "BTC ETF Tracker",
+          "description": "Tracks daily estimated fund flows for US spot Bitcoin exchange-traded funds: Inflow/outflow direction and magnitude; Volume and price change per fund; Net aggregate flow across all tracked funds.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance"
+          ]
+        },
+        {
+          "id": "stablecoins",
+          "name": "Stablecoins",
+          "description": "Peg health, market cap, and 24h volume for major USD-pegged tokens (USDT, USDC, DAI, BUSD). A broken peg signals systemic risk.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance"
+          ]
+        },
+        {
+          "id": "crypto",
+          "name": "Crypto",
+          "description": "Live prices, 24h changes, and volume for major cryptocurrencies. Data sourced from CoinGecko.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance"
+          ]
+        },
+        {
+          "id": "heatmap",
+          "name": "Sector Heatmap",
+          "description": "S&P 500 sector performance at a glance. Color intensity reflects the magnitude of daily change. Green = gains, Red = losses.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "aaii-sentiment",
+          "name": "AAII Sentiment",
+          "description": "Shows the weekly AAII Investor Sentiment Survey split into bullish, neutral and bearish readings, with eight-week averages.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "cot-positioning",
+          "name": "COT Positioning",
+          "description": "Weekly net positions for commercial traders, large speculators and small traders across commodity and financial futures. Source is the Commodity Futures Trading Commission Commitments of Traders report, published on Fridays.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "earnings-calendar",
+          "name": "Earnings Calendar",
+          "description": "Upcoming and recent earnings releases for major public companies. Shows earnings per share estimates vs actuals, revenue, and beat/miss classification. Source: financial data providers.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "material-events",
+          "name": "SEC Material Events",
+          "description": "Lists recent SEC Form 8-K material-event filings with company, item code, description, filing time and a link to the filing on sec.gov.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "economic-calendar",
+          "name": "Economic Calendar",
+          "description": "Scheduled macroeconomic releases: consumer price index, nonfarm payrolls, gross domestic product, purchasing managers index, and central bank decisions. Shows forecast vs actual vs prior. High-impact events highlighted. Source: economic data providers.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "fear-greed",
+          "name": "Fear & Greed",
+          "description": "Scores market sentiment as a composite of ten weighted categories such as volatility, breadth and credit, shown beside the CNN Fear & Greed reading.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "fsi",
+          "name": "Financial Stress",
+          "description": "WorldMonitor ratio of high-yield credit to long Treasuries, adjusted for equity volatility and the high-yield spread: (HYG / TLT) / (VIX × High-yield spread / 100). This is not the Kansas City Fed Financial Stress Index. A reading of 1.5 or higher is low stress; below 0.3 is high stress.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "macro-tiles",
+          "name": "Macro Indicators",
+          "description": "US, euro area and China prices, activity, policy and currency indicators. China requires current coverage. Each tile shows its source and observation date.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "market-breadth",
+          "name": "Market Breadth",
+          "description": "Charts the share of S&P 500 stocks trading above their 20, 50 and 200-day moving averages, computed from a TradingView screener scan.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "news-market-correlation",
+          "name": "News ↔ Markets",
+          "description": "Charts GDELT news volume on a topic against an asset's price and reports their Pearson correlation and which series leads by up to six hours.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "liquidity-shifts",
+          "name": "Liquidity Shifts",
+          "description": "High-liquidity positioning and daily shift monitor for oil, gold, silver, equity index futures, and top US stocks. Commitments of Traders asset-manager net and leveraged-funds net vs daily price change.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "national-debt",
+          "name": "Global Debt Clock",
+          "description": "Shows government debt by country as a running clock built on IMF World Economic Outlook data and US Treasury FiscalData, sortable by debt-to-GDP.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "positioning-247",
+          "name": "24/7 Positioning",
+          "description": "Perpetual contract positioning stress from Hyperliquid. Trades around the clock, showing what's building when traditional markets are closed. Composite score (0-100) from funding rate, volume, open interest, and spot-perp basis. Green = longs crowded (bullish lean), red = shorts crowded (bearish lean).",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "wsb-ticker-scanner",
+          "name": "WSB Ticker Scanner",
+          "description": "Real-time ticker mentions from r/wallstreetbets, r/stocks, and r/investing. Ranked by mention frequency and engagement. Velocity measures how rapidly a ticker gains momentum across posts.",
+          "pro": true,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "yield-curve",
+          "name": "Yield Curve",
+          "description": "US Treasury yield curve (2Y, 5Y, 10Y, 30Y) and key rate spreads including the 10Y-2Y inversion indicator. Also shows Euro area rates (EURIBOR, ESTR). An inverted curve historically precedes recessions. Source: Federal Reserve Economic Data.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "gold-intelligence",
+          "name": "Gold Intelligence",
+          "description": "Gold prices in several currencies, gold/silver and gold/platinum ratios, and managed-money futures positions. Sources include Yahoo Finance and the Commodity Futures Trading Commission.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        },
+        {
+          "id": "bigmac",
+          "name": "Big Mac Index",
+          "description": "The Economist's Big Mac Index measures purchasing power parity by comparing McDonald's burger prices across countries. Updated when new data is published (quarterly/annually).",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "fx",
+          "name": "FX Rates",
+          "description": "Stress ranks 45 currencies by their largest decline over 24 months, with the 12-month change. Spot rates use separate US dollar and euro bases. Russian ruble rates are rubles per unit. Sources include Yahoo Finance, the European Central Bank and Bank of Russia.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "market-implications",
+          "name": "AI Market Implications",
+          "description": "LLM-generated trade signals derived from live geopolitical, commodity, and macro state after each forecast cycle. Direction: LONG / SHORT / HEDGE; Timeframe: 1W, 2W, 1M, or 3M horizon; Driver: Key catalyst behind the signal; Risk: Caveat or invalidation condition. For informational purposes only. Not investment advice.",
+          "pro": true,
+          "variants": [
+            "full"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Topical",
+      "panels": [
+        {
+          "id": "energy",
+          "name": "Energy & Resources",
+          "description": "Headlines from 16 news feeds, including Oil & Gas, Reuters Energy, Nuclear Energy and Mining & Resources.",
+          "pro": false,
+          "variants": [
+            "full",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "gov",
+          "name": "Government",
+          "description": "Headlines from 14 news feeds, including White House, White House Actions, State Dept and Pentagon.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "thinktanks",
+          "name": "Think Tanks",
+          "description": "Headlines from 27 news feeds, including Foreign Policy, Atlantic Council, Foreign Affairs and War on the Rocks.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "tech",
+          "name": "Technology",
+          "description": "Headlines from 10 news feeds, including Hacker News, Ars Technica, The Verge and MIT Tech Review.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech"
+          ]
+        },
+        {
+          "id": "ai",
+          "name": "AI/ML",
+          "description": "Headlines from 11 news feeds, including AI News, VentureBeat AI, The Verge AI and MIT Tech Review.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech"
+          ]
+        },
+        {
+          "id": "layoffs",
+          "name": "Layoffs Tracker",
+          "description": "Headlines from 3 news feeds, including Layoffs.fyi, TechCrunch Layoffs and Layoffs News.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech"
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "description": "Headlines from 11 news feeds, including Reuters Science, Nature News, BBC Science and Guardian Science.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Data & Tracking",
+      "panels": [
+        {
+          "id": "monitors",
+          "name": "My Monitors",
+          "description": "Add any term to track live news mentions across all WorldMonitor sources. Results update in real time as matching articles are ingested.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "ukmto-incidents",
+          "name": "UKMTO Incidents",
+          "description": "",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "satellite-fires",
+          "name": "Fires",
+          "description": "NASA FIRMS VIIRS satellite thermal detections across monitored conflict regions. High-intensity = brightness >360K & confidence >80%.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "ucdp-events",
+          "name": "UCDP Conflict Events",
+          "description": "Event-level conflict data from Uppsala University (UCDP). State-Based: Government vs rebel group; Non-State: Armed group vs armed group; One-Sided: Violence against civilians. Deaths shown as best estimate (low-high range). ACLED duplicates are filtered out automatically.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "displacement",
+          "name": "UNHCR Displacement",
+          "description": "Refugees, asylum seekers and people displaced within their country. Origin and host views show where people flee from and to. Crisis badges mark over one million displaced; high marks over 500,000. Annual UN Refugee Agency data, CC BY 4.0 license.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "climate",
+          "name": "Climate Anomalies",
+          "description": "7-day temperature and precipitation anomalies versus 1991-2020 monthly normals. Data from Open-Meteo (ERA5 reanalysis). Extreme: >5°C or >12mm/day anomaly; Moderate: >3°C or >6mm/day anomaly. Tracks climate-sensitive zones for sustained departures from WMO baselines.",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "reservoir-levels",
+          "name": "Strategic Water Levels",
+          "description": "",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "climate-news",
+          "name": "Climate News",
+          "description": "Latest environment and climate intelligence from Carbon Brief, UNEP, NASA, The Guardian, and other authoritative sources. Updated every 30 minutes.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "population-exposure",
+          "name": "Population Exposure",
+          "description": "Country density required. Unrest needs a precise location; UCDP marked imprecise is excluded, unknown is pending. One place from two sources shows as two rows. Areas may overlap.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "security-advisories",
+          "name": "Security Advisories",
+          "description": "Travel advisories and security alerts from government foreign affairs agencies: Sources: 🇺🇸 US State Dept Travel Advisories 🇦🇺 AU DFAT Smartraveller 🇬🇧 UK FCDO Travel Advice Levels: 🟥 Do Not Travel 🟧 Reconsider Travel 🟨 Exercise Caution 🟩 Normal Precautions",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "toronto-safety",
+          "name": "Toronto Safety",
+          "description": "Shows reported crime occurrences and annual calls-attended totals from official Toronto Police Service datasets; it is not live dispatch.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "radiation-watch",
+          "name": "Radiation Watch",
+          "description": "Seeded EPA RadNet and Safecast readings with anomaly scoring and source-confidence synthesis. This panel answers what is normal, what is elevated, and which anomalies are confirmed versus tentative.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "grid-disruption-clock",
+          "name": "US States Grid Disruption Clock",
+          "description": "",
+          "pro": false,
+          "variants": [
+            "full",
+            "energy"
+          ]
+        },
+        {
+          "id": "oref-sirens",
+          "name": "Israel Sirens",
+          "description": "Real-time rocket and missile siren alerts from Israel Home Front Command. Data is polled every 10 seconds. A pulsing red indicator means active sirens are sounding.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "world-clock",
+          "name": "World Clock",
+          "description": "Live local times and market session status for major global financial centers. Shows open/closed status for NYSE, LSE, TSE, SGX, and other exchanges.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "tech-readiness",
+          "name": "Tech Readiness Index",
+          "description": "World Bank composite score, 0–100. Weights are research and development 35%, internet 30%, broadband 20%, and mobile 15%. Internet users are a population percentage; mobile subscriptions are per 100 people; research spending is a share of economic output. Missing values show a dash. Data spans 2019–2024.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech"
+          ]
+        },
+        {
+          "id": "disease-outbreaks",
+          "name": "Disease Outbreaks",
+          "description": "Active outbreak alerts from WHO, ProMED, and health ministries. Tracks confirmed outbreaks, affected regions, case counts, and threat levels. Updated as new reports are published.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "fao-food-price-index",
+          "name": "FAO Food Price Index",
+          "description": "The UN Food and Agriculture Organization's Food Price Index tracks international export prices for a basket of food commodities (Cereals, Dairy, Meat, Oils, Sugar), base 2014-2016=100. Updated monthly on the first Friday of each month.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "grocery-basket",
+          "name": "Grocery Index",
+          "description": "Global grocery basket price comparison across 24 countries — tracks real-world consumer goods inflation beyond headline consumer price index.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        },
+        {
+          "id": "defense-patents",
+          "name": "R&D Signal",
+          "description": "Weekly defense and dual-use patent filings by Raytheon, Lockheed, Huawei, DARPA, and other strategic organizations. Categories: H04B (comms), H01L (semiconductors), F42B (ammunition), G06N (AI), C12N (biotech). Source: USPTO Open Data Portal.",
+          "pro": false,
+          "variants": [
+            "full"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tech & AI",
+      "panels": [
+        {
+          "id": "hardware",
+          "name": "Semiconductors & Hardware",
+          "description": "Headlines from 3 news feeds, including Tom's Hardware, SemiAnalysis and Semiconductor News.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "cloud",
+          "name": "Cloud & Infrastructure",
+          "description": "Headlines from 3 news feeds, including InfoQ, The New Stack and DevOps.com.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "dev",
+          "name": "Developer Community",
+          "description": "Headlines from 4 news feeds, including Dev.to, Lobsters, Changelog and Show HN.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "github",
+          "name": "GitHub Trending",
+          "description": "Headlines from 5 news feeds, including GitHub Blog, Dev Events, GitHub Trending and Open Source News.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "producthunt",
+          "name": "Product Hunt",
+          "description": "Headlines from Product Hunt.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "events",
+          "name": "Tech Events",
+          "description": "Lists upcoming technology conferences and events from the Techmeme events calendar and dev.events, with an option to show each on the map.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "service-status",
+          "name": "Service Status",
+          "description": "Live operational status of major cloud platforms, financial infrastructure, and critical internet services. Sourced from official status pages (AWS, Azure, GCP, Cloudflare, exchanges). Incidents may indicate broader disruption events.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "internet-disruptions",
+          "name": "Internet Disruptions",
+          "description": "Real-time internet outages, DDoS attacks, and traffic anomalies from global network monitoring: Outages: BGP-detected connectivity failures by country; DDoS: Volumetric attack reports by protocol and vector; Anomalies: Unusual traffic patterns from Cloudflare Radar.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "tech-hubs",
+          "name": "Hot Tech Hubs",
+          "description": "Shows tech hubs with the most news activity. Activity levels: • High — Breaking news or 50+ score • Elevated — Score 20-49 • Low — Score below 20 Click a hub to zoom to its location.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Startups & Venture capital",
+      "panels": [
+        {
+          "id": "startups",
+          "name": "Startups & VC",
+          "description": "Headlines from 10 news feeds, including TechCrunch Startups, VentureBeat, Crunchbase News and AngelList News.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "vcblogs",
+          "name": "VC Insights & Essays",
+          "description": "Headlines from 9 news feeds, including Y Combinator Blog, a16z Blog, First Round Review and Sequoia Blog.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "regionalStartups",
+          "name": "Global Startup News",
+          "description": "Headlines from 33 news feeds, including EU Startups, Tech.eu, Sifted (Europe) and Tech in Asia.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "unicorns",
+          "name": "Unicorn Tracker",
+          "description": "Headlines from 4 news feeds, including Unicorn News, Decacorn News, CB Insights Unicorn and New Unicorns.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "accelerators",
+          "name": "Accelerators & Demo Days",
+          "description": "Headlines from 5 news feeds, including YC News, Demo Day News, 500 Global News and Startup School.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "funding",
+          "name": "Funding & VC",
+          "description": "Headlines from 4 news feeds, including VC News, SEC Filings, Seed & Pre-Seed and Startup Funding.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ipo",
+          "name": "IPOs, Earnings & M&A",
+          "description": "Headlines from 5 news feeds, including IPO News, Tech IPO News, Renaissance IPO and Earnings Reports.",
+          "pro": false,
+          "variants": [
+            "tech",
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Security & Policy",
+      "panels": [
+        {
+          "id": "security",
+          "name": "Cybersecurity",
+          "description": "Headlines from 4 news feeds, including Krebs Security, Dark Reading, Schneier and The Hacker News.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "policy",
+          "name": "AI Policy & Regulation",
+          "description": "Headlines from 9 news feeds, including Politico Tech, AI Regulation, Tech Antitrust and China Tech Policy.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        },
+        {
+          "id": "ai-regulation",
+          "name": "AI Regulation Dashboard",
+          "description": "Tracks AI laws and regulatory actions by country in timeline, upcoming-deadline, regulation and country views, from a list kept in the app's config.",
+          "pro": false,
+          "variants": [
+            "tech"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Markets",
+      "panels": [
+        {
+          "id": "stock-analysis",
+          "name": "Stock Analysis",
+          "description": "AI-powered analysis for stocks in your watchlist — buy/hold/sell signals, price targets, key risks, and catalysts updated daily.",
+          "pro": true,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "stock-backtest",
+          "name": "Backtesting",
+          "description": "Historical performance backtests for stocks in your watchlist — past returns, max drawdown, and volatility metrics.",
+          "pro": true,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "daily-market-brief",
+          "name": "Daily Market Brief",
+          "description": "AI-generated daily summary of global market conditions, key macro trends, and sector-level signals — refreshes each trading day.",
+          "pro": true,
+          "variants": [
+            "full",
+            "finance"
+          ]
+        },
+        {
+          "id": "markets-news",
+          "name": "Markets News",
+          "description": "Lists market and business headlines from news feeds including CNBC, MarketWatch, Yahoo Finance and Reuters Markets.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "analysis",
+          "name": "Market Analysis",
+          "description": "Headlines from 3 news feeds, including Market Outlook, Risk & Volatility and Bank Research.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "nq-pulse",
+          "name": "NQ Pulse",
+          "description": "Shows quotes for Nasdaq-100 futures, the QQQ fund, the VXN volatility index and the 10-year Treasury yield as context, not execution-grade data.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "nq-catalysts",
+          "name": "NQ Catalysts",
+          "description": "Lists high-impact US economic releases for the next week and upcoming earnings from Nasdaq heavyweights such as Apple, Microsoft and NVIDIA.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "nq-news",
+          "name": "NQ News",
+          "description": "Lists Nasdaq futures and tech headlines from news feeds including Reuters Nasdaq Futures, Nasdaq-100 & QQQ, Federal Reserve and Semiconductors.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fixed Income & Foreign exchange",
+      "panels": [
+        {
+          "id": "forex",
+          "name": "Forex & Currencies",
+          "description": "Headlines from 3 news feeds, including Forex News, Central Bank Rates and Dollar Watch.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "bonds",
+          "name": "Fixed Income",
+          "description": "Headlines from 3 news feeds, including Bond Market, Corporate Bonds and Treasury Watch.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Commodities",
+      "panels": [
+        {
+          "id": "commodities-news",
+          "name": "Commodities News",
+          "description": "Lists commodity market headlines from news feeds including Oil & Gas, Gold & Metals, Agriculture and Commodity Trading.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Crypto & Digital",
+      "panels": [
+        {
+          "id": "crypto-heatmap",
+          "name": "Crypto Sectors",
+          "description": "Shows a heatmap of crypto sectors colored by their 24-hour price change, computed from CoinGecko market data.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "defi-tokens",
+          "name": "DeFi Tokens",
+          "description": "Prices and 24h/7d performance for major decentralized finance protocol tokens — DEXes, lending platforms, and yield protocols.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "ai-tokens",
+          "name": "AI Tokens",
+          "description": "Prices and 24h/7d performance for AI and machine learning sector tokens — compute networks, decentralized AI infrastructure, and data protocols.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "other-tokens",
+          "name": "Alt Tokens",
+          "description": "Lists prices and 24-hour and 7-day performance for alternative crypto tokens outside the major-cap tiers, using CoinGecko data.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "crypto-news",
+          "name": "Crypto News",
+          "description": "Lists cryptocurrency headlines from news feeds including CoinDesk, Cointelegraph, The Block and Decrypt.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "fintech",
+          "name": "Fintech & Trading Tech",
+          "description": "Headlines from 3 news feeds, including Fintech News, Trading Tech and Blockchain Finance.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Central Banks & Econ",
+      "panels": [
+        {
+          "id": "centralbanks",
+          "name": "Central Bank Watch",
+          "description": "Headlines from 6 news feeds, including Federal Reserve, PBoC Watch, BoE Watch and BoJ Watch.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "economic-news",
+          "name": "Economic News",
+          "description": "Lists economy headlines on data releases, trade and housing from news feeds Economic Data, Trade & Tariffs and Housing Market.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Deals & Institutional",
+      "panels": [
+        {
+          "id": "derivatives",
+          "name": "Derivatives & Options",
+          "description": "Headlines from 2 news feeds, including Options Market and Futures Trading.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "institutional",
+          "name": "Hedge Funds & PE",
+          "description": "Headlines from 3 news feeds, including Hedge Fund News, Private Equity and Sovereign Wealth.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "fin-regulation",
+          "name": "Financial Regulation",
+          "description": "Headlines from 4 news feeds, including SEC, Financial Regulation, Banking Rules and Crypto Regulation.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Gulf & Middle East and North Africa",
+      "panels": [
+        {
+          "id": "gcc-investments",
+          "name": "GCC Investments",
+          "description": "Lists Saudi and UAE investments in critical infrastructure worldwide from a built-in database, filterable by investor and sector and linked to the map.",
+          "pro": false,
+          "variants": [
+            "finance",
+            "commodity",
+            "energy"
+          ]
+        },
+        {
+          "id": "gccNews",
+          "name": "GCC Business News",
+          "description": "Headlines from 6 news feeds, including Arabian Business, The National, Arab News and Gulf FDI.",
+          "pro": false,
+          "variants": [
+            "finance"
+          ]
+        },
+        {
+          "id": "consumer-prices",
+          "name": "Consumer Prices",
+          "description": "Live grocery baskets, weekly changes, category trends, price movers and differences between retailers. The world view uses annual inflation from the International Monetary Fund World Economic Outlook.",
+          "pro": false,
+          "variants": [
+            "full",
+            "finance",
+            "commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Prices & Markets",
+      "panels": [
+        {
+          "id": "gold-silver",
+          "name": "Gold & Silver",
+          "description": "Headlines from 9 news feeds, including Kitco Gold, Gold Price News, Silver Price News and Precious Metals.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        },
+        {
+          "id": "base-metals",
+          "name": "Base Metals",
+          "description": "Headlines from 6 news feeds, including LME Metals, Copper Market, Nickel News and Aluminum & Zinc.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        },
+        {
+          "id": "critical-minerals",
+          "name": "Critical Minerals",
+          "description": "Headlines from 7 news feeds, including Benchmark Mineral, Lithium Market, Cobalt Market and Rare Earths News.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mining & Supply Chain",
+      "panels": [
+        {
+          "id": "commodity-news",
+          "name": "Commodity News",
+          "description": "Headlines from 6 news feeds, including Kitco News, Mining.com, Bloomberg Commodities and Reuters Commodities.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        },
+        {
+          "id": "mining-news",
+          "name": "Mining News",
+          "description": "Headlines from 7 news feeds, including Mining Journal, Northern Miner, Mining Weekly and Mining Technology.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        },
+        {
+          "id": "mining-companies",
+          "name": "Mining Companies",
+          "description": "Headlines from 6 news feeds, including BHP News, Rio Tinto News, Glencore & Vale and Gold Majors.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        },
+        {
+          "id": "commodity-regulation",
+          "name": "Regulation & Policy",
+          "description": "Headlines from 5 news feeds, including Mining Regulation, ESG in Mining, Trade & Tariffs and Indonesia Nickel Policy.",
+          "pro": false,
+          "variants": [
+            "commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Economy & Trade",
+      "panels": [
+        {
+          "id": "airline-intel",
+          "name": "Airline Intelligence",
+          "description": "Real-time airline operational data: route suspensions, airspace closures, carrier advisories, and emergency diversions. Sourced from aviation authority NOTAMs and carrier bulletins.",
+          "pro": false,
+          "variants": [
+            "full",
+            "tech",
+            "finance",
+            "commodity"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Good News",
+      "panels": [
+        {
+          "id": "positive-feed",
+          "name": "Good News Feed",
+          "description": "Lists positive news as image cards with category filters, from feeds such as Good News Network, Positive.News and Reasons to be Cheerful, plus GDELT.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        },
+        {
+          "id": "progress",
+          "name": "Human Progress",
+          "description": "Charts long-run World Bank data on life expectancy, literacy, child mortality and extreme poverty as area charts.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        },
+        {
+          "id": "counters",
+          "name": "Live Counters",
+          "description": "Real-time extrapolated counters for global metrics: military spending, natural disasters, disease burden, and more. Figures are statistical estimates based on annual data rates.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        },
+        {
+          "id": "spotlight",
+          "name": "Today's Hero",
+          "description": "Shows the newest humanity-and-kindness story from the positive news feeds as a featured card with photo, excerpt and map location.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        },
+        {
+          "id": "breakthroughs",
+          "name": "Breakthroughs",
+          "description": "Scrolls a ticker of science headlines from feeds such as ScienceDaily, Nature News, New Scientist and Live Science.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        },
+        {
+          "id": "digest",
+          "name": "5 Good Things",
+          "description": "Lists the five newest stories from the positive news feeds, each with an AI-generated summary of 50 words or fewer.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Planet & Giving",
+      "panels": [
+        {
+          "id": "species",
+          "name": "Conservation Wins",
+          "description": "Shows species recovery stories with photos, IUCN category badges and population trend sparklines, curated from sources such as USFWS, IUCN and WWF.",
+          "pro": false,
+          "variants": [
+            "happy"
+          ]
+        },
+        {
+          "id": "renewable",
+          "name": "Renewable Energy",
+          "description": "Share of electricity generation from renewables by region and year, plus US installed capacity for solar, wind, and coal (MW). Sources: World Bank (EG.ELC.RNEW.ZS) and US Energy Information Administration.",
+          "pro": false,
+          "variants": [
+            "energy",
+            "happy"
+          ]
+        },
+        {
+          "id": "giving",
+          "name": "Global Giving",
+          "description": "Published platform and institutional claims with source periods and verification status. Annualized figures are estimates, not live activity.",
+          "pro": false,
+          "variants": [
+            "full",
+            "happy"
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "id": "hotspots",
+      "name": "Intel Hotspots",
+      "category": "News / Hotspots",
+      "description": "Highlights monitored geopolitical hotspots and raises their level when related news and escalation signals converge.",
+      "source": "WorldMonitor hotspot registry, RSS/GDELT news intelligence, hotspot escalation scoring, military activity, and country instability context.",
+      "freshness": "Hotspot locations are curated/static. News feeds are freshness-tracked separately; hotspot levels are recomputed when the dashboard news feeds refresh, around 10 minutes apart, while GDELT intelligence has longer seeded/cache budgets.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "conflicts",
+      "name": "Conflict Zones",
+      "category": "Conflict",
+      "description": "Shows curated conflict zones and geopolitical boundary overlays so analysts can orient live signals against known theaters.",
+      "source": "WorldMonitor conflict-zone registry, UCDP/ACLED conflict context, and documented boundary metadata such as the Korean DMZ.",
+      "freshness": "Base zones are curated/static. Dynamic conflict-event inputs are tracked separately through ACLED/UCDP feeds and health signals.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "bases",
+      "name": "Military Bases",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear Sites",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "irradiators",
+      "name": "Gamma Irradiators",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "radiationWatch",
+      "name": "Radiation Watch",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "spaceports",
+      "name": "Spaceports",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "cables",
+      "name": "Undersea Cables",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "tech",
+        "finance"
+      ]
+    },
+    {
+      "id": "pipelines",
+      "name": "Pipelines",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "storageFacilities",
+      "name": "Storage Facilities",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "energy"
+      ]
+    },
+    {
+      "id": "fuelShortages",
+      "name": "Fuel Shortages",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "energy"
+      ]
+    },
+    {
+      "id": "datacenters",
+      "name": "AI Data Centers",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "tech"
+      ]
+    },
+    {
+      "id": "military",
+      "name": "Military Activity",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "ais",
+      "name": "Ship Traffic",
+      "category": "Maritime",
+      "description": "Shows vessel density and AIS disruption signals around strategic waters and chokepoints.",
+      "source": "AISStream relay snapshots, WorldMonitor maritime service, and chokepoint disruption classifiers.",
+      "freshness": "AIS relay snapshots are rebuilt every 5 seconds by default; the server may cache the base density snapshot for 5 minutes, and the layer is disabled or stale when relay credentials/connectivity are unavailable.",
+      "pro": false,
+      "variants": [
+        "full",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "tradeRoutes",
+      "name": "Trade Routes",
+      "category": "Maritime",
+      "description": "Draws major container, energy, and bulk routes through strategic chokepoints for disruption-path reasoning.",
+      "source": "WorldMonitor trade-route registry plus supply-chain chokepoint status and transit summaries.",
+      "freshness": "Route geometry is static. Chokepoint status is warm-pinged every 6 minutes and transit summaries refresh every 10 minutes through supply-chain caches and relay paths.",
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "flights",
+      "name": "Aviation",
+      "category": "Aviation",
+      "description": "Highlights airport disruption and NOTAM closures, airspace NOTAMs in effect now or starting within 24 hours (temporary flight restrictions, restricted, danger and prohibited areas, military operating areas, airspace reservations and closures), and live aircraft positions when tracking is available.",
+      "source": "FAA ASWS, AviationStack, FAA NOTAM Management Service (NMS-API) and ICAO NOTAMs, adsb.lol (ODbL), Wingbits, legacy OpenSky service recovery, optional non-commercial airplanes.live/adsb.fi gap-fill, and the aviation service. Airspace NOTAMs are drawn as polygons where NMS supplies them, circles where the NOTAM gives a radius up to 250 NM, and markers otherwise.",
+      "freshness": "Airport disruption seeds run on a 30-minute cadence; airspace NOTAMs are seeded every 5 minutes from NMS change pulls with a daily full resync, against a 20-minute freshness budget; the aviation panel also refreshes operational views on a 5-minute polling cycle.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "aircraftEmergencies",
+      "name": "Aircraft Emergencies",
+      "category": "Aviation",
+      "description": "Shows reported transponder codes 7500, 7600 and 7700 independently of military classification.",
+      "source": "adsb.lol exact squawk queries. Aircraft details use provider fields. Attribution is ODbL.",
+      "freshness": "Checks each minute while visible. Last message must be at most 120 seconds old. Map positions must be at most 90 seconds old. Unknown reports expire after 15 minutes.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "protests",
+      "name": "Protests",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "ucdpEvents",
+      "name": "Armed Conflict Events",
+      "category": "Conflict",
+      "description": "Plots event-level armed conflict records with country, actors, date, and fatality ranges.",
+      "source": "Uppsala Conflict Data Program GED API via the conflict service and UCDP event seed.",
+      "freshness": "Seeded every 6 hours when the UCDP seed is healthy.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "displacement",
+      "name": "Displacement Flows",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate Anomalies",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "weather",
+      "name": "Weather Alerts",
+      "category": "Weather",
+      "description": "Shows active official severe-weather alerts from national meteorological services, merged into one weather:alerts:v1 feed.",
+      "source": "United States National Weather Service (NWS), Environment and Climate Change Canada (ECCC), and WMO Severe Weather Information Centre (SWIC) CAP aggregation, seeded through the WorldMonitor relay.",
+      "freshness": "NWS, ECCC, and SWIC alerts are seeded every 15 minutes by the relay and monitored against a 45-minute freshness budget.",
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "canadaRoads",
+      "name": "Canada Roads",
+      "category": "Transport",
+      "description": "Shows official road incidents, alerts, conditions, closures, construction, and hazards across supported Canadian jurisdictions.",
+      "source": "Ontario 511, Alberta 511, and Manitoba 511 provincial feeds, City of Toronto Road Restrictions, and DriveBC Open511, seeded through WorldMonitor.",
+      "freshness": "Ontario, Alberta, and Manitoba 511 are seeded every 15 minutes and monitored against a 45-minute freshness budget. Toronto restrictions are seeded every 2 hours; DriveBC Open511 every 30 minutes.",
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "canadaAlerts",
+      "name": "Canada Alerts",
+      "category": "Emergency Alerts",
+      "description": "Shows active Alberta, British Columbia, and Saskatchewan public-safety warnings as map dots alongside US NWS weather.",
+      "source": "Alberta Emergency Alert Atom, the OGL-BC Evacuation Orders and Alerts GeoJSON layer, and the SaskAlert public JSON feed plus same-host CAP 1.2 details are normalized into one canadaAlerts union. CAP/GeoRSS polygons, B.C. evacuation polygons, and SaskAlert CAP polygons become centroids; records without geometry use the source province centroid.",
+      "freshness": "Provincial sources are seeded every 15 minutes and the union is monitored against a 45-minute freshness budget. An empty feed (no active alerts) is a valid zero-record success.",
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "outages",
+      "name": "Internet Disruptions",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "tech",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "cyberThreats",
+      "name": "Cyber Threats",
+      "category": "Cyber",
+      "description": "Maps geo-enriched indicators of compromise such as C2 servers, malware hosts, phishing, malicious URLs, and ransomware infrastructure.",
+      "source": "abuse.ch Feodo Tracker and URLhaus, C2IntelFeeds, AlienVault OTX, AbuseIPDB, ransomware.live RSS/news feed, and IP geolocation enrichment.",
+      "freshness": "Cyber threat seeds run every 2 hours; displayed IOCs use a 14-day rolling window and are capped for map performance.",
+      "pro": false,
+      "variants": [
+        "full",
+        "tech",
+        "finance"
+      ]
+    },
+    {
+      "id": "natural",
+      "name": "Natural Events",
+      "category": "Natural Disasters",
+      "description": "Shows earthquakes, severe disaster alerts, and active Earth-observation events for situational awareness.",
+      "source": "USGS earthquakes, GDACS alerts, and NASA EONET events merged into the natural events service.",
+      "freshness": "Natural events are seeded every 30 minutes; USGS earthquake expectations are documented at roughly 5-minute source cadence.",
+      "pro": false,
+      "variants": [
+        "full",
+        "tech",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "fires",
+      "name": "Fires",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "tech",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "waterways",
+      "name": "Chokepoints",
+      "category": "Maritime",
+      "description": "Marks strategic waterways and chokepoints so disruption signals can be interpreted against fixed maritime geography.",
+      "source": "WorldMonitor strategic-waterways registry with supply-chain chokepoint status overlays from AIS, NGA warnings, and PortWatch-derived feeds.",
+      "freshness": "Waterway locations are static; live chokepoint status is warm-pinged every 6 minutes and transit summaries refresh every 10 minutes when the relay/PortWatch path is healthy.",
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "economic",
+      "name": "Economic Centers",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity"
+      ]
+    },
+    {
+      "id": "minerals",
+      "name": "Critical Minerals",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "gpsJamming",
+      "name": "Navigation Interference",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "satellites",
+      "name": "Orbital Surveillance",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "ciiChoropleth",
+      "name": "Country Instability",
+      "category": "Country Risk",
+      "description": "Colors countries by the current Country Instability Index score for broad strategic-risk triage.",
+      "source": "WorldMonitor Country Instability Index scoring service using conflict, unrest, advisories, cyber, ship tracking, aviation, natural-event, and news signals.",
+      "freshness": "Risk-score cache is warm-pinged every 8 minutes; seed-meta and health.riskScores expose live, stale, partial, or degraded state against a 30-minute freshness budget.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "resilienceScore",
+      "name": "Country Resilience",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": true,
+      "variants": [
+        "full",
+        "tech",
+        "finance",
+        "commodity",
+        "energy",
+        "happy"
+      ]
+    },
+    {
+      "id": "sanctions",
+      "name": "Sanctions",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "no2Activity",
+      "name": "Industrial Activity",
+      "category": "Economy",
+      "description": "Colors countries and industrial clusters by the direction of their Sentinel-5P tropospheric NO2, a combustion trace, over the latest 56-day window against the same dates in prior years.",
+      "source": "Copernicus Sentinel-5P TROPOMI NO2 via the CDSE Sentinel Hub Statistical API, aggregated daily per region by the seed-no2-activity service. Contains modified Copernicus Sentinel data.",
+      "freshness": "Seeded every 24 hours; the window ends 3 days before the run so late granules can land, with a 72-hour freshness budget.",
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "reservoirLevels",
+      "name": "Water Levels",
+      "category": "Climate",
+      "description": "Marks strategic reservoirs and lakes by how their water-surface level compares with the usual level for the time of year, and by how fast it is changing.",
+      "source": "NASA ICESat-2 ATL13 inland water-surface height from NSIDC, processed with SlideRule Earth and combined per satellite pass by the seed-reservoir-levels service.",
+      "freshness": "Seeded daily. NASA publishes each pass 50 to 70 days after it is measured, and a reservoir is revisited every few days to about a month.",
+      "pro": false,
+      "variants": [
+        "full",
+        "energy"
+      ]
+    },
+    {
+      "id": "dayNight",
+      "name": "Day/Night",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full",
+        "tech",
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "webcams",
+      "name": "Live Webcams",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "diseaseOutbreaks",
+      "name": "Disease Outbreaks",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "full"
+      ]
+    },
+    {
+      "id": "startupHubs",
+      "name": "Startup Hubs",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "tech"
+      ]
+    },
+    {
+      "id": "techHQs",
+      "name": "Tech HQs",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "tech"
+      ]
+    },
+    {
+      "id": "accelerators",
+      "name": "Accelerators",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "tech"
+      ]
+    },
+    {
+      "id": "cloudRegions",
+      "name": "Cloud Regions",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "tech"
+      ]
+    },
+    {
+      "id": "techEvents",
+      "name": "Tech Events",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "tech"
+      ]
+    },
+    {
+      "id": "stockExchanges",
+      "name": "Stock Exchanges",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "finance"
+      ]
+    },
+    {
+      "id": "financialCenters",
+      "name": "Financial Centers",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "finance"
+      ]
+    },
+    {
+      "id": "centralBanks",
+      "name": "Central Banks",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "finance"
+      ]
+    },
+    {
+      "id": "commodityHubs",
+      "name": "Commodity Hubs",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "finance",
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "gulfInvestments",
+      "name": "Gulf Cooperation Council Investments",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "finance"
+      ]
+    },
+    {
+      "id": "positiveEvents",
+      "name": "Positive Events",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "happy"
+      ]
+    },
+    {
+      "id": "kindness",
+      "name": "Acts of Kindness",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "happy"
+      ]
+    },
+    {
+      "id": "happiness",
+      "name": "World Happiness",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "happy"
+      ]
+    },
+    {
+      "id": "speciesRecovery",
+      "name": "Species Recovery",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "happy"
+      ]
+    },
+    {
+      "id": "renewableInstallations",
+      "name": "Clean Energy",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "happy"
+      ]
+    },
+    {
+      "id": "miningSites",
+      "name": "Mining Sites",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "commodity"
+      ]
+    },
+    {
+      "id": "processingPlants",
+      "name": "Processing Plants",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "commodity"
+      ]
+    },
+    {
+      "id": "commodityPorts",
+      "name": "Commodity Ports",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "commodity",
+        "energy"
+      ]
+    },
+    {
+      "id": "liveTankers",
+      "name": "Live Tanker Positions",
+      "category": null,
+      "description": null,
+      "source": null,
+      "freshness": null,
+      "pro": false,
+      "variants": [
+        "energy"
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "name": "get_country_brief",
+      "title": "AI country assessment",
+      "description": "Return a text-only AI assessment of one country with sources, groundingStories and digestCoverage.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_aviation_status",
+      "title": "Airport delays and airspace closures",
+      "description": "Return the seeded airport disruption snapshot: one alert row per monitored airport (about 85 major airports worldwide) with iata, name, country and severity, built from AviationStack delay aggregates for international hubs.",
+      "access": "free-account"
+    },
+    {
+      "name": "analyze_situation",
+      "title": "Analyze a geopolitical situation",
+      "description": "Run an LLM analytical deduction on a free-text geopolitical question and return {analysis, provider, model}: a narrative assessment and the LLM that wrote it.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_tariff_averages",
+      "title": "Average tariff rates",
+      "description": "Average tariff a country applies by year: schedule rates, no Section 301/232 duties.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_fred_series",
+      "title": "Cached macroeconomic series",
+      "description": "Read cached macroeconomic time series for indicators such as unemployment, inflation, and interest rates; no request-time external fetch or cache refresh.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_food_stocks",
+      "title": "Cereal stocks-to-use ratios",
+      "description": "USDA PSD cereal stocks-to-use by marketing year. Ask for a country plus optional commodity (wheat, corn, rice, soybeans, barley, palmOil), or country_code=WORLD for the global balance.",
+      "access": "subscription"
+    },
+    {
+      "name": "verify_claim",
+      "title": "Check a claim against news coverage",
+      "description": "Return an evidence card for a claim or headline: how many live-headline clusters report the same event.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_china_decision_signals",
+      "title": "China decision signals",
+      "description": "Return the bounded six-domain China decision-signal snapshot used by the public country summary.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_supply_chain_cost_shock",
+      "title": "Chokepoint closure cost shock",
+      "description": "Model country energy exposure or multi-sector import costs for a chokepoint closure.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_chokepoint_dependencies",
+      "title": "Chokepoint dependencies by country",
+      "description": "Return country commodity dependencies by chokepoint, where an absent score means insufficient coverage, never zero risk.",
+      "access": "subscription"
+    },
+    {
+      "name": "classify_event",
+      "title": "Classify a news event",
+      "description": "Classify one supplied headline or short text (1-500 characters) into {category, level, severity, confidence} with the enum-validated WorldMonitor event classifier (temperature 0, cached 24 h per title, never free-form LLM output).",
+      "access": "subscription"
+    },
+    {
+      "name": "get_climate_data",
+      "title": "Climate anomalies and disasters",
+      "description": "Return the seeded climate bundle: temperature and precipitation anomalies against 30-year WMO normals, climate-relevant disaster alerts (ReliefWeb, GDACS, FIRMS), the NOAA Mauna Loa CO2 trend, OpenAQ/WAQI PM2.5 station readings.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_supply_vulnerabilities",
+      "title": "Commodity supply risks",
+      "description": "Return one country's commodity import-supply vulnerability portfolio, where an absent score means insufficient evidence, never zero risk.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_company_intelligence",
+      "title": "Company intelligence",
+      "description": "Return corporate intelligence for one company from SEC EDGAR and market data, selected by view: enrichment (SEC identity, recent filings, market profile, earnings surprises, news mentions; the default).",
+      "access": "subscription"
+    },
+    {
+      "name": "get_conflict_events",
+      "title": "Conflict and unrest events",
+      "description": "Return the seeded conflict snapshot: active armed-conflict events (UCDP and Iran tracker) and unrest events with coordinates, fatalities and dates, plus country risk scores.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_consumer_prices",
+      "title": "Consumer prices and inflation",
+      "description": "Consumer-prices intelligence for the United Arab Emirates, the only seeded country: 30-day overview, category-level inflation, retailer spread (essentials basket), top movers and source freshness.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_demographics_capability",
+      "title": "Country age, education and workforce",
+      "description": "Return one country's demographic-capability observations from UN WPP, World Bank/UNESCO UIS and ILOSTAT: age structure, education and industrial-workforce groups, each reported independently with observation year, source.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_country_coverage",
+      "title": "Country coverage timeline",
+      "description": "The country panel's own coverage timeline: recent country-relevant headlines plus the clustered incident timeline the WorldMonitor UI renders for that country.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_country_history",
+      "title": "Country daily history",
+      "description": "Read cached daily country CII, resilience and linked headlines.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_country_risk",
+      "title": "Country instability score, advisory and sanctions",
+      "description": "Return the structured risk snapshot for one country: the Composite Instability Index at cii.combinedScore (0-100) with its four components under cii.components, the government travel-advisory level.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_country_macro",
+      "title": "Country macroeconomic indicators",
+      "description": "Per-country macroeconomic indicators by dataset.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_cross_border_arrivals",
+      "title": "Cross-border refugee arrivals",
+      "description": "Return UNHCR Operational Data Portal cross-border displacement situations: per-situation arrival and return counts, stock totals, source dates and the IDs of situations that were unavailable at seed time.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_capital_flows",
+      "title": "Cross-country capital flows",
+      "description": "Return where money enters and leaves about 230 economies, and between any two, from official statistics.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_news_clusters",
+      "title": "Current news topic clusters",
+      "description": "Current topic clusters over the live headline digest, using the dashboard's Jaccard clustering.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_cyber_threats",
+      "title": "Cyber threat intelligence",
+      "description": "Return the seeded cyber-threat snapshot: indicators of compromise (IPs, domains, URLs) from Feodo Tracker, URLhaus, C2Intel, OTX and AbuseIPDB, typed as C2 server, malware host, phishing or malicious URL, each with severity.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_defense_industrial_base",
+      "title": "Defense industrial base",
+      "description": "Return one country's defense industrial base: the latest World Bank military-capacity indicators (spending, personnel, arms trade) and SIPRI-derived five-year major-weapons supplier shares with a concentration measure.",
+      "access": "subscription"
+    },
+    {
+      "name": "describe_tool",
+      "title": "Describe a tool",
+      "description": "Return the complete definition of one tool by name: the same name, title, description, inputSchema, outputSchema, annotations and _meta entry that tools/list carries, so a single tool can be re-read without re-listing all of them.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_health_signals",
+      "title": "Disease outbreaks and air quality",
+      "description": "Active disease outbreaks (WHO/ECDC etc.) and global air-quality station readings (OpenAQ/WAQI PM2.5).",
+      "access": "free-account"
+    },
+    {
+      "name": "get_natural_disasters",
+      "title": "Earthquakes, wildfires and natural hazards",
+      "description": "Recent M4.5+ earthquakes (USGS and Earthquakes Canada / NRCan), active wildfires (NASA FIRMS), and natural hazard events.",
+      "access": "free-account"
+    },
+    {
+      "name": "compute_energy_shock",
+      "title": "Energy supply shock scenario",
+      "description": "Compute the oil/gas supply-sensitivity scenario for a country and supported chokepoint.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_energy_intelligence",
+      "title": "Energy supply, prices and disruptions",
+      "description": "Return the seeded energy bundle: EIA petroleum stocks, Ember electricity prices and generation mix, GIE national gas storage (fill percentage, stored TWh, observation date per country), fuel shortages, active energy disruptions.",
+      "access": "free-account"
+    },
+    {
+      "name": "extract_entities",
+      "title": "Extract named entities",
+      "description": "Extract named entities deterministically — registry entities (companies, indices, commodities, crypto, sectors, countries) plus pattern entities (CVE IDs, APT/FIN threat-group designators, tracked world leaders).",
+      "access": "subscription"
+    },
+    {
+      "name": "find_webcams",
+      "title": "Find webcams in a viewport",
+      "description": "Discover webcam metadata or clusters in an explicit bounding box and zoom.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_five_factor_scorecard",
+      "title": "Five-factor country scorecard",
+      "description": "Return the frozen v1 food, energy, demographics, technology and defense scorecard.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_forecast_scorecard",
+      "title": "Forecast accuracy scorecard",
+      "description": "Forecast resolution scorecard: the accuracy record of WorldMonitor forecasts; underAudit marks scores still under audit.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_signal_convergence",
+      "title": "Geographic signal convergence",
+      "description": "Geographic signal convergence: grid cells where protests, military activity, naval movements, and earthquakes co-occur.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_global_air_activity",
+      "title": "Global military air activity",
+      "description": "Military snapshot counts only: observed aircraft by type, overlapping theater, and outside all theaters.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_commodity_geo",
+      "title": "Global mining sites",
+      "description": "Return a curated reference list of 71 major mine sites: name, coordinates, country, mineral, operator, status (producing, development, exploration), significance and, where recorded, annual output.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_gold_intelligence",
+      "title": "Gold market intelligence",
+      "description": "Return seeded gold intelligence: metal futures quotes, cross-currency gold prices, CFTC positioning, session returns/ranges, drivers, ETF holdings and central-bank reserves.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_similar_events",
+      "title": "Historical precedents for a situation",
+      "description": "Return historical precedents for a situation described in free text, ranked by vector similarity over WorldMonitor's retained event store (conflict, military and energy records kept for 180 days).",
+      "access": "subscription"
+    },
+    {
+      "name": "get_hotspot_escalation",
+      "title": "Hotspot escalation scores",
+      "description": "Hotspot escalation scores: the 29 curated intelligence hotspots ranked by dynamic escalation on a 1-5 scale.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_world_brief",
+      "title": "Hourly AI world news brief",
+      "description": "Return one written world brief, the hourly AI summary of top headlines rather than a story feed, from the precomputed news:insights:v1 snapshot.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_imd_cyclone_marine",
+      "title": "India cyclone and marine bulletins",
+      "description": "Return India Meteorological Department sea-area and coastal marine bulletins from the public mausam.imd.gov.in pages: storm warnings, port signals, storm-surge and tidal warnings, wind.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_macro_history",
+      "title": "Inflation, rates and yield history",
+      "description": "CPI, interest-rate and sovereign yield histories from seeded official-source reports.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_intel_timeline",
+      "title": "Intelligence event timeline",
+      "description": "Reverse-chronological read of WorldMonitor's accumulating intelligence-event history for one domain or country (Pro).",
+      "access": "subscription"
+    },
+    {
+      "name": "get_infrastructure_status",
+      "title": "Internet outages, traffic and DDoS",
+      "description": "Return the seeded Cloudflare Radar Internet snapshot: outages (national and regional, with start time, severity and cause).",
+      "access": "free-account"
+    },
+    {
+      "name": "get_keyword_spikes",
+      "title": "Keyword and threat spikes",
+      "description": "Keyword/CVE/APT spikes vs baseline, each with sourceNames (the complete publisher set) and up to 3 sampleHeadlines as {title, source, link}.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_watched_site_imagery",
+      "title": "Latest image and next pass for watched sites",
+      "description": "Return the watched sites in one country, newest image first, each with its latest archive image (scene id, sensor, date and the credit line owed when citing it) and its next predicted imaging pass, plus attribution.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_forecast_theaters",
+      "title": "Latest simulation theater summaries",
+      "description": "Return the latest forecast simulation theater summaries: for each theater its original paths, actors with optional roles, reactions, stabilizers, invalidators, source run and time, and completion counts.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_airspace",
+      "title": "Live aircraft over a country",
+      "description": "Live ADS-B aircraft over a country. Returns Wingbits-backed civilian flights and identified military aircraft from redistributable providers, with callsigns, positions, altitudes, and headings.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_chokepoint_status",
+      "title": "Maritime chokepoint status",
+      "description": "Return the seeded maritime chokepoint snapshot: per-chokepoint vessel transit counts at 10-minute cadence, rolling transit summaries, a port-country coverage index, oil and gas flow aggregates.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_market_data",
+      "title": "Market quotes and commodity prices",
+      "description": "Return the seeded market snapshot: equity, commodity, crypto and Gulf-market quotes, sector performance with explicit valuation coverage, ETF flows and the Fear & Greed index.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_media_perspective",
+      "title": "Media perspective on a country",
+      "description": "Headlines about one country grouped by outlet home country and audience (domestic, international, diaspora): its own press vs its foreign-facing media vs outside coverage.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_military_surge",
+      "title": "Military surge alerts",
+      "description": "Return the military surge watch computed server-side over the seeded flight snapshot: per-theater posture summaries counting fighters, tankers, AWACS, reconnaissance, transports.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_mineral_production",
+      "title": "Mineral production shares by country",
+      "description": "Who mines and who refines a commodity, with country shares and HHI.",
+      "access": "subscription"
+    },
+    {
+      "name": "list_x_feed",
+      "title": "Monitored X news posts",
+      "description": "Return recent posts from the curated set of monitored public news accounts on X: for each post the permalink, account, topic tags and derived facts, never the post text (bodies are stripped before return and are not redistributed).",
+      "access": "subscription"
+    },
+    {
+      "name": "get_focal_points",
+      "title": "News and map focal points",
+      "description": "Focal-point detection: entities where news coverage and live map signals converge, ranked by multi-signal score.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_test_site_seismicity",
+      "title": "Nuclear test-site seismic activity",
+      "description": "Nuclear test-site seismic monitor: USGS earthquakes near known test sites scored for proliferation concern.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_oil_trade_series",
+      "title": "Oil production and export series by country",
+      "description": "Monthly oil supply and export series for 24 major exporters over 24 complete months, comparing the last N complete months with the N before and a year earlier (default N=6), e.g.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_forecast_case",
+      "title": "One forecast case file by ID",
+      "description": "Read exactly one original published forecast case, including its full case file, by forecast ID and the exact generatedAt of the forecast list it came from; no list and no accuracy scores.",
+      "access": "subscription"
+    },
+    {
+      "name": "open_country_brief",
+      "title": "Open the interactive country brief view",
+      "description": "Open the interactive WorldMonitor country brief for one country and return {countryCode, topic, panelRequest}; the host renders the embedded view, which then loads its assessment, source evidence, resilience, security, economy.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_population_exposure",
+      "title": "Population exposed to active events",
+      "description": "Estimated people within earthquake (100 km), wildfire (30 km), or conflict (50 km) radii, using country average density × circle area.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_positive_events",
+      "title": "Positive geopolitical events",
+      "description": "Return the seeded map of positive-news locations: each entry is a place (name, latitude, longitude) with the count of positive-toned GDELT bulk reports that mention it.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_prediction_markets",
+      "title": "Prediction markets",
+      "description": "Return seeded prediction-market contracts from multiple venues with current probabilities, grouped into three buckets: geopolitical (including elections).",
+      "access": "free-account"
+    },
+    {
+      "name": "prepare_travel_risk_assessment",
+      "title": "Prepare a travel risk assessment draft",
+      "description": "Draft a travel risk assessment for 1 to 6 countries in travel order, for an analyst to finish.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_price_and_debt_indicators",
+      "title": "Price and debt indicators",
+      "description": "Return the seeded price and debt indicator bundle: the Economist Big Mac index by country, the FAO Food Price Index and per-country national debt levels.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_bilateral_tariff",
+      "title": "Product tariff between two countries",
+      "description": "Tariff on one HS6 product between two countries: schedule rate through 2023, no Section 301/232 duties.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_procurement_opportunities",
+      "title": "Public procurement opportunities",
+      "description": "Search open public-procurement notices aggregated from official national and multilateral sources (including SAM.gov, TED, Pakistan EPADS, Georgia SPA and Armenia ARMEPS) and return compact records: title, buyer, country, source, deadline.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_forecast_predictions",
+      "title": "Published forecast list",
+      "description": "Return the current published forecast list from the seeded cache (paid panel openings also attach per-domain reliability and recent familyOutcomes, not the full accuracy scorecard): each forecast with id, domain, region, probability.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_radiation_data",
+      "title": "Radiation monitoring readings",
+      "description": "Return the seeded radiation monitoring snapshot: gamma dose-rate readings from public monitoring stations worldwide with station, country, value, unit, time and a severity flag (normal, elevated, spike) that marks anomalous readings.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_economic_data",
+      "title": "Rates, economic calendars and fuel prices",
+      "description": "Read cached rates, calendars and fuel prices with official-only 12-series China macro (no proxies, see launchReady).",
+      "access": "free-account"
+    },
+    {
+      "name": "get_displacement_data",
+      "title": "Refugee and displacement counts",
+      "description": "Read seeded displacement data; choose the dataset with view.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_mcp_allowance",
+      "title": "Remaining MCP allowance",
+      "description": "Read the authenticated account remaining MCP allowance and UTC reset time without spending a daily allocation.",
+      "access": "free-account"
+    },
+    {
+      "name": "report_issue",
+      "title": "Report an issue",
+      "description": "Stores one report for the WorldMonitor maintainers about a bug, a missing capability, wrong or stale data, or a security concern, and returns its reportId and status.",
+      "access": "free"
+    },
+    {
+      "name": "get_resilience_indicators",
+      "title": "Resilience score breakdown by indicator",
+      "description": "Explain one country's resilience dimension scores across all 72 registered indicators.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_webcam_media",
+      "title": "Resolve one webcam’s recent media",
+      "description": "Resolve exactly one catalog webcam_id via the shared Windy handler, with at most one provider lookup.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_sanctions_data",
+      "title": "Sanctions lists and pressure scores",
+      "description": "Screen OFAC SDN, OFAC Consolidated.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_point_satellite_passes",
+      "title": "Satellite passes and images for a point",
+      "description": "Return imaging-satellite passes whose footprint covers a point over the last 7 days and the next 72 hours.",
+      "access": "subscription"
+    },
+    {
+      "name": "search_flights",
+      "title": "Search flights",
+      "description": "Live Google Flights search between two airports, read from the Google Flights results page.",
+      "access": "subscription"
+    },
+    {
+      "name": "search_intel_history",
+      "title": "Search past intelligence events",
+      "description": "Semantic search over WorldMonitor's accumulating store of past intelligence events (Pro), ranked by similarity.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_no2_activity",
+      "title": "Sentinel-5P NO2 activity",
+      "description": "Industrial activity direction from Sentinel-5P tropospheric NO2 for 167 countries and 32 industrial clusters: the latest 56-day window against the same dates in the prior three years, as changePercent and a direction after a 10% dead band.",
+      "access": "subscription"
+    },
+    {
+      "name": "simulate_infrastructure_cascade",
+      "title": "Simulate an infrastructure cascade",
+      "description": "Infrastructure cascade simulation and subsea cable exposure: what fails downstream when a cable, chokepoint, pipeline, or port is disrupted.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_sources",
+      "title": "Source inventory",
+      "description": "WorldMonitor's live source inventory, for deciding whether and how far to trust what the other tools return.",
+      "access": "free"
+    },
+    {
+      "name": "start_upgrade",
+      "title": "Start a plan upgrade",
+      "description": "Return a personal checkout link for a paid self-serve plan, bound to the signed-in account.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_stock_research",
+      "title": "Stock research",
+      "description": "Run one stock-research operation and return {operation, data}: analysis (current rating with model and engineVersion provenance), backtest (technical-signal simulation with ratingBasis provenance).",
+      "access": "subscription"
+    },
+    {
+      "name": "get_reservoir_levels",
+      "title": "Strategic reservoir water levels",
+      "description": "Return NASA ICESat-2 lidar water levels for the 50 strategic reservoirs and lakes on the watchlist (GERD, Lake Nasser, Ataturk, Mosul, Tarbela, Three Gorges, Kariba, Lake Mead and others): latest pass level.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_country_brief_section",
+      "title": "Structured country data, one section",
+      "description": "Read one named structured data section for a country, raw values without narrative, and return {state: ready|locked|unavailable, section, value, retrievedAt, reason}.",
+      "access": "subscription"
+    },
+    {
+      "name": "analyze_news_headlines",
+      "title": "Summarize or translate headlines",
+      "description": "Summarize up to 8 supplied headlines (mode brief, the default) or translate exactly one headline (mode translate) with the dashboard's LLM route, returning {summary, provider, model, tokens, fallback} or an error with errorType.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_supply_chain_data",
+      "title": "Supply-chain pressure and trade flows",
+      "description": "Return seeded supply-chain pressure and trade data: freight-rate indices, the NY Fed GSCPI, a BDRY and carrier-equity shipping-stress proxy, monthly customs revenue and UN COMTRADE flows.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_research_signals",
+      "title": "Technology and research signals",
+      "description": "Return the seeded technology and research event list: upcoming and recent conferences, earnings dates, IPOs and other tech events from curated feeds such as Techmeme and dev.events, each with type, source, dates and link.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_military_posture",
+      "title": "Theater military posture",
+      "description": "Return the seeded theater posture assessment: for each global theater (Iran, Taiwan, Baltic, Korea and others) a posture level with the military flight and vessel counts and operation flags behind it.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_news_intelligence",
+      "title": "Threat news stories and signals",
+      "description": "Return the seeded threat-news feed as items, not a brief: AI-classified news stories, GDELT intelligence signals by topic, cross-source signals, physical-premium regime transitions included, and government security advisories.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_alert_digest",
+      "title": "Threshold alerts across domains today",
+      "description": "Cross-domain alert digest: everything that tripped a threshold today, in one rollup.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_social_velocity",
+      "title": "Top Reddit world-news posts",
+      "description": "Return the 30 Reddit posts from r/worldnews and r/geopolitics with the highest velocityScore (log of score x upvote ratio x a 6-hour recency decay), each with title, subreddit, url (the Reddit permalink), score, upvoteRatio.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_temporal_anomalies",
+      "title": "Unusual event activity vs baseline",
+      "description": "Temporal anomaly watch: current event counts vs day-of-week and seasonal baselines, scored by z-score severity.",
+      "access": "free-account"
+    },
+    {
+      "name": "get_us_import_duty",
+      "title": "US import duty for a product",
+      "description": "Return the current US import duty for one product from one country: the live USITC Harmonized Tariff Schedule rates for each 8-digit line under hs_code, plus the chapter 99 Section 301 and 232 duties in force.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_maritime_activity",
+      "title": "Vessel traffic and tanker port activity for a country",
+      "description": "Return country-scoped maritime activity.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_country_imagery_evidence",
+      "title": "Watched-site satellite evidence for a country",
+      "description": "Return the watched sites in one country with each site's newest archive scene, next expected imaging pass, the operators whose satellites passed over it, and any confirmed change flag.",
+      "access": "subscription"
+    },
+    {
+      "name": "open_news_dashboard",
+      "title": "WorldMonitor news and maps",
+      "description": "Open the embedded WorldMonitor news and map dashboard and return the full feed digest (categories with items, publication dates, source provenance, coordinates, feedStatuses, coverage) plus requestedView.",
+      "access": "subscription"
+    },
+    {
+      "name": "get_wto_trade_flows",
+      "title": "WTO merchandise trade flows",
+      "description": "WTO merchandise trade flows for one reporting country versus the World, over a configurable year window.",
+      "access": "subscription"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MD",
+  "countryName": "Moldova",
+  "slug": "moldova",
+  "rank": 72,
+  "overallScore": 55.2,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "/VIDEO/ „Pădurea Prieteniei” prinde noi rădăcini: Kaufland și Coca-Cola Moldova, împreună pentru un viitor mai verde /P/",
+        "source": "TV8",
+        "url": "https://tv8.md/2026/11/23/video-padurea-prieteniei-prinde-noi-radacini-kaufland-si-coca-cola-moldova-impreuna-pentru-un-viitor-mai-verde-p/313167",
+        "publishedAt": "2026-11-23T20:26:23.000Z"
+      },
+      {
+        "title": "Latvian Foreign Ministry to support Moldovan project",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/society/20.11.2026-latvian-foreign-ministry-to-support-moldovan-project.a672814/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-11-20T15:45:11.000Z"
+      },
+      {
+        "title": "O dronă de atac a survolat neautorizat spațiul aerian al Republicii Moldova: A dispărut în apropiere de Cuciurgan",
+        "source": "TV8",
+        "url": "https://tv8.md/2026/11/23/o-drona-de-atac-a-survolat-neautorizat-spatiul-aerian-al-republicii-moldova-a-disparut-in-apropiere-de-cuciurgan/313171",
+        "publishedAt": "2026-11-23T19:49:44.000Z"
+      },
+      {
+        "title": "Ministry of Foreign Affairs awards co-funding to four projects in Moldova and Latvia",
+        "source": "mfa.gov.lv",
+        "url": "https://www.mfa.gov.lv/en/article/ministry-foreign-affairs-awards-co-funding-four-projects-moldova-and-latvia",
+        "publishedAt": "2026-11-20T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "President of Chisinau Parliament suggests collaboration with Romania to protect Moldova's air space",
+        "source": "actmedia.eu",
+        "url": "https://actmedia.eu/daily/president-of-chisinau-parliament-suggests-collaboration-with-romania-to-protect-moldova-s-air-space/122778",
+        "publishedAt": "2026-11-20T12:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn attack drone flew unauthorized over Moldova's airspace and disappeared near Cuciurgan. [3]\nThe President of the Chisinau Parliament suggested collaboration with Romania to protect Moldova's air space. [5]\n\nWATCH ITEMS\nWhether the drone that disappeared near Cuciurgan will be located and its origin identified. [3]\nWhether Romania will respond to the suggestion of collaboration to protect Moldova's air space. [5]",
+      "generatedAt": "2026-11-24T04:30:07.776Z",
+      "sources": [
+        {
+          "title": "/VIDEO/ „Pădurea Prieteniei” prinde noi rădăcini: Kaufland și Coca-Cola Moldova, împreună pentru un viitor mai verde /P/",
+          "source": "TV8",
+          "url": "https://tv8.md/2026/11/23/video-padurea-prieteniei-prinde-noi-radacini-kaufland-si-coca-cola-moldova-impreuna-pentru-un-viitor-mai-verde-p/313167",
+          "publishedAt": "2026-11-23T20:26:23.000Z"
+        },
+        {
+          "title": "Latvian Foreign Ministry to support Moldovan project",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/society/society/20.11.2026-latvian-foreign-ministry-to-support-moldovan-project.a672814/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-11-20T15:45:11.000Z"
+        },
+        {
+          "title": "O dronă de atac a survolat neautorizat spațiul aerian al Republicii Moldova: A dispărut în apropiere de Cuciurgan",
+          "source": "TV8",
+          "url": "https://tv8.md/2026/11/23/o-drona-de-atac-a-survolat-neautorizat-spatiul-aerian-al-republicii-moldova-a-disparut-in-apropiere-de-cuciurgan/313171",
+          "publishedAt": "2026-11-23T19:49:44.000Z"
+        },
+        {
+          "title": "Ministry of Foreign Affairs awards co-funding to four projects in Moldova and Latvia",
+          "source": "mfa.gov.lv",
+          "url": "https://www.mfa.gov.lv/en/article/ministry-foreign-affairs-awards-co-funding-four-projects-moldova-and-latvia",
+          "publishedAt": "2026-11-20T15:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "President of Chisinau Parliament suggests collaboration with Romania to protect Moldova's air space",
+          "source": "actmedia.eu",
+          "url": "https://actmedia.eu/daily/president-of-chisinau-parliament-suggests-collaboration-with-romania-to-protect-moldova-s-air-space/122778",
+          "publishedAt": "2026-11-20T12:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

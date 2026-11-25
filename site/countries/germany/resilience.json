@@ -1,0 +1,112 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "slug": "germany",
+  "rank": 17,
+  "overallScore": 64.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Schools across Germany, Denmark receive bomb threats - Reuters",
+        "source": "Reuters — Denmark",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+        "publishedAt": "2026-11-23T14:23:25.000Z"
+      },
+      {
+        "title": "Germany Plans Three-month Gasoline Price Cap Starting Next Year, Pending Cabinet Vote - Briefs Finance",
+        "source": "Energy Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUZoTUpMYXM2eThuV0EtY2lyQ0x4M01lWnVoaXFGa2dJUnNxclR0N1MtczM4YmNVdDM4M19jdkgtVWVmZENGdFRFcTBCSE1aUEdobUI5QjVHUnFaVURSYW4xc2hBRFpiZVhBQVFTSW81cmpVWGxrZVc0V1RGSmlEbVNyb2tyS0NSdVk0YVpxZmNiUQ?oc=5",
+        "publishedAt": "2026-11-24T03:18:21.000Z"
+      },
+      {
+        "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+        "source": "EU Startups",
+        "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+        "publishedAt": "2026-11-23T15:40:56.000Z"
+      },
+      {
+        "title": "Find companies that just got a Legal Entity Identifier (LEI) with the GLEIF API and Python",
+        "source": "Dev.to",
+        "url": "https://dev.to/veridra/find-companies-that-just-got-a-legal-entity-identifier-lei-with-the-gleif-api-and-python-41m7",
+        "publishedAt": "2026-11-24T04:22:09.000Z"
+      },
+      {
+        "title": "Treasury Yields Fall, German Bunds’ Tick Higher - WSJ",
+        "source": "Treasury Watch",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+        "publishedAt": "2026-11-24T02:02:47.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSchools across Germany and Denmark have received bomb threats. [1]\nGermany plans a three-month gasoline price cap starting next year, pending a cabinet vote. [2]\n\nOUTLOOK\nA Polymarket market related to Germany, \"Will the IEA ask Germany to release oil stocks by December 31?\", priced Yes at 7% on Nov 24, 2026; it closes Jan 1, 2027. [E5]\nA Polymarket market related to Germany, \"Friedrich Merz out as Chancellor of Germany before March 31, 2027?\", priced Yes at 7% on Nov 24, 2026; it closes Apr 1, 2027. [E7]\n\nWATCH ITEMS\nWhether the German cabinet will approve the three-month gasoline price cap starting next year. [2]\nWhether the IEA will ask Germany to release oil stocks by December 31. [E5]",
+      "generatedAt": "2026-11-24T04:50:00.728Z",
+      "sources": [
+        {
+          "title": "Schools across Germany, Denmark receive bomb threats - Reuters",
+          "source": "Reuters — Denmark",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+          "publishedAt": "2026-11-23T14:23:25.000Z"
+        },
+        {
+          "title": "Germany Plans Three-month Gasoline Price Cap Starting Next Year, Pending Cabinet Vote - Briefs Finance",
+          "source": "Energy Sanctions",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUZoTUpMYXM2eThuV0EtY2lyQ0x4M01lWnVoaXFGa2dJUnNxclR0N1MtczM4YmNVdDM4M19jdkgtVWVmZENGdFRFcTBCSE1aUEdobUI5QjVHUnFaVURSYW4xc2hBRFpiZVhBQVFTSW81cmpVWGxrZVc0V1RGSmlEbVNyb2tyS0NSdVk0YVpxZmNiUQ?oc=5",
+          "publishedAt": "2026-11-24T03:18:21.000Z"
+        },
+        {
+          "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+          "source": "EU Startups",
+          "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+          "publishedAt": "2026-11-23T15:40:56.000Z"
+        },
+        {
+          "title": "Find companies that just got a Legal Entity Identifier (LEI) with the GLEIF API and Python",
+          "source": "Dev.to",
+          "url": "https://dev.to/veridra/find-companies-that-just-got-a-legal-entity-identifier-lei-with-the-gleif-api-and-python-41m7",
+          "publishedAt": "2026-11-24T04:22:09.000Z"
+        },
+        {
+          "title": "Treasury Yields Fall, German Bunds’ Tick Higher - WSJ",
+          "source": "Treasury Watch",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+          "publishedAt": "2026-11-24T02:02:47.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "7%",
+          "factText": "A Polymarket market related to Germany, \"Will the IEA ask Germany to release oil stocks by December 31?\", priced Yes at 7% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/iea-asks-germany-to-release-oil-stocks-byptptpt"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "7%",
+          "factText": "A Polymarket market related to Germany, \"Friedrich Merz out as Chancellor of Germany before March 31, 2027?\", priced Yes at 7% on Nov 24, 2026; it closes Apr 1, 2027.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/friedrich-merz-out-as-chancellor-of-germany-before-2027"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

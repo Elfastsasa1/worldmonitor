@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SG",
+  "countryName": "Singapore",
+  "slug": "singapore",
+  "rank": 56,
+  "overallScore": 57.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
+        "source": "Reuters — Marshall Islands",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
+        "publishedAt": "2026-11-20T14:27:44.000Z"
+      },
+      {
+        "title": "Trump administration blacklists Megaspeed cloud company linked to Nvidia scandal",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/trump-megaspeed-blacklist-nvidia-9.7433587?cmp=rss",
+        "publishedAt": "2026-11-24T02:46:04.000Z"
+      },
+      {
+        "title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5",
+        "publishedAt": "2026-11-24T02:27:00.000Z"
+      },
+      {
+        "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+        "source": "Trade & Tariffs",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+        "publishedAt": "2026-11-24T03:12:26.000Z"
+      },
+      {
+        "title": "Singapore is no backdoor for US chips, PM says",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+        "publishedAt": "2026-11-24T03:46:42.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US Treasury is pressing Singapore on Iran sanctions compliance, and the US has blacklisted Singaporean firm Megaspeed, which Singapore is investigating. [1][2][3][4]\n\nWATCH ITEMS\nWhether Singapore's investigation into Megaspeed will lead to further actions or sanctions. [3]",
+      "generatedAt": "2026-11-24T04:55:43.329Z",
+      "sources": [
+        {
+          "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
+          "source": "Reuters — Marshall Islands",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
+          "publishedAt": "2026-11-20T14:27:44.000Z"
+        },
+        {
+          "title": "Trump administration blacklists Megaspeed cloud company linked to Nvidia scandal",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/trump-megaspeed-blacklist-nvidia-9.7433587?cmp=rss",
+          "publishedAt": "2026-11-24T02:46:04.000Z"
+        },
+        {
+          "title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting - Reuters",
+          "source": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5",
+          "publishedAt": "2026-11-24T02:27:00.000Z"
+        },
+        {
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
+          "source": "Trade & Tariffs",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+          "publishedAt": "2026-11-24T03:12:26.000Z"
+        },
+        {
+          "title": "Singapore is no backdoor for US chips, PM says",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+          "publishedAt": "2026-11-24T03:46:42.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

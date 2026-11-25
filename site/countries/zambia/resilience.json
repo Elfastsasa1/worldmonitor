@@ -1,0 +1,116 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "slug": "zambia",
+  "rank": 118,
+  "overallScore": 47.3,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Zambia opposition leader charged with attempting to overthrow government - Reuters",
+        "source": "Reuters — Zambia",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDlnSFdBT2F0akJNanljN0haNnJMd3Z2Q1JGcTZ3NnhjZjRfWkJkaG9OSE9sV0Jpbl85eDNsZHI5U2EwdGxaY1d6NGlEZno1TkEzRVJjLVZLSkJnXzEzMUJHb2x1eVJOSkVRR2dzbUlpaTZyVmxRSVpKNWktOUZBRWtHaUNndEk2SEZuVFQ5SFVERTVmYjdPeHZnV1RjMXdCczhsT0s1S1RGYkZBU2xUMUFWWURpZ1k2SXc?oc=5",
+        "publishedAt": "2026-11-23T12:28:09.000Z"
+      },
+      {
+        "title": "Zambia opposition leader charged with attempting to overthrow government",
+        "source": "Club of Mozambique",
+        "url": "https://clubofmozambique.com/news/zambia-opposition-leader-charged-with-attempting-to-overthrow-government/",
+        "publishedAt": "2026-11-23T19:59:04.000Z"
+      },
+      {
+        "title": "Payaza secures Kenyan payment gateway licence after Zambia approval",
+        "source": "kachwanya.com",
+        "url": "https://www.kachwanya.com/2026/11/24/payaza-africa-limited-has-secured-a-central-bank-of-kenya-licence-to-offer-payment-gateway-services-directly-to-kenyan-merchants/",
+        "publishedAt": "2026-11-23T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Zambia: Cabinet Office Welcomes Delegation from Chenzhou Municipal People's Government",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/zambia-cabinet-office-welcomes-delegation-from-chenzhou-municipal-peoples-government",
+        "publishedAt": "2026-11-23T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Zambia Records 60 New Cholera Cases, Two Deaths",
+        "source": "znbc.co.zm",
+        "url": "https://znbc.co.zm/?p=16665",
+        "publishedAt": "2026-11-23T19:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nZambia's opposition leader has been charged with attempting to overthrow the government. [1][2]\nZambia recorded 60 new cholera cases and two deaths. [5]\n\nWHAT THIS MEANS FOR ZAMBIA\nThe charge against the opposition leader may heighten political tensions in Zambia, even as the country's most severe government travel advisory remains Exercise Normal Precautions. [1][2][E1]\n\nKEY RISKS\nZambia is linked to 5 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the opposition leader will be tried or acquitted on the charge of attempting to overthrow the government. [1][2]\nWhether the cholera outbreak in Zambia will be contained or spread further. [5]",
+      "generatedAt": "2026-11-24T04:37:07.556Z",
+      "sources": [
+        {
+          "title": "Zambia opposition leader charged with attempting to overthrow government - Reuters",
+          "source": "Reuters — Zambia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDlnSFdBT2F0akJNanljN0haNnJMd3Z2Q1JGcTZ3NnhjZjRfWkJkaG9OSE9sV0Jpbl85eDNsZHI5U2EwdGxaY1d6NGlEZno1TkEzRVJjLVZLSkJnXzEzMUJHb2x1eVJOSkVRR2dzbUlpaTZyVmxRSVpKNWktOUZBRWtHaUNndEk2SEZuVFQ5SFVERTVmYjdPeHZnV1RjMXdCczhsT0s1S1RGYkZBU2xUMUFWWURpZ1k2SXc?oc=5",
+          "publishedAt": "2026-11-23T12:28:09.000Z"
+        },
+        {
+          "title": "Zambia opposition leader charged with attempting to overthrow government",
+          "source": "Club of Mozambique",
+          "url": "https://clubofmozambique.com/news/zambia-opposition-leader-charged-with-attempting-to-overthrow-government/",
+          "publishedAt": "2026-11-23T19:59:04.000Z"
+        },
+        {
+          "title": "Payaza secures Kenyan payment gateway licence after Zambia approval",
+          "source": "kachwanya.com",
+          "url": "https://www.kachwanya.com/2026/11/24/payaza-africa-limited-has-secured-a-central-bank-of-kenya-licence-to-offer-payment-gateway-services-directly-to-kenyan-merchants/",
+          "publishedAt": "2026-11-23T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Zambia: Cabinet Office Welcomes Delegation from Chenzhou Municipal People's Government",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/zambia-cabinet-office-welcomes-delegation-from-chenzhou-municipal-peoples-government",
+          "publishedAt": "2026-11-23T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Zambia Records 60 New Cholera Cases, Two Deaths",
+          "source": "znbc.co.zm",
+          "url": "https://znbc.co.zm/?p=16665",
+          "publishedAt": "2026-11-23T19:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for Zambia is Exercise Normal Precautions, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "5",
+          "factText": "Zambia is linked to 5 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

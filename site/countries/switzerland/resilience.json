@@ -1,0 +1,112 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "slug": "switzerland",
+  "rank": 1,
+  "overallScore": 76.4,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says - Reuters",
+        "source": "Reuters — Myanmar (Burma)",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtkOGd3MzlTdUM5d1ZnTlNuU1FGVDhJcFd6YlZaYzVBeEtSZDBmUjVzbzdnY0JfVEJ5UkFzN3p1RFMzWGFad3l4c1FsdjUtY1NyeG1LOHB3N2VVNlFmMXlVQXNISmEtd3hNbEVjS3BlVElXMWFKLWhpb2ZMY3QtZUticm1pQXFtV3B4RFY3ZDBtUHp2dnVnLXdZdmxDNzA1THdfRmJiRGdENGRoVXdJcC1SLVgwNjFSQ2x1eG03NlhDVHpJTS16bUV5YkZkQQ?oc=5",
+        "publishedAt": "2026-11-23T22:18:09.000Z"
+      },
+      {
+        "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+        "source": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+        "publishedAt": "2026-11-24T04:47:18.000Z"
+      },
+      {
+        "title": "North Korea threatens to close Swiss diplomatic office - The Japan Times",
+        "source": "Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzRVYk81bFhuS3BZVDZBdmItVlhfLXJlWXZCeUw0c19Id0k0UTZwcWEzUG5Yc0VRcE1qUWUyd1NtUGdnUU5felYyTS1uWVFoWWpKaWFrV1BjNHlreXRzek9WSkF3LVRxSGZiWThvdzUxWVI2TVdRZy1DVGpSRk1Zb3duOU5GWTBuQ1hyRGxVZ3doVnNSNmZWSVZOX1V5dkZyazVLa3VR?oc=5",
+        "publishedAt": "2026-11-24T03:29:00.000Z"
+      },
+      {
+        "title": "North Korea threatens to force closure of Swiss diplomatic office over sanctions",
+        "source": "NK News",
+        "url": "https://www.nknews.org/2026/11/north-korea-threatens-to-expel-swiss-diplomatic-mission-following-sanctions/",
+        "publishedAt": "2026-11-23T23:13:01.000Z"
+      },
+      {
+        "title": "N. Korea threatens to close Swiss office in Pyongyang over sanctions on children's camp - The Korea Herald",
+        "source": "Trade & Tariffs",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CRnBxMDcwZmRIcTZDTHBscF94ZUZhN2ktT2FtemhVSXZiLTU5NDcyX0ZXZXlCWmY4OVE0NDVQWlZtWGtHR2NmOGltclNrZkZJV1ZXQlprcw?oc=5",
+        "publishedAt": "2026-11-24T02:35:24.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorth Korea will consider shutting down the Swiss diplomatic office in Pyongyang, according to KCNA. [1][2]\n\nOUTLOOK\nA Polymarket market on whether Thomas Aeschi will win the Swiss Federal Council by-election is priced Yes at 69% as of Nov 24, 2026, closing Dec 10, 2026. [E7]\nA Polymarket market on whether the Swiss National Bank will make no change to the SNB policy rate at the June meeting is priced Yes at 48% as of Nov 24, 2026, closing Jun 24, 2027. [E8]\n\nWATCH ITEMS\nWhether North Korea will follow through on its threat to close the Swiss diplomatic office in Pyongyang. [1][2][3][4][5]",
+      "generatedAt": "2026-11-24T04:49:13.481Z",
+      "sources": [
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says - Reuters",
+          "source": "Reuters — Myanmar (Burma)",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtkOGd3MzlTdUM5d1ZnTlNuU1FGVDhJcFd6YlZaYzVBeEtSZDBmUjVzbzdnY0JfVEJ5UkFzN3p1RFMzWGFad3l4c1FsdjUtY1NyeG1LOHB3N2VVNlFmMXlVQXNISmEtd3hNbEVjS3BlVElXMWFKLWhpb2ZMY3QtZUticm1pQXFtV3B4RFY3ZDBtUHp2dnVnLXdZdmxDNzA1THdfRmJiRGdENGRoVXdJcC1SLVgwNjFSQ2x1eG03NlhDVHpJTS16bUV5YkZkQQ?oc=5",
+          "publishedAt": "2026-11-23T22:18:09.000Z"
+        },
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+          "source": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+          "publishedAt": "2026-11-24T04:47:18.000Z"
+        },
+        {
+          "title": "North Korea threatens to close Swiss diplomatic office - The Japan Times",
+          "source": "Japan Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzRVYk81bFhuS3BZVDZBdmItVlhfLXJlWXZCeUw0c19Id0k0UTZwcWEzUG5Yc0VRcE1qUWUyd1NtUGdnUU5felYyTS1uWVFoWWpKaWFrV1BjNHlreXRzek9WSkF3LVRxSGZiWThvdzUxWVI2TVdRZy1DVGpSRk1Zb3duOU5GWTBuQ1hyRGxVZ3doVnNSNmZWSVZOX1V5dkZyazVLa3VR?oc=5",
+          "publishedAt": "2026-11-24T03:29:00.000Z"
+        },
+        {
+          "title": "North Korea threatens to force closure of Swiss diplomatic office over sanctions",
+          "source": "NK News",
+          "url": "https://www.nknews.org/2026/11/north-korea-threatens-to-expel-swiss-diplomatic-mission-following-sanctions/",
+          "publishedAt": "2026-11-23T23:13:01.000Z"
+        },
+        {
+          "title": "N. Korea threatens to close Swiss office in Pyongyang over sanctions on children's camp - The Korea Herald",
+          "source": "Trade & Tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CRnBxMDcwZmRIcTZDTHBscF94ZUZhN2ktT2FtemhVSXZiLTU5NDcyX0ZXZXlCWmY4OVE0NDVQWlZtWGtHR2NmOGltclNrZkZJV1ZXQlprcw?oc=5",
+          "publishedAt": "2026-11-24T02:35:24.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "69%",
+          "factText": "A Polymarket market related to Switzerland, \"Will Thomas Aeschi win the Swiss Federal Council by-election?\", priced Yes at 69% on Nov 24, 2026; it closes Dec 10, 2026.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/swiss-federal-council-by-election-winner"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "48%",
+          "factText": "A Polymarket market related to Switzerland, \"Will the Swiss National Bank make no change to the SNB policy rate at the June meeting?\", priced Yes at 48% on Nov 24, 2026; it closes Jun 24, 2027.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/swiss-national-bank-decision-in-june-2027"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

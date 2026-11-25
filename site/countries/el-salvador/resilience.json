@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SV",
+  "countryName": "El Salvador",
+  "slug": "el-salvador",
+  "rank": 82,
+  "overallScore": 53.6,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tribunal electoral de El Salvador oficializa candidatura de Bukele para buscar tercer mandato",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/mundo/centroamerica/elecciones-el-salvador-2027-tribunal-electoral-salvadoreno-oficializa-candidatura-de-nayib-bukele-para-buscar-tercer-mandato-felix-ulloa-nuevas-ideas-ultimas-noticia/",
+        "publishedAt": "2026-11-24T03:01:11.000Z"
+      },
+      {
+        "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+        "publishedAt": "2026-11-24T01:06:00.000Z"
+      },
+      {
+        "title": "TSE de El Salvador inscribe candidatura de Nayib Bukele",
+        "source": "Diario Libre",
+        "url": "https://www.diariolibre.com/mundo/america-latina/2026/11/23/tse-de-el-salvador-inscribe-candidatura-de-nayib-bukele/3729711",
+        "publishedAt": "2026-11-23T22:50:00.000Z"
+      },
+      {
+        "title": "Prime Minister Fils-Aimé Visits Salvadoran Soldiers Deployed in Haiti",
+        "source": "Le Nouvelliste",
+        "url": "https://lenouvelliste.com/article/274185/prime-minister-fils-aime-visits-salvadoran-soldiers-deployed-in-haiti",
+        "publishedAt": "2026-11-23T22:18:28.000Z"
+      },
+      {
+        "title": "Presencia de militares de El Salvador en Haití plantea interrogantes sobre derechos humanos",
+        "source": "Telenoticias (Teletica)",
+        "url": "https://www.teletica.com/deutsche-welle/presencia-de-militares-de-el-salvador-en-haiti-plantea-interrogantes-sobre-derechos-humanos_421680",
+        "publishedAt": "2026-11-23T21:40:04.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe TSE has registered Nayib Bukele's candidacy. [3]",
+      "generatedAt": "2026-11-24T04:34:52.080Z",
+      "sources": [
+        {
+          "title": "Tribunal electoral de El Salvador oficializa candidatura de Bukele para buscar tercer mandato",
+          "source": "El Comercio Peru",
+          "url": "https://elcomercio.pe/mundo/centroamerica/elecciones-el-salvador-2027-tribunal-electoral-salvadoreno-oficializa-candidatura-de-nayib-bukele-para-buscar-tercer-mandato-felix-ulloa-nuevas-ideas-ultimas-noticia/",
+          "publishedAt": "2026-11-24T03:01:11.000Z"
+        },
+        {
+          "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+          "publishedAt": "2026-11-24T01:06:00.000Z"
+        },
+        {
+          "title": "TSE de El Salvador inscribe candidatura de Nayib Bukele",
+          "source": "Diario Libre",
+          "url": "https://www.diariolibre.com/mundo/america-latina/2026/11/23/tse-de-el-salvador-inscribe-candidatura-de-nayib-bukele/3729711",
+          "publishedAt": "2026-11-23T22:50:00.000Z"
+        },
+        {
+          "title": "Prime Minister Fils-Aimé Visits Salvadoran Soldiers Deployed in Haiti",
+          "source": "Le Nouvelliste",
+          "url": "https://lenouvelliste.com/article/274185/prime-minister-fils-aime-visits-salvadoran-soldiers-deployed-in-haiti",
+          "publishedAt": "2026-11-23T22:18:28.000Z"
+        },
+        {
+          "title": "Presencia de militares de El Salvador en Haití plantea interrogantes sobre derechos humanos",
+          "source": "Telenoticias (Teletica)",
+          "url": "https://www.teletica.com/deutsche-welle/presencia-de-militares-de-el-salvador-en-haiti-plantea-interrogantes-sobre-derechos-humanos_421680",
+          "publishedAt": "2026-11-23T21:40:04.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

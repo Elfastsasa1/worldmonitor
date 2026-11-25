@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "slug": "united-kingdom",
+  "rank": 32,
+  "overallScore": 61.5,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Great Britain:  UK Leads Global Action With Major New Measures Against Myanmar Military Following Landmark Genocide Judgment",
+        "source": "The St. Kitts-Nevis Observer",
+        "url": "https://www.thestkittsnevisobserver.com/great-britain-uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment/",
+        "publishedAt": "2026-11-24T01:42:34.000Z"
+      },
+      {
+        "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+        "publishedAt": "2026-11-23T23:10:22.000Z"
+      },
+      {
+        "title": "UK sanctions five Myanmar generals following ICJ genocide ruling on Rohingya - New Age BD",
+        "source": "Trade & Tariffs",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmlUbEtYVlJ3Snc1bHRqb0tnT0ZFX0tyNWF5VnMwdTJoTWs4ZUs3dnJXZXF1Y2xmLTZBeFZpYnNNYVAtbTBxd0pGM2Y3SjFSVjVrcFhURVJaanZBNVR4VGpMVm15VUdkaUFBRDRpT3hFN2dhSG9ieExzcHlRckpUcWRURDYwVkNRS2dCWTlEbDdSVmNQOWhhRDFlR0tXSHhHOXk4ZGVnNVYtOXpIdU05bm5tbHVrb0VxaVE?oc=5",
+        "publishedAt": "2026-11-24T03:46:00.000Z"
+      },
+      {
+        "title": "UK removes LNG carrier from Russia sanctions list - Baird Maritime",
+        "source": "Tanker & Shipping",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzc1NUxybklUMkloMzJBdzc0VXhXYVVwWko3c2tJeHphY3h6cW41cTREY09BbnJuT3hVSTFqTUVsQk1hSVNlY1AyZ1VQVFAxS3hHd0djSFY1MGFFRXRoM2VzQXNfTzloU1lZdGVGTF9MdGk3aEwzWWhrX2JJbXBmNUNoal9JUjZ4bzNxNzZJeGVRSERrMzFqWNIBmAFBVV95cUxQVzc1NUxybklUMkloMzJBdzc0VXhXYVVwWko3c2tJeHphY3h6cW41cTREY09BbnJuT3hVSTFqTUVsQk1hSVNlY1AyZ1VQVFAxS3hHd0djSFY1MGFFRXRoM2VzQXNfTzloU1lZdGVGTF9MdGk3aEwzWWhrX2JJbXBmNUNoal9JUjZ4bzNxNzZJeGVRSERrMzFqWA?oc=5",
+        "publishedAt": "2026-11-24T03:04:15.000Z"
+      },
+      {
+        "title": "UK removes LNG carrier from Russia sanctions list - Baird Maritime",
+        "source": "Trade & Tariffs",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3dRV2xEbzExRExDYlBCY2ptV1RlNVJHblN6NEhLMHowNk15VjJ2NEhURU9JenBqbVY1SmhrcXNfTjc3WVpTczNqMUx0Skxzd2Yxc25HQkZYbFQ0NGN0REJzVVRXSjR0bVg4YWxicGs2RjFQY2JDcTYwVk1xT080SS1HZ1RxTWZybDZr0gGYAUFVX3lxTFBXNzU1THJuSVQySWgzMkF3NzRVeFdhVXBaSjdza0l4emFjeHpxbjVxNERjT0Fucm5PeFVJMWpNRWxCTWFJU2VjUDJnVVBUUDFLeEd3R2NIVjUwYUVFdGgzZXNBc19POWhTWVl0ZUZMX0x0aTdoTDNZaGtfYkltcGY1Q2hqX0lSNnhvM3E3Nkl4ZVFIRGszMWpY?oc=5",
+        "publishedAt": "2026-11-24T02:45:01.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe UK has announced new measures against the Myanmar military following a landmark genocide judgment, including sanctions on five Myanmar generals. [1][3]\n\nOUTLOOK\nA Kalshi market related to the UK, \"Which party will win the next UK general election?: Reform party\", priced Yes at 28% on Nov 24, 2026; it closes Aug 31, 2029. [E6]\n\nWATCH ITEMS\nWhether the UK will further adjust its Russia sanctions list following the removal of an LNG carrier. [4]",
+      "generatedAt": "2026-11-24T04:50:54.466Z",
+      "sources": [
+        {
+          "title": "Great Britain: UK Leads Global Action With Major New Measures Against Myanmar Military Following Landmark Genocide Judgment",
+          "source": "The St. Kitts-Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/great-britain-uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment/",
+          "publishedAt": "2026-11-24T01:42:34.000Z"
+        },
+        {
+          "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+          "publishedAt": "2026-11-23T23:10:22.000Z"
+        },
+        {
+          "title": "UK sanctions five Myanmar generals following ICJ genocide ruling on Rohingya - New Age BD",
+          "source": "Trade & Tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmlUbEtYVlJ3Snc1bHRqb0tnT0ZFX0tyNWF5VnMwdTJoTWs4ZUs3dnJXZXF1Y2xmLTZBeFZpYnNNYVAtbTBxd0pGM2Y3SjFSVjVrcFhURVJaanZBNVR4VGpMVm15VUdkaUFBRDRpT3hFN2dhSG9ieExzcHlRckpUcWRURDYwVkNRS2dCWTlEbDdSVmNQOWhhRDFlR0tXSHhHOXk4ZGVnNVYtOXpIdU05bm5tbHVrb0VxaVE?oc=5",
+          "publishedAt": "2026-11-24T03:46:00.000Z"
+        },
+        {
+          "title": "UK removes LNG carrier from Russia sanctions list - Baird Maritime",
+          "source": "Tanker & Shipping",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzc1NUxybklUMkloMzJBdzc0VXhXYVVwWko3c2tJeHphY3h6cW41cTREY09BbnJuT3hVSTFqTUVsQk1hSVNlY1AyZ1VQVFAxS3hHd0djSFY1MGFFRXRoM2VzQXNfTzloU1lZdGVGTF9MdGk3aEwzWWhrX2JJbXBmNUNoal9JUjZ4bzNxNzZJeGVRSERrMzFqWNIBmAFBVV95cUxQVzc1NUxybklUMkloMzJBdzc0VXhXYVVwWko3c2tJeHphY3h6cW41cTREY09BbnJuT3hVSTFqTUVsQk1hSVNlY1AyZ1VQVFAxS3hHd0djSFY1MGFFRXRoM2VzQXNfTzloU1lZdGVGTF9MdGk3aEwzWWhrX2JJbXBmNUNoal9JUjZ4bzNxNzZJeGVRSERrMzFqWA?oc=5",
+          "publishedAt": "2026-11-24T03:04:15.000Z"
+        },
+        {
+          "title": "UK removes LNG carrier from Russia sanctions list - Baird Maritime",
+          "source": "Trade & Tariffs",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3dRV2xEbzExRExDYlBCY2ptV1RlNVJHblN6NEhLMHowNk15VjJ2NEhURU9JenBqbVY1SmhrcXNfTjc3WVpTczNqMUx0Skxzd2Yxc25HQkZYbFQ0NGN0REJzVVRXSjR0bVg4YWxicGs2RjFQY2JDcTYwVk1xT080SS1HZ1RxTWZybDZr0gGYAUFVX3lxTFBXNzU1THJuSVQySWgzMkF3NzRVeFdhVXBaSjdza0l4emFjeHpxbjVxNERjT0Fucm5PeFVJMWpNRWxCTWFJU2VjUDJnVVBUUDFLeEd3R2NIVjUwYUVFdGgzZXNBc19POWhTWVl0ZUZMX0x0aTdoTDNZaGtfYkltcGY1Q2hqX0lSNnhvM3E3Nkl4ZVFIRGszMWpY?oc=5",
+          "publishedAt": "2026-11-24T02:45:01.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "28%",
+          "factText": "A Kalshi market related to United Kingdom, \"Which party will win the next UK general election?: Reform party\", priced Yes at 28% on Nov 24, 2026; it closes Aug 31, 2029.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://kalshi.com/markets/KXUKPARTY-29-R"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "slug": "andorra",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Uns 80 judokes disputen l’Andorrà de base",
+        "source": "Diari d'Andorra",
+        "url": "https://www.diariandorra.ad/esports/261124/uns-80-judokes-disputen-l-andorra-base_209458.html",
+        "publishedAt": "2026-11-24T03:53:59.000Z"
+      },
+      {
+        "title": "La realitat que Andorra no pot continuar amagant",
+        "source": "El Periòdic d'Andorra",
+        "url": "https://elperiodic.ad/editorial/la-realitat-que-andorra-no-pot-continuar-amagant/",
+        "publishedAt": "2026-11-23T21:20:00.000Z"
+      },
+      {
+        "title": "Andorra incorpora 17 nous agents immobiliaris mentre prepara requisits més exigents per exercir la professió",
+        "source": "Diari d'Andorra",
+        "url": "https://www.diariandorra.ad/nacional/261123/andorra-incorpora-17-nous-agents-immobiliaris-mentre-prepara-requisits-mes-exigents-per-exercir-professio_209454.html",
+        "publishedAt": "2026-11-23T18:21:10.000Z"
+      },
+      {
+        "title": "La Universitat Digital d’Andorra obre les portes a 120 estudiants, però les tanca al català en les seves titulacions oficials",
+        "source": "El Periòdic d'Andorra",
+        "url": "https://elperiodic.ad/societat/la-universitat-digital-dandorra-obre-les-portes-a-120-estudiants-pero-les-tanca-al-catala-en-les-seves-titulacions-oficials/",
+        "publishedAt": "2026-11-23T13:20:20.000Z"
+      },
+      {
+        "title": "Gimentors arriba a Andorra amb sis conferències i deu ponents de referència",
+        "source": "Diari d'Andorra",
+        "url": "https://www.diariandorra.ad/nacional/261123/gimentors-andorra-amb-sis-conferencies-i-deu-ponents-referencia_209448.html",
+        "publishedAt": "2026-11-23T12:58:03.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAndorra has incorporated 17 new real estate agents while preparing more demanding requirements to practice the profession. [3]",
+      "generatedAt": "2026-11-24T04:47:32.911Z",
+      "sources": [
+        {
+          "title": "Uns 80 judokes disputen l’Andorrà de base",
+          "source": "Diari d'Andorra",
+          "url": "https://www.diariandorra.ad/esports/261124/uns-80-judokes-disputen-l-andorra-base_209458.html",
+          "publishedAt": "2026-11-24T03:53:59.000Z"
+        },
+        {
+          "title": "La realitat que Andorra no pot continuar amagant",
+          "source": "El Periòdic d'Andorra",
+          "url": "https://elperiodic.ad/editorial/la-realitat-que-andorra-no-pot-continuar-amagant/",
+          "publishedAt": "2026-11-23T21:20:00.000Z"
+        },
+        {
+          "title": "Andorra incorpora 17 nous agents immobiliaris mentre prepara requisits més exigents per exercir la professió",
+          "source": "Diari d'Andorra",
+          "url": "https://www.diariandorra.ad/nacional/261123/andorra-incorpora-17-nous-agents-immobiliaris-mentre-prepara-requisits-mes-exigents-per-exercir-professio_209454.html",
+          "publishedAt": "2026-11-23T18:21:10.000Z"
+        },
+        {
+          "title": "La Universitat Digital d’Andorra obre les portes a 120 estudiants, però les tanca al català en les seves titulacions oficials",
+          "source": "El Periòdic d'Andorra",
+          "url": "https://elperiodic.ad/societat/la-universitat-digital-dandorra-obre-les-portes-a-120-estudiants-pero-les-tanca-al-catala-en-les-seves-titulacions-oficials/",
+          "publishedAt": "2026-11-23T13:20:20.000Z"
+        },
+        {
+          "title": "Gimentors arriba a Andorra amb sis conferències i deu ponents de referència",
+          "source": "Diari d'Andorra",
+          "url": "https://www.diariandorra.ad/nacional/261123/gimentors-andorra-amb-sis-conferencies-i-deu-ponents-referencia_209448.html",
+          "publishedAt": "2026-11-23T12:58:03.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

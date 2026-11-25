@@ -1,0 +1,183 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "slug": "qatar",
+  "rank": 30,
+  "overallScore": 62,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+        "publishedAt": "2026-11-24T01:32:12.000Z"
+      },
+      {
+        "title": "Qatar Said to Push LNG Expansion to 2027 After Iran Drone Attack - EnergyNow.com",
+        "source": "Port & Terminal",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVJMc0M2Q2ZMTWE3QTdxaG5JRkJRMTI0emFTMVdVSk9kYlVsS1VEd2JLMWt5NXBiajBUUEJSV0xWZ2ZFY0xkaVB6ZWQzM3VHclFBUFB0SlQ1ZnZ0MFV2cHNLOFFBQ3MxaGpVNG1xS2Z2bnMwa29YVEl0YmFyYzJKZGNYNmZ2RUN3cmMwNmlOVElfd05nNDhiZTJyTQ?oc=5",
+        "publishedAt": "2026-11-23T23:13:24.000Z"
+      },
+      {
+        "title": "Secretary Rubio’s Meeting with Qatari Prime Minister and Minister of Foreign Affairs Al Thani - U.S. Department of State (.gov)",
+        "source": "State Dept",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSW5BblR2dlpkdW9GUzRtMnRzY0tBWWpVWDhWaW5pUFJFQnVMV1pkNlFEUWxXM3dFTEQyYWV1Z0hwa3Yyb29Kdl9RblBVeFh5TDhlTUhMWHo0WHVGUnp2OU1DM1lDQXpQY2JqMldrUjBTWTNpYnVNVXBZWnpBcnl4OUVRLTVFRmVnQ0Eya0ZnN2xLc1hLa0E3Zkk1ai1XZVA1dTZ4dWdBV1EwaDh1Q0xiWGNORDhoWmliYU9YVHNtTlllaW44MnZaVWoyNmlURkJwcEtlQ0otR25CMUs3azRidjRJMGhLbVp6bmlFUjMwcw?oc=5",
+        "publishedAt": "2026-11-23T20:40:16.000Z"
+      },
+      {
+        "title": "Ras Laffan Gasoline Plant Targets 60,000 Barrels Daily as Qatar Advances New Greenfield Fuel Project - Construction Review",
+        "source": "Port & Terminal",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0d5LXp4U2RnNEVaRU9hMnpkZzFveWpPbld3TlRqRjBodVpodS1YMFJkMERPUzhjNS1FSU1hT0F6TmsySngxRXFKeERlc1g1Wm9lVkpWenZKakRKeXlxUTd5TVA0OV9jT0ZqRE1wMTlaZmo3ei1rVmY3SG8wVUdmUXU1QUw4aTdTYjJKMGF3a3NUbi1RcmFpWmUwTFR4Q3RwUENob0NHckViNXMtRzV3aXdzZWRTSVZxNFQ5S2UxenRtUGRsNXRWOFRaU3VwY21naWFz?oc=5",
+        "publishedAt": "2026-11-23T18:34:29.000Z"
+      },
+      {
+        "title": "Iran summons Qatar envoy in Tehran to protest a joint Qatari-German statement",
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/world/mena/iran-summons-qatar-envoy-in-tehran-to-protest-a-joint-qatari-german-statement-1.500758655",
+        "publishedAt": "2026-11-24T02:40:15.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIran summoned Qatar's envoy in Tehran to protest a joint Qatari-German statement. [5]\n\nOUTLOOK\nA Polymarket market related to Qatar, \"Will Iran target Qatar by December 31, 2026?\", priced Yes at 35% on Nov 24, 2026; it closes Jan 1, 2027. [E6]\nA Kalshi market related to Qatar, \"Will Israel and Qatar normalize relations before Jan 20, 2029?\", priced Yes at 6% on Nov 24, 2026; it closes Jan 20, 2029. [E7]\n\nWATCH ITEMS\nWhether Qatar can revive US-Iran talks after its envoy was summoned by Iran to protest a joint Qatari-German statement. [1][5]",
+      "generatedAt": "2026-11-24T04:55:11.276Z",
+      "sources": [
+        {
+          "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+          "publishedAt": "2026-11-24T01:32:12.000Z"
+        },
+        {
+          "title": "Qatar Said to Push LNG Expansion to 2027 After Iran Drone Attack - EnergyNow.com",
+          "source": "Port & Terminal",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVJMc0M2Q2ZMTWE3QTdxaG5JRkJRMTI0emFTMVdVSk9kYlVsS1VEd2JLMWt5NXBiajBUUEJSV0xWZ2ZFY0xkaVB6ZWQzM3VHclFBUFB0SlQ1ZnZ0MFV2cHNLOFFBQ3MxaGpVNG1xS2Z2bnMwa29YVEl0YmFyYzJKZGNYNmZ2RUN3cmMwNmlOVElfd05nNDhiZTJyTQ?oc=5",
+          "publishedAt": "2026-11-23T23:13:24.000Z"
+        },
+        {
+          "title": "Secretary Rubio’s Meeting with Qatari Prime Minister and Minister of Foreign Affairs Al Thani - U.S. Department of State (.gov)",
+          "source": "State Dept",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSW5BblR2dlpkdW9GUzRtMnRzY0tBWWpVWDhWaW5pUFJFQnVMV1pkNlFEUWxXM3dFTEQyYWV1Z0hwa3Yyb29Kdl9RblBVeFh5TDhlTUhMWHo0WHVGUnp2OU1DM1lDQXpQY2JqMldrUjBTWTNpYnVNVXBZWnpBcnl4OUVRLTVFRmVnQ0Eya0ZnN2xLc1hLa0E3Zkk1ai1XZVA1dTZ4dWdBV1EwaDh1Q0xiWGNORDhoWmliYU9YVHNtTlllaW44MnZaVWoyNmlURkJwcEtlQ0otR25CMUs3azRidjRJMGhLbVp6bmlFUjMwcw?oc=5",
+          "publishedAt": "2026-11-23T20:40:16.000Z"
+        },
+        {
+          "title": "Ras Laffan Gasoline Plant Targets 60,000 Barrels Daily as Qatar Advances New Greenfield Fuel Project - Construction Review",
+          "source": "Port & Terminal",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0d5LXp4U2RnNEVaRU9hMnpkZzFveWpPbld3TlRqRjBodVpodS1YMFJkMERPUzhjNS1FSU1hT0F6TmsySngxRXFKeERlc1g1Wm9lVkpWenZKakRKeXlxUTd5TVA0OV9jT0ZqRE1wMTlaZmo3ei1rVmY3SG8wVUdmUXU1QUw4aTdTYjJKMGF3a3NUbi1RcmFpWmUwTFR4Q3RwUENob0NHckViNXMtRzV3aXdzZWRTSVZxNFQ5S2UxenRtUGRsNXRWOFRaU3VwY21naWFz?oc=5",
+          "publishedAt": "2026-11-23T18:34:29.000Z"
+        },
+        {
+          "title": "Iran summons Qatar envoy in Tehran to protest a joint Qatari-German statement",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/iran-summons-qatar-envoy-in-tehran-to-protest-a-joint-qatari-german-statement-1.500758655",
+          "publishedAt": "2026-11-24T02:40:15.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "35%",
+          "factText": "A Polymarket market related to Qatar, \"Will Iran target Qatar by December 31, 2026?\", priced Yes at 35% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/will-iran-target-qatar-byptptpt"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "6%",
+          "factText": "A Kalshi market related to Qatar, \"Will Israel and Qatar normalize relations before Jan 20, 2029?\", priced Yes at 6% on Nov 24, 2026; it closes Jan 20, 2029.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://kalshi.com/markets/KXABRAHAMQ-29-JAN20"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 192 — in Qatar",
+        "summary": "source: www.investmentwatchblog.com",
+        "sourceUrl": "https://www.investmentwatchblog.com/netanyahu-kept-the-qatar-cash-flowing-to-gaza-israeli-intelligence-says-he-was-warned-hamas-was-using-it-to-build-its-military-machine/",
+        "occurredAt": "2026-11-24T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Qatar",
+        "summary": "source: www.investmentwatchblog.com",
+        "sourceUrl": "https://www.investmentwatchblog.com/netanyahu-kept-the-qatar-cash-flowing-to-gaza-israeli-intelligence-says-he-was-warned-hamas-was-using-it-to-build-its-military-machine/",
+        "occurredAt": "2026-11-24T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Qatar",
+        "summary": "source: www.bjpenn.com",
+        "sourceUrl": "https://www.bjpenn.com/mma-news/dan-hooker/dan-hooker-discusses-his-approach-to-brian-ortega-fight-after-ufc-qatar-victory/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Qatar",
+        "summary": "source: www.bjpenn.com",
+        "sourceUrl": "https://www.bjpenn.com/mma-news/dan-hooker/dan-hooker-discusses-his-approach-to-brian-ortega-fight-after-ufc-qatar-victory/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Qatar",
+        "summary": "source: www.bjpenn.com",
+        "sourceUrl": "https://www.bjpenn.com/mma-news/dan-hooker/dan-hooker-discusses-his-approach-to-brian-ortega-fight-after-ufc-qatar-victory/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Qatar",
+        "summary": "source: www.bjpenn.com",
+        "sourceUrl": "https://www.bjpenn.com/mma-news/dan-hooker/dan-hooker-discusses-his-approach-to-brian-ortega-fight-after-ufc-qatar-victory/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Qatar",
+        "summary": "source: www.bjpenn.com",
+        "sourceUrl": "https://www.bjpenn.com/mma-news/dan-hooker/dan-hooker-discusses-his-approach-to-brian-ortega-fight-after-ufc-qatar-victory/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Qatar",
+        "summary": "source: www.bjpenn.com",
+        "sourceUrl": "https://www.bjpenn.com/mma-news/dan-hooker/dan-hooker-discusses-his-approach-to-brian-ortega-fight-after-ufc-qatar-victory/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Qatar",
+        "summary": "source: www.qatar-tribune.com",
+        "sourceUrl": "https://www.qatar-tribune.com/article/265998/latest-news/qatar-condemns-drone-attacks-targeting-sudanese-capital",
+        "occurredAt": "2026-11-23T16:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Qatar",
+        "summary": "source: naharnet.com",
+        "sourceUrl": "https://naharnet.com/stories/en/323930-syrian-authorities-arrest-ex-general-over-2014-massacre",
+        "occurredAt": "2026-11-23T12:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

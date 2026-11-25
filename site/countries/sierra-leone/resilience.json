@@ -1,0 +1,106 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "slug": "sierra-leone",
+  "rank": 142,
+  "overallScore": 41.8,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "RC BRAND 42.5 R Cement Takes Centre Stage in ROCKCEM’s Drive to Strengthen Sierra Leone’s Construction Industry",
+        "source": "The Calabash Newspaper",
+        "url": "https://thecalabashnewspaper.com/archives/66370",
+        "publishedAt": "2026-11-23T09:28:27.000Z"
+      },
+      {
+        "title": "India and Sierra Leone Deepen Pharmaceutical Cooperation to Improve Medicine Testing and Quality Standards",
+        "source": "The Calabash Newspaper",
+        "url": "https://thecalabashnewspaper.com/archives/66367",
+        "publishedAt": "2026-11-23T09:24:31.000Z"
+      },
+      {
+        "title": "CHRDI Calls for Sweeping Amendments to Sierra Leone’s Data Protection and Right to Access Information Bill 2026",
+        "source": "The Calabash Newspaper",
+        "url": "https://thecalabashnewspaper.com/archives/66364",
+        "publishedAt": "2026-11-23T09:20:33.000Z"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Sierra Leone's children are already living with Artificial Intelligence (AI): Now they want leaders to act",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/sierra-leones-children-are-already-living-with-artificial-intelligence-ai-now-they-want-leaders-to-act",
+        "publishedAt": "2026-11-23T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sierra Leone: Tony Elumelu, Idris Elba Cross Paths in Sierra Leone",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202611230560.html",
+        "publishedAt": "2026-11-23T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRC BRAND 42.5 R Cement is being promoted by ROCKCEM to strengthen Sierra Leone's construction industry. [1]\nIndia and Sierra Leone are deepening pharmaceutical cooperation to improve medicine testing and quality standards. [2]\n\nWHAT THIS MEANS FOR SIERRA LEONE\nThe deepening pharmaceutical cooperation with India could help Sierra Leone improve medicine quality, though the country faces no travel advisory beyond Exercise Increased Caution. [2][E1]\n\nWATCH ITEMS\nWhether the CHRDI's call for sweeping amendments to Sierra Leone's Data Protection and Right to Access Information Bill 2026 will be acted upon. [3]",
+      "generatedAt": "2026-11-24T04:34:06.436Z",
+      "sources": [
+        {
+          "title": "RC BRAND 42.5 R Cement Takes Centre Stage in ROCKCEM’s Drive to Strengthen Sierra Leone’s Construction Industry",
+          "source": "The Calabash Newspaper",
+          "url": "https://thecalabashnewspaper.com/archives/66370",
+          "publishedAt": "2026-11-23T09:28:27.000Z"
+        },
+        {
+          "title": "India and Sierra Leone Deepen Pharmaceutical Cooperation to Improve Medicine Testing and Quality Standards",
+          "source": "The Calabash Newspaper",
+          "url": "https://thecalabashnewspaper.com/archives/66367",
+          "publishedAt": "2026-11-23T09:24:31.000Z"
+        },
+        {
+          "title": "CHRDI Calls for Sweeping Amendments to Sierra Leone’s Data Protection and Right to Access Information Bill 2026",
+          "source": "The Calabash Newspaper",
+          "url": "https://thecalabashnewspaper.com/archives/66364",
+          "publishedAt": "2026-11-23T09:20:33.000Z"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Sierra Leone's children are already living with Artificial Intelligence (AI): Now they want leaders to act",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/sierra-leones-children-are-already-living-with-artificial-intelligence-ai-now-they-want-leaders-to-act",
+          "publishedAt": "2026-11-23T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Sierra Leone: Tony Elumelu, Idris Elba Cross Paths in Sierra Leone",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202611230560.html",
+          "publishedAt": "2026-11-23T16:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Sierra Leone is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

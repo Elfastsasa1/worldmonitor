@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "slug": "mozambique",
+  "rank": 152,
+  "overallScore": 39.8,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "NGO requests revocation of INICC fines over documentary on Mozambique’s post-election protests",
+        "source": "Club of Mozambique",
+        "url": "https://clubofmozambique.com/news/ngo-requests-revocation-of-inicc-fines-over-documentary-on-mozambiques-post-election-protests/",
+        "publishedAt": "2026-11-24T04:11:08.000Z"
+      },
+      {
+        "title": "Mozambique's Mondlane trial puts judicial independence and rule of law under scrutiny",
+        "source": "Mail & Guardian",
+        "url": "https://mg.co.za/thought-leader/2026-11-20-mozambique-s-mondlane-trial-puts-judicial-independence-and-rule-of-law-under-scrutiny/",
+        "publishedAt": "2026-11-20T10:04:43.000Z"
+      },
+      {
+        "title": "Mozambique: Nampula targets 157,000 tonnes of fish production in 2027",
+        "source": "Club of Mozambique",
+        "url": "https://clubofmozambique.com/news/mozambique-nampula-targets-157000-tonnes-of-fish-production-in-2027/",
+        "publishedAt": "2026-11-23T20:23:20.000Z"
+      },
+      {
+        "title": "Mozambique: Mondlane denies ordering destruction of road toll infrastructure",
+        "source": "Club of Mozambique",
+        "url": "https://clubofmozambique.com/news/mozambique-mondlane-denies-ordering-destruction-of-road-toll-infrastructure/",
+        "publishedAt": "2026-11-23T19:36:52.000Z"
+      },
+      {
+        "title": "Mozambique: LAM warns of flight delays and rescheduling until Wednesday, cites operational constraints",
+        "source": "Club of Mozambique",
+        "url": "https://clubofmozambique.com/news/mozambique-lam-warns-of-flight-delays-and-rescheduling-until-wednesday-cites-operational-constraints/",
+        "publishedAt": "2026-11-23T18:48:42.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNGO requests revocation of INICC fines over a documentary on Mozambique's post-election protests. [1]\nMozambique's Mondlane trial puts judicial independence and rule of law under scrutiny. [2]\n\nKEY RISKS\nMozambique is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the NGO's request for revocation of INICC fines over the documentary will be granted. [1]",
+      "generatedAt": "2026-11-24T04:31:30.502Z",
+      "sources": [
+        {
+          "title": "NGO requests revocation of INICC fines over documentary on Mozambique’s post-election protests",
+          "source": "Club of Mozambique",
+          "url": "https://clubofmozambique.com/news/ngo-requests-revocation-of-inicc-fines-over-documentary-on-mozambiques-post-election-protests/",
+          "publishedAt": "2026-11-24T04:11:08.000Z"
+        },
+        {
+          "title": "Mozambique's Mondlane trial puts judicial independence and rule of law under scrutiny",
+          "source": "Mail & Guardian",
+          "url": "https://mg.co.za/thought-leader/2026-11-20-mozambique-s-mondlane-trial-puts-judicial-independence-and-rule-of-law-under-scrutiny/",
+          "publishedAt": "2026-11-20T10:04:43.000Z"
+        },
+        {
+          "title": "Mozambique: Nampula targets 157,000 tonnes of fish production in 2027",
+          "source": "Club of Mozambique",
+          "url": "https://clubofmozambique.com/news/mozambique-nampula-targets-157000-tonnes-of-fish-production-in-2027/",
+          "publishedAt": "2026-11-23T20:23:20.000Z"
+        },
+        {
+          "title": "Mozambique: Mondlane denies ordering destruction of road toll infrastructure",
+          "source": "Club of Mozambique",
+          "url": "https://clubofmozambique.com/news/mozambique-mondlane-denies-ordering-destruction-of-road-toll-infrastructure/",
+          "publishedAt": "2026-11-23T19:36:52.000Z"
+        },
+        {
+          "title": "Mozambique: LAM warns of flight delays and rescheduling until Wednesday, cites operational constraints",
+          "source": "Club of Mozambique",
+          "url": "https://clubofmozambique.com/news/mozambique-lam-warns-of-flight-delays-and-rescheduling-until-wednesday-cites-operational-constraints/",
+          "publishedAt": "2026-11-23T18:48:42.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "8",
+          "factText": "Mozambique is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202611230543.html",
+        "occurredAt": "2026-11-23T16:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Mozambique",
+        "summary": "source: www.thesouthafrican.com",
+        "sourceUrl": "https://www.thesouthafrican.com/travel/kruger-national-park-viewpoint-where-three-countries-meet-crooks-corner/",
+        "occurredAt": "2026-11-19T15:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Mozambique",
+        "summary": "source: www.thesouthafrican.com",
+        "sourceUrl": "https://www.thesouthafrican.com/travel/kruger-national-park-viewpoint-where-three-countries-meet-crooks-corner/",
+        "occurredAt": "2026-11-19T15:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Mozambique",
+        "summary": "source: kenya-today.com",
+        "sourceUrl": "https://kenya-today.com/report-mozambique-opposition-leader-venancio-mondlane-faces-supreme-court-trial-over-2024-election-protests-28918/",
+        "occurredAt": "2026-11-18T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Mozambique",
+        "summary": "source: kenya-today.com",
+        "sourceUrl": "https://kenya-today.com/report-mozambique-opposition-leader-venancio-mondlane-faces-supreme-court-trial-over-2024-election-protests-28918/",
+        "occurredAt": "2026-11-18T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Mozambique",
+        "summary": "source: kenya-today.com",
+        "sourceUrl": "https://kenya-today.com/report-mozambique-opposition-leader-venancio-mondlane-faces-supreme-court-trial-over-2024-election-protests-28918/",
+        "occurredAt": "2026-11-18T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/view/group/main/main/id/00098826.html",
+        "occurredAt": "2026-11-16T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/view/group/main/main/id/00098826.html",
+        "occurredAt": "2026-11-16T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/view/group/main/main/id/00098826.html",
+        "occurredAt": "2026-11-16T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/view/group/main/main/id/00098826.html",
+        "occurredAt": "2026-11-16T15:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

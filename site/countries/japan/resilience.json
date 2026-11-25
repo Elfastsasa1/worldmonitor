@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "slug": "japan",
+  "rank": 5,
+  "overallScore": 71.4,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Korea threatens to close Swiss diplomatic office - The Japan Times",
+        "source": "Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzRVYk81bFhuS3BZVDZBdmItVlhfLXJlWXZCeUw0c19Id0k0UTZwcWEzUG5Yc0VRcE1qUWUyd1NtUGdnUU5felYyTS1uWVFoWWpKaWFrV1BjNHlreXRzek9WSkF3LVRxSGZiWThvdzUxWVI2TVdRZy1DVGpSRk1Zb3duOU5GWTBuQ1hyRGxVZ3doVnNSNmZWSVZOX1V5dkZyazVLa3VR?oc=5",
+        "publishedAt": "2026-11-24T03:29:00.000Z"
+      },
+      {
+        "title": "Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/why-the-next-bioterrorists-may-not-make-the-same-mistakes-as-aum-shinrikyo/",
+        "publishedAt": "2026-11-20T08:30:48.000Z"
+      },
+      {
+        "title": "Japan and South Korea face petrol rationing threat as Iran war disrupts oil routes - Herald.Wales",
+        "source": "Energy Crisis & Shortages",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhEUWFNeW4yTXpsdFd4MnJpV3RsU2lUczVXcEF0QWlkNWc2R1E2MVc4R1hNTUtfaFhWM0RTM3l5MTJkemtQTHFQUUs2NGZuTzZSbWxieDJnblo2RFhmNHcyMUxRdlBRT2w2V2RBdUFYSnpka3lDOHdKdnhNZXR4WWd3MjkxQ2VleDZrbXRpcmQ0S2lIUHJPT0tiVVVtV0x0c3djUzJxOEJXUkJucTJ3Q1hrV2NmQ2xCb1E?oc=5",
+        "publishedAt": "2026-11-23T20:01:26.000Z"
+      },
+      {
+        "title": "Japanese Yen strengthens amid intervention fears, traders await US PCE inflation data | FXStreet - شبكة تواصل الإخبارية",
+        "source": "BoJ Watch",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KR3pMUmZCSTdTbUFoX19IWngwaXFYQUdpcEdhRnhOTmdpcDd3OE5xSVJwVGJCWE1fSnZ1T1dOV0N2eTFEM0tvZ3MxR3U0Q0lVWllr?oc=5",
+        "publishedAt": "2026-11-24T02:00:56.000Z"
+      },
+      {
+        "title": "Japan Stocks Rebound as Huang’s Return Resuscitates AI Trade - Bloomberg.com",
+        "source": "Bloomberg Markets",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWpRYlBYN3VtUGhlZEpFMWdsam1hT2lnS0tneDc4bHI4WHFBLUc1S3Y5LWZocVdEclNJZlFwWXBtVFpIaE5TbnZMOVVkRGVnNjhtdVZjREU1X3Vwajk0Y0dNdHBpUkJDaGJBV2tRUkY0ZksyZWtWX250Y01abDBnNXRPZ2lZSHV2ZE1oMTUtVWNpTDNHdzZlS01ncVplZ2ozc0JQLVQySTNKc1NGZjJhNw?oc=5",
+        "publishedAt": "2026-11-24T02:10:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "unsupported-citation",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

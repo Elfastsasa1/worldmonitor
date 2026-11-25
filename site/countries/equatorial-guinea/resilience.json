@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "slug": "equatorial-guinea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.6,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Equatorial Guinea's President Obiang Marks 47 Years in Power, Outlasting Most Citizens",
+        "source": "kenya-today.com",
+        "url": "https://kenya-today.com/report-equatorial-guineas-president-obiang-marks-47-years-in-power-outlasting-most-citizens-31382/",
+        "publishedAt": "2026-11-22T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Equatorial Guinea Prices Pass 3% Threshold",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/equatorial-guinea-inflation-above-cemac-limit-october-2026/",
+        "publishedAt": "2026-11-21T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chevron Keeps 2027 Investment Decision on Track for Cameroon–Equatorial Guinea Gas Project",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/energy/2011-17234-chevron-keeps-2027-investment-decision-on-track-for-cameroon-equatorial-guinea-gas-project",
+        "publishedAt": "2026-11-20T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chevron Expresses Interest in Gas Exploration Offshore Cameroon and Equatorial Guinea",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/energy/1711-17211-chevron-expresses-interest-in-gas-exploration-offshore-cameroon-and-equatorial-guinea",
+        "publishedAt": "2026-11-17T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Zimbabwe/Equatorial Guinea: Warriors Crush Equatorial Guinea 3-0 in Afcon Qualifier Match",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202611170228.html",
+        "publishedAt": "2026-11-17T07:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

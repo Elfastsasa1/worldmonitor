@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "slug": "seychelles",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Air Seychelles' Twin Otter experiences runway excursion -Seychelles Nation",
+        "source": "nation.sc",
+        "url": "https://nation.sc/articles/33297/air-seychelles-twin-otter-experiences-runway-excursion",
+        "publishedAt": "2026-11-23T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles and Réunion expand Blue Economy cooperation",
+        "source": "nation.sc",
+        "url": "https://nation.sc/articles/33301/seychelles-and-runion-expand-blue-economy-cooperation",
+        "publishedAt": "2026-11-23T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles at UN Tourism's Abu Dhabi Executive Council",
+        "source": "eturbonews.com",
+        "url": "https://eturbonews.com/seychelles-un-tourism-executive-council-abu-dhabi/",
+        "publishedAt": "2026-11-23T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Air Seychelles' Twin Otter experiences runway excursion -Seychelles Nation",
+        "source": "nation.sc",
+        "url": "https://www.nation.sc/articles/33297/air-seychelles-twin-otter-experiences-runway-excursion",
+        "publishedAt": "2026-11-23T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seychelles and Réunion expand Blue Economy cooperation",
+        "source": "nation.sc",
+        "url": "https://www.nation.sc/articles/33301/seychelles-and-runion-expand-blue-economy-cooperation",
+        "publishedAt": "2026-11-23T12:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

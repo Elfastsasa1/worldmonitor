@@ -1,0 +1,97 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "slug": "bolivia",
+  "rank": 119,
+  "overallScore": 47.2,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "¿Bolivia está preparada para afrontar el fenómeno de El Niño? El viceministro de Defensa Civil responde",
+        "source": "El Deber",
+        "url": "https://eldeber.com.bo/pais/bolivia-esta-preparada-afrontar-fenomeno-nino-viceministro-defensa-civil-responde_1795485729",
+        "publishedAt": "2026-11-24T02:02:09.000Z"
+      },
+      {
+        "title": "Solidaritat andorrana amb Bolívia",
+        "source": "Diari d'Andorra",
+        "url": "https://www.diariandorra.ad/dmg/recordes-quan/261122/solidaritat-andorrana-amb-bolivia_209244.html",
+        "publishedAt": "2026-11-22T04:20:00.000Z"
+      },
+      {
+        "title": "Bolivia de talla baja avanza invicta a cuartos de final del Mundial",
+        "source": "El Deber",
+        "url": "https://eldeber.com.bo/deportes/bolivia-talla-baja-avanza-invicta-cuartos-final-mundial_1795482291",
+        "publishedAt": "2026-11-24T01:04:52.000Z"
+      },
+      {
+        "title": "Bolivia Raises Emergency Fuel Import Ceiling to $1.3B as YPFB Faces Deepening Crisis",
+        "source": "latintimes.com",
+        "url": "https://www.latintimes.com/bolivia-raises-emergency-fuel-import-ceiling-13b-ypfb-faces-deepening-crisis-601685",
+        "publishedAt": "2026-11-21T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bolivia Budget Aims to Cut Deficit to 6.7%",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/bolivia-2027-budget-deficit-6-7-percent-gdp-2026/",
+        "publishedAt": "2026-11-21T20:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBolivia raised its emergency fuel import ceiling to $1.3B as YPFB faces a deepening crisis. [4]\nBolivia's budget aims to cut the deficit to 6.7%. [5]\n\nWATCH ITEMS\nWhether the YPFB deepening crisis will be resolved by the raised emergency fuel import ceiling. [4]",
+      "generatedAt": "2026-11-24T04:23:48.460Z",
+      "sources": [
+        {
+          "title": "¿Bolivia está preparada para afrontar el fenómeno de El Niño? El viceministro de Defensa Civil responde",
+          "source": "El Deber",
+          "url": "https://eldeber.com.bo/pais/bolivia-esta-preparada-afrontar-fenomeno-nino-viceministro-defensa-civil-responde_1795485729",
+          "publishedAt": "2026-11-24T02:02:09.000Z"
+        },
+        {
+          "title": "Solidaritat andorrana amb Bolívia",
+          "source": "Diari d'Andorra",
+          "url": "https://www.diariandorra.ad/dmg/recordes-quan/261122/solidaritat-andorrana-amb-bolivia_209244.html",
+          "publishedAt": "2026-11-22T04:20:00.000Z"
+        },
+        {
+          "title": "Bolivia de talla baja avanza invicta a cuartos de final del Mundial",
+          "source": "El Deber",
+          "url": "https://eldeber.com.bo/deportes/bolivia-talla-baja-avanza-invicta-cuartos-final-mundial_1795482291",
+          "publishedAt": "2026-11-24T01:04:52.000Z"
+        },
+        {
+          "title": "Bolivia Raises Emergency Fuel Import Ceiling to $1.3B as YPFB Faces Deepening Crisis",
+          "source": "latintimes.com",
+          "url": "https://www.latintimes.com/bolivia-raises-emergency-fuel-import-ceiling-13b-ypfb-faces-deepening-crisis-601685",
+          "publishedAt": "2026-11-21T21:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bolivia Budget Aims to Cut Deficit to 6.7%",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/bolivia-2027-budget-deficit-6-7-percent-gdp-2026/",
+          "publishedAt": "2026-11-21T20:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

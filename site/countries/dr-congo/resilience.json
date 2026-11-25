@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CD",
+  "countryName": "DR Congo",
+  "slug": "dr-congo",
+  "rank": 156,
+  "overallScore": 38.5,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+        "publishedAt": "2026-11-23T12:00:00.000Z"
+      },
+      {
+        "title": "Restoration of Kenya-DRC ties a great regional move",
+        "source": "Daily Nation",
+        "url": "https://nation.africa/kenya/blogs-opinion/editorials/restoration-of-kenya-drc-ties-a-great-regional-move-5681938",
+        "publishedAt": "2026-11-23T21:00:00.000Z"
+      },
+      {
+        "title": "DR Congo's Bakole to fight Wilder on Fury-Joshua undercard",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmvg2v0rlzeko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T15:12:52.000Z"
+      },
+      {
+        "title": "Kenya and DR Congo move to restore ties after rebel row",
+        "source": "RT",
+        "url": "https://rt-english.com/africa/649245-kenya-dr-congo-restore-diplomatic-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "publishedAt": "2026-11-23T13:52:46.000Z"
+      },
+      {
+        "title": "South African mercenary captured in eastern DRC",
+        "source": "Mail & Guardian",
+        "url": "https://mg.co.za/news/south-africa/2026-11-23-south-african-mercenary-captured-in-eastern-drc/",
+        "publishedAt": "2026-11-23T12:35:36.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHeavy fighting in Ituri traps DR Congo Ebola responders, according to the WHO. [1]\n\nWHAT THIS MEANS FOR DR CONGO\nThe heavy fighting in Ituri that traps Ebola responders may hinder containment efforts in a region where the most severe government travel advisory is Do Not Travel. [1][E1]\n\nWATCH ITEMS\nWhether Kenya and DR Congo will fully restore ties after the rebel row. [4]",
+      "generatedAt": "2026-11-24T04:24:23.083Z",
+      "sources": [
+        {
+          "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+          "publishedAt": "2026-11-23T12:00:00.000Z"
+        },
+        {
+          "title": "Restoration of Kenya-DRC ties a great regional move",
+          "source": "Daily Nation",
+          "url": "https://nation.africa/kenya/blogs-opinion/editorials/restoration-of-kenya-drc-ties-a-great-regional-move-5681938",
+          "publishedAt": "2026-11-23T21:00:00.000Z"
+        },
+        {
+          "title": "DR Congo's Bakole to fight Wilder on Fury-Joshua undercard",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cmvg2v0rlzeko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T15:12:52.000Z"
+        },
+        {
+          "title": "Kenya and DR Congo move to restore ties after rebel row",
+          "source": "RT",
+          "url": "https://rt-english.com/africa/649245-kenya-dr-congo-restore-diplomatic-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publishedAt": "2026-11-23T13:52:46.000Z"
+        },
+        {
+          "title": "South African mercenary captured in eastern DRC",
+          "source": "Mail & Guardian",
+          "url": "https://mg.co.za/news/south-africa/2026-11-23-south-african-mercenary-captured-in-eastern-drc/",
+          "publishedAt": "2026-11-23T12:35:36.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Congo - Kinshasa is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

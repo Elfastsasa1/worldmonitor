@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TM",
+  "countryName": "Turkmenistan",
+  "slug": "turkmenistan",
+  "rank": 110,
+  "overallScore": 49.2,
+  "dimensionCoverage": 0.68,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The Modern Renaissance of Turkmenistan's Dairy Industry: A Blueprint for Agricultural Resilience and Supply Chain Mastery",
+        "source": "newscentralasia.net",
+        "url": "https://www.newscentralasia.net/2026/11/24/the-modern-renaissance-of-turkmenistans-dairy-industry-a-blueprint-for-agricultural-resilience-and-supply-chain-mastery/",
+        "publishedAt": "2026-11-24T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The President of Turkmenistan congratulated the Emir of the State of Qatar",
+        "source": "tdh.gov.tm",
+        "url": "https://tdh.gov.tm/index.php/en/post/50500/president-turkmenistan-congratulated-emir-state-qatar-5",
+        "publishedAt": "2026-11-23T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan and the United States Discuss Bilateral Ties and Trans-Caspian Connectivity",
+        "source": "newscentralasia.net",
+        "url": "https://www.newscentralasia.net/2026/11/23/turkmenistan-and-the-united-states-discuss-bilateral-ties-and-trans-caspian-connectivity/",
+        "publishedAt": "2026-11-23T18:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Azerbaijan backs Turkmenistan's neutrality policy - Deputy FM",
+        "source": "trend.az",
+        "url": "https://www.trend.az/azerbaijan/4249807.html",
+        "publishedAt": "2026-11-23T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US deputy secretary meets American firms in Turkmenistan on investment",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4249734.html",
+        "publishedAt": "2026-11-23T11:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

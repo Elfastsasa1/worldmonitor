@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BS",
+  "countryName": "Bahamas",
+  "slug": "bahamas",
+  "rank": 113,
+  "overallScore": 48.3,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bahamas ambassador calls for regional emergencyexercises and greater investment in technology and training",
+        "source": "Antigua Observer",
+        "url": "https://antiguaobserver.com/bahamas-ambassador-calls-for-regional-emergencyexercises-and-greater-investment-in-technology-and-training/",
+        "publishedAt": "2026-11-24T03:24:46.000Z"
+      },
+      {
+        "title": "Eleuthera wide project pledges 1,000 Bahamian jobs from launch",
+        "source": "The Tribune",
+        "url": "https://tribune242.com/news/2026/nov/23/eleuthera-wide-project-pledges-1000-bahamian-jobs-from-launch/",
+        "publishedAt": "2026-11-23T14:41:00.000Z"
+      },
+      {
+        "title": "Bahamas Education, Science and Technology (BEST) Foundation Announces Inaugural Board of Directors and Interim Executive Director",
+        "source": "ZNS Bahamas",
+        "url": "https://znsbahamas.com/bahamas-education-science-and-technology-best-foundation-announces-inaugural-board-of-directors-and-interim-executive-director/",
+        "publishedAt": "2026-11-22T21:16:29.000Z"
+      },
+      {
+        "title": "The Governor General serves as patron at ‘The Longest Table’ in The Bahamas",
+        "source": "ZNS Bahamas",
+        "url": "https://znsbahamas.com/the-governor-general-serves-as-patron-at-the-longest-table-in-the-bahamas/",
+        "publishedAt": "2026-11-20T21:07:40.000Z"
+      },
+      {
+        "title": "Bahamas Signs Education Cooperation Agreement with Uruguay’s Fundación Ceibal",
+        "source": "ZNS Bahamas",
+        "url": "https://znsbahamas.com/bahamas-signs-education-cooperation-agreement-with-uruguays-fundacion-ceibal/",
+        "publishedAt": "2026-11-20T16:36:42.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBahamas ambassador calls for regional emergency exercises and greater investment in technology and training. [1]\nThe Eleuthera wide project pledges 1,000 Bahamian jobs from launch. [2]\n\nKEY RISKS\nBahamas is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the Eleuthera wide project will deliver the pledged 1,000 Bahamian jobs from launch. [2]\nWhether the Bahamas Education, Science and Technology (BEST) Foundation will implement its inaugural board and interim executive director's plans. [3]",
+      "generatedAt": "2026-11-24T04:23:57.301Z",
+      "sources": [
+        {
+          "title": "Bahamas ambassador calls for regional emergencyexercises and greater investment in technology and training",
+          "source": "Antigua Observer",
+          "url": "https://antiguaobserver.com/bahamas-ambassador-calls-for-regional-emergencyexercises-and-greater-investment-in-technology-and-training/",
+          "publishedAt": "2026-11-24T03:24:46.000Z"
+        },
+        {
+          "title": "Eleuthera wide project pledges 1,000 Bahamian jobs from launch",
+          "source": "The Tribune",
+          "url": "https://tribune242.com/news/2026/nov/23/eleuthera-wide-project-pledges-1000-bahamian-jobs-from-launch/",
+          "publishedAt": "2026-11-23T14:41:00.000Z"
+        },
+        {
+          "title": "Bahamas Education, Science and Technology (BEST) Foundation Announces Inaugural Board of Directors and Interim Executive Director",
+          "source": "ZNS Bahamas",
+          "url": "https://znsbahamas.com/bahamas-education-science-and-technology-best-foundation-announces-inaugural-board-of-directors-and-interim-executive-director/",
+          "publishedAt": "2026-11-22T21:16:29.000Z"
+        },
+        {
+          "title": "The Governor General serves as patron at ‘The Longest Table’ in The Bahamas",
+          "source": "ZNS Bahamas",
+          "url": "https://znsbahamas.com/the-governor-general-serves-as-patron-at-the-longest-table-in-the-bahamas/",
+          "publishedAt": "2026-11-20T21:07:40.000Z"
+        },
+        {
+          "title": "Bahamas Signs Education Cooperation Agreement with Uruguay’s Fundación Ceibal",
+          "source": "ZNS Bahamas",
+          "url": "https://znsbahamas.com/bahamas-signs-education-cooperation-agreement-with-uruguays-fundacion-ceibal/",
+          "publishedAt": "2026-11-20T16:36:42.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "2",
+          "factText": "Bahamas is linked to 2 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

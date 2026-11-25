@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "slug": "cameroon",
+  "rank": 157,
+  "overallScore": 38.5,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "AFG Bank Cameroon Targets CFA577 Billion in Annual Trade Finance by 2031, Up 35%",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/finance/2411-17253-afg-bank-cameroon-targets-cfa577-billion-in-annual-trade-finance-by-2031-up-35",
+        "publishedAt": "2026-11-24T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cameroon: NuRAN Wants 4G Across Most of Its Telecom Towers After Revenue Gains of Up to 40%",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/telecom/2411-17251-cameroon-nuran-wants-4g-across-most-of-its-telecom-towers-after-revenue-gains-of-up-to-40",
+        "publishedAt": "2026-11-24T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cameroon Allocates CFA1.8 Billion to Assess Rail Link Between Kribi Port and Dja Mining Region",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/construction/2311-17245-cameroon-allocates-cfa1-8-billion-to-assess-rail-link-between-kribi-port-and-dja-mining-region",
+        "publishedAt": "2026-11-23T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cameroon's Etinde Gas Project Faces Unresolved State Ownership Terms and Further Development Delays",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/energy/2311-17248-cameroon-s-etinde-gas-project-faces-unresolved-state-ownership-terms-and-further-development-delays",
+        "publishedAt": "2026-11-23T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cameroon Discusses 500 MW Emergency Solar Program With World Bank",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/energy/2311-17249-cameroon-discusses-500-mw-emergency-solar-program-with-world-bank",
+        "publishedAt": "2026-11-23T19:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.businessincameroon.com",
+        "sourceUrl": "https://www.businessincameroon.com/finance/2011-17240-danpullo-mtn-dispute-afriland-faces-eight-day-ultimatum-to-transfer-cfa142-billion",
+        "occurredAt": "2026-11-20T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.businessincameroon.com",
+        "sourceUrl": "https://www.businessincameroon.com/finance/2011-17240-danpullo-mtn-dispute-afriland-faces-eight-day-ultimatum-to-transfer-cfa142-billion",
+        "occurredAt": "2026-11-20T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.businessincameroon.com",
+        "sourceUrl": "https://www.businessincameroon.com/finance/2011-17240-danpullo-mtn-dispute-afriland-faces-eight-day-ultimatum-to-transfer-cfa142-billion",
+        "occurredAt": "2026-11-20T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.businessincameroon.com",
+        "sourceUrl": "https://www.businessincameroon.com/finance/2011-17240-danpullo-mtn-dispute-afriland-faces-eight-day-ultimatum-to-transfer-cfa142-billion",
+        "occurredAt": "2026-11-20T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.swissinfo.ch",
+        "sourceUrl": "https://www.swissinfo.ch/eng/various/cameroon-swiss-tourist-killed-in-an-elephant-attack/92414407",
+        "occurredAt": "2026-11-20T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.swissinfo.ch",
+        "sourceUrl": "https://www.swissinfo.ch/eng/various/cameroon-swiss-tourist-killed-in-an-elephant-attack/92414407",
+        "occurredAt": "2026-11-20T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.swissinfo.ch",
+        "sourceUrl": "https://www.swissinfo.ch/eng/various/cameroon-swiss-tourist-killed-in-an-elephant-attack/92414407",
+        "occurredAt": "2026-11-20T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.gavi.org",
+        "sourceUrl": "https://www.gavi.org/vaccineswork/cameroon-under-attack-measles-strikes-back-hard",
+        "occurredAt": "2026-11-17T19:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.gavi.org",
+        "sourceUrl": "https://www.gavi.org/vaccineswork/cameroon-under-attack-measles-strikes-back-hard",
+        "occurredAt": "2026-11-17T19:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: 76crimes.com",
+        "sourceUrl": "https://76crimes.com/2026/11/17/cameroon-raid/",
+        "occurredAt": "2026-11-17T13:45:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

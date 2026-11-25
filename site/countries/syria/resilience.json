@@ -1,0 +1,184 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "slug": "syria",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.55,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "EXCLUSIVE: US discussing military training for Syrian forces - Reuters",
+        "source": "Reuters — Saudi Arabia",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2tMTDZEYUhaR0lYVlhOTVpicEV6a3VJN2RSV1pVdXMxRmJwQkFUd1hzNWZEa0pSUkJaQ0l6SVNjM1pfMllVR2hNV2FNb2FZUTNuclJzLTdkenNHU3RncUJKUzRKcWswcTJkRkRQZjBuU0h3dDJBdlV0V25nU2xpQlA5UWFnMkZSZnlFMXRsbmQ?oc=5",
+        "publishedAt": "2026-11-23T14:45:00.000Z"
+      },
+      {
+        "title": "Mỹ thảo luận huấn luyện quân sự cho lực lượng Syria?",
+        "source": "Thanh Niên",
+        "url": "https://thanhnien.vn/my-thao-luan-huan-luyen-quan-su-cho-luc-luong-syria-185261124093451676.htm",
+        "publishedAt": "2026-11-24T02:40:00.000Z"
+      },
+      {
+        "title": "Israel’s southern Syria incursion triggers fear and destruction",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+        "publishedAt": "2026-11-23T21:19:17.000Z"
+      },
+      {
+        "title": "Washington Considers Demining Training Program for Syrian Military",
+        "source": "The Syrian Observer",
+        "url": "https://syrianobserver.com/foreign-actors/washington-considers-demining-training-program-for-syrian-military.html",
+        "publishedAt": "2026-11-23T21:03:58.000Z"
+      },
+      {
+        "title": "Deputy PM meets Syrian minister",
+        "source": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/738873/qatar/deputy-pm-meets-syrian-minister",
+        "publishedAt": "2026-11-23T21:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US is discussing military training for Syrian forces. [1]\nIsrael's incursion into southern Syria has triggered fear and destruction. [3]\n\nWHAT THIS MEANS FOR SYRIA\nIsrael's southern Syria incursion triggers fear and destruction while the most severe government travel advisory for Syria is Do Not Travel. [3][E2]\n\nOUTLOOK\nA Polymarket market on Israel military action against Syria by November 30, 2026 is priced Yes at 14% as of Nov 24, 2026 and closes Dec 1, 2026. [E5]\nA Polymarket market on Israel and Syria normalizing relations by December 31, 2026 is priced Yes at 5% as of Nov 24, 2026 and closes Jan 1, 2027. [E6]\n\nWATCH ITEMS\nWhether the US will proceed with military training for Syrian forces as discussed. [1]\nWhether Washington will implement a demining training program for the Syrian military as considered. [4]",
+      "generatedAt": "2026-11-24T04:34:57.811Z",
+      "sources": [
+        {
+          "title": "EXCLUSIVE: US discussing military training for Syrian forces - Reuters",
+          "source": "Reuters — Saudi Arabia",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2tMTDZEYUhaR0lYVlhOTVpicEV6a3VJN2RSV1pVdXMxRmJwQkFUd1hzNWZEa0pSUkJaQ0l6SVNjM1pfMllVR2hNV2FNb2FZUTNuclJzLTdkenNHU3RncUJKUzRKcWswcTJkRkRQZjBuU0h3dDJBdlV0V25nU2xpQlA5UWFnMkZSZnlFMXRsbmQ?oc=5",
+          "publishedAt": "2026-11-23T14:45:00.000Z"
+        },
+        {
+          "title": "Mỹ thảo luận huấn luyện quân sự cho lực lượng Syria?",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/my-thao-luan-huan-luyen-quan-su-cho-luc-luong-syria-185261124093451676.htm",
+          "publishedAt": "2026-11-24T02:40:00.000Z"
+        },
+        {
+          "title": "Israel’s southern Syria incursion triggers fear and destruction",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+          "publishedAt": "2026-11-23T21:19:17.000Z"
+        },
+        {
+          "title": "Washington Considers Demining Training Program for Syrian Military",
+          "source": "The Syrian Observer",
+          "url": "https://syrianobserver.com/foreign-actors/washington-considers-demining-training-program-for-syrian-military.html",
+          "publishedAt": "2026-11-23T21:03:58.000Z"
+        },
+        {
+          "title": "Deputy PM meets Syrian minister",
+          "source": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/738873/qatar/deputy-pm-meets-syrian-minister",
+          "publishedAt": "2026-11-23T21:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Syria is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "14%",
+          "factText": "A Polymarket market related to Syria, \"Israel military action against Syria by November 30, 2026?\", priced Yes at 14% on Nov 24, 2026; it closes Dec 1, 2026.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/israel-military-action-against-syria-byptptpt-21"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "5%",
+          "factText": "A Polymarket market related to Syria, \"Israel and Syria normalize relations by December 31, 2026?\", priced Yes at 5% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/israel-and-syria-normalize-relations-in-2025"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Syria",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village",
+        "occurredAt": "2026-11-24T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Syria",
+        "summary": "source: vancouversun.com",
+        "sourceUrl": "https://vancouversun.com/news/viscerally-terrifying-new-details-revealed-sentencing-man-jailed-surrey-bus-stabbing-isis",
+        "occurredAt": "2026-11-24T03:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Syria",
+        "summary": "source: news.antiwar.com",
+        "sourceUrl": "https://news.antiwar.com/2026/11/23/israeli-forces-launch-day-long-incursion-into-southwest-syria-river-basin/",
+        "occurredAt": "2026-11-23T21:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Syria",
+        "summary": "source: www.csmonitor.com",
+        "sourceUrl": "https://www.csmonitor.com/World/Middle-East/2026/1123/Syrians-say-they-re-ready-for-peace-despite-tensions-and-ask-Is-Israel",
+        "occurredAt": "2026-11-23T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Syria",
+        "summary": "source: www.stripes.com",
+        "sourceUrl": "https://www.stripes.com/theaters/europe/2026-11-23/ukraine-libya-russia-drone-strikes-23552100.html",
+        "occurredAt": "2026-11-23T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Syria",
+        "summary": "source: www.jpost.com",
+        "sourceUrl": "https://www.jpost.com/israel-news/article-915848",
+        "occurredAt": "2026-11-23T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Syria",
+        "summary": "source: www.jpost.com",
+        "sourceUrl": "https://www.jpost.com/israel-news/article-915848",
+        "occurredAt": "2026-11-23T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Syria",
+        "summary": "source: yalibnan.com",
+        "sourceUrl": "https://yalibnan.com/2026/11/23/lebanon-army-arrests-3-accused-of-smuggling-over-264-kg-of-explosives-from-syria/",
+        "occurredAt": "2026-11-23T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Syria",
+        "summary": "source: naharnet.com",
+        "sourceUrl": "https://naharnet.com/stories/en/323930-syrian-authorities-arrest-ex-general-over-2014-massacre",
+        "occurredAt": "2026-11-23T12:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

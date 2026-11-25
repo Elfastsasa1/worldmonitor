@@ -1,0 +1,174 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "slug": "oman",
+  "rank": 59,
+  "overallScore": 57.1,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+        "source": "Times of Oman",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+        "publishedAt": "2026-11-24T03:41:00.000Z"
+      },
+      {
+        "title": "🇴🇲 SHIP ENGULFED IN FLAMES in Strait of Hormuz Satellite imagery from Nov. 23 reportedly shows a commercial vessel burning near Khasab, Oman. The cause remains unknown. Another vessel is seen actively fighting the fire. Another day, another ship ri - X",
+        "source": "Shipping & Freight",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTlpFYjE5enJuQkdia3gyRmtVT0tiWlprTFVkRk1FN241WnBCQjJyQ0EwbElHUlBMN05MbDI5bVBUaTd5VmtHTlUtZlYxSGhTeDliVUtsMUtRdGNYVGxRSTZkV2U5YjEyaVhkaA?oc=5",
+        "publishedAt": "2026-11-24T03:39:19.000Z"
+      },
+      {
+        "title": "Pakistan, Oman eye long-term oil partnership",
+        "source": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2641942/pakistan-oman-eye-long-term-oil-partnership",
+        "publishedAt": "2026-11-23T16:55:41.000Z"
+      },
+      {
+        "title": "Oman, Türkiye hold first joint military committee meeting",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1200153/oman/community/oman-turkiye-hold-first-joint-military-committee-meeting",
+        "publishedAt": "2026-11-23T15:00:25.000Z"
+      },
+      {
+        "title": "Four killed and 17 injured in Oman after bus crashes into lorry",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/uae/2026/11/23/four-killed-and-17-injured-in-oman-after-bus-crashes-into-lorry/",
+        "publishedAt": "2026-11-23T10:41:07.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA commercial vessel was reportedly burning near Khasab, Oman, according to satellite imagery from Nov. 23. [2]\nFour people were killed and 17 injured in Oman after a bus crashed into a lorry. [5]\n\nWHAT THIS MEANS FOR OMAN\nThe burning ship in the Strait of Hormuz, a chokepoint for Oman, threatens maritime safety and trade flows in a critical waterway. [2][E4]\n\nWATCH ITEMS\nWhether the cause of the ship fire near Khasab will be determined and whether it leads to increased maritime security measures in the Strait of Hormuz. [2]",
+      "generatedAt": "2026-11-24T04:32:13.392Z",
+      "sources": [
+        {
+          "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+          "source": "Times of Oman",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+          "publishedAt": "2026-11-24T03:41:00.000Z"
+        },
+        {
+          "title": "🇴🇲 SHIP ENGULFED IN FLAMES in Strait of Hormuz Satellite imagery from Nov. 23 reportedly shows a commercial vessel burning near Khasab, Oman. The cause remai...",
+          "source": "Shipping & Freight",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTlpFYjE5enJuQkdia3gyRmtVT0tiWlprTFVkRk1FN241WnBCQjJyQ0EwbElHUlBMN05MbDI5bVBUaTd5VmtHTlUtZlYxSGhTeDliVUtsMUtRdGNYVGxRSTZkV2U5YjEyaVhkaA?oc=5",
+          "publishedAt": "2026-11-24T03:39:19.000Z"
+        },
+        {
+          "title": "Pakistan, Oman eye long-term oil partnership",
+          "source": "Express Tribune",
+          "url": "https://tribune.com.pk/story/2641942/pakistan-oman-eye-long-term-oil-partnership",
+          "publishedAt": "2026-11-23T16:55:41.000Z"
+        },
+        {
+          "title": "Oman, Türkiye hold first joint military committee meeting",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1200153/oman/community/oman-turkiye-hold-first-joint-military-committee-meeting",
+          "publishedAt": "2026-11-23T15:00:25.000Z"
+        },
+        {
+          "title": "Four killed and 17 injured in Oman after bus crashes into lorry",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/uae/2026/11/23/four-killed-and-17-injured-in-oman-after-bus-crashes-into-lorry/",
+          "publishedAt": "2026-11-23T10:41:07.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Hormuz",
+          "factText": "Strait of Hormuz is a shipping chokepoint World Monitor tracks for Oman.",
+          "asOf": "2026-11-24T04:32:11.365Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-hormuz/"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 195 — in Oman",
+        "summary": "source: www.hindustantimes.com",
+        "sourceUrl": "https://www.hindustantimes.com/world-news/the-unlikely-winner-from-war-in-the-gulf-101795488088254.html",
+        "occurredAt": "2026-11-24T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Oman",
+        "summary": "source: www.wafb.com",
+        "sourceUrl": "https://www.wafb.com/2026/11/23/passenger-sues-tanker-companies-after-new-orleans-riverboat-collision/",
+        "occurredAt": "2026-11-24T02:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Oman",
+        "summary": "source: www.ksla.com",
+        "sourceUrl": "https://www.ksla.com/2026/11/23/passenger-sues-tanker-companies-after-new-orleans-riverboat-collision/",
+        "occurredAt": "2026-11-23T23:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Oman",
+        "summary": "source: www.express.co.uk",
+        "sourceUrl": "https://www.express.co.uk/news/royal/2268543/prince-harry-palace-fury",
+        "occurredAt": "2026-11-23T19:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Oman",
+        "summary": "source: timesofoman.com",
+        "sourceUrl": "https://timesofoman.com/article/179519-environment-authority-holds-workshop-on-combating-mesquite-shrubs-and-partheniums-plants",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Oman",
+        "summary": "source: www.theyeshivaworld.com",
+        "sourceUrl": "https://www.theyeshivaworld.com/news/israel-news/2627098/all-clear-flydubai-cleared-to-resume-israel-flights-after-terrorist-co-pilots-attempt-to-crash-plane-into-ben-gurion.html",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Oman",
+        "summary": "source: www.al-monitor.com",
+        "sourceUrl": "https://www.al-monitor.com/originals/2026/11/uk-man-braves-oil-fires-and-mines-swim-strait-hormuz",
+        "occurredAt": "2026-11-23T15:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Oman",
+        "summary": "source: abc13.com",
+        "sourceUrl": "https://abc13.com/story/strait-hormuz-attacks-have-increased-highest-level-iran-war-began/20069523/",
+        "occurredAt": "2026-11-23T13:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Oman",
+        "summary": "source: gulfnews.com",
+        "sourceUrl": "https://gulfnews.com/world/mena/uae-oman-continue-search-for-missing-jordanian-sailor-after-hormuz-tanker-attack-2-1.500757383",
+        "occurredAt": "2026-11-23T02:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Oman",
+        "summary": "source: gulfnews.com",
+        "sourceUrl": "https://gulfnews.com/world/mena/uae-oman-continue-search-for-missing-jordanian-sailor-after-hormuz-tanker-attack-2-1.500757383",
+        "occurredAt": "2026-11-23T02:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

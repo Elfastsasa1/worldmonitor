@@ -1,0 +1,99 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DM",
+  "countryName": "Dominica",
+  "slug": "dominica",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Dominica: Judge sentences two US nationals to life imprisonment for double murder",
+        "source": "Caribbean Broadcasting Corporation (CBC)",
+        "url": "https://www.cbc.bb/news/regional-news/dominica-judge-sentences-two-us-nationals-to-life-imprisonment-for-double-murder/",
+        "publishedAt": "2026-11-23T20:53:00.000Z"
+      },
+      {
+        "title": "Two U.S. men sentenced to life in prison for Dominica murders of Canadian animation pioneer and partner",
+        "source": "Toronto Star",
+        "url": "https://www.thestar.com/news/canada/two-u-s-men-sentenced-to-life-in-prison-for-murders-of-canadian-animation-pioneer-partner-in-dominica/article_a4905e7c-dc22-4b5c-9331-5858a88a2f52.html",
+        "publishedAt": "2026-11-23T14:30:00.000Z"
+      },
+      {
+        "title": "Dominica ruling party launches campaign for December 16 poll",
+        "source": "cbc.bb",
+        "url": "https://www.cbc.bb/news/regional-news/dominica-ruling-party-launches-campaign-for-december-16-poll/",
+        "publishedAt": "2026-11-23T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Roosevelt Skerrit announces December 16 Election date for Dominica",
+        "source": "nationnews.com",
+        "url": "https://nationnews.com/2026/11/19/roosevelt-skerrit-announces-december-16-election-date-for-dominica/",
+        "publishedAt": "2026-11-21T01:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Dominica Leader Plans New Community Ministry",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/dominica-skerrit-pace-community-ministry-plan/",
+        "publishedAt": "2026-11-20T08:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA judge in Dominica sentenced two US nationals to life imprisonment for a double murder. [1]\nThe ruling party in Dominica launched its campaign for the December 16 poll. [3]\n\nWATCH ITEMS\nWhether the December 16 election in Dominica will proceed as scheduled by Roosevelt Skerrit. [4]",
+      "generatedAt": "2026-11-24T04:25:37.287Z",
+      "sources": [
+        {
+          "title": "Dominica: Judge sentences two US nationals to life imprisonment for double murder",
+          "source": "Caribbean Broadcasting Corporation (CBC)",
+          "url": "https://www.cbc.bb/news/regional-news/dominica-judge-sentences-two-us-nationals-to-life-imprisonment-for-double-murder/",
+          "publishedAt": "2026-11-23T20:53:00.000Z"
+        },
+        {
+          "title": "Two U.S. men sentenced to life in prison for Dominica murders of Canadian animation pioneer and partner",
+          "source": "Toronto Star",
+          "url": "https://www.thestar.com/news/canada/two-u-s-men-sentenced-to-life-in-prison-for-murders-of-canadian-animation-pioneer-partner-in-dominica/article_a4905e7c-dc22-4b5c-9331-5858a88a2f52.html",
+          "publishedAt": "2026-11-23T14:30:00.000Z"
+        },
+        {
+          "title": "Dominica ruling party launches campaign for December 16 poll",
+          "source": "cbc.bb",
+          "url": "https://www.cbc.bb/news/regional-news/dominica-ruling-party-launches-campaign-for-december-16-poll/",
+          "publishedAt": "2026-11-23T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Roosevelt Skerrit announces December 16 Election date for Dominica",
+          "source": "nationnews.com",
+          "url": "https://nationnews.com/2026/11/19/roosevelt-skerrit-announces-december-16-election-date-for-dominica/",
+          "publishedAt": "2026-11-21T01:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Dominica Leader Plans New Community Ministry",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/dominica-skerrit-pace-community-ministry-plan/",
+          "publishedAt": "2026-11-20T08:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

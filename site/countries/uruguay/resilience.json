@@ -1,0 +1,90 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "slug": "uruguay",
+  "rank": 18,
+  "overallScore": 64.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "La final de la Libertadores, otro capítulo del turismo deportivo en Uruguay",
+        "source": "La Diaria",
+        "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/11/la-final-de-la-libertadores-otro-capitulo-del-turismo-deportivo-en-uruguay/",
+        "publishedAt": "2026-11-24T03:13:59.000Z"
+      },
+      {
+        "title": "U17 World Cup: Haiti concedes a second defeat against Uruguay",
+        "source": "Le Nouvelliste",
+        "url": "https://lenouvelliste.com/article/274167/u17-world-cup-haiti-concedes-a-second-defeat-against-uruguay",
+        "publishedAt": "2026-11-23T21:52:53.000Z"
+      },
+      {
+        "title": "Uruguay will not announce its CPTPP accession this year and will consult business and unions",
+        "source": "MercoPress",
+        "url": "https://en.mercopress.com/2026/11/23/uruguay-will-not-announce-its-cptpp-accession-this-year-and-will-consult-business-and-unions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+        "publishedAt": "2026-11-23T21:36:00.000Z"
+      },
+      {
+        "title": "Haiti - 2026 U-17 World Cup in Qatar : Haiti defeated [4-1] by Uruguay",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48955-haiti-2026-u-17-world-cup-in-qatar-haiti-defeated-[4-1]-by-uruguay.html",
+        "publishedAt": "2026-11-23T10:19:55.000Z"
+      },
+      {
+        "title": "Bahamas Signs Education Cooperation Agreement with Uruguay’s Fundación Ceibal",
+        "source": "ZNS Bahamas",
+        "url": "https://znsbahamas.com/bahamas-signs-education-cooperation-agreement-with-uruguays-fundacion-ceibal/",
+        "publishedAt": "2026-11-20T16:36:42.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nUruguay will not announce its CPTPP accession this year and will consult business and unions. [2]\nThe final of the Libertadores is another chapter of sports tourism in Uruguay. [1]\n\nKEY RISKS\nUruguay is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Uruguay will announce its CPTPP accession after consulting business and unions. [2]",
+      "generatedAt": "2026-11-24T04:36:16.003Z",
+      "sources": [
+        {
+          "title": "La final de la Libertadores, otro capítulo del turismo deportivo en Uruguay",
+          "source": "La Diaria",
+          "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/11/la-final-de-la-libertadores-otro-capitulo-del-turismo-deportivo-en-uruguay/",
+          "publishedAt": "2026-11-24T03:13:59.000Z"
+        },
+        {
+          "title": "Uruguay will not announce its CPTPP accession this year and will consult business and unions",
+          "source": "MercoPress",
+          "url": "https://en.mercopress.com/2026/11/23/uruguay-will-not-announce-its-cptpp-accession-this-year-and-will-consult-business-and-unions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "publishedAt": "2026-11-23T21:36:00.000Z"
+        },
+        {
+          "title": "Bahamas Signs Education Cooperation Agreement with Uruguay’s Fundación Ceibal",
+          "source": "ZNS Bahamas",
+          "url": "https://znsbahamas.com/bahamas-signs-education-cooperation-agreement-with-uruguays-fundacion-ceibal/",
+          "publishedAt": "2026-11-20T16:36:42.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "3",
+          "factText": "Uruguay is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

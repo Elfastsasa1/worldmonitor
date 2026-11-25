@@ -1,0 +1,191 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AE",
+  "countryName": "United Arab Emirates",
+  "slug": "united-arab-emirates",
+  "rank": 19,
+  "overallScore": 64.2,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "UN water summit to be held every three years after next month's UAE talks - The National",
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0dDTXhEdDBtMlpHY1Bha2ZjalFXNHFRZXV5OVM1cWVESXEzajMxY0wwTk5UUWRUVTV5NWRlQmhueHViTEdZZW96Y3lENm5aNXdTQ2JuODdOcDNlMEZWWHY5THc2YVlPenBlVXZoVzBmWWl6TjhtczJaYzZKNlY5d2txc0taQWx5VlItaDQ2bXptakJ0LVpoY19JTm5HclNFQjgyTXNRaDkwRmRJOWZEdjRB?oc=5",
+        "publishedAt": "2026-11-23T17:28:35.000Z"
+      },
+      {
+        "title": "UAE-West Africa Trade Surpasses $61 Billion in 2026 - UPPERNEWS",
+        "source": "Gulf Investments",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUndLYTh6LXo5ZFVoTldMeFdwQjVleGFpNGEzd3liM182NFJ1cGJrMDJ1cFAyRXZIU3BDSUFPUDBhZndSdEtLZHBSVW9HZnA2c1RyRi1DU0I0NmJOLXh1dm9VRXpvSE13Nk1ZdmxEUVBad05zNGlNWUpVZ1RmOEpjRlVmMllGUQ?oc=5",
+        "publishedAt": "2026-11-23T13:04:26.000Z"
+      },
+      {
+        "title": "UAE employment rules: 6 private-sector work models explained - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzVHZGQ3LTVDeU1zZXhneEJadzBZb3FnWlA1em1lUmFwTTdkWWxYbEtZYmRpYXAtamNJX1o1NWdIT0t1Qml2amVuNHZ5UlRDay1ZTnFzZzZJVlItcHRtMi02WjNEVDJYSGVtUFViRHpKWXE1SkNWWXc2VHZSS01oQV9vVXBEYlVjT1dOQU90Z1kyR3NIZDBLYy1GcU5wS3MxcWc?oc=5",
+        "publishedAt": "2026-11-23T20:14:18.000Z"
+      },
+      {
+        "title": "UAE petrol prices set to change in December 2026 - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXB0Nk8xbGkxVEsySEVTclZTS1NDZjlnNEdnVS1IdVlwQ2gtTTZNNnc0Yzh2VFVXcE0yTzRXaTlpZUNZY2xyTHBTS28tWVNwMTkyVDU5eGhWa2lDSE5mLXd3dVgxN25ncmNVWkhRYVhHUDZRRVNrbFpLSTBkcXJFRmNLUmJrQQ?oc=5",
+        "publishedAt": "2026-11-23T19:03:58.000Z"
+      },
+      {
+        "title": "UAE National Day 2026: Philippine missions announce closure dates",
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/uae/uae-national-day-2026-philippine-missions-announce-closure-dates-1.500758743",
+        "publishedAt": "2026-11-24T04:32:27.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nUAE-West Africa trade surpassed $61 billion in 2026. [2]\nUAE petrol prices are set to change in December 2026. [4]\n\nKEY RISKS\nThe Strait of Hormuz chokepoint poses a risk to UAE energy exports if regional tensions disrupt shipping. [E5]\nThe Reconsider Travel advisory for the UAE indicates elevated security concerns for foreign nationals. [E2]\n\nOUTLOOK\nA Polymarket market related to the UAE, \"Will Iran target the United Arab Emirates by November 30, 2026?\", priced Yes at 12% on Nov 24, 2026; it closes Dec 1, 2026. [E6]\n\nWATCH ITEMS\nWhether the UN water summit will be held every three years after next month's UAE talks. [1]\nWhether the Polymarket question \"Will Iran target the United Arab Emirates by November 30, 2026?\" resolves before its Dec 1, 2026 close. [E6]",
+      "generatedAt": "2026-11-24T04:47:39.918Z",
+      "sources": [
+        {
+          "title": "UN water summit to be held every three years after next month's UAE talks - The National",
+          "source": "The National",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0dDTXhEdDBtMlpHY1Bha2ZjalFXNHFRZXV5OVM1cWVESXEzajMxY0wwTk5UUWRUVTV5NWRlQmhueHViTEdZZW96Y3lENm5aNXdTQ2JuODdOcDNlMEZWWHY5THc2YVlPenBlVXZoVzBmWWl6TjhtczJaYzZKNlY5d2txc0taQWx5VlItaDQ2bXptakJ0LVpoY19JTm5HclNFQjgyTXNRaDkwRmRJOWZEdjRB?oc=5",
+          "publishedAt": "2026-11-23T17:28:35.000Z"
+        },
+        {
+          "title": "UAE-West Africa Trade Surpasses $61 Billion in 2026 - UPPERNEWS",
+          "source": "Gulf Investments",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUndLYTh6LXo5ZFVoTldMeFdwQjVleGFpNGEzd3liM182NFJ1cGJrMDJ1cFAyRXZIU3BDSUFPUDBhZndSdEtLZHBSVW9HZnA2c1RyRi1DU0I0NmJOLXh1dm9VRXpvSE13Nk1ZdmxEUVBad05zNGlNWUpVZ1RmOEpjRlVmMllGUQ?oc=5",
+          "publishedAt": "2026-11-23T13:04:26.000Z"
+        },
+        {
+          "title": "UAE employment rules: 6 private-sector work models explained - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzVHZGQ3LTVDeU1zZXhneEJadzBZb3FnWlA1em1lUmFwTTdkWWxYbEtZYmRpYXAtamNJX1o1NWdIT0t1Qml2amVuNHZ5UlRDay1ZTnFzZzZJVlItcHRtMi02WjNEVDJYSGVtUFViRHpKWXE1SkNWWXc2VHZSS01oQV9vVXBEYlVjT1dOQU90Z1kyR3NIZDBLYy1GcU5wS3MxcWc?oc=5",
+          "publishedAt": "2026-11-23T20:14:18.000Z"
+        },
+        {
+          "title": "UAE petrol prices set to change in December 2026 - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXB0Nk8xbGkxVEsySEVTclZTS1NDZjlnNEdnVS1IdVlwQ2gtTTZNNnc0Yzh2VFVXcE0yTzRXaTlpZUNZY2xyTHBTS28tWVNwMTkyVDU5eGhWa2lDSE5mLXd3dVgxN25ncmNVWkhRYVhHUDZRRVNrbFpLSTBkcXJFRmNLUmJrQQ?oc=5",
+          "publishedAt": "2026-11-23T19:03:58.000Z"
+        },
+        {
+          "title": "UAE National Day 2026: Philippine missions announce closure dates",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/uae/uae-national-day-2026-philippine-missions-announce-closure-dates-1.500758743",
+          "publishedAt": "2026-11-24T04:32:27.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for United Arab Emirates is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Strait of Hormuz",
+          "factText": "Strait of Hormuz is a shipping chokepoint World Monitor tracks for United Arab Emirates.",
+          "asOf": "2026-11-24T04:47:35.055Z",
+          "url": "https://www.worldmonitor.app/chokepoints/strait-of-hormuz/"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "12%",
+          "factText": "A Polymarket market related to United Arab Emirates, \"Will Iran target the United Arab Emirates by November 30, 2026?\", priced Yes at 12% on Nov 24, 2026; it closes Dec 1, 2026.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/will-iran-target-united-arab-emirates-byptptpt-20260907"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in United Arab Emirates",
+        "summary": "source: www.timeshighereducation.com",
+        "sourceUrl": "https://www.timeshighereducation.com/news/university-leaders-gulf-learn-live-uncertainty",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in United Arab Emirates",
+        "summary": "source: www.aol.co.uk",
+        "sourceUrl": "https://www.aol.co.uk/articles/us-f-35-fighter-jet-194800000.html",
+        "occurredAt": "2026-11-23T20:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in United Arab Emirates",
+        "summary": "source: www.siasat.com",
+        "sourceUrl": "https://www.siasat.com/indian-expat-wins-over-rs-2l-at-dubai-ride-with-borrowed-bicycle-3584564/",
+        "occurredAt": "2026-11-23T10:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in United Arab Emirates",
+        "summary": "source: gulfnews.com",
+        "sourceUrl": "https://gulfnews.com/uae/dubai/sheikh-hamdan-shares-dubai-run-aerial-footage-as-more-than-310000-runners-take-over-sheikh-zayed-road-1.500756898",
+        "occurredAt": "2026-11-22T12:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in United Arab Emirates",
+        "summary": "source: www.arkansasonline.com",
+        "sourceUrl": "https://www.arkansasonline.com/news/2026/nov/22/anthropic-ipo-puts-spotlight-on-stake-ftx-sold-in/",
+        "occurredAt": "2026-11-22T11:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in United Arab Emirates",
+        "summary": "source: article.wn.com",
+        "sourceUrl": "https://article.wn.com/view/2026/11/21/Maritime_agency_says_two_tankers_struck_in_Hormuz_as_Iran_sa/",
+        "occurredAt": "2026-11-21T18:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in United Arab Emirates",
+        "summary": "source: article.wn.com",
+        "sourceUrl": "https://article.wn.com/view/2026/11/21/Maritime_agency_says_two_tankers_struck_in_Hormuz_as_Iran_sa/",
+        "occurredAt": "2026-11-21T18:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in United Arab Emirates",
+        "summary": "source: article.wn.com",
+        "sourceUrl": "https://article.wn.com/view/2026/11/21/Maritime_agency_says_two_tankers_struck_in_Hormuz_as_Iran_sa/",
+        "occurredAt": "2026-11-21T18:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in United Arab Emirates",
+        "summary": "source: www.omanobserver.om",
+        "sourceUrl": "https://www.omanobserver.om/article/1199989/world/region/two-tankers-attacked-in-hormuz-strait",
+        "occurredAt": "2026-11-21T13:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in United Arab Emirates",
+        "summary": "source: www.omanobserver.om",
+        "sourceUrl": "https://www.omanobserver.om/article/1199989/world/region/two-tankers-attacked-in-hormuz-strait",
+        "occurredAt": "2026-11-21T13:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

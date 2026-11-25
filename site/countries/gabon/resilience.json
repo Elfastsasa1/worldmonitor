@@ -1,0 +1,87 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "slug": "gabon",
+  "rank": 120,
+  "overallScore": 46.8,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Millennial Potash Signs MOU with Abu Dhabi-Based EXG Investments and the Government of Gabon for Development of a Large-Scale Deep-Water Port - The Globe and Mail",
+        "source": "Gulf Investments",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOX1NJMkc2Vk9xUEpwa2FDbFNBcGs0cWgzeW13UkR3SVpuNlJCT19udUk1UldvVUNWaDBGbDJGS0llMGlyTlBpei1faml2WDZrZndxM1VNaVVldTh0Y2hRWnJiSnBmRTVXNzFwd00za0IteUJsZTRfYzd4NHVERk81bFRwT3JKdlJMQzNWUEZxakZMZU1wZm82YkpfVFRsWk11bnJrLWVWZGplWTlOdnhVRDRONGE4RXFrTWFBOUpuaUpELVNwOWN0cldEWlZJV3U4Zmw1S0Y1Q0tCc01uYUVBcGYxQldiNU1WSm1tWm5GOWF6X18ySFNfQmpXZTB0NWZ0bkU5TnNMLVplVjNJQU5BMWNxRlZPNFB5WTE4bGpaa2RMZ3JCR2lwNWFHUkZCWWMySHZRMS1JME5SY2dkdkJGMEJ5dEE?oc=5",
+        "publishedAt": "2026-11-23T12:00:28.000Z"
+      },
+      {
+        "title": "Dette publique : le Gabon conteste l’évaluation de Fitch et défend ses efforts d’assainissement budgétaire",
+        "source": "Gabon Actu",
+        "url": "https://gabonactu.com/blog/2026/11/23/dette-publique-le-gabon-conteste-levaluation-de-fitch-et-defend-ses-efforts-dassainissement-budgetaire/",
+        "publishedAt": "2026-11-23T22:10:50.000Z"
+      },
+      {
+        "title": "Gabon : ce que contient le projet de scission la SEEG",
+        "source": "Jeune Afrique",
+        "url": "https://www.jeuneafrique.com/1863593/economie-entreprises/gabon-ce-que-contient-le-projet-de-scission-la-seeg/",
+        "publishedAt": "2026-11-23T18:26:09.000Z"
+      },
+      {
+        "title": "Télécommunications : recalé au Conseil de l’UIT, le Gabon relativise son échec diplomatique",
+        "source": "Gabonreview",
+        "url": "https://www.gabonreview.com/telecommunications-recale-au-conseil-de-luit-le-gabon-relativise-son-echec-diplomatique/",
+        "publishedAt": "2026-11-23T12:07:24.000Z"
+      },
+      {
+        "title": "Grand Prix des Éducateurs Financiers du Gabon : Gwenaëlle SIMBI épouse Marat-Abyla distinguée",
+        "source": "Gabonews",
+        "url": "https://gabonews.com/fr/actus/societe/article/grand-prix-des-educateurs-financiers-du-gabon",
+        "publishedAt": "2026-11-23T09:09:08.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMillennial Potash signed an MOU with EXG Investments and the Government of Gabon to develop a large-scale deep-water port. [1]\nGabon contested Fitch's evaluation of its public debt and defended its fiscal consolidation efforts. [2]\n\nWATCH ITEMS\nWhether the deep-water port MOU with EXG Investments will proceed to a binding agreement. [1]\nWhether Gabon will resolve its dispute with Fitch over the public debt evaluation. [2]",
+      "generatedAt": "2026-11-24T04:50:49.806Z",
+      "sources": [
+        {
+          "title": "Millennial Potash Signs MOU with Abu Dhabi-Based EXG Investments and the Government of Gabon for Development of a Large-Scale Deep-Water Port - The Globe and M...",
+          "source": "Gulf Investments",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOX1NJMkc2Vk9xUEpwa2FDbFNBcGs0cWgzeW13UkR3SVpuNlJCT19udUk1UldvVUNWaDBGbDJGS0llMGlyTlBpei1faml2WDZrZndxM1VNaVVldTh0Y2hRWnJiSnBmRTVXNzFwd00za0IteUJsZTRfYzd4NHVERk81bFRwT3JKdlJMQzNWUEZxakZMZU1wZm82YkpfVFRsWk11bnJrLWVWZGplWTlOdnhVRDRONGE4RXFrTWFBOUpuaUpELVNwOWN0cldEWlZJV3U4Zmw1S0Y1Q0tCc01uYUVBcGYxQldiNU1WSm1tWm5GOWF6X18ySFNfQmpXZTB0NWZ0bkU5TnNMLVplVjNJQU5BMWNxRlZPNFB5WTE4bGpaa2RMZ3JCR2lwNWFHUkZCWWMySHZRMS1JME5SY2dkdkJGMEJ5dEE?oc=5",
+          "publishedAt": "2026-11-23T12:00:28.000Z"
+        },
+        {
+          "title": "Dette publique : le Gabon conteste l’évaluation de Fitch et défend ses efforts d’assainissement budgétaire",
+          "source": "Gabon Actu",
+          "url": "https://gabonactu.com/blog/2026/11/23/dette-publique-le-gabon-conteste-levaluation-de-fitch-et-defend-ses-efforts-dassainissement-budgetaire/",
+          "publishedAt": "2026-11-23T22:10:50.000Z"
+        },
+        {
+          "title": "Gabon : ce que contient le projet de scission la SEEG",
+          "source": "Jeune Afrique",
+          "url": "https://www.jeuneafrique.com/1863593/economie-entreprises/gabon-ce-que-contient-le-projet-de-scission-la-seeg/",
+          "publishedAt": "2026-11-23T18:26:09.000Z"
+        },
+        {
+          "title": "Télécommunications : recalé au Conseil de l’UIT, le Gabon relativise son échec diplomatique",
+          "source": "Gabonreview",
+          "url": "https://www.gabonreview.com/telecommunications-recale-au-conseil-de-luit-le-gabon-relativise-son-echec-diplomatique/",
+          "publishedAt": "2026-11-23T12:07:24.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

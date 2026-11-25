@@ -1,0 +1,99 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "slug": "lesotho",
+  "rank": 104,
+  "overallScore": 50.4,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "LCA strengthens Lesotho’s cyber resilience",
+        "source": "Lesotho Times",
+        "url": "https://lestimes.com/?p=92104",
+        "publishedAt": "2026-11-20T17:13:08.000Z"
+      },
+      {
+        "title": "Metropolitan Health rebrands as Momentum Health Lesotho",
+        "source": "Lesotho Times",
+        "url": "https://lestimes.com/?p=92103",
+        "publishedAt": "2026-11-20T17:13:04.000Z"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | 5th Lesotho Public-Private Dialogue Underway: Turning Strategy into Skills and Delivery",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/5th-lesotho-publicprivate-dialogue-underway-turning-strategy-into-skills-and-delivery",
+        "publishedAt": "2026-11-23T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Following the Prime Minister's Call and Declaration of a National Food Insecurity Disaster, Lesotho Receives Humanitarian Assistance from China",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/following-the-prime-ministers-call-and-declaration-of-a-national-food-insecurity-disaster-lesotho-receives-humanitarian-assistance-from-china",
+        "publishedAt": "2026-11-22T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Lesotho: Prime Minister Matekane Flags Off Young Basotho to YouthConnekt Africa Summit to Boost Business Development and Job Creation",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/prime-minister-matekane-flags-off-young-basotho-to-youthconnekt-africa-summit-to-boost-business-development-and-job-creation",
+        "publishedAt": "2026-11-22T15:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Prime Minister of Lesotho has declared a national food insecurity disaster, prompting a humanitarian response. [4]\nLesotho is hosting its 5th Public-Private Dialogue to turn strategy into skills and delivery. [3]\n\nWATCH ITEMS\nWhether the humanitarian response following the national food insecurity disaster will be sufficient to address the crisis. [4]",
+      "generatedAt": "2026-11-24T04:29:41.296Z",
+      "sources": [
+        {
+          "title": "LCA strengthens Lesotho’s cyber resilience",
+          "source": "Lesotho Times",
+          "url": "https://lestimes.com/?p=92104",
+          "publishedAt": "2026-11-20T17:13:08.000Z"
+        },
+        {
+          "title": "Metropolitan Health rebrands as Momentum Health Lesotho",
+          "source": "Lesotho Times",
+          "url": "https://lestimes.com/?p=92103",
+          "publishedAt": "2026-11-20T17:13:04.000Z"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | 5th Lesotho Public-Private Dialogue Underway: Turning Strategy into Skills and Delivery",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/5th-lesotho-publicprivate-dialogue-underway-turning-strategy-into-skills-and-delivery",
+          "publishedAt": "2026-11-23T14:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Following the Prime Minister's Call and Declaration of a National Food Insecurity Disaster, Lesotho Receives Huma...",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/following-the-prime-ministers-call-and-declaration-of-a-national-food-insecurity-disaster-lesotho-receives-humanitarian-assistance-from-china",
+          "publishedAt": "2026-11-22T15:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Lesotho: Prime Minister Matekane Flags Off Young Basotho to YouthConnekt Africa Summit to Boost Business Developm...",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/prime-minister-matekane-flags-off-young-basotho-to-youthconnekt-africa-summit-to-boost-business-development-and-job-creation",
+          "publishedAt": "2026-11-22T15:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

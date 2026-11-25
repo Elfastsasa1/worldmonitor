@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "slug": "papua-new-guinea",
+  "rank": 101,
+  "overallScore": 50.5,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pacific Towing Welcomes Second New-Build Tug To Papua New Guinea",
+        "source": "islandsbusiness.com",
+        "url": "https://islandsbusiness.com/partner-news/pacific-towing-welcomes-second-new-build-tug-to-papua-new-guinea/",
+        "publishedAt": "2026-11-24T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Rwanda and Papua New Guinea had big energy access plans: study compares what happened",
+        "source": "theconversation.com",
+        "url": "https://theconversation.com/rwanda-and-papua-new-guinea-had-big-energy-access-plans-study-compares-what-happened-294582",
+        "publishedAt": "2026-11-23T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Papal prayer for drought-ravaged Papua New Guinea, victims of world's conflicts | News Headlines",
+        "source": "catholicculture.org",
+        "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=71348",
+        "publishedAt": "2026-11-23T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Papua New Guinea moves closer to 5G as Digicel bags spectrum licence",
+        "source": "developingtelecoms.com",
+        "url": "https://developingtelecoms.com/telecom-business/telecom-regulation/21167-papua-new-guinea-moves-closer-to-5g-as-digicel-bags-spectrum-licence.html",
+        "publishedAt": "2026-11-23T06:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Papua New Guinea I want my daughter to grow up in",
+        "source": "thenational.com.pg",
+        "url": "https://www.thenational.com.pg/the-papua-new-guinea-i-want-my-daughter-to-grow-up-in/",
+        "publishedAt": "2026-11-23T06:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

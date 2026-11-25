@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "drc-eastern-conflict",
+  "title": "DR Congo conflict tracker",
+  "shortTitle": "DR Congo conflict",
+  "description": "Democratic Republic of the Congo conflict: M23 and fighting in the eastern Kivus, key actors, a sourced timeline, what to watch, and monthly conflict data.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for the Democratic Republic of the Congo, aggregated from subnational records across the whole country rather than the eastern provinces alone.",
+  "coverage": [
+    {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 134,
+    "fatalities": 205,
+    "politicalViolenceEvents": 125,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "CD",
+        "name": "Congo - Kinshasa",
+        "events": 134,
+        "fatalities": 205,
+        "political": 125,
+        "demonstrations": 9,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

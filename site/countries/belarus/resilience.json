@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BY",
+  "countryName": "Belarus",
+  "slug": "belarus",
+  "rank": 71,
+  "overallScore": 55.3,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tyskland tester kamikazedroner tæt på Belarus",
+        "source": "DR Nyheder",
+        "url": "https://www.dr.dk/nyheder/seneste/tyskland-tester-kamikazedroner-taet-paa-belarus",
+        "publishedAt": "2026-11-22T15:24:43.000Z"
+      },
+      {
+        "title": "Omsk and Belarus Shift Trade Focus Toward Integrated Production",
+        "source": "english.pravda.ru",
+        "url": "https://english.pravda.ru/news/russia/174087-omsk-belarus-industrial-partnership/",
+        "publishedAt": "2026-11-24T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "As people die in the forests, Europe asks its human-rights court to bless pushbacks to Belarus",
+        "source": "euobserver.com",
+        "url": "https://euobserver.com/250759/as-people-die-in-the-forests-europe-asks-its-human-rights-court-to-bless-pushbacks-to-belarus/",
+        "publishedAt": "2026-11-24T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Belarus, Zimbabwe move to expand co-operation in tourism",
+        "source": "sb.by",
+        "url": "https://www.sb.by/en/belarus-zimbabwe-move-to-expand-co-operation-in-tourism.html",
+        "publishedAt": "2026-11-20T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Lukashenko explained how housing issue being addressed in Belarus",
+        "source": "sb.by",
+        "url": "https://www.sb.by/en/lukashenko-explained-how-housing-issue-being-addressed-in-belarus.html",
+        "publishedAt": "2026-11-20T13:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOmsk and Belarus are shifting trade focus toward integrated production. [2]\nEurope has asked its human-rights court to bless pushbacks to Belarus as people die in the forests. [3]\n\nKEY RISKS\nBelarus is linked to 272 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Europe's request to its human-rights court regarding pushbacks to Belarus will result in a ruling. [3]",
+      "generatedAt": "2026-11-24T04:24:09.483Z",
+      "sources": [
+        {
+          "title": "Tyskland tester kamikazedroner tæt på Belarus",
+          "source": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/seneste/tyskland-tester-kamikazedroner-taet-paa-belarus",
+          "publishedAt": "2026-11-22T15:24:43.000Z"
+        },
+        {
+          "title": "Omsk and Belarus Shift Trade Focus Toward Integrated Production",
+          "source": "english.pravda.ru",
+          "url": "https://english.pravda.ru/news/russia/174087-omsk-belarus-industrial-partnership/",
+          "publishedAt": "2026-11-24T02:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "As people die in the forests, Europe asks its human-rights court to bless pushbacks to Belarus",
+          "source": "euobserver.com",
+          "url": "https://euobserver.com/250759/as-people-die-in-the-forests-europe-asks-its-human-rights-court-to-bless-pushbacks-to-belarus/",
+          "publishedAt": "2026-11-24T00:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Belarus, Zimbabwe move to expand co-operation in tourism",
+          "source": "sb.by",
+          "url": "https://www.sb.by/en/belarus-zimbabwe-move-to-expand-co-operation-in-tourism.html",
+          "publishedAt": "2026-11-20T17:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Lukashenko explained how housing issue being addressed in Belarus",
+          "source": "sb.by",
+          "url": "https://www.sb.by/en/lukashenko-explained-how-housing-issue-being-addressed-in-belarus.html",
+          "publishedAt": "2026-11-20T13:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "272",
+          "factText": "Belarus is linked to 272 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

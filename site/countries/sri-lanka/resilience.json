@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "slug": "sri-lanka",
+  "rank": 109,
+  "overallScore": 49.4,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+        "publishedAt": "2026-11-23T20:34:05.000Z"
+      },
+      {
+        "title": "Sri Lanka edge Pakistan by four runs in ICC Women's Emerging Nations Trophy",
+        "source": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2641855/sri-lanka-edge-pakistan-by-four-runs-in-icc-womens-emerging-nations-trophy",
+        "publishedAt": "2026-11-23T04:36:30.000Z"
+      },
+      {
+        "title": "NCE renews call for clear timeline on Sri Lanka's accession to Madrid System",
+        "source": "ft.lk",
+        "url": "https://www.ft.lk/business/NCE-renews-call-for-clear-timeline-on-Sri-Lanka-s-accession-to-Madrid-System/34-800495",
+        "publishedAt": "2026-11-24T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "From Colombo's floods to climate finance: Wake-up call for Sri Lanka",
+        "source": "ft.lk",
+        "url": "https://www.ft.lk/columns/From-Colombo-s-floods-to-climate-finance-Wake-up-call-for-Sri-Lanka/4-800497",
+        "publishedAt": "2026-11-24T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "From monsoon to management: Colombo's heavy weather and building a flood-resilient Sri Lanka – Part II",
+        "source": "ft.lk",
+        "url": "https://www.ft.lk/columns/From-monsoon-to-management-Colombo-s-heavy-weather-and-building-a-flood-resilient-Sri-Lanka-Part-II/4-800498",
+        "publishedAt": "2026-11-24T03:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe NCE has renewed its call for a clear timeline on Sri Lanka's accession to the Madrid System. [3]\nColombo's floods have been described as a wake-up call for Sri Lanka regarding climate finance. [4]\n\nWHAT THIS MEANS FOR SRI LANKA\nThe call for a clear timeline on the Madrid System accession suggests Sri Lanka faces procedural delays that could affect its international intellectual property framework. [3][E1]\n\nWATCH ITEMS\nWhether the NCE will receive a clear timeline on Sri Lanka's accession to the Madrid System. [3]",
+      "generatedAt": "2026-11-24T04:29:32.957Z",
+      "sources": [
+        {
+          "title": "Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+          "publishedAt": "2026-11-23T20:34:05.000Z"
+        },
+        {
+          "title": "Sri Lanka edge Pakistan by four runs in ICC Women's Emerging Nations Trophy",
+          "source": "Express Tribune",
+          "url": "https://tribune.com.pk/story/2641855/sri-lanka-edge-pakistan-by-four-runs-in-icc-womens-emerging-nations-trophy",
+          "publishedAt": "2026-11-23T04:36:30.000Z"
+        },
+        {
+          "title": "NCE renews call for clear timeline on Sri Lanka's accession to Madrid System",
+          "source": "ft.lk",
+          "url": "https://www.ft.lk/business/NCE-renews-call-for-clear-timeline-on-Sri-Lanka-s-accession-to-Madrid-System/34-800495",
+          "publishedAt": "2026-11-24T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "From Colombo's floods to climate finance: Wake-up call for Sri Lanka",
+          "source": "ft.lk",
+          "url": "https://www.ft.lk/columns/From-Colombo-s-floods-to-climate-finance-Wake-up-call-for-Sri-Lanka/4-800497",
+          "publishedAt": "2026-11-24T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "From monsoon to management: Colombo's heavy weather and building a flood-resilient Sri Lanka – Part II",
+          "source": "ft.lk",
+          "url": "https://www.ft.lk/columns/From-monsoon-to-management-Colombo-s-heavy-weather-and-building-a-flood-resilient-Sri-Lanka-Part-II/4-800498",
+          "publishedAt": "2026-11-24T03:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Sri Lanka is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

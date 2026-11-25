@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "slug": "kenya",
+  "rank": 139,
+  "overallScore": 42.4,
+  "dimensionCoverage": 0.88,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Living in fear: Kenya's battle with rising crime",
+        "source": "Daily Nation",
+        "url": "https://nation.africa/kenya/news/living-in-fear-kenya-s-battle-with-rising-crime-5681630",
+        "publishedAt": "2026-11-24T03:00:00.000Z"
+      },
+      {
+        "title": "Kenya and DR Congo move to restore ties after rebel row",
+        "source": "RT",
+        "url": "https://rt-english.com/africa/649245-kenya-dr-congo-restore-diplomatic-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "publishedAt": "2026-11-23T13:52:46.000Z"
+      },
+      {
+        "title": "DRC, Kenya agree to restore diplomatic ties after Oyo Summit",
+        "source": "The Independent (Uganda)",
+        "url": "https://www.independent.co.ug/drc-kenya-agree-to-restore-diplomatic-ties-after-oyo-summit/",
+        "publishedAt": "2026-11-23T11:00:04.000Z"
+      },
+      {
+        "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T08:53:01.000Z"
+      },
+      {
+        "title": "After Congo-Brazzaville Meeting, Kenya and DRC Presidents Agree to Restore Diplomatic Relations",
+        "source": "KT Press",
+        "url": "https://www.ktpress.rw/2026/11/after-congo-brazzaville-meeting-kenya-and-drc-presidents-agree-to-restore-diplomatic-relations/",
+        "publishedAt": "2026-11-22T19:28:18.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nKenya is experiencing a battle with rising crime, with its population living in fear. [1]\nKenya and the Democratic Republic of Congo have agreed to restore diplomatic ties after tensions over conflict. [2][3][4][5]\n\nWHAT THIS MEANS FOR KENYA\nThe restoration of diplomatic ties between Kenya and the DRC may reduce regional instability, as the most severe government travel advisory for Kenya is Reconsider Travel. [2][3][4][5][E1]\n\nWATCH ITEMS\nWhether the restored diplomatic ties between Kenya and the DRC will hold after the Oyo Summit. [3]",
+      "generatedAt": "2026-11-24T04:28:41.229Z",
+      "sources": [
+        {
+          "title": "Living in fear: Kenya's battle with rising crime",
+          "source": "Daily Nation",
+          "url": "https://nation.africa/kenya/news/living-in-fear-kenya-s-battle-with-rising-crime-5681630",
+          "publishedAt": "2026-11-24T03:00:00.000Z"
+        },
+        {
+          "title": "Kenya and DR Congo move to restore ties after rebel row",
+          "source": "RT",
+          "url": "https://rt-english.com/africa/649245-kenya-dr-congo-restore-diplomatic-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publishedAt": "2026-11-23T13:52:46.000Z"
+        },
+        {
+          "title": "DRC, Kenya agree to restore diplomatic ties after Oyo Summit",
+          "source": "The Independent (Uganda)",
+          "url": "https://www.independent.co.ug/drc-kenya-agree-to-restore-diplomatic-ties-after-oyo-summit/",
+          "publishedAt": "2026-11-23T11:00:04.000Z"
+        },
+        {
+          "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T08:53:01.000Z"
+        },
+        {
+          "title": "After Congo-Brazzaville Meeting, Kenya and DRC Presidents Agree to Restore Diplomatic Relations",
+          "source": "KT Press",
+          "url": "https://www.ktpress.rw/2026/11/after-congo-brazzaville-meeting-kenya-and-drc-presidents-agree-to-restore-diplomatic-relations/",
+          "publishedAt": "2026-11-22T19:28:18.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Kenya is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IN",
+  "countryName": "India",
+  "slug": "india",
+  "rank": 103,
+  "overallScore": 50.4,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Magnitude 5.3 earthquake strikes Nepal, rattles eastern India - TASS",
+        "source": "TASS",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45Rmx0bEtXSjBJTGRGdFJlc19vVWtscDhSemlIZmVqTlBBVW5zLXNjNmtBZGFaMlJVMHJoM1J2VXVWWTVPSTNlM1lEN3rSAVJBVV95cUxQUXB0UFVobGFZbUR6NWRWZDB3WEtyRUM0VV9CRTIyZS15MHdfbU1CdzF0b0RONkl1OVAwMkh6WmxyS09QMVg0ZzNhU1BrN3c5Z3Bn?oc=5",
+        "publishedAt": "2026-11-24T04:17:30.000Z"
+      },
+      {
+        "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+        "source": "Times of Oman",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+        "publishedAt": "2026-11-24T03:41:00.000Z"
+      },
+      {
+        "title": "Iran Humiliates Trump's Navy! 3 Tankers Explode In Hormuz After IRGC's ‘Death Trap’ Warning - The Times of India",
+        "source": "Tanker & Shipping",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLXBJRElDLUdkMjhldlRmUGFudFpHcUljcHJ2ZjhfVHZfNjE3N0hRYW0zU05yREsxUjBSTEc3WHp4Mk5tRXN4MFlhQnJVdWRod0NOTmJIU052Y3dPQVBQSjBNWTV5TjZEcTNUZmZCbHBQLWRvck9rcDFRTklpNWpYR29hYmY2QmVNWDFJeDd6X1NlUUg2YXRiV1NDbTBrUWxaVWlZWVpCQ0FIdFYtRGlYWDAxWFJkUTR2VFo3Wk1zM2dYeFc5cVU5Wk1VNlVOdlNUd2xkNDFmN056SmU3Y0JfeVRpOENkS3RTaGZzdEZkLVdvejZHY1djcm5za9IBgAJBVV95cUxQekFyUGRHTFUwcmpjOWo5bFJycEpvVGxQUk5lYXAyTlp4a0tDV3UzY0ptWW5HV095U3VHRmY4c2F4Y2JWcGxiYmJYZ1ZCTlhCdElwNnhXMkltM2RsUkpHNjdfMXRnOFItUHIxVzNFdkRFeTdfU1lGUGlQS2pFSnhJalNDS0MxMld1cElQNzAxSHhzcTdIazNZWlFKS0xmMjNWT2JZLWlZczQ0THZtU2JkQ2JyN08xWkNqdkZLU3N5UTgtczljOENrLUdnOHZITktEcnk4T1dTTUhySGJqWTJDZFFoVDVsX1FHM2xWc0tuWkpiYndSUTUxRm9QV1JvRUxS?oc=5",
+        "publishedAt": "2026-11-24T03:16:56.000Z"
+      },
+      {
+        "title": "IG Defence test-fires counter-drone micro-missile system",
+        "source": "YourStory",
+        "url": "https://yourstory.com/2026/11/ig-defence-test-fires-jwala-mk-i-counter-drone-micro-missile-system",
+        "publishedAt": "2026-11-23T14:16:31.000Z"
+      },
+      {
+        "title": "‘Severe explosions, fires’: Iran claims 3 oil tankers struck mines in Strait of Hormuz - The Times of India",
+        "source": "Strategic Chokepoints",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdzNuQW1ZeUhCZXE4N0d4dW9xd2V1WTRxU3Y5M0k2SVlST1dwQkdvM2hMM0hVRTB0bnBSNkJXUG5tU1RWZlF2U0NuZTZkOUtFQVpnZkxnbnE4LXhCcVlEWXRvWTFMVVplSlRDbVJ4ZU9sazlrNElPRXRwUmRBT0Z3Q05pVndDZ0xrUXpZd09ZQ3l6aVdMUGhYRXhucjFyaDFkbDR0aFItdXRjSW1HR1lMSDRkMlk3NVlva2hVR0w1THRQaFlzR2FHT0MxdWJFX1FwakFWMkF5dXJ4TlhMYnBqQThRd09lY1M5dWpJY2ZyVVRMUXht0gH6AUFVX3lxTFBSeDZnN3QzNDJwLVVuSURtWmRjanE1QmRTQmxBWjAtYmJreTVfN01hNVNlMVJGQWpJd2RFdGZKTnR2Yzd3REhvMlQtN1JmNTVhNEMybGdEZ2JPSXRXYmJzTE5ZZVE3bDhQcEhCQWZlOE9rWEFBV3J4MDhRZVpndGhBQTBUUXlfdlA3aDdyOWItVUo0OEM4blRITEsxakNsRmtYOVdlRk40eE9OV0RsMDlXWW5PRXpwVG5XUWQ0VnRscWtTV25BMnJSaWlocThVcDQ2ZlNaV1RIZWI4OWwtdWpfT0dSYmkwOHlldjdQTWVVUXpIQ3dBVUtqLUE?oc=5",
+        "publishedAt": "2026-11-24T02:19:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in India",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840366.html",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in India",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840366.html",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in India",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840366.html",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in India",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+        "occurredAt": "2026-11-24T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in India",
+        "summary": "source: www.mid-day.com",
+        "sourceUrl": "https://www.mid-day.com/mumbai/mumbai-news/article/iit-bombay-announces-hostel-safety-upgrades-after-sahil-wakodes-death-23661086",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in India",
+        "summary": "source: www.moneycontrol.com",
+        "sourceUrl": "https://www.moneycontrol.com/city/who-called-me-delhi-man-enters-jama-masjid-police-station-stabs-9-cops-in-spree-shot-6-times-in-legs-article-14087591.html",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in India",
+        "summary": "source: www.moneycontrol.com",
+        "sourceUrl": "https://www.moneycontrol.com/city/who-called-me-delhi-man-enters-jama-masjid-police-station-stabs-9-cops-in-spree-shot-6-times-in-legs-article-14087591.html",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in India",
+        "summary": "source: www.moneycontrol.com",
+        "sourceUrl": "https://www.moneycontrol.com/city/who-called-me-delhi-man-enters-jama-masjid-police-station-stabs-9-cops-in-spree-shot-6-times-in-legs-article-14087591.html",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in India",
+        "summary": "source: www.moneycontrol.com",
+        "sourceUrl": "https://www.moneycontrol.com/city/who-called-me-delhi-man-enters-jama-masjid-police-station-stabs-9-cops-in-spree-shot-6-times-in-legs-article-14087591.html",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in India",
+        "summary": "source: www.mid-day.com",
+        "sourceUrl": "https://www.mid-day.com/mumbai/mumbai-news/article/iit-bombay-announces-hostel-safety-upgrades-after-sahil-wakodes-death-23661086",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": "unsupported-citation",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

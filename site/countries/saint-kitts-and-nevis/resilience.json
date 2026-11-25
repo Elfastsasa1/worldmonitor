@@ -1,0 +1,73 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KN",
+  "countryName": "Saint Kitts and Nevis",
+  "slug": "saint-kitts-and-nevis",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.64,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Five cruise ships bring more than 7,300 passengers to St. Kitts",
+        "source": "The St. Kitts-Nevis Observer",
+        "url": "https://www.thestkittsnevisobserver.com/five-cruise-ships-bring-more-than-7300-passengers-to-st-kitts/",
+        "publishedAt": "2026-11-23T13:48:15.000Z"
+      },
+      {
+        "title": "Melania Trump Convenes Caribbean Leaders at St. Kitts Summit",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/melania-trump-convenes-caribbean-leaders-at-st-1779077/",
+        "publishedAt": "2026-11-17T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "SKNVibes | US development finance agency eyes investment opportunities in St. Kitts and Nevis",
+        "source": "sknvibes.com",
+        "url": "https://www.sknvibes.com/news/newsdetails.cfm/128107",
+        "publishedAt": "2026-11-20T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFive cruise ships brought more than 7,300 passengers to St. Kitts. [1]\nMelania Trump convened Caribbean leaders at a summit in St. Kitts. [2]\n\nWATCH ITEMS\nWhether the US development finance agency will finalize investment opportunities in St. Kitts and Nevis. [3]",
+      "generatedAt": "2026-11-24T04:28:55.581Z",
+      "sources": [
+        {
+          "title": "Five cruise ships bring more than 7,300 passengers to St. Kitts",
+          "source": "The St. Kitts-Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/five-cruise-ships-bring-more-than-7300-passengers-to-st-kitts/",
+          "publishedAt": "2026-11-23T13:48:15.000Z"
+        },
+        {
+          "title": "Melania Trump Convenes Caribbean Leaders at St. Kitts Summit",
+          "source": "miragenews.com",
+          "url": "https://www.miragenews.com/melania-trump-convenes-caribbean-leaders-at-st-1779077/",
+          "publishedAt": "2026-11-17T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "SKNVibes | US development finance agency eyes investment opportunities in St. Kitts and Nevis",
+          "source": "sknvibes.com",
+          "url": "https://www.sknvibes.com/news/newsdetails.cfm/128107",
+          "publishedAt": "2026-11-20T16:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

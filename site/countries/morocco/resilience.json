@@ -1,0 +1,95 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "slug": "morocco",
+  "rank": 105,
+  "overallScore": 50.3,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Morocco and Senegal await AFCON final verdict after court case",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
+        "publishedAt": "2026-11-23T23:15:00.000Z"
+      },
+      {
+        "title": "Morocco and Senegal await Afcon final verdict after court case",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T11:56:41.000Z"
+      },
+      {
+        "title": "Ban on social media for children under 15 in Morocco: Challenges in implementation",
+        "source": "TelQuel",
+        "url": "https://telquel.ma/2026/11/20/ban-on-social-media-for-children-under-15-in-morocco-challenges-in-implementation_2017419",
+        "publishedAt": "2026-11-20T14:45:06.000Z"
+      },
+      {
+        "title": "Omaima Baqa (TAQA Morocco) : “Les critères ESG permettent de mieux apprécier la stratégie d’une entreprise à long terme”",
+        "source": "TelQuel",
+        "url": "https://telquel.ma/sponsors/omaima-baqa-taqa-morocco-les-criteres-esg-permettent-de-mieux-apprecier-la-strategie-dune-entreprise-a-long-terme_2019397",
+        "publishedAt": "2026-11-20T12:16:28.000Z"
+      },
+      {
+        "title": "Madagascar Reaffirms Steadfast Support for Morocco's Territorial Integrity – Medafrica Times",
+        "source": "medafricatimes.com",
+        "url": "https://medafricatimes.com/47448-madagascar-reaffirms-steadfast-support-for-moroccos-territorial-integrity.html",
+        "publishedAt": "2026-11-24T02:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMorocco and Senegal await the AFCON final verdict after a court case. [1]\nMadagascar reaffirmed steadfast support for Morocco's territorial integrity. [5]\n\nWATCH ITEMS\nWhether the AFCON final verdict will be in Morocco's favor after the court case. [1]\nHow Morocco will implement the ban on social media for children under 15 given the challenges. [3]",
+      "generatedAt": "2026-11-24T04:29:59.385Z",
+      "sources": [
+        {
+          "title": "Morocco and Senegal await AFCON final verdict after court case",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
+          "publishedAt": "2026-11-23T23:15:00.000Z"
+        },
+        {
+          "title": "Morocco and Senegal await Afcon final verdict after court case",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T11:56:41.000Z"
+        },
+        {
+          "title": "Ban on social media for children under 15 in Morocco: Challenges in implementation",
+          "source": "TelQuel",
+          "url": "https://telquel.ma/2026/11/20/ban-on-social-media-for-children-under-15-in-morocco-challenges-in-implementation_2017419",
+          "publishedAt": "2026-11-20T14:45:06.000Z"
+        },
+        {
+          "title": "Omaima Baqa (TAQA Morocco) : “Les critères ESG permettent de mieux apprécier la stratégie d’une entreprise à long terme”",
+          "source": "TelQuel",
+          "url": "https://telquel.ma/sponsors/omaima-baqa-taqa-morocco-les-criteres-esg-permettent-de-mieux-apprecier-la-strategie-dune-entreprise-a-long-terme_2019397",
+          "publishedAt": "2026-11-20T12:16:28.000Z"
+        },
+        {
+          "title": "Madagascar Reaffirms Steadfast Support for Morocco's Territorial Integrity – Medafrica Times",
+          "source": "medafricatimes.com",
+          "url": "https://medafricatimes.com/47448-madagascar-reaffirms-steadfast-support-for-moroccos-territorial-integrity.html",
+          "publishedAt": "2026-11-24T02:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

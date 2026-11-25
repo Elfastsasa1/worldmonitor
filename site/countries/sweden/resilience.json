@@ -1,0 +1,126 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "slug": "sweden",
+  "rank": 8,
+  "overallScore": 67.6,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Sweden’s Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
+        "source": "Breaking Defense",
+        "url": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests/",
+        "publishedAt": "2026-11-20T17:12:00.000Z"
+      },
+      {
+        "title": "Sweden spots Russian tank on its own NATO signs",
+        "source": "RT",
+        "url": "https://rt-english.com/news/649161-sweden-russian-tanks-sign/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "publishedAt": "2026-11-20T13:30:06.000Z"
+      },
+      {
+        "title": "Sweden are learning what Chelsea never learned about Graham Potter",
+        "source": "theprideoflondon.com",
+        "url": "https://theprideoflondon.com/sweden-are-learning-what-chelsea-never-learned-about-graham-potter",
+        "publishedAt": "2026-11-24T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Liquid Energy Design and thyssenkrupp partner to develop twin 100,000-tpy eMethanol plants in Sweden",
+        "source": "hydrocarbonprocessing.com",
+        "url": "https://www.hydrocarbonprocessing.com/news/2026/11/liquid-energy-design-and-thyssenkrupp-partner-to-develop-twin-100-000-tpy-emethanol-plants-in-sweden/",
+        "publishedAt": "2026-11-23T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sweden's datacentre politics are more complicated than they appear | Sweden",
+        "source": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/nov/23/swedens-datacentre-politics-are-more-complicated-than-they-appear",
+        "publishedAt": "2026-11-23T19:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSweden’s Nordic Air Defence has launched the K200 drone interceptor and is pushing toward Ukraine tests. [1]\nSweden has spotted a Russian tank on its own NATO signs. [2]\n\nKEY RISKS\nSweden is linked to 13 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nOUTLOOK\nA Polymarket market related to Sweden, \"Will Magdalena Andersson be the next Prime Minister of Sweden?\", priced Yes at 32% on Nov 24, 2026; it closes Jul 1, 2027. [E5]\nA Polymarket market related to Sweden, \"Will the next governing coalition of Sweden include M + KD + L + C?\", priced Yes at 63% on Nov 24, 2026; it closes Aug 1, 2027. [E6]\n\nWATCH ITEMS\nWhether the next governing coalition of Sweden will include M + KD + L + C, as priced at 63% in a Polymarket market closing Aug 1, 2027. [E6]",
+      "generatedAt": "2026-11-24T04:33:52.079Z",
+      "sources": [
+        {
+          "title": "Sweden’s Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
+          "source": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests/",
+          "publishedAt": "2026-11-20T17:12:00.000Z"
+        },
+        {
+          "title": "Sweden spots Russian tank on its own NATO signs",
+          "source": "RT",
+          "url": "https://rt-english.com/news/649161-sweden-russian-tanks-sign/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publishedAt": "2026-11-20T13:30:06.000Z"
+        },
+        {
+          "title": "Sweden are learning what Chelsea never learned about Graham Potter",
+          "source": "theprideoflondon.com",
+          "url": "https://theprideoflondon.com/sweden-are-learning-what-chelsea-never-learned-about-graham-potter",
+          "publishedAt": "2026-11-24T02:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Liquid Energy Design and thyssenkrupp partner to develop twin 100,000-tpy eMethanol plants in Sweden",
+          "source": "hydrocarbonprocessing.com",
+          "url": "https://www.hydrocarbonprocessing.com/news/2026/11/liquid-energy-design-and-thyssenkrupp-partner-to-develop-twin-100-000-tpy-emethanol-plants-in-sweden/",
+          "publishedAt": "2026-11-23T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Sweden's datacentre politics are more complicated than they appear | Sweden",
+          "source": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2026/nov/23/swedens-datacentre-politics-are-more-complicated-than-they-appear",
+          "publishedAt": "2026-11-23T19:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "13",
+          "factText": "Sweden is linked to 13 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "32%",
+          "factText": "A Polymarket market related to Sweden, \"Will Magdalena Andersson be the next Prime Minister of Sweden?\", priced Yes at 32% on Nov 24, 2026; it closes Jul 1, 2027.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-sweden"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "63%",
+          "factText": "A Polymarket market related to Sweden, \"Will the next governing coalition of Sweden include M + KD + L + C?\", priced Yes at 63% on Nov 24, 2026; it closes Aug 1, 2027.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/which-coalition-will-form-the-next-swedish-government"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

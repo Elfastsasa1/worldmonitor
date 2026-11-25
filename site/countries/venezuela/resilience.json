@@ -1,0 +1,191 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VE",
+  "countryName": "Venezuela",
+  "slug": "venezuela",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.64,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Chavismo convoca marcha en Caracas el mismo día en que los trabajadores protestan por salarios y aguinaldos",
+        "source": "El Pitazo",
+        "url": "https://elpitazo.net/regiones/gran-caracas/chavismo-convoca-marcha-en-caracas-el-mismo-dia-en-que-los-trabajadores-protestan-por-salarios-y-aguinaldos/",
+        "publishedAt": "2026-11-23T22:22:23.000Z"
+      },
+      {
+        "title": "Venezuela: concluye sin ningún avance novedoso cuarta ronda de diálogo entre Gobierno y oposición",
+        "source": "Telenoticias (Teletica)",
+        "url": "https://www.teletica.com/deutsche-welle/venezuela-concluye-sin-ningun-avance-novedoso-cuarta-ronda-de-dialogo-entre-gobierno-y-oposicion_421705",
+        "publishedAt": "2026-11-24T02:36:55.000Z"
+      },
+      {
+        "title": "Temblor en Venezuela: magnitud, hora y lugar reportados hoy, lunes 23 de noviembre",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-ultimos-sismos-de-noviembre-en-vivo-cual-fue-el-epicentro-magnitud-y-hora-exacta-segun-funvisis-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
+        "publishedAt": "2026-11-24T01:58:15.000Z"
+      },
+      {
+        "title": "United States: ICE Arrests Illegal Alien From Venezuela Linked To Threats To Assassinate President Trump",
+        "source": "The St. Kitts-Nevis Observer",
+        "url": "https://www.thestkittsnevisobserver.com/united-states-ice-arrests-illegal-alien-from-venezuela-linked-to-threats-to-assassinate-president-trump/",
+        "publishedAt": "2026-11-24T01:34:44.000Z"
+      },
+      {
+        "title": "Perú se suma a los 8 terremotos de magnitud 6.7 o más que sacudieron América Latina en 2026: el sismo de Junín se une a los de Panamá y Venezuela",
+        "source": "La República Peru",
+        "url": "https://larepublica.pe/mundo/2026/11/21/los-ocho-terremotos-de-magnitud-67-o-mas-en-america-latina-en-2026-el-de-junin-en-peru-se-suma-a-los-de-venezuela-y-panama-1175097",
+        "publishedAt": "2026-11-24T01:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nChavismo has called a march in Caracas on the same day workers are protesting over salaries and bonuses. [1]\n\nWHAT THIS MEANS FOR VENEZUELA\nThe Do Not Travel advisory reflects the elevated instability and unresolved political tensions highlighted by the stalled dialogue. [2][E2]\n\nOUTLOOK\nA Polymarket market on whether a Venezuela election will be scheduled by March 31, 2027 prices Yes at 17% as of Nov 24, 2026, closing Apr 1, 2027. [E8]\nA Polymarket market on whether Nicolás Maduro will be sentenced to no prison time prices Yes at 61% as of Nov 24, 2026, closing Jan 1, 2028. [E9]\n\nWATCH ITEMS\nWhether the stalled government-opposition dialogue will produce any novel progress in future rounds. [2]",
+      "generatedAt": "2026-11-24T04:57:11.756Z",
+      "sources": [
+        {
+          "title": "Chavismo convoca marcha en Caracas el mismo día en que los trabajadores protestan por salarios y aguinaldos",
+          "source": "El Pitazo",
+          "url": "https://elpitazo.net/regiones/gran-caracas/chavismo-convoca-marcha-en-caracas-el-mismo-dia-en-que-los-trabajadores-protestan-por-salarios-y-aguinaldos/",
+          "publishedAt": "2026-11-23T22:22:23.000Z"
+        },
+        {
+          "title": "Venezuela: concluye sin ningún avance novedoso cuarta ronda de diálogo entre Gobierno y oposición",
+          "source": "Telenoticias (Teletica)",
+          "url": "https://www.teletica.com/deutsche-welle/venezuela-concluye-sin-ningun-avance-novedoso-cuarta-ronda-de-dialogo-entre-gobierno-y-oposicion_421705",
+          "publishedAt": "2026-11-24T02:36:55.000Z"
+        },
+        {
+          "title": "Temblor en Venezuela: magnitud, hora y lugar reportados hoy, lunes 23 de noviembre",
+          "source": "El Comercio Peru",
+          "url": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-ultimos-sismos-de-noviembre-en-vivo-cual-fue-el-epicentro-magnitud-y-hora-exacta-segun-funvisis-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
+          "publishedAt": "2026-11-24T01:58:15.000Z"
+        },
+        {
+          "title": "United States: ICE Arrests Illegal Alien From Venezuela Linked To Threats To Assassinate President Trump",
+          "source": "The St. Kitts-Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/united-states-ice-arrests-illegal-alien-from-venezuela-linked-to-threats-to-assassinate-president-trump/",
+          "publishedAt": "2026-11-24T01:34:44.000Z"
+        },
+        {
+          "title": "Perú se suma a los 8 terremotos de magnitud 6.7 o más que sacudieron América Latina en 2026: el sismo de Junín se une a los de Panamá y Venezuela",
+          "source": "La República Peru",
+          "url": "https://larepublica.pe/mundo/2026/11/21/los-ocho-terremotos-de-magnitud-67-o-mas-en-america-latina-en-2026-el-de-junin-en-peru-se-suma-a-los-de-venezuela-y-panama-1175097",
+          "publishedAt": "2026-11-24T01:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Venezuela is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "17%",
+          "factText": "A Polymarket market related to Venezuela, \"Venezuela election scheduled by March 31, 2027?\", priced Yes at 17% on Nov 24, 2026; it closes Apr 1, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/venezuela-presidential-election-scheduled-by"
+        },
+        {
+          "id": "E9",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "61%",
+          "factText": "A Polymarket market related to Venezuela, \"Will Nicolás Maduro be sentenced to no prison time?\", priced Yes at 61% on Nov 24, 2026; it closes Jan 1, 2028.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/maduro-prison-time-527"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 186 — in Venezuela",
+        "summary": "source: www.wrganews.com",
+        "sourceUrl": "https://www.wrganews.com/2026/11/23/venezuelan-illegal-immigrant-arrested-in-utah-after-soliciting-assassination-of-trump-dhs-says/",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Venezuela",
+        "summary": "source: www.wrganews.com",
+        "sourceUrl": "https://www.wrganews.com/2026/11/23/venezuelan-illegal-immigrant-arrested-in-utah-after-soliciting-assassination-of-trump-dhs-says/",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Venezuela",
+        "summary": "source: www.foxnews.com",
+        "sourceUrl": "https://www.foxnews.com/us/venezuelan-illegal-immigrant-arrested-utah-soliciting-assassination-trump-dhs",
+        "occurredAt": "2026-11-24T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Venezuela",
+        "summary": "source: www.rawstory.com",
+        "sourceUrl": "https://www.rawstory.com/trump-ice-2678501943/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Venezuela",
+        "summary": "source: www.rawstory.com",
+        "sourceUrl": "https://www.rawstory.com/trump-ice-2678501943/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Venezuela",
+        "summary": "source: www.rawstory.com",
+        "sourceUrl": "https://www.rawstory.com/trump-ice-2678501943/",
+        "occurredAt": "2026-11-23T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Venezuela",
+        "summary": "source: www.latintimes.com",
+        "sourceUrl": "https://www.latintimes.com/guyana-rejects-venezuela-talks-essequibo-dispute-601707",
+        "occurredAt": "2026-11-23T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Venezuela",
+        "summary": "source: www.latintimes.com",
+        "sourceUrl": "https://www.latintimes.com/guyana-rejects-venezuela-talks-essequibo-dispute-601707",
+        "occurredAt": "2026-11-23T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Venezuela",
+        "summary": "source: www.latintimes.com",
+        "sourceUrl": "https://www.latintimes.com/guyana-rejects-venezuela-talks-essequibo-dispute-601707",
+        "occurredAt": "2026-11-23T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Venezuela",
+        "summary": "source: venezuelanalysis.com",
+        "sourceUrl": "https://venezuelanalysis.com/interviews/antonio-gonzalez-the-left-must-push-human-rights-beyond-the-liberal-conception/",
+        "occurredAt": "2026-11-21T22:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

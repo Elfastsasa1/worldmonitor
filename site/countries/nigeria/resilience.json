@@ -1,0 +1,150 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NG",
+  "countryName": "Nigeria",
+  "slug": "nigeria",
+  "rank": 148,
+  "overallScore": 40.5,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Nigeria’s CMFC to Finance Tanzanian Gold Mining Company - THISDAYLIVE",
+        "source": "Mine Web (SNL)",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcllONkwtcUJxY0hkTmZtdk9KX1lJbHNsRXNVUnlySzgxQ1RxcV94QmJzYy1BVUpfUUI0UTBqRnUybHZocTFDbnFqa0h3LXZEekZnRDJ6ZU92RmZDUkQ5N09XbXRqdXlKYm15SUgyUE1MYmJjNGR6VmxodmduXzRrVUNHTUhMeGs1cWQ2Skowd3doYW1fTVJsX3Jn?oc=5",
+        "publishedAt": "2026-11-24T00:31:30.000Z"
+      },
+      {
+        "title": "Nigeria’s $1 trillion stock market ambition needs its tech startups - CediRates",
+        "source": "SEC Filings",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkpBb2ozcFFYTmxUU0ctaHVJRk1wSGowUHFJekNnT2xQVUNocDE1UG1LaUExQ245Q3ZreW1WZFF1ZjdSZXpYcVlwYm5rYXBrZmNJUkxKamEtTnBZX3IydllHLUxFc05DaU9CcUdsVERDa1lYbmljeUs3eEQtVWx0ZlNvVmlzUTB5c3A1ZXRlUHhqbXg5N1pPbHpVejhjYTdRb1lWb1FrNHYxcXc?oc=5",
+        "publishedAt": "2026-11-20T21:11:41.000Z"
+      },
+      {
+        "title": "Nigeria’s SEC approves Dangote refinery’s IPO share distribution plan, sources say",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/nigerias-sec-approves-dangote-refinerys-ipo-share-distribution-plan-sources-say/",
+        "publishedAt": "2026-11-24T04:18:00.000Z"
+      },
+      {
+        "title": "Rigging could push Nigeria into crisis – Gbenga Hashim",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/rigging-could-push-nigeria-into-crisis-gbenga-hashim/",
+        "publishedAt": "2026-11-24T04:17:13.000Z"
+      },
+      {
+        "title": "2027 Polls: Rigging Can Push Nigeria into Civil War, Olawepo-Hashim Warns Leaders",
+        "source": "ThisDay",
+        "url": "https://www.thisdaylive.com/2026/11/24/2027-polls-rigging-can-push-nigeria-into-civil-war-olawepo-hashim-warns-leaders/",
+        "publishedAt": "2026-11-24T03:52:47.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNigeria's SEC has approved Dangote refinery's IPO share distribution plan, sources say. [3]\nGbenga Hashim warns that rigging could push Nigeria into crisis. [4]\n\nWATCH ITEMS\nWhether rigging will push Nigeria into crisis as warned by Gbenga Hashim. [4]",
+      "generatedAt": "2026-11-24T04:54:19.647Z",
+      "sources": [
+        {
+          "title": "Nigeria’s CMFC to Finance Tanzanian Gold Mining Company - THISDAYLIVE",
+          "source": "Mine Web (SNL)",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcllONkwtcUJxY0hkTmZtdk9KX1lJbHNsRXNVUnlySzgxQ1RxcV94QmJzYy1BVUpfUUI0UTBqRnUybHZocTFDbnFqa0h3LXZEekZnRDJ6ZU92RmZDUkQ5N09XbXRqdXlKYm15SUgyUE1MYmJjNGR6VmxodmduXzRrVUNHTUhMeGs1cWQ2Skowd3doYW1fTVJsX3Jn?oc=5",
+          "publishedAt": "2026-11-24T00:31:30.000Z"
+        },
+        {
+          "title": "Nigeria’s $1 trillion stock market ambition needs its tech startups - CediRates",
+          "source": "SEC Filings",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkpBb2ozcFFYTmxUU0ctaHVJRk1wSGowUHFJekNnT2xQVUNocDE1UG1LaUExQ245Q3ZreW1WZFF1ZjdSZXpYcVlwYm5rYXBrZmNJUkxKamEtTnBZX3IydllHLUxFc05DaU9CcUdsVERDa1lYbmljeUs3eEQtVWx0ZlNvVmlzUTB5c3A1ZXRlUHhqbXg5N1pPbHpVejhjYTdRb1lWb1FrNHYxcXc?oc=5",
+          "publishedAt": "2026-11-20T21:11:41.000Z"
+        },
+        {
+          "title": "Nigeria’s SEC approves Dangote refinery’s IPO share distribution plan, sources say",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/nigerias-sec-approves-dangote-refinerys-ipo-share-distribution-plan-sources-say/",
+          "publishedAt": "2026-11-24T04:18:00.000Z"
+        },
+        {
+          "title": "Rigging could push Nigeria into crisis – Gbenga Hashim",
+          "source": "Daily Trust",
+          "url": "https://dailytrust.com/rigging-could-push-nigeria-into-crisis-gbenga-hashim/",
+          "publishedAt": "2026-11-24T04:17:13.000Z"
+        },
+        {
+          "title": "2027 Polls: Rigging Can Push Nigeria into Civil War, Olawepo-Hashim Warns Leaders",
+          "source": "ThisDay",
+          "url": "https://www.thisdaylive.com/2026/11/24/2027-polls-rigging-can-push-nigeria-into-civil-war-olawepo-hashim-warns-leaders/",
+          "publishedAt": "2026-11-24T03:52:47.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Nigeria",
+        "summary": "source: www.nigerianeye.com",
+        "sourceUrl": "https://www.nigerianeye.com/2026/11/delta-imposes-indefinite-curfew-on.html",
+        "occurredAt": "2026-11-24T02:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Nigeria",
+        "summary": "source: thepeoplesperson.com",
+        "sourceUrl": "https://thepeoplesperson.com/2026/11/23/man-united-prepare-january-move-for-fulhams-calvin-bassey-323277/",
+        "occurredAt": "2026-11-24T02:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Nigeria",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/gunmen-ambush-kill-two-soldiers-in-taraba/",
+        "occurredAt": "2026-11-24T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Nigeria",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/gunmen-ambush-kill-two-soldiers-in-taraba/",
+        "occurredAt": "2026-11-24T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Nigeria",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/gunmen-ambush-kill-two-soldiers-in-taraba/",
+        "occurredAt": "2026-11-24T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Nigeria",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/four-killed-as-gunmen-attack-omo-ageges-campaign-convoy/",
+        "occurredAt": "2026-11-24T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Nigeria",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/four-killed-as-gunmen-attack-omo-ageges-campaign-convoy/",
+        "occurredAt": "2026-11-24T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Nigeria",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/four-killed-as-gunmen-attack-omo-ageges-campaign-convoy/",
+        "occurredAt": "2026-11-24T00:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

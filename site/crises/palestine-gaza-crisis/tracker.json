@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "palestine-gaza-crisis",
+  "title": "Gaza war and West Bank tracker",
+  "shortTitle": "Gaza war and West Bank",
+  "description": "Gaza war and the West Bank: the ceasefire, Board of Peace and settler violence, key actors, a sourced timeline, what to watch, and monthly conflict data.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for the Occupied Palestinian Territory, aggregated from subnational records covering Gaza and the West Bank together. Recorded event counts are not casualty estimates and are known to lag and undercount during periods of restricted access.",
+  "coverage": [
+    {
+      "code": "PS",
+      "name": "Palestine"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 611,
+    "fatalities": 70,
+    "politicalViolenceEvents": 593,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "PS",
+        "name": "Palestinian Territories",
+        "events": 611,
+        "fatalities": 70,
+        "political": 593,
+        "demonstrations": 18,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

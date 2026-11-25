@@ -1,0 +1,158 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "slug": "mali",
+  "rank": 165,
+  "overallScore": 31.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "U.17 Việt Nam giành vé vòng 32 đội World Cup trong các kịch bản nào, nếu thắng Mali thì sao?",
+        "source": "Thanh Niên",
+        "url": "https://thanhnien.vn/u17-viet-nam-gianh-ve-vong-32-doi-world-cup-trong-cac-kich-ban-nao-neu-thang-mali-thi-sao-185261124100550747.htm",
+        "publishedAt": "2026-11-24T03:34:00.000Z"
+      },
+      {
+        "title": "Mali : 1277 camions-citernes mobilisés pour acheminer près de 58 millions de litres de carburant",
+        "source": "La Nouvelle Tribune",
+        "url": "https://lanouvelletribune.info/2026/11/mali-1277-camions-citernes-mobilises-pour-acheminer-pres-de-58-millions-de-litres-de-carburant/",
+        "publishedAt": "2026-11-24T00:09:22.000Z"
+      },
+      {
+        "title": "Coopération militaire Burkina-Mali : Des officiers stagiaires burkinabè en immersion auprès des institutions militaires maliennes",
+        "source": "leFaso.net",
+        "url": "https://lefaso.net/spip.php?article150984",
+        "publishedAt": "2026-11-23T21:41:00.000Z"
+      },
+      {
+        "title": "Libija, Sirija, Mali - da li rat u Ukrajini prerasta u globalni sukob? (VIDEO)",
+        "source": "Insajder",
+        "url": "https://insajder.net/teme/da-li-rat-u-ukrajini-prerasta-u-globalni-sukob-video",
+        "publishedAt": "2026-11-23T21:00:00.000Z"
+      },
+      {
+        "title": "España, Italia y Mali acceden a dieciseisavos del Mundial sub-17",
+        "source": "Proceso Digital",
+        "url": "https://proceso.hn/espana-italia-y-mali-acceden-a-dieciseisavos-del-mundial-sub-17/",
+        "publishedAt": "2026-11-23T20:52:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMali has mobilized 1,277 fuel trucks to transport nearly 58 million liters of fuel. [1]\n\nWATCH ITEMS\nWhether the fuel transport operation will meet its stated target of nearly 58 million liters. [1]",
+      "generatedAt": "2026-11-24T04:30:35.201Z",
+      "sources": [
+        {
+          "title": "Mali : 1277 camions-citernes mobilisés pour acheminer près de 58 millions de litres de carburant",
+          "source": "La Nouvelle Tribune",
+          "url": "https://lanouvelletribune.info/2026/11/mali-1277-camions-citernes-mobilises-pour-acheminer-pres-de-58-millions-de-litres-de-carburant/",
+          "publishedAt": "2026-11-24T00:09:22.000Z"
+        },
+        {
+          "title": "Coopération militaire Burkina-Mali : Des officiers stagiaires burkinabè en immersion auprès des institutions militaires maliennes",
+          "source": "leFaso.net",
+          "url": "https://lefaso.net/spip.php?article150984",
+          "publishedAt": "2026-11-23T21:41:00.000Z"
+        },
+        {
+          "title": "Libija, Sirija, Mali - da li rat u Ukrajini prerasta u globalni sukob? (VIDEO)",
+          "source": "Insajder",
+          "url": "https://insajder.net/teme/da-li-rat-u-ukrajini-prerasta-u-globalni-sukob-video",
+          "publishedAt": "2026-11-23T21:00:00.000Z"
+        },
+        {
+          "title": "España, Italia y Mali acceden a dieciseisavos del Mundial sub-17",
+          "source": "Proceso Digital",
+          "url": "https://proceso.hn/espana-italia-y-mali-acceden-a-dieciseisavos-del-mundial-sub-17/",
+          "publishedAt": "2026-11-23T20:52:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [
+      {
+        "title": "GDELT 186 — in Mali",
+        "summary": "source: www.ibtimes.co.uk",
+        "sourceUrl": "https://www.ibtimes.co.uk/acn-report-christian-persecution-18-countries-1834133",
+        "occurredAt": "2026-11-23T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.ghanamma.com",
+        "sourceUrl": "https://www.ghanamma.com/2026/11/22/mali-jnim-resistance-at-niono-costs-government-troops-dearly-despite-air-support/",
+        "occurredAt": "2026-11-22T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.ghanamma.com",
+        "sourceUrl": "https://www.ghanamma.com/2026/11/22/mali-jnim-resistance-at-niono-costs-government-troops-dearly-despite-air-support/",
+        "occurredAt": "2026-11-22T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Mali",
+        "summary": "source: www.straitstimes.com",
+        "sourceUrl": "https://www.straitstimes.com/world/europe/russias-africa-corps-deploys-new-drone-in-mali-as-strikes-increase-analysis-says",
+        "occurredAt": "2026-11-19T16:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Mali",
+        "summary": "source: www.straitstimes.com",
+        "sourceUrl": "https://www.straitstimes.com/world/europe/russias-africa-corps-deploys-new-drone-in-mali-as-strikes-increase-analysis-says",
+        "occurredAt": "2026-11-19T16:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Mali",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/mali-army-says-it-freed-24-soldiers-near-kidal/",
+        "occurredAt": "2026-11-19T12:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Mali",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/mali-guinea-expellees-bamako-camp-closed/",
+        "occurredAt": "2026-11-19T12:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Mali",
+        "summary": "source: timesofindia.indiatimes.com",
+        "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/captain-dies-after-army-vehicle-falls-into-river-in-manipur/articleshow/135968476.cms",
+        "occurredAt": "2026-11-18T21:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Mali",
+        "summary": "source: www.newindianexpress.com",
+        "sourceUrl": "https://www.newindianexpress.com/india/2026/Nov/18/army-captain-killed-three-soldiers-injured-as-military-vehicle-plunges-into-river-in-manipur",
+        "occurredAt": "2026-11-18T19:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: economictimes.indiatimes.com",
+        "sourceUrl": "https://economictimes.indiatimes.com/news/india/tragic-accident-indian-army-captain-dies-as-armoured-vehicle-falls-into-manipur-river/articleshow/135967418.cms",
+        "occurredAt": "2026-11-18T17:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

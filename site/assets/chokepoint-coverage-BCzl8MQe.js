@@ -1,0 +1,3 @@
+import{t as i}from"./theme-colors-ToRFEbn-.js";function o(t){if(!t.upstreamUnavailable)return"";const n=t.chokepoints??[],s=n.every(a=>a.navigationalWarningsAvailable===!0&&a.aisSnapshotAvailable===!0),e=n.filter(a=>{var r;return((r=a.transitSummary)==null?void 0:r.dataAvailable)!==!0});return s&&e.length>0&&e.length<n.length?i("components.supplyChain.partialTransitCoverage",{names:e.map(a=>a.name).join(", "),defaultValue:"{{names}} transit data unavailable"}):i("components.supplyChain.upstreamUnavailable")}export{o as c};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["chokepoint-coverage-BCzl8MQe.js"]=1;

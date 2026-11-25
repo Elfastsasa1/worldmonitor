@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "slug": "slovakia",
+  "rank": 35,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Slovakia refuses to fund EU ‘gifts’ to Kiev – Fico",
+        "source": "RT",
+        "url": "https://rt-english.com/news/649200-slovakia-refuses-fund-eu-gifts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "publishedAt": "2026-11-22T08:28:31.000Z"
+      },
+      {
+        "title": "Democracy Digest: Czechs, Slovaks Mark Velvet Revolution but Both Find Unity Elusive",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/democracy-digest-czechs-slovaks-mark-velvet-revolution-but-both-find-unity-elusive/rd/",
+        "publishedAt": "2026-11-20T07:04:50.000Z"
+      },
+      {
+        "title": "Pope Leo XIV Clears Way for Canonization of Slovak Nun Jailed by Communists",
+        "source": "ncregister.com",
+        "url": "https://www.ncregister.com/cna/blessed-zdenka-schelingova-to-be-canonized",
+        "publishedAt": "2026-11-24T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Pope Leo XIV clears way for canonization of Slovak nun jailed by communists",
+        "source": "catholicworldreport.com",
+        "url": "https://www.catholicworldreport.com/2026/11/23/pope-leo-xiv-clears-way-for-canonization-of-slovak-nun-jailed-by-communists/",
+        "publishedAt": "2026-11-23T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Pope Leo XIV clears way for canonization of Slovak nun jailed by communists",
+        "source": "myspiritfm.com",
+        "url": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307653",
+        "publishedAt": "2026-11-23T17:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSlovakia refuses to fund EU ‘gifts’ to Kiev, according to Prime Minister Fico. [1]\nPope Leo XIV cleared the way for canonization of a Slovak nun jailed by communists. [3]\n\nKEY RISKS\nSlovakia is linked to 16 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the canonization of the Slovak nun will proceed after Pope Leo XIV cleared the way. [3]",
+      "generatedAt": "2026-11-24T04:34:01.871Z",
+      "sources": [
+        {
+          "title": "Slovakia refuses to fund EU ‘gifts’ to Kiev – Fico",
+          "source": "RT",
+          "url": "https://rt-english.com/news/649200-slovakia-refuses-fund-eu-gifts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publishedAt": "2026-11-22T08:28:31.000Z"
+        },
+        {
+          "title": "Democracy Digest: Czechs, Slovaks Mark Velvet Revolution but Both Find Unity Elusive",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/democracy-digest-czechs-slovaks-mark-velvet-revolution-but-both-find-unity-elusive/rd/",
+          "publishedAt": "2026-11-20T07:04:50.000Z"
+        },
+        {
+          "title": "Pope Leo XIV Clears Way for Canonization of Slovak Nun Jailed by Communists",
+          "source": "ncregister.com",
+          "url": "https://www.ncregister.com/cna/blessed-zdenka-schelingova-to-be-canonized",
+          "publishedAt": "2026-11-24T01:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Pope Leo XIV clears way for canonization of Slovak nun jailed by communists",
+          "source": "catholicworldreport.com",
+          "url": "https://www.catholicworldreport.com/2026/11/23/pope-leo-xiv-clears-way-for-canonization-of-slovak-nun-jailed-by-communists/",
+          "publishedAt": "2026-11-23T17:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Pope Leo XIV clears way for canonization of Slovak nun jailed by communists",
+          "source": "myspiritfm.com",
+          "url": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=307653",
+          "publishedAt": "2026-11-23T17:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "16",
+          "factText": "Slovakia is linked to 16 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

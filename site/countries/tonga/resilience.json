@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TO",
+  "countryName": "Tonga",
+  "slug": "tonga",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tonga NGO Supplies Water Tanks To Drought-Hit Ha'apai Households",
+        "source": "scoop.co.nz",
+        "url": "https://www.scoop.co.nz/stories/WO2611/S00235/tonga-ngo-supplies-water-tanks-to-drought-hit-haapai-households.htm",
+        "publishedAt": "2026-11-24T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tonga NGO supplies water tanks to drought-hit Ha'apai households",
+        "source": "nzherald.co.nz",
+        "url": "https://www.nzherald.co.nz/talanoa/tonga-ngo-supplies-water-tanks-to-drought-hit-haapai-households/4TXENWU2JZHYNJTPTQDXBDWPAQ/",
+        "publishedAt": "2026-11-24T01:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tonga's Volcanic Eruption Reached the Edge of Space. Then the Atmosphere Cooled, and Still Hasn't Fully Recovered",
+        "source": "dailygalaxy.com",
+        "url": "https://dailygalaxy.com/2026/11/hunga-tonga-eruption-arctic-polar-vortex/",
+        "publishedAt": "2026-11-23T22:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Shaping Tonga's tomorrow: from resilience to productive growth and jobs - Devpolicy Blog from the Development Policy Centre",
+        "source": "devpolicy.org",
+        "url": "https://devpolicy.org/shaping-tongas-tomorrow-from-resilience-to-productive-growth-and-jobs-20261124/",
+        "publishedAt": "2026-11-23T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tonga NGO supplies water tanks to drought-hit Ha'apai households",
+        "source": "rnz.co.nz",
+        "url": "https://www.rnz.co.nz/news/pacific/2754221/tonga-ngo-supplies-water-tanks-to-drought-hit-ha-apai-households",
+        "publishedAt": "2026-11-23T18:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

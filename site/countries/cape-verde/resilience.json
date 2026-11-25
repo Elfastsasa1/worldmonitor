@@ -1,0 +1,95 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "slug": "cape-verde",
+  "rank": 83,
+  "overallScore": 53.4,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Remessas de emigrantes para Cabo Verde crescem sobretudo a partir de Portugal",
+        "source": "Expresso das Ilhas",
+        "url": "https://expressodasilhas.cv/economia/2026/11/23/remessas-de-emigrantes-para-cabo-verde-crescem-sobretudo-a-partir-de-portugal/105663",
+        "publishedAt": "2026-11-23T17:44:45.000Z"
+      },
+      {
+        "title": "Cabo Verde quer reforçar a capacidade institucional dos municípios quer criar novas oportunidades de desenvolvimento",
+        "source": "Notícias do Norte",
+        "url": "https://noticiasdonorte.publ.cv/25998/abo-verde-e-portugal-reforcam-cooperacao-municipal-para-impulsionar-desenvolvimento-local/?utm_source=rss&utm_medium=rss&utm_campaign=abo-verde-e-portugal-reforcam-cooperacao-municipal-para-impulsionar-desenvolvimento-local",
+        "publishedAt": "2026-11-20T19:29:13.000Z"
+      },
+      {
+        "title": "Cimeira do Clima (COP31): Cabo Verde alcançou mais de 90% das metas do Plano Nacional de Adaptação às Mudanças Climáticas",
+        "source": "A Nação",
+        "url": "https://www.anacao.cv/noticia/2026/11/20/cimeira-do-clima-cop31-cabo-verde-alcancou-mais-de-90-das-metas-do-plano-nacional-de-adaptacao-as-mudancas-climaticas001/",
+        "publishedAt": "2026-11-20T13:44:25.000Z"
+      },
+      {
+        "title": "Cabo Verde prepara plano para reforçar resposta a futuras emergências de saúde pública",
+        "source": "Expresso das Ilhas",
+        "url": "https://expressodasilhas.cv/pais/2026/11/23/cabo-verde-prepara-plano-para-reforcar-resposta-a-futuras-emergencias-de-saude-publica/105657",
+        "publishedAt": "2026-11-23T15:09:26.000Z"
+      },
+      {
+        "title": "Emigrants' remittances to Cape Verde increase, largely driven by Portugal",
+        "source": "theportugalnews.com",
+        "url": "https://www.theportugalnews.com/news/2026-11-24/emigrants-remittances-to-cape-verde-increase-largely-driven-by-portugal/1120820",
+        "publishedAt": "2026-11-24T04:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEmigrants' remittances to Cape Verde increase, largely driven by Portugal. [1][5]",
+      "generatedAt": "2026-11-24T04:25:10.592Z",
+      "sources": [
+        {
+          "title": "Remessas de emigrantes para Cabo Verde crescem sobretudo a partir de Portugal",
+          "source": "Expresso das Ilhas",
+          "url": "https://expressodasilhas.cv/economia/2026/11/23/remessas-de-emigrantes-para-cabo-verde-crescem-sobretudo-a-partir-de-portugal/105663",
+          "publishedAt": "2026-11-23T17:44:45.000Z"
+        },
+        {
+          "title": "Cabo Verde quer reforçar a capacidade institucional dos municípios quer criar novas oportunidades de desenvolvimento",
+          "source": "Notícias do Norte",
+          "url": "https://noticiasdonorte.publ.cv/25998/abo-verde-e-portugal-reforcam-cooperacao-municipal-para-impulsionar-desenvolvimento-local/?utm_source=rss&utm_medium=rss&utm_campaign=abo-verde-e-portugal-reforcam-cooperacao-municipal-para-impulsionar-desenvolvimento-local",
+          "publishedAt": "2026-11-20T19:29:13.000Z"
+        },
+        {
+          "title": "Cimeira do Clima (COP31): Cabo Verde alcançou mais de 90% das metas do Plano Nacional de Adaptação às Mudanças Climáticas",
+          "source": "A Nação",
+          "url": "https://www.anacao.cv/noticia/2026/11/20/cimeira-do-clima-cop31-cabo-verde-alcancou-mais-de-90-das-metas-do-plano-nacional-de-adaptacao-as-mudancas-climaticas001/",
+          "publishedAt": "2026-11-20T13:44:25.000Z"
+        },
+        {
+          "title": "Cabo Verde prepara plano para reforçar resposta a futuras emergências de saúde pública",
+          "source": "Expresso das Ilhas",
+          "url": "https://expressodasilhas.cv/pais/2026/11/23/cabo-verde-prepara-plano-para-reforcar-resposta-a-futuras-emergencias-de-saude-publica/105657",
+          "publishedAt": "2026-11-23T15:09:26.000Z"
+        },
+        {
+          "title": "Emigrants' remittances to Cape Verde increase, largely driven by Portugal",
+          "source": "theportugalnews.com",
+          "url": "https://www.theportugalnews.com/news/2026-11-24/emigrants-remittances-to-cape-verde-increase-largely-driven-by-portugal/1120820",
+          "publishedAt": "2026-11-24T04:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

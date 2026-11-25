@@ -1,0 +1,40 @@
+import{e as a}from"./sanitize-D7dx0cA1.js";import{t as m}from"./theme-colors-ToRFEbn-.js";import{c7 as A,av as C,aT as _,aP as I,c8 as R}from"./App-DyLzL2rx.js";import"./map-layer-definitions-BCWegBzb.js";import"./clerk-CAuJ7nO4.js";import{s as j,t as z}from"./dom-utils-BodelmHa.js";import{d as w}from"./main-k_5Od7i9.js";const $=Object.freeze({SSE:Object.freeze(["www.sse.com.cn","static.sse.com.cn"]),SZSE:Object.freeze(["disc.static.szse.cn"]),HKEX:Object.freeze([])}),T={halt:"Halt",resumption:"Resumption",earnings_warning:"Earnings warning",restructuring:"Restructuring",share_pledge:"Share pledge",investigation:"Investigation",exchange_risk_alert:"Exchange risk alert"},L={current:"Current",corrected:"Corrected",cancelled:"Cancelled"};function M(e){try{const r=new URL(e.documentUrl);if(r.protocol!=="https:"||r.username||r.password)return null;const s=$[e.exchange];return s!=null&&s.includes(r.hostname)?r.toString():null}catch{return null}}function P(e){return e.translation.state==="human_reviewed"?"Human-reviewed translation":e.translation.state==="machine_assisted"?"Machine-assisted translation":e.translation.state==="unavailable"?"Translation unavailable":e.originalLanguage.toLowerCase().startsWith("zh")?"Original Chinese":"Original language"}function W(e){var o;if(!((o=e==null?void 0:e.events)!=null&&o.length))return"";const r=e.events.slice(0,8).map(t=>{const c=M(t),u=c?`<a class="market-disclosure-link" href="${a(c)}" target="_blank" rel="noopener noreferrer">View original</a>`:"";return`<article class="market-disclosure-item" data-exchange="${a(t.exchange)}">
+      <div class="market-disclosure-meta">
+        <span class="market-disclosure-source">${a(t.exchange)} official</span>
+        <span>${a(t.issuer.symbol)}</span>
+        <span>${a(T[t.disclosureType])}</span>
+        <span>${a(L[t.status])}</span>
+        <time datetime="${a(t.publicationTime.value)}">${a(t.publicationTime.value)}</time>
+      </div>
+      <div class="market-disclosure-title">${a(t.titleOriginal)}</div>
+      <div class="market-disclosure-footer">
+        <span>${a(t.issuer.name)} · ${a(t.issuer.nameOriginal)}</span>
+        <span>${a(P(t))}</span>
+        ${u}
+      </div>
+    </article>`}).join(""),s=e.status==="healthy"?"Live":e.status==="degraded"?"Degraded":"Unavailable";return`<section class="market-disclosures" aria-label="Official exchange disclosures">
+    <div class="market-disclosure-heading">
+      <strong>Official exchange disclosures</strong>
+      <span>${a(s)}</span>
+    </div>
+    ${r}
+  </section>`}const x=6;function q(e,r=x){const s=new Map;for(const o of e??[]){if(!(o!=null&&o.symbol))continue;let t=s.get(o.reason);t||(t={reason:o.reason,symbols:[],overflow:0},s.set(o.reason,t)),t.symbols.length<r?t.symbols.push(o.symbol):t.overflow+=1}return[...s.values()]}function Q({hasMarkets:e,marketsHtml:r,disclosureHtml:s,unavailableMessage:o,unavailableSymbolLines:t=[]}){if(!e&&!s)return{kind:"retry",message:o};const c=e?"":`<div class="market-data-unavailable">${a(o)}</div>`,u=e&&t.length>0?`<div class="market-symbols-unavailable">${t.map(d=>`<div>${a(d)}</div>`).join("")}</div>`:"";return{kind:"content",html:r+c+u+s}}const N="physical-divergence-v2",b=Object.freeze(["gold","silver"]),U=Object.freeze(["ok","insufficient_history","stale_input","missing_input"]),y=Object.freeze(["missing_input","stale_input","insufficient_history"]),n=Object.freeze({currentPremiumMissing:"current_premium_missing",evaluationClockInvalid:"evaluation_clock_invalid",physicalPrintInvalid:"physical_print_invalid",paperSnapshotInvalid:"paper_snapshot_invalid",fxSnapshotInvalid:"fx_snapshot_invalid",physicalPrintInFuture:"physical_print_in_future",physicalPrintStale:"physical_print_older_than_12_calendar_days",paperSnapshotInFuture:"paper_snapshot_in_future",paperSnapshotStale:"paper_snapshot_older_than_36_hours",fxSnapshotInFuture:"fx_snapshot_in_future",fxSnapshotStale:"fx_snapshot_older_than_60_hours",historyPointsInsufficient:"history_points_below_60",historyWindowNotAligned:"history_window_not_aligned",historyValuesInvalid:"history_values_invalid",snapshotUnavailable:"divergence_snapshot_unavailable",methodologyUnsupported:"divergence_methodology_unsupported"}),O=Object.freeze([n.physicalPrintInvalid,n.paperSnapshotInvalid,n.fxSnapshotInvalid,n.physicalPrintInFuture,n.paperSnapshotInFuture,n.fxSnapshotInFuture]),k=Object.freeze([n.physicalPrintStale,n.paperSnapshotStale,n.fxSnapshotStale]),p=Object.freeze({ok:Object.freeze([""]),insufficient_history:Object.freeze([n.historyPointsInsufficient]),stale_input:k,missing_input:Object.freeze([n.currentPremiumMissing,n.evaluationClockInvalid,...O,n.historyWindowNotAligned,n.historyValuesInvalid])}),f=Object.freeze([n.snapshotUnavailable,n.methodologyUnsupported]),g=Object.freeze([...p.ok,...p.insufficient_history,...p.stale_input,...p.missing_input,...f]),F=Object.freeze(y.flatMap(e=>b.map(r=>`member_not_ok:${r}:${e}`))),v=Object.freeze(["",...f,...F]);function S(e){return`^(?:${e.join("|")})$`}const X=Object.freeze({methodologyVersion:N,metalOrder:b,metals:Object.freeze({gold:Object.freeze({physicalSymbol:"SHAU",physicalUnit:"gram",paperSymbol:"GC=F",weight:.7,absoluteFloors:Object.freeze({elevated:1,stressed:3,extreme:5}),historyKey:"market:physical-premium-history:v1:gold"}),silver:Object.freeze({physicalSymbol:"SHAG",physicalUnit:"kilogram",paperSymbol:"SI=F",weight:.3,absoluteFloors:Object.freeze({elevated:5,stressed:10,extreme:20}),historyKey:"market:physical-premium-history:v1:silver"})}),states:U,nonOkStatePriority:y,regimes:Object.freeze(["normal","elevated","stressed","extreme"]),trends:Object.freeze(["widening","stable","narrowing"]),history:Object.freeze({retainedPoints:750,windowPoints:250,minimumPoints:60}),freshness:Object.freeze({physicalStaleAfterCalendarDays:12,paperMaxAgeMs:2160*60*1e3,fxMaxAgeMs:3600*60*1e3,missingReasons:O,staleReasons:k}),reasons:n,storedReadingReasonsByState:p,rpcFallbackReasons:f,readingReasonValues:g,compositeReasonValues:v,readingReasonPattern:S(g),compositeReasonPattern:S(v)});let i=null,l=null;function E(e){i==null||i.remove(),i=null,l==null||l.deactivate({restoreFocus:e}),l=null}function h(){E(!0)}function Z(e){var u;const r=A(e.sparkline,{change:e.change,width:520,height:240,formatValue:d=>_(e.symbol,d),ariaLabel:m("components.markets.chart.title",{symbol:e.display})});if(!r)return;const s=document.activeElement instanceof HTMLElement?document.activeElement:null,o=(u=l==null?void 0:l.returnFocus)!=null&&u.isConnected?l.returnFocus:s!=null&&s.isConnected?s:null;E(!1),i=document.createElement("div"),i.className="market-chart-overlay",i.setAttribute("role","dialog"),i.setAttribute("aria-modal","true"),w(i,{reload:"safe"}),i.setAttribute("aria-label",m("components.markets.chart.title",{symbol:e.display}));const t=C(e.change);j(i,z(`
+      <div class="market-chart-modal">
+        <button type="button" class="market-chart-close" aria-label="${m("components.markets.chart.close")}">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M15 5L5 15M5 5l10 10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <div class="market-chart-head">
+          <div>
+            <div class="market-chart-name">${a(e.name)}</div>
+            <div class="market-chart-symbol">${a(e.display)}</div>
+          </div>
+          <div class="market-chart-quote">
+            <span class="market-chart-price">${a(_(e.symbol,e.price))}</span>
+            <span class="market-change ${t}">${I(e.change)}</span>
+          </div>
+        </div>
+        <div class="market-chart-canvas">${r}</div>
+      </div>
+    `,"generated terminal-chart SVG + escaped ticker fields")),i.addEventListener("click",d=>{d.target===i&&h()});const c=i.querySelector(".market-chart-close");c==null||c.addEventListener("click",h),l=R(i,h,o),document.body.appendChild(i),l.activate(c)}export{X as P,Q as c,q as g,Z as o,W as r};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["market-chart-modal-DwcAA_yC.js"]=1;

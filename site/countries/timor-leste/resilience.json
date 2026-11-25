@@ -1,0 +1,106 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "slug": "timor-leste",
+  "rank": 76,
+  "overallScore": 54.8,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Magnitude 6.8 earthquake strikes Banda Sea near Timor-Leste, GFZ says - Reuters",
+        "source": "Reuters — Timor-Leste",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1V1Zkd3TEhMWFZOajEyMFVTdnY5SVFZMGVRcG56ZENWc0JhNnZ6WFlhaHp5aTViMkhCVWwtMFRZUnRYcmNsWmxpU0FMUm1SQ1lZeXNRRTdzRWtKU2E3NDlZckp0TjVYZXR1RGJ4cmhiYTZEX01VaDdiUXJTRWJ3UVhtQkNVdjJEVGNkZlN2TEtmWTdTQlZBSmhKZEo4cVZ4cTRFdDNZV3hSSzFaSnRzVjJ0ZllLUEVmZXZqSThSbEVjdw?oc=5",
+        "publishedAt": "2026-11-21T10:05:54.000Z"
+      },
+      {
+        "title": "Esperiénsia Filipina Iha Simeira ASEAN 2026: Lisaun Bá Timor-Leste Prepara Prezidénsia ASEAN 2029",
+        "source": "Timor Post",
+        "url": "https://timorpost.com/asean/tp-69923/esperiensia-filipina-iha-simeira-asean-2026-lisaun-ba-timor-leste-prepara-prezidensia-asean-2029/",
+        "publishedAt": "2026-11-23T01:35:03.000Z"
+      },
+      {
+        "title": "Timor Leste-Australia Marka Era Foun",
+        "source": "Timor Post",
+        "url": "https://timorpost.com/internasional/tp-69906/timor-leste-australia-marka-era-foun/",
+        "publishedAt": "2026-11-23T00:19:18.000Z"
+      },
+      {
+        "title": "Top End shaken as major earthquake hits East Timor",
+        "source": "abc.net.au",
+        "url": "https://www.abc.net.au/news/2026-11-21/top-end-nt-shaken-as-major-earthquake-hits-east-timor/107413134",
+        "publishedAt": "2026-11-21T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Top End shaken as major quake hits East Timor",
+        "source": "perthnow.com.au",
+        "url": "https://www.perthnow.com.au/news/disaster-and-emergency/top-end-shaken-as-major-quake-hits-east-timor-c-23195083",
+        "publishedAt": "2026-11-21T13:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA magnitude 6.8 earthquake struck the Banda Sea near Timor-Leste, according to GFZ. [1]\n\nWHAT THIS MEANS FOR TIMOR-LESTE\nThe earthquake near Timor-Leste may affect travel to the country, as the most severe government travel advisory for Timor-Leste is Exercise Increased Caution. [1][E1]\n\nKEY RISKS\nThe most severe government travel advisory for Timor-Leste is Exercise Increased Caution. [E1]\n\nWATCH ITEMS\nWhether the earthquake will cause further seismic activity or damage in Timor-Leste. [1]",
+      "generatedAt": "2026-11-24T04:35:20.458Z",
+      "sources": [
+        {
+          "title": "Magnitude 6.8 earthquake strikes Banda Sea near Timor-Leste, GFZ says - Reuters",
+          "source": "Reuters — Timor-Leste",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1V1Zkd3TEhMWFZOajEyMFVTdnY5SVFZMGVRcG56ZENWc0JhNnZ6WFlhaHp5aTViMkhCVWwtMFRZUnRYcmNsWmxpU0FMUm1SQ1lZeXNRRTdzRWtKU2E3NDlZckp0TjVYZXR1RGJ4cmhiYTZEX01VaDdiUXJTRWJ3UVhtQkNVdjJEVGNkZlN2TEtmWTdTQlZBSmhKZEo4cVZ4cTRFdDNZV3hSSzFaSnRzVjJ0ZllLUEVmZXZqSThSbEVjdw?oc=5",
+          "publishedAt": "2026-11-21T10:05:54.000Z"
+        },
+        {
+          "title": "Esperiénsia Filipina Iha Simeira ASEAN 2026: Lisaun Bá Timor-Leste Prepara Prezidénsia ASEAN 2029",
+          "source": "Timor Post",
+          "url": "https://timorpost.com/asean/tp-69923/esperiensia-filipina-iha-simeira-asean-2026-lisaun-ba-timor-leste-prepara-prezidensia-asean-2029/",
+          "publishedAt": "2026-11-23T01:35:03.000Z"
+        },
+        {
+          "title": "Timor Leste-Australia Marka Era Foun",
+          "source": "Timor Post",
+          "url": "https://timorpost.com/internasional/tp-69906/timor-leste-australia-marka-era-foun/",
+          "publishedAt": "2026-11-23T00:19:18.000Z"
+        },
+        {
+          "title": "Top End shaken as major earthquake hits East Timor",
+          "source": "abc.net.au",
+          "url": "https://www.abc.net.au/news/2026-11-21/top-end-nt-shaken-as-major-earthquake-hits-east-timor/107413134",
+          "publishedAt": "2026-11-21T13:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Top End shaken as major quake hits East Timor",
+          "source": "perthnow.com.au",
+          "url": "https://www.perthnow.com.au/news/disaster-and-emergency/top-end-shaken-as-major-quake-hits-east-timor-c-23195083",
+          "publishedAt": "2026-11-21T13:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Timor-Leste is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

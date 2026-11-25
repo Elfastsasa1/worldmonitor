@@ -1,0 +1,152 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HT",
+  "countryName": "Haiti",
+  "slug": "haiti",
+  "rank": 149,
+  "overallScore": 40.5,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Haiti - FLASH : At least 54 terrorists killed in 2 days (videos)",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48957-haiti-flash-at-least-54-terrorists-killed-in-2-days-videos.html",
+        "publishedAt": "2026-11-23T12:18:29.000Z"
+      },
+      {
+        "title": "Duartiano advierte por crisis en Haití",
+        "source": "El Día",
+        "url": "https://eldia.com.do/duartiano-advierte-por-crisis-en-haiti/",
+        "publishedAt": "2026-11-24T04:01:00.000Z"
+      },
+      {
+        "title": "Bukele vira herói no Haiti com guerra a gangues após sumiço de militares envolto em mistério",
+        "source": "Folha Mundo",
+        "url": "https://www1.folha.uol.com.br/mundo/2026/11/bukele-vira-heroi-no-haiti-com-guerra-a-gangues-apos-sumico-de-militares-envolto-em-misterio.shtml",
+        "publishedAt": "2026-11-24T02:00:00.000Z"
+      },
+      {
+        "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+        "publishedAt": "2026-11-24T01:06:00.000Z"
+      },
+      {
+        "title": "Diez problemas que la invasión de Haití intenta invisibilizar",
+        "source": "Diario Co Latino",
+        "url": "https://www.diariocolatino.com/diez-problemas-que-la-invasion-de-haiti-intenta-invisibilizar/",
+        "publishedAt": "2026-11-23T22:56:03.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAt least 54 terrorists were killed in Haiti in 2 days, according to a flash report. [1]\n\nKEY RISKS\nHaiti is linked to 21 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:51:30.844Z",
+      "sources": [
+        {
+          "title": "Haiti - FLASH : At least 54 terrorists killed in 2 days (videos)",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48957-haiti-flash-at-least-54-terrorists-killed-in-2-days-videos.html",
+          "publishedAt": "2026-11-23T12:18:29.000Z"
+        },
+        {
+          "title": "Duartiano advierte por crisis en Haití",
+          "source": "El Día",
+          "url": "https://eldia.com.do/duartiano-advierte-por-crisis-en-haiti/",
+          "publishedAt": "2026-11-24T04:01:00.000Z"
+        },
+        {
+          "title": "Bukele vira herói no Haiti com guerra a gangues após sumiço de militares envolto em mistério",
+          "source": "Folha Mundo",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/11/bukele-vira-heroi-no-haiti-com-guerra-a-gangues-apos-sumico-de-militares-envolto-em-misterio.shtml",
+          "publishedAt": "2026-11-24T02:00:00.000Z"
+        },
+        {
+          "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+          "publishedAt": "2026-11-24T01:06:00.000Z"
+        },
+        {
+          "title": "Diez problemas que la invasión de Haití intenta invisibilizar",
+          "source": "Diario Co Latino",
+          "url": "https://www.diariocolatino.com/diez-problemas-que-la-invasion-de-haiti-intenta-invisibilizar/",
+          "publishedAt": "2026-11-23T22:56:03.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "21",
+          "factText": "Haiti is linked to 21 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.wlrn.org",
+        "sourceUrl": "https://www.wlrn.org/americas/2026-11-23/haiti-el-salvador-prisons-deal-pushes-bukeles-anti-gang-model-but-raises-human-rights-alarms",
+        "occurredAt": "2026-11-23T23:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: haitiantimes.com",
+        "sourceUrl": "https://haitiantimes.com/2026/11/23/what-are-haiti-security-forces/",
+        "occurredAt": "2026-11-23T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.newsday.com",
+        "sourceUrl": "https://www.newsday.com/news/nation/haiti-el-salvador-bukele-gangs-killed-d75758",
+        "occurredAt": "2026-11-23T19:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Haiti",
+        "summary": "source: www.winnipegfreepress.com",
+        "sourceUrl": "https://www.winnipegfreepress.com/world/2026/11/23/bukele-reveals-circumstances-in-which-3-salvadoran-soldiers-died-fighting-gangs-in-haiti",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Haiti",
+        "summary": "source: cbn.com",
+        "sourceUrl": "https://cbn.com/news/world/salvadoran-troops-battle-haitis-powerful-gangs-churches-pray-deliverance",
+        "occurredAt": "2026-11-23T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Haiti",
+        "summary": "source: cbn.com",
+        "sourceUrl": "https://cbn.com/news/world/salvadoran-troops-battle-haitis-powerful-gangs-churches-pray-deliverance",
+        "occurredAt": "2026-11-23T14:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Haiti",
+        "summary": "source: cbn.com",
+        "sourceUrl": "https://cbn.com/news/world/salvadoran-troops-battle-haitis-powerful-gangs-churches-pray-deliverance",
+        "occurredAt": "2026-11-23T14:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

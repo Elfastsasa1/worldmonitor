@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "slug": "malta",
+  "rank": 58,
+  "overallScore": 57.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Identita’ is not sure how many migrants live in Malta – NAO report finds",
+        "source": "The Shift News",
+        "url": "https://theshiftnews.com/2026/11/23/identita-is-not-sure-how-many-migrants-live-in-malta-nao-report-finds/",
+        "publishedAt": "2026-11-23T18:03:59.000Z"
+      },
+      {
+        "title": "FKNK hits back at EU call for Malta to stop finch trapping",
+        "source": "Times of Malta",
+        "url": "https://timesofmalta.com/article/fknk-hits-back-eu-call-malta-stop-finch-trapping.1137551",
+        "publishedAt": "2026-11-23T16:22:00.000Z"
+      },
+      {
+        "title": "Malta: mosaic mediterrani",
+        "source": "Diari d'Andorra",
+        "url": "https://www.diariandorra.ad/dmg/rodamons/261122/malta-mosaic-mediterrani_209246.html",
+        "publishedAt": "2026-11-22T04:20:00.000Z"
+      },
+      {
+        "title": "Fraud case against Heritage Malta workers based on intercepted chats, court told",
+        "source": "Times of Malta",
+        "url": "https://timesofmalta.com/article/fraud-case-heritage-malta-workers-based-intercepted-chats-court-told.1137550",
+        "publishedAt": "2026-11-23T16:00:00.000Z"
+      },
+      {
+        "title": "FIMBank strengthens local business focus through Malta Chamber alliance",
+        "source": "Times of Malta",
+        "url": "https://timesofmalta.com/article/fimbank-strengthens-local-business-focus-malta-chamber-alliance-a2.1137548",
+        "publishedAt": "2026-11-23T15:33:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn NAO report finds that Identita’ is not sure how many migrants live in Malta. [1]\nFKNK hits back at an EU call for Malta to stop finch trapping. [2]",
+      "generatedAt": "2026-11-24T04:30:59.728Z",
+      "sources": [
+        {
+          "title": "Identita’ is not sure how many migrants live in Malta – NAO report finds",
+          "source": "The Shift News",
+          "url": "https://theshiftnews.com/2026/11/23/identita-is-not-sure-how-many-migrants-live-in-malta-nao-report-finds/",
+          "publishedAt": "2026-11-23T18:03:59.000Z"
+        },
+        {
+          "title": "FKNK hits back at EU call for Malta to stop finch trapping",
+          "source": "Times of Malta",
+          "url": "https://timesofmalta.com/article/fknk-hits-back-eu-call-malta-stop-finch-trapping.1137551",
+          "publishedAt": "2026-11-23T16:22:00.000Z"
+        },
+        {
+          "title": "Malta: mosaic mediterrani",
+          "source": "Diari d'Andorra",
+          "url": "https://www.diariandorra.ad/dmg/rodamons/261122/malta-mosaic-mediterrani_209246.html",
+          "publishedAt": "2026-11-22T04:20:00.000Z"
+        },
+        {
+          "title": "Fraud case against Heritage Malta workers based on intercepted chats, court told",
+          "source": "Times of Malta",
+          "url": "https://timesofmalta.com/article/fraud-case-heritage-malta-workers-based-intercepted-chats-court-told.1137550",
+          "publishedAt": "2026-11-23T16:00:00.000Z"
+        },
+        {
+          "title": "FIMBank strengthens local business focus through Malta Chamber alliance",
+          "source": "Times of Malta",
+          "url": "https://timesofmalta.com/article/fimbank-strengthens-local-business-focus-malta-chamber-alliance-a2.1137548",
+          "publishedAt": "2026-11-23T15:33:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

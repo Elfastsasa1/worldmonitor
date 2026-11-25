@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KG",
+  "countryName": "Kyrgyzstan",
+  "slug": "kyrgyzstan",
+  "rank": 77,
+  "overallScore": 54.7,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kyrgyz athletes win gold and silver at UWW World Grappling Championships",
+        "source": "Akipress",
+        "url": "https://akipress.com/news:932833",
+        "publishedAt": "2026-11-24T04:32:06.000Z"
+      },
+      {
+        "title": "Uzbek and Kyrgyz Riders Claim Top Honors at Eurasian Equestrian Final",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/11/uzbek-and-kyrgyz-riders-claim-top-honors-at-eurasian-equestrian-final/",
+        "publishedAt": "2026-11-23T13:31:38.000Z"
+      },
+      {
+        "title": "Kyrgyzstan SMEs Face Legal and Financial Barriers Despite $900 Million Growth Plan",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/kyrgyzstan-smes-legal-financial-barriers-growth-plan/",
+        "publishedAt": "2026-11-23T12:22:04.000Z"
+      },
+      {
+        "title": "Kyrgyzstan holds fuel reserves for 2.5-3 months",
+        "source": "Akipress",
+        "url": "https://akipress.com/news:932836",
+        "publishedAt": "2026-11-24T04:25:43.000Z"
+      },
+      {
+        "title": "Kyrgyzstan to ban energy drinks starting January 2027",
+        "source": "Akipress",
+        "url": "https://akipress.com/news:932832",
+        "publishedAt": "2026-11-24T04:06:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nKyrgyzstan SMEs face legal and financial barriers despite a $900 million growth plan. [3]\nKyrgyzstan holds fuel reserves for 2.5-3 months. [4]\n\nKEY RISKS\nKyrgyzstan is linked to 26 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Kyrgyzstan will implement the ban on energy drinks starting January 2027 as announced. [5]",
+      "generatedAt": "2026-11-24T04:52:26.821Z",
+      "sources": [
+        {
+          "title": "Kyrgyz athletes win gold and silver at UWW World Grappling Championships",
+          "source": "Akipress",
+          "url": "https://akipress.com/news:932833",
+          "publishedAt": "2026-11-24T04:32:06.000Z"
+        },
+        {
+          "title": "Uzbek and Kyrgyz Riders Claim Top Honors at Eurasian Equestrian Final",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/11/uzbek-and-kyrgyz-riders-claim-top-honors-at-eurasian-equestrian-final/",
+          "publishedAt": "2026-11-23T13:31:38.000Z"
+        },
+        {
+          "title": "Kyrgyzstan SMEs Face Legal and Financial Barriers Despite $900 Million Growth Plan",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/kyrgyzstan-smes-legal-financial-barriers-growth-plan/",
+          "publishedAt": "2026-11-23T12:22:04.000Z"
+        },
+        {
+          "title": "Kyrgyzstan holds fuel reserves for 2.5-3 months",
+          "source": "Akipress",
+          "url": "https://akipress.com/news:932836",
+          "publishedAt": "2026-11-24T04:25:43.000Z"
+        },
+        {
+          "title": "Kyrgyzstan to ban energy drinks starting January 2027",
+          "source": "Akipress",
+          "url": "https://akipress.com/news:932832",
+          "publishedAt": "2026-11-24T04:06:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "26",
+          "factText": "Kyrgyzstan is linked to 26 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

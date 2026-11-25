@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "slug": "malaysia",
+  "rank": 62,
+  "overallScore": 56.7,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Malaysia to continue working with Myanmar on refugee repatriation, PM says after genocide ruling - Reuters",
+        "source": "Reuters — Myanmar (Burma)",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2g1ZFlkOUVKUkNtc2tfVzgzbmRfZEljdVRGY3FZMVRWY082YWZMRGFIM0pmRXVqT3lrd0F6SmRzVmxmRENsVnVQUm8wcl9nakVEMWdIeGNWbmd3OHFpbWdxcDEyWGprWGhMWlVxaFFfdFJBZ3Ywc05MTnpiVkNxQ2RYUE4tRWVETDh5enZGVWtNRW9YX3B5S3BIN05sZ2ZxcmJpRXJuSll5eGhxRmRXTjlHc2RLMHV6WXBRcjZrQTZhNUlram84?oc=5",
+        "publishedAt": "2026-11-24T04:15:00.000Z"
+      },
+      {
+        "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
+        "source": "Reuters — Marshall Islands",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
+        "publishedAt": "2026-11-20T14:27:44.000Z"
+      },
+      {
+        "title": "Oil Prices Linger Near Three-Month Low Despite Strait Of Hormuz Risks - BusinessToday Malaysia",
+        "source": "Shipping & Freight",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFVSTXByZnFCWWY0UFNBM0xnSVdWT1dwMXlnVWYtZTJpbVdEbU9TQWtrblI3UkdUc1U0ZHk4ZHd5ZW00c09LaW5nTGE4NjlHUGgyRDBqa1RUOTI0NVBTOWprcmo0Qk0xejEtVGF0SVkwalRSRi1vVXdiTWlfcHppVmZWNUV1MFE4QnZHQkRBVkxHQUMtUlJnQ2Y2Z0s1UXptd0IwbGluSy1BRERuaEozWWxmZEw?oc=5",
+        "publishedAt": "2026-11-24T04:04:01.000Z"
+      },
+      {
+        "title": "Bandar Bukit Raja Sets a New Benchmark as Malaysia’s First GreenRE Platinum-Rated Industrial Development - The Edge Malaysia",
+        "source": "Precious Metals",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTzJNTjlVcW85TWFRNnA4bzMzWk52RmhfUFdVYk5maVFmMDVuTUJUSWp2X2JIWkU4eGVQT0pfQXRKMzFkM1VqOVluRmlrSlFxdXp1ZmZZd2NGeTVieTE1LVA3dVplR2tKbzJqYVpnRFg1TVJ3ZUhtY0VBUjYxV1NtRUZaRTFyeWdYSXYwWjNRdnBaQTI2RlI5RGpkejdYdi1GQ1h6cjFYeXIzSjJVclc4TWNfRHctbndtVHBUN3lIckhOSlZsVkVQMGFZc3p5cFU4OXVVekU2YXhDLVkyc3ZFR3o3bw?oc=5",
+        "publishedAt": "2026-11-24T04:21:08.000Z"
+      },
+      {
+        "title": "Ringgit opens flat against US dollar, mostly higher against peers - The Malaysian Reserve",
+        "source": "Dollar Watch",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmVNbjFSOUUybGE1TkFpTlNuQzZDTDQ2VkJBcHF6MDhHbXFSVC1aNWU0SU9yN3U5ck1aWV9qQURUMWhMYjRaMWJyeTUxRVR6Yk1VbTB4eERBOVNlNkVHY29jRXZYdWNxSGxJWmR1alB1czM0dXQ4cXJsNzF3cVRXZWUzZ0xGVEpaczJ6T1Zwc2xDeUMxdGVUWnpkdDZHUXR4bnRJRUZfRDRtWkd3?oc=5",
+        "publishedAt": "2026-11-24T04:04:31.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMalaysia will continue working with Myanmar on refugee repatriation, the PM said after a genocide ruling. [1]\nThe US Treasury is pressing Singapore and Malaysia on Iran sanctions compliance. [2]\n\nWATCH ITEMS\nWhether Malaysia will adjust its Iran sanctions compliance in response to US Treasury pressure. [2]",
+      "generatedAt": "2026-11-24T04:54:09.279Z",
+      "sources": [
+        {
+          "title": "Malaysia to continue working with Myanmar on refugee repatriation, PM says after genocide ruling - Reuters",
+          "source": "Reuters — Myanmar (Burma)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2g1ZFlkOUVKUkNtc2tfVzgzbmRfZEljdVRGY3FZMVRWY082YWZMRGFIM0pmRXVqT3lrd0F6SmRzVmxmRENsVnVQUm8wcl9nakVEMWdIeGNWbmd3OHFpbWdxcDEyWGprWGhMWlVxaFFfdFJBZ3Ywc05MTnpiVkNxQ2RYUE4tRWVETDh5enZGVWtNRW9YX3B5S3BIN05sZ2ZxcmJpRXJuSll5eGhxRmRXTjlHc2RLMHV6WXBRcjZrQTZhNUlram84?oc=5",
+          "publishedAt": "2026-11-24T04:15:00.000Z"
+        },
+        {
+          "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
+          "source": "Reuters — Marshall Islands",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
+          "publishedAt": "2026-11-20T14:27:44.000Z"
+        },
+        {
+          "title": "Oil Prices Linger Near Three-Month Low Despite Strait Of Hormuz Risks - BusinessToday Malaysia",
+          "source": "Shipping & Freight",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFVSTXByZnFCWWY0UFNBM0xnSVdWT1dwMXlnVWYtZTJpbVdEbU9TQWtrblI3UkdUc1U0ZHk4ZHd5ZW00c09LaW5nTGE4NjlHUGgyRDBqa1RUOTI0NVBTOWprcmo0Qk0xejEtVGF0SVkwalRSRi1vVXdiTWlfcHppVmZWNUV1MFE4QnZHQkRBVkxHQUMtUlJnQ2Y2Z0s1UXptd0IwbGluSy1BRERuaEozWWxmZEw?oc=5",
+          "publishedAt": "2026-11-24T04:04:01.000Z"
+        },
+        {
+          "title": "Bandar Bukit Raja Sets a New Benchmark as Malaysia’s First GreenRE Platinum-Rated Industrial Development - The Edge Malaysia",
+          "source": "Precious Metals",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTzJNTjlVcW85TWFRNnA4bzMzWk52RmhfUFdVYk5maVFmMDVuTUJUSWp2X2JIWkU4eGVQT0pfQXRKMzFkM1VqOVluRmlrSlFxdXp1ZmZZd2NGeTVieTE1LVA3dVplR2tKbzJqYVpnRFg1TVJ3ZUhtY0VBUjYxV1NtRUZaRTFyeWdYSXYwWjNRdnBaQTI2RlI5RGpkejdYdi1GQ1h6cjFYeXIzSjJVclc4TWNfRHctbndtVHBUN3lIckhOSlZsVkVQMGFZc3p5cFU4OXVVekU2YXhDLVkyc3ZFR3o3bw?oc=5",
+          "publishedAt": "2026-11-24T04:21:08.000Z"
+        },
+        {
+          "title": "Ringgit opens flat against US dollar, mostly higher against peers - The Malaysian Reserve",
+          "source": "Dollar Watch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmVNbjFSOUUybGE1TkFpTlNuQzZDTDQ2VkJBcHF6MDhHbXFSVC1aNWU0SU9yN3U5ck1aWV9qQURUMWhMYjRaMWJyeTUxRVR6Yk1VbTB4eERBOVNlNkVHY29jRXZYdWNxSGxJWmR1alB1czM0dXQ4cXJsNzF3cVRXZWUzZ0xGVEpaczJ6T1Zwc2xDeUMxdGVUWnpkdDZHUXR4bnRJRUZfRDRtWkd3?oc=5",
+          "publishedAt": "2026-11-24T04:04:31.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

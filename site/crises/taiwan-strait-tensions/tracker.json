@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "taiwan-strait-tensions",
+  "title": "Taiwan Strait tensions tracker",
+  "shortTitle": "Taiwan Strait tensions",
+  "description": "Taiwan Strait tensions: PLA drills, grey-zone moves, US arms sales, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Taiwan. It is a country-level pulse, not a comprehensive incident ledger, a measure of the Chinese military pressure recorded in Taiwan's daily aircraft and ship counts, or a forecast.",
+  "coverage": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 29,
+    "fatalities": 0,
+    "politicalViolenceEvents": 0,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "TW",
+        "name": "Taiwan",
+        "events": 29,
+        "fatalities": 0,
+        "political": 0,
+        "demonstrations": 29,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "slug": "cyprus",
+  "rank": 27,
+  "overallScore": 62.7,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "LNG Trading Profits could Turn Negative in Next Supply Glut - Cyprus Shipping News",
+        "source": "Natural Gas News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3BIXzhHZVBBcEF0Uk1uNlRjUnF4a3JMMHRhS2lyeXlNWDU2UjA2d1JxVDlXMTNUcFQxSWxkVFhaWURuNm1XMEZZc2Z3X2pkcjN2QlZfcDdxS0MwWkFlWVJMZmFzTlJyZ2ktYTI1X2RXX3dkUHpLa3ltTnpmclo1U1FRdThfNlg1OEhrck9Gc1FpU3otcUlnSy1yNzBFeHdmTGp6dQ?oc=5",
+        "publishedAt": "2026-11-24T03:31:33.000Z"
+      },
+      {
+        "title": "Hanwha Ocean wins two VLCC orders - Cyprus Shipping News",
+        "source": "Tanker & Shipping",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV3R3R3l5Q3lxTjNKTmhZQm40RllFSlA1dGFIcDFkQmxNN0xXU184cDh2SEZxUTB5WVRWYV9TRWNPSk41UG5qelo5UHFNVDUzLVdFXzhQNHJPSlFRcDRXcFNmSTJuWlptSzRIRjRwdUFDdDJuZG14UXJaNEZsV2Y5ZWNR?oc=5",
+        "publishedAt": "2026-11-24T03:31:33.000Z"
+      },
+      {
+        "title": "Port Authority of Santa Cruz de Tenerife joins SEA-LNG - Cyprus Shipping News",
+        "source": "Natural Gas News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGpBM3JBbHZ2QV9BNlc5clpzMjRsQ1FicEdwcXg0Y2Jfa0VDSnFLM1lUS2JDSmpzYkpvYVh2UVh2UUg1Mng2OC16MjVoVlJjalNOcFVaRzhIeWNIMkV3Q3hZQjF0ci1qeGtabkZqUVV5M0tLV1I5TGFxcDNZNEZwclVFbFhRUlhkVTdURG5oQlpVaERyUGE1OEJMSDd0UQ?oc=5",
+        "publishedAt": "2026-11-24T03:16:59.000Z"
+      },
+      {
+        "title": "Pérgamo Ensemble makes Cyprus debut",
+        "source": "Cyprus Mail",
+        "url": "https://cyprus-mail.com/2026/11/23/pergamo-ensemble-makes-cyprus-debut",
+        "publishedAt": "2026-11-23T17:14:00.000Z"
+      },
+      {
+        "title": "Cyprus Expels Russian Diplomats Suspected of Espionage, Reports Say",
+        "source": "Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/11/23/cyprus-expels-russian-diplomats-suspected-of-espionage-reports-say-a94348",
+        "publishedAt": "2026-11-23T11:35:03.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "unsupported-citation",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

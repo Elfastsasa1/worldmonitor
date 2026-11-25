@@ -1,0 +1,166 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "slug": "afghanistan",
+  "rank": 162,
+  "overallScore": 34.2,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Afghanistan’s Opium Rebound: The Taliban Are Rationing the Ban, and Iran Is Paying for It - Modern Diplomacy",
+        "source": "Energy Crisis & Shortages",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWJCUkU3eFdJUlUyaXNzc2FlR3ZlR1l1cUd5RDBXNXZqTTRHWDd5QUwwUGUtZnN6WldtN29odUhrRkFjemhrQ2NGTFl2cEdreHpDVEdjRnpyVmo3NHRYcUsxRkIxT3k2S3JhS3prQ254MVdnVXlib2w0eVZJeVFNZlYyRUpTcUR2MDIxbzhVdm4wVnFyTEg1bG4zX0J1ZW8?oc=5",
+        "publishedAt": "2026-11-23T18:41:09.000Z"
+      },
+      {
+        "title": "Afghan women demand justice, accountability at Madrid summit",
+        "source": "Amu TV",
+        "url": "https://amu.tv/257412/",
+        "publishedAt": "2026-11-23T16:32:56.000Z"
+      },
+      {
+        "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+        "publishedAt": "2026-11-22T12:00:00.000Z"
+      },
+      {
+        "title": "Afghanistan’s annual inflation reaches 7.8% as food prices rise: WFP",
+        "source": "Amu TV",
+        "url": "https://amu.tv/257381/",
+        "publishedAt": "2026-11-23T06:45:05.000Z"
+      },
+      {
+        "title": "After 50 years in Pakistan, Afghan returnee rebuilds his business in Jalalabad",
+        "source": "Amu TV",
+        "url": "https://amu.tv/257344/",
+        "publishedAt": "2026-11-22T11:47:31.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAfghanistan's annual inflation has reached 7.8% as food prices rise, according to the WFP. [4]\nAfghan women demanded justice and accountability at a summit in Madrid. [2]\n\nKEY RISKS\nThe Do Not Travel advisory for Afghanistan indicates severe security risks for any travel to the country. [E2]\n\nWATCH ITEMS\nWhether Afghan women's demands for justice and accountability at the Madrid summit will lead to concrete action. [2]\nWhether the Taliban will continue rationing the opium ban as Iran pays for it. [1]",
+      "generatedAt": "2026-11-24T04:22:22.592Z",
+      "sources": [
+        {
+          "title": "Afghanistan’s Opium Rebound: The Taliban Are Rationing the Ban, and Iran Is Paying for It - Modern Diplomacy",
+          "source": "Energy Crisis & Shortages",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWJCUkU3eFdJUlUyaXNzc2FlR3ZlR1l1cUd5RDBXNXZqTTRHWDd5QUwwUGUtZnN6WldtN29odUhrRkFjemhrQ2NGTFl2cEdreHpDVEdjRnpyVmo3NHRYcUsxRkIxT3k2S3JhS3prQ254MVdnVXlib2w0eVZJeVFNZlYyRUpTcUR2MDIxbzhVdm4wVnFyTEg1bG4zX0J1ZW8?oc=5",
+          "publishedAt": "2026-11-23T18:41:09.000Z"
+        },
+        {
+          "title": "Afghan women demand justice, accountability at Madrid summit",
+          "source": "Amu TV",
+          "url": "https://amu.tv/257412/",
+          "publishedAt": "2026-11-23T16:32:56.000Z"
+        },
+        {
+          "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+          "publishedAt": "2026-11-22T12:00:00.000Z"
+        },
+        {
+          "title": "Afghanistan’s annual inflation reaches 7.8% as food prices rise: WFP",
+          "source": "Amu TV",
+          "url": "https://amu.tv/257381/",
+          "publishedAt": "2026-11-23T06:45:05.000Z"
+        },
+        {
+          "title": "After 50 years in Pakistan, Afghan returnee rebuilds his business in Jalalabad",
+          "source": "Amu TV",
+          "url": "https://amu.tv/257344/",
+          "publishedAt": "2026-11-22T11:47:31.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Afghanistan is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 1822 — in Afghanistan",
+        "summary": "source: townhall.com",
+        "sourceUrl": "https://townhall.com/news/amy-curtis/2026/11/23/afghan-womens-activist-tortured-n2686897",
+        "occurredAt": "2026-11-23T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Afghanistan",
+        "summary": "source: townhall.com",
+        "sourceUrl": "https://townhall.com/news/amy-curtis/2026/11/23/afghan-womens-activist-tortured-n2686897",
+        "occurredAt": "2026-11-23T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1831 — in Afghanistan",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840273.html",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1831 — in Afghanistan",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840273.html",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1831 — in Afghanistan",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840273.html",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1832 — in Afghanistan",
+        "summary": "source: pjmedia.com",
+        "sourceUrl": "https://pjmedia.com/phone-kyaw/2026/11/23/sneako-interrogated-by-fbi-after-afghanistan-taliban-streams-n4959610",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: pjmedia.com",
+        "sourceUrl": "https://pjmedia.com/phone-kyaw/2026/11/23/sneako-interrogated-by-fbi-after-afghanistan-taliban-streams-n4959610",
+        "occurredAt": "2026-11-23T15:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Afghanistan",
+        "summary": "source: houstonherald.com",
+        "sourceUrl": "https://houstonherald.com/2026/11/cabool-city-council-keeps-employee-insurance-plan-as-is-sets-fireworks-date/",
+        "occurredAt": "2026-11-23T15:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Afghanistan",
+        "summary": "source: houstonherald.com",
+        "sourceUrl": "https://houstonherald.com/2026/11/cabool-city-council-keeps-employee-insurance-plan-as-is-sets-fireworks-date/",
+        "occurredAt": "2026-11-23T15:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

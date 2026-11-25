@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "slug": "greece",
+  "rank": 33,
+  "overallScore": 61.5,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Greece plans new route for Ukrainian grain exports",
+        "source": "NV EN",
+        "url": "https://english.nv.ua/nation/greece-plans-new-route-for-ukrainian-grain-exports-50661947.html",
+        "publishedAt": "2026-11-24T01:12:00.000Z"
+      },
+      {
+        "title": "'Return the Marbles': Greece renews demand for Parthenon relics at Acropolis Museum reopening",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/return-the-marbles-greece-renews-demand-for-parthenon-relics-at-acropolis-museum-reopening",
+        "publishedAt": "2026-11-23T15:36:32.000Z"
+      },
+      {
+        "title": "Greece insists on sustaining 12-mile dispute with Türkiye",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/greece-insists-on-sustaining-12-mile-dispute-with-turkiye/news",
+        "publishedAt": "2026-11-22T11:33:00.000Z"
+      },
+      {
+        "title": "Scandal Topples US Envoy, But Greece’s Pivot to Pricey American Gas Continues",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/scandal-topples-us-envoy-but-greeces-pivot-to-pricey-us-gas-continues/bi/",
+        "publishedAt": "2026-11-20T07:01:34.000Z"
+      },
+      {
+        "title": "Fidan warns Türkiye-EU ties must not be held hostage by Greek Cyprus",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/eu-affairs/fidan-warns-turkiye-eu-ties-must-not-be-held-hostage-by-greek-cyprus",
+        "publishedAt": "2026-11-20T12:37:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGreece plans a new route for Ukrainian grain exports. [1]\n\nOUTLOOK\nA Polymarket market prices Kyriakos Mitsotakis being the next Prime Minister of Greece at 69% as of Nov 24, 2026, closing Jul 26, 2027. [E5]\n\nWATCH ITEMS\nWhether Türkiye-EU ties will be held hostage by Greek Cyprus, as warned by Fidan. [5]\nWhether Greece will sustain its 12-mile dispute with Türkiye. [3]",
+      "generatedAt": "2026-11-24T04:27:05.417Z",
+      "sources": [
+        {
+          "title": "Greece plans new route for Ukrainian grain exports",
+          "source": "NV EN",
+          "url": "https://english.nv.ua/nation/greece-plans-new-route-for-ukrainian-grain-exports-50661947.html",
+          "publishedAt": "2026-11-24T01:12:00.000Z"
+        },
+        {
+          "title": "'Return the Marbles': Greece renews demand for Parthenon relics at Acropolis Museum reopening",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/return-the-marbles-greece-renews-demand-for-parthenon-relics-at-acropolis-museum-reopening",
+          "publishedAt": "2026-11-23T15:36:32.000Z"
+        },
+        {
+          "title": "Greece insists on sustaining 12-mile dispute with Türkiye",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/greece-insists-on-sustaining-12-mile-dispute-with-turkiye/news",
+          "publishedAt": "2026-11-22T11:33:00.000Z"
+        },
+        {
+          "title": "Scandal Topples US Envoy, But Greece’s Pivot to Pricey American Gas Continues",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/scandal-topples-us-envoy-but-greeces-pivot-to-pricey-us-gas-continues/bi/",
+          "publishedAt": "2026-11-20T07:01:34.000Z"
+        },
+        {
+          "title": "Fidan warns Türkiye-EU ties must not be held hostage by Greek Cyprus",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/eu-affairs/fidan-warns-turkiye-eu-ties-must-not-be-held-hostage-by-greek-cyprus",
+          "publishedAt": "2026-11-20T12:37:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "69%",
+          "factText": "A Polymarket market related to Greece, \"Will Kyriakos Mitsotakis be the next Prime Minister of Greece?\", priced Yes at 69% on Nov 24, 2026; it closes Jul 26, 2027.",
+          "asOf": "2026-11-24T04:20:45.018Z",
+          "url": "https://polymarket.com/event/next-prime-minister-of-greece-20260714160853421"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

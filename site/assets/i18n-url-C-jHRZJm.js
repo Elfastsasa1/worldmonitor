@@ -1,0 +1,3 @@
+function e(a){try{return new URL(a).searchParams.get("lang")||void 0}catch{return}}function u(a){try{const n=new URL(a);return n.searchParams.has("lang")?(n.searchParams.delete("lang"),n.toString()):a}catch{return a}}const t="wm-locale-explicit";function c(a,n){try{const r=a==null?void 0:a.getItem(t);return r&&n.has(r)?r:null}catch{return null}}export{t as E,c as a,e as r,u as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["i18n-url-C-jHRZJm.js"]=1;

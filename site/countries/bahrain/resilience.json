@@ -1,0 +1,181 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "slug": "bahrain",
+  "rank": 124,
+  "overallScore": 46.2,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bahrain can't escape responsibility for easing US aggression",
+        "source": "Mehr News",
+        "url": "https://en.mehrnews.com/news/249646/Bahrain-can-t-escape-responsibility-for-easing-US-aggression",
+        "publishedAt": "2026-11-24T04:12:40.000Z"
+      },
+      {
+        "title": "Oman Embassy in Bahrain marks National Day",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1200143/oman/oman-embassy-in-bahrain-marks-national-day",
+        "publishedAt": "2026-11-23T12:46:10.000Z"
+      },
+      {
+        "title": "Qatar strongly condemns Iranian attack on civilian industrial facility in Bahrain",
+        "source": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/738755/qatar/qatar-strongly-condemns-iranian-attack-on-civilian-industrial-facility-in-bahrain",
+        "publishedAt": "2026-11-22T12:19:00.000Z"
+      },
+      {
+        "title": "Bahrain industrial site, US positions targeted by fresh Iran strikes",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/world/mid-east/bahrain-industrial-site-us-positions-targeted-by-fresh-iran-strikes",
+        "publishedAt": "2026-11-22T11:51:00.000Z"
+      },
+      {
+        "title": "Two injured, one critically, in Iranian attack on industrial plant in Bahrain",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/",
+        "publishedAt": "2026-11-22T11:14:43.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIranian attacks targeted a civilian industrial facility in Bahrain and US positions, with two people injured, one critically. [4][5]\n\nKEY RISKS\nBahrain is linked to 5 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\nThe most severe government travel advisory World Monitor tracks for Bahrain is Reconsider Travel, as of Nov 24, 2026. [E1]",
+      "generatedAt": "2026-11-24T04:48:29.471Z",
+      "sources": [
+        {
+          "title": "Bahrain can't escape responsibility for easing US aggression",
+          "source": "Mehr News",
+          "url": "https://en.mehrnews.com/news/249646/Bahrain-can-t-escape-responsibility-for-easing-US-aggression",
+          "publishedAt": "2026-11-24T04:12:40.000Z"
+        },
+        {
+          "title": "Oman Embassy in Bahrain marks National Day",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1200143/oman/oman-embassy-in-bahrain-marks-national-day",
+          "publishedAt": "2026-11-23T12:46:10.000Z"
+        },
+        {
+          "title": "Qatar strongly condemns Iranian attack on civilian industrial facility in Bahrain",
+          "source": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/738755/qatar/qatar-strongly-condemns-iranian-attack-on-civilian-industrial-facility-in-bahrain",
+          "publishedAt": "2026-11-22T12:19:00.000Z"
+        },
+        {
+          "title": "Bahrain industrial site, US positions targeted by fresh Iran strikes",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/mid-east/bahrain-industrial-site-us-positions-targeted-by-fresh-iran-strikes",
+          "publishedAt": "2026-11-22T11:51:00.000Z"
+        },
+        {
+          "title": "Two injured, one critically, in Iranian attack on industrial plant in Bahrain",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/",
+          "publishedAt": "2026-11-22T11:14:43.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Bahrain is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "5",
+          "factText": "Bahrain is linked to 5 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 194 — in Bahrain",
+        "summary": "source: www.thevermilion.com",
+        "sourceUrl": "https://www.thevermilion.com/iran-attacks-american-bases-in-bahrain-with-missiles-and-drones-an-industrial-plant-also-hit/article_23187/",
+        "occurredAt": "2026-11-24T01:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Bahrain",
+        "summary": "source: www.al-monitor.com",
+        "sourceUrl": "https://www.al-monitor.com/originals/2026/11/rubio-meets-qatari-pm-iran-standoff-deepens",
+        "occurredAt": "2026-11-23T20:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Bahrain",
+        "summary": "source: voiceofvienna.org",
+        "sourceUrl": "https://voiceofvienna.org/fire-on-the-water-tankers-ablaze-as-hormuz-tensions-explode/",
+        "occurredAt": "2026-11-23T11:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Bahrain",
+        "summary": "source: www.newdelhitimes.com",
+        "sourceUrl": "https://www.newdelhitimes.com/bahrain-industrial-facility-iran-aerial-attack-2026/",
+        "occurredAt": "2026-11-23T10:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Bahrain",
+        "summary": "source: www.thehindubusinessline.com",
+        "sourceUrl": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-trade-lower-despite-tensions-in-west-asia/article71733355.ece",
+        "occurredAt": "2026-11-23T05:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Bahrain",
+        "summary": "source: www.cnbc.com",
+        "sourceUrl": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+        "occurredAt": "2026-11-23T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Bahrain",
+        "summary": "source: www.gdnonline.com",
+        "sourceUrl": "https://www.gdnonline.com/Details/1413593/Youth-stands-trial-over-assault-on-municipal-worker-and-theft",
+        "occurredAt": "2026-11-23T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Bahrain",
+        "summary": "source: www.gdnonline.com",
+        "sourceUrl": "https://www.gdnonline.com/Details/1413592/Shura-criticises-Iranian-attacks-on-civilian-facilities-",
+        "occurredAt": "2026-11-23T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Bahrain",
+        "summary": "source: www.gdnonline.com",
+        "sourceUrl": "https://www.gdnonline.com/Details/1413593/Youth-stands-trial-over-assault-on-municipal-worker-and-theft",
+        "occurredAt": "2026-11-23T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Bahrain",
+        "summary": "source: www.gdnonline.com",
+        "sourceUrl": "https://www.gdnonline.com/Details/1413593",
+        "occurredAt": "2026-11-22T22:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

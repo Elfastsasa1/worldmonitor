@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "slug": "uganda",
+  "rank": 143,
+  "overallScore": 41.7,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Coffee players push local processing to boost Uganda’s exports",
+        "source": "The Observer",
+        "url": "https://observer.ug/business/coffee-players-push-local-processing-to-boost-ugandas-exports/",
+        "publishedAt": "2026-11-24T04:15:22.000Z"
+      },
+      {
+        "title": "Dr David Nelson Okello takes the helm of Uganda Veterinary Association",
+        "source": "The Independent (Uganda)",
+        "url": "https://www.independent.co.ug/dr-david-nelson-okello-takes-the-helm-of-uganda-veterinary-association/",
+        "publishedAt": "2026-11-23T18:12:46.000Z"
+      },
+      {
+        "title": "Museveni meets Uganda’s ICC judicial candidate as Kampala weighs court’s future",
+        "source": "The Monitor Uganda",
+        "url": "https://www.monitor.co.ug/uganda/news/national/museveni-meets-uganda-s-icc-judicial-candidate-as-kampala-weighs-court-s-future-5681890",
+        "publishedAt": "2026-11-23T17:20:06.000Z"
+      },
+      {
+        "title": "Uganda minister at COP31: 'We need a just transition'",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-11-23T13:18:00.000Z"
+      },
+      {
+        "title": "Uganda Guides Rwandan Tour Operators Across Touristic Sites",
+        "source": "Taarifa Rwanda",
+        "url": "https://taarifa.rw/2026/11/21/uganda-guides-rwandan-tour-operators-across-touristic-sites/",
+        "publishedAt": "2026-11-21T15:01:30.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCoffee players are pushing local processing to boost Uganda's exports. [1]\nUganda's minister at COP31 stated the need for a just transition. [4]\n\nKEY RISKS\nThe most severe government travel advisory for Uganda is Do Not Travel, which may deter tourism and business travel. [E1]\n\nWATCH ITEMS\nWhether Kampala will decide on the future of the International Criminal Court as Museveni meets Uganda's ICC judicial candidate. [3]",
+      "generatedAt": "2026-11-24T04:56:57.610Z",
+      "sources": [
+        {
+          "title": "Coffee players push local processing to boost Uganda’s exports",
+          "source": "The Observer",
+          "url": "https://observer.ug/business/coffee-players-push-local-processing-to-boost-ugandas-exports/",
+          "publishedAt": "2026-11-24T04:15:22.000Z"
+        },
+        {
+          "title": "Dr David Nelson Okello takes the helm of Uganda Veterinary Association",
+          "source": "The Independent (Uganda)",
+          "url": "https://www.independent.co.ug/dr-david-nelson-okello-takes-the-helm-of-uganda-veterinary-association/",
+          "publishedAt": "2026-11-23T18:12:46.000Z"
+        },
+        {
+          "title": "Museveni meets Uganda’s ICC judicial candidate as Kampala weighs court’s future",
+          "source": "The Monitor Uganda",
+          "url": "https://www.monitor.co.ug/uganda/news/national/museveni-meets-uganda-s-icc-judicial-candidate-as-kampala-weighs-court-s-future-5681890",
+          "publishedAt": "2026-11-23T17:20:06.000Z"
+        },
+        {
+          "title": "Uganda minister at COP31: 'We need a just transition'",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-11-23T13:18:00.000Z"
+        },
+        {
+          "title": "Uganda Guides Rwandan Tour Operators Across Touristic Sites",
+          "source": "Taarifa Rwanda",
+          "url": "https://taarifa.rw/2026/11/21/uganda-guides-rwandan-tour-operators-across-touristic-sites/",
+          "publishedAt": "2026-11-21T15:01:30.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Uganda is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

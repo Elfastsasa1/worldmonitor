@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "slug": "argentina",
+  "rank": 99,
+  "overallScore": 50.7,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tesla anunció los precios de sus autos en la Argentina y lanzó opciones de financiación junto a dos bancos",
+        "source": "La Nación Argentina",
+        "url": "https://www.lanacion.com.ar/autos/tesla-anuncio-los-precios-de-sus-autos-en-la-argentina-y-lanzo-una-financiacion-junto-a-un-banco-nid20112026/",
+        "publishedAt": "2026-11-24T03:16:38.000Z"
+      },
+      {
+        "title": "Después de 110 años de ausencia, Argentina recupera a un emblemático animal que recorrió 3.200 kilómetros para regresar a su hábitat natural",
+        "source": "La República Peru",
+        "url": "https://larepublica.pe/mundo/2026/11/23/despues-de-110-anos-de-ausencia-argentina-recupera-a-un-emblematico-animal-que-recorrio-3200-kilometros-para-regresar-a-su-habitat-natural-1055194",
+        "publishedAt": "2026-11-23T20:36:48.000Z"
+      },
+      {
+        "title": "La aerolínea Plus Ultra suspende todas sus operaciones y afecta a pasajeros en España, Argentina, Venezuela, Colombia y Perú",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/economia/la-aerolinea-plus-ultra-suspende-todas-sus-operaciones-y-afecta-a-pasajeros-en-espana-argentina-venezuela-colombia-y-peru/",
+        "publishedAt": "2026-11-23T16:50:57.000Z"
+      },
+      {
+        "title": "Argentina: dólar blue hoy a cuánto cotiza este lunes 23 de noviembre",
+        "source": "RPP Noticias",
+        "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-23-de-noviembre-noticia-1719229",
+        "publishedAt": "2026-11-23T10:59:39.000Z"
+      },
+      {
+        "title": "Prosecutors: Argentina's top shrimp exporter dumped waste at sea through a hidden system",
+        "source": "MercoPress",
+        "url": "https://en.mercopress.com/2026/11/23/prosecutors-argentina-s-top-shrimp-exporter-dumped-waste-at-sea-through-a-hidden-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+        "publishedAt": "2026-11-23T04:02:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nProsecutors stated that Argentina's top shrimp exporter dumped waste at sea through a hidden system. [5]\n\nWATCH ITEMS\nWhether the airline Plus Ultra will resume operations after suspending all flights affecting passengers in multiple countries. [3]",
+      "generatedAt": "2026-11-24T04:47:55.224Z",
+      "sources": [
+        {
+          "title": "Tesla anunció los precios de sus autos en la Argentina y lanzó opciones de financiación junto a dos bancos",
+          "source": "La Nación Argentina",
+          "url": "https://www.lanacion.com.ar/autos/tesla-anuncio-los-precios-de-sus-autos-en-la-argentina-y-lanzo-una-financiacion-junto-a-un-banco-nid20112026/",
+          "publishedAt": "2026-11-24T03:16:38.000Z"
+        },
+        {
+          "title": "Después de 110 años de ausencia, Argentina recupera a un emblemático animal que recorrió 3.200 kilómetros para regresar a su hábitat natural",
+          "source": "La República Peru",
+          "url": "https://larepublica.pe/mundo/2026/11/23/despues-de-110-anos-de-ausencia-argentina-recupera-a-un-emblematico-animal-que-recorrio-3200-kilometros-para-regresar-a-su-habitat-natural-1055194",
+          "publishedAt": "2026-11-23T20:36:48.000Z"
+        },
+        {
+          "title": "La aerolínea Plus Ultra suspende todas sus operaciones y afecta a pasajeros en España, Argentina, Venezuela, Colombia y Perú",
+          "source": "La Prensa",
+          "url": "https://www.prensa.com/economia/la-aerolinea-plus-ultra-suspende-todas-sus-operaciones-y-afecta-a-pasajeros-en-espana-argentina-venezuela-colombia-y-peru/",
+          "publishedAt": "2026-11-23T16:50:57.000Z"
+        },
+        {
+          "title": "Argentina: dólar blue hoy a cuánto cotiza este lunes 23 de noviembre",
+          "source": "RPP Noticias",
+          "url": "https://rpp.pe/mundo/argentina/argentina-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-23-de-noviembre-noticia-1719229",
+          "publishedAt": "2026-11-23T10:59:39.000Z"
+        },
+        {
+          "title": "Prosecutors: Argentina's top shrimp exporter dumped waste at sea through a hidden system",
+          "source": "MercoPress",
+          "url": "https://en.mercopress.com/2026/11/23/prosecutors-argentina-s-top-shrimp-exporter-dumped-waste-at-sea-through-a-hidden-system?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "publishedAt": "2026-11-23T04:02:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

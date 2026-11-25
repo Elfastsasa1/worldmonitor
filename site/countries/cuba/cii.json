@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "CU",
+  "countryName": "Cuba",
+  "methodologyVersion": "v14",
+  "score": 50,
+  "approximate24HourMovement": 0,
+  "instabilityLevel": "Normal",
+  "observedAt": "2026-11-24T04:34:46.946Z",
+  "capturedAt": "2026-11-24",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

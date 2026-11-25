@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "slug": "mauritania",
+  "rank": 126,
+  "overallScore": 45.5,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mauritania Arrests Armed Polisario Members, Denies Apology Reports",
+        "source": "moroccoworldnews.com",
+        "url": "https://www.moroccoworldnews.com/2026/11/347786/mauritania-arrests-armed-polisario-members-denies-apology-reports/",
+        "publishedAt": "2026-11-23T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritania Report - MarcoPolis",
+        "source": "marcopolis.net",
+        "url": "https://marcopolis.net/mauritania-report-2",
+        "publishedAt": "2026-11-22T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritania Seizes 1.7 Tonnes of Cocaine",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/mauritania-seizes-1-7-tonnes-of-cocaine/",
+        "publishedAt": "2026-11-21T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Morocco, Mauritania Complete Studies for Joint Electricity Interconnection Project",
+        "source": "moroccoworldnews.com",
+        "url": "https://www.moroccoworldnews.com/2026/11/347026/morocco-mauritania-complete-studies-for-joint-electricity-interconnection-project/",
+        "publishedAt": "2026-11-19T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Mauritania : United States (U.S.) Company Cybastion and Mauritania Strengthen Digital Cooperation",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/mauritania--united-states-us-company-cybastion-and-mauritania-strengthen-digital-cooperation",
+        "publishedAt": "2026-11-18T13:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "slug": "vietnam",
+  "rank": 90,
+  "overallScore": 52.4,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
+        "source": "Good News Network",
+        "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
+        "publishedAt": "2026-11-23T22:00:41.000Z"
+      },
+      {
+        "title": "How ASEAN’s Digital Economy Framework Agreement (DEFA) Creates Opportunities for Businesses in Vietnam - Vietnam Briefing",
+        "source": "Asia VC News",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTdhQ2g1ajRDYmtzQ3ViOTFKU2RKZVd1MGtNTmRBV0t1M3I5UUNmYi03V2R6VjNINFUwU0RDY2NjZ2RTTEpNSjRNTkQ5WnNtUmhwbnhxajZoMDZ4RWRaQWRzbzNLQnZJVHlrc1ZzS01KcGd2YkpSbFJ5Q004QncxdzVJSlh0ZXlCUW9Xdlh2TUlieDg3c3ZNT1NJSE9ndmM3amR1ZmVIQ080Y2hEOFByLUd4ZlpHLU5WR3Y0TzZsUkNKNDhlZ3ZRekxZVG5BRkY4NmVxdEZvWnhCRG8?oc=5",
+        "publishedAt": "2026-11-23T13:15:07.000Z"
+      },
+      {
+        "title": "Kazakhstan's 'tech prodigy' receives Google funding at age 17. - Vietnam.vn",
+        "source": "Startup School",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUFMTzJBNjFJQWdMbHB6c0tvZzVqQV9pZHFodko1Vm5SNWF0Ulk1dURwV29VR25hV2dNZWxtRmltb1piQXpTTGRuM01KUmVmbFhaX044dHo5Rno3aDdzem5Zcm94dXAwSHF5aFFJMVp6eDhHS3RkTmtVemRXYnktdzhmRkI2LUhDZGpSODZvbw?oc=5",
+        "publishedAt": "2026-11-23T05:51:02.000Z"
+      },
+      {
+        "title": "The European Union launches a digital infrastructure alliance for education, increasing technological sovereignty. - Vietnam.vn",
+        "source": "EU Tech Policy",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQck9TQTVvZk9EVFJaZXY1OE1NNmgwV001WDltcDRYcmhDbHRycDAtVVdOd2thZzBsZ3FZclQ2S29Db0M4cmNMdUhTMlNoU05LcHpvSzgxUXZaUVVMMTZwOUlXQnlyclgxN0M0TEJBRFlsRWRKbkJUaHRqbTBmZ2kwdkJDYnBZdDZWV2JtU1VMVmZzc2UzeFBoNjNLTUlqeVluU2tNSzBMNGg?oc=5",
+        "publishedAt": "2026-11-21T03:24:56.000Z"
+      },
+      {
+        "title": "Many languages, one common neural code",
+        "source": "MIT Research",
+        "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+        "publishedAt": "2026-11-23T21:15:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nASEAN's Digital Economy Framework Agreement (DEFA) is creating opportunities for businesses in Vietnam. [2]\n\nKEY RISKS\nVietnam is linked to 23 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:57:16.149Z",
+      "sources": [
+        {
+          "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
+          "publishedAt": "2026-11-23T22:00:41.000Z"
+        },
+        {
+          "title": "How ASEAN’s Digital Economy Framework Agreement (DEFA) Creates Opportunities for Businesses in Vietnam - Vietnam Briefing",
+          "source": "Asia VC News",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTdhQ2g1ajRDYmtzQ3ViOTFKU2RKZVd1MGtNTmRBV0t1M3I5UUNmYi03V2R6VjNINFUwU0RDY2NjZ2RTTEpNSjRNTkQ5WnNtUmhwbnhxajZoMDZ4RWRaQWRzbzNLQnZJVHlrc1ZzS01KcGd2YkpSbFJ5Q004QncxdzVJSlh0ZXlCUW9Xdlh2TUlieDg3c3ZNT1NJSE9ndmM3amR1ZmVIQ080Y2hEOFByLUd4ZlpHLU5WR3Y0TzZsUkNKNDhlZ3ZRekxZVG5BRkY4NmVxdEZvWnhCRG8?oc=5",
+          "publishedAt": "2026-11-23T13:15:07.000Z"
+        },
+        {
+          "title": "Kazakhstan's 'tech prodigy' receives Google funding at age 17. - Vietnam.vn",
+          "source": "Startup School",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUFMTzJBNjFJQWdMbHB6c0tvZzVqQV9pZHFodko1Vm5SNWF0Ulk1dURwV29VR25hV2dNZWxtRmltb1piQXpTTGRuM01KUmVmbFhaX044dHo5Rno3aDdzem5Zcm94dXAwSHF5aFFJMVp6eDhHS3RkTmtVemRXYnktdzhmRkI2LUhDZGpSODZvbw?oc=5",
+          "publishedAt": "2026-11-23T05:51:02.000Z"
+        },
+        {
+          "title": "The European Union launches a digital infrastructure alliance for education, increasing technological sovereignty. - Vietnam.vn",
+          "source": "EU Tech Policy",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQck9TQTVvZk9EVFJaZXY1OE1NNmgwV001WDltcDRYcmhDbHRycDAtVVdOd2thZzBsZ3FZclQ2S29Db0M4cmNMdUhTMlNoU05LcHpvSzgxUXZaUVVMMTZwOUlXQnlyclgxN0M0TEJBRFlsRWRKbkJUaHRqbTBmZ2kwdkJDYnBZdDZWV2JtU1VMVmZzc2UzeFBoNjNLTUlqeVluU2tNSzBMNGg?oc=5",
+          "publishedAt": "2026-11-21T03:24:56.000Z"
+        },
+        {
+          "title": "Many languages, one common neural code",
+          "source": "MIT Research",
+          "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+          "publishedAt": "2026-11-23T21:15:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "23",
+          "factText": "Vietnam is linked to 23 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

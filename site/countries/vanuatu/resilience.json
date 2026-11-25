@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "slug": "vanuatu",
+  "rank": 61,
+  "overallScore": 56.7,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Vanuatu Students Included in VT18 Million Pacific Programme",
+        "source": "VBTC Vanuatu",
+        "url": "https://vbtc.vu/nuv-vcci-student-internship-placements-2027/?utm_source=rss&utm_medium=rss&utm_campaign=nuv-vcci-student-internship-placements-2027",
+        "publishedAt": "2026-11-24T02:27:41.000Z"
+      },
+      {
+        "title": "Tuvalu and Vanuatu join global push to end fossil fuel subsidies",
+        "source": "Islands Business",
+        "url": "https://islandsbusiness.com/news-break/tuvalu-and-vanuatu-join-global-push-to-end-fossil-fuel-subsidies/",
+        "publishedAt": "2026-11-23T23:27:21.000Z"
+      },
+      {
+        "title": "Vanuatu Formally Objects to COP31 Climate Decision",
+        "source": "VBTC Vanuatu",
+        "url": "https://vbtc.vu/vanuatu-objects-cop31-cover-decision/?utm_source=rss&utm_medium=rss&utm_campaign=vanuatu-objects-cop31-cover-decision",
+        "publishedAt": "2026-11-24T01:17:21.000Z"
+      },
+      {
+        "title": "[VANUATU NATIONAL PROVIDENT FUND] Expression of Interest: Independent Consultant – Tourism Commercial Project",
+        "source": "Islands Business",
+        "url": "https://islandsbusiness.com/pacific-jobs/vanuatu-national-provident-fund-expression-of-interest-independent-consultant-tourism-commercial-project/",
+        "publishedAt": "2026-11-23T10:35:31.000Z"
+      },
+      {
+        "title": "Vanuatu RSO Secures Six Key Priorities in COP31 Draft Text",
+        "source": "VBTC Vanuatu",
+        "url": "https://vbtc.vu/vanuatu-key-priorities-cop31-draft-text/?utm_source=rss&utm_medium=rss&utm_campaign=vanuatu-key-priorities-cop31-draft-text",
+        "publishedAt": "2026-11-20T06:12:24.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVanuatu has formally objected to the COP31 climate decision. [3]\nVanuatu and Tuvalu have joined a global push to end fossil fuel subsidies. [2]\n\nWATCH ITEMS\nWhether the Vanuatu National Provident Fund will proceed with its Expression of Interest for an Independent Consultant for a Tourism Commercial Project. [4]",
+      "generatedAt": "2026-11-24T04:36:39.472Z",
+      "sources": [
+        {
+          "title": "Vanuatu Students Included in VT18 Million Pacific Programme",
+          "source": "VBTC Vanuatu",
+          "url": "https://vbtc.vu/nuv-vcci-student-internship-placements-2027/?utm_source=rss&utm_medium=rss&utm_campaign=nuv-vcci-student-internship-placements-2027",
+          "publishedAt": "2026-11-24T02:27:41.000Z"
+        },
+        {
+          "title": "Tuvalu and Vanuatu join global push to end fossil fuel subsidies",
+          "source": "Islands Business",
+          "url": "https://islandsbusiness.com/news-break/tuvalu-and-vanuatu-join-global-push-to-end-fossil-fuel-subsidies/",
+          "publishedAt": "2026-11-23T23:27:21.000Z"
+        },
+        {
+          "title": "Vanuatu Formally Objects to COP31 Climate Decision",
+          "source": "VBTC Vanuatu",
+          "url": "https://vbtc.vu/vanuatu-objects-cop31-cover-decision/?utm_source=rss&utm_medium=rss&utm_campaign=vanuatu-objects-cop31-cover-decision",
+          "publishedAt": "2026-11-24T01:17:21.000Z"
+        },
+        {
+          "title": "[VANUATU NATIONAL PROVIDENT FUND] Expression of Interest: Independent Consultant – Tourism Commercial Project",
+          "source": "Islands Business",
+          "url": "https://islandsbusiness.com/pacific-jobs/vanuatu-national-provident-fund-expression-of-interest-independent-consultant-tourism-commercial-project/",
+          "publishedAt": "2026-11-23T10:35:31.000Z"
+        },
+        {
+          "title": "Vanuatu RSO Secures Six Key Priorities in COP31 Draft Text",
+          "source": "VBTC Vanuatu",
+          "url": "https://vbtc.vu/vanuatu-key-priorities-cop31-draft-text/?utm_source=rss&utm_medium=rss&utm_campaign=vanuatu-key-priorities-cop31-draft-text",
+          "publishedAt": "2026-11-20T06:12:24.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,167 @@
+# World Monitor Blog
+
+> Analysis, practical guides, and methodology for real-time global intelligence, OSINT, geopolitics, markets, supply chains, and AI agents.
+
+Canonical blog index: https://www.worldmonitor.app/blog/
+RSS feed: https://www.worldmonitor.app/blog/rss.xml
+Author: https://www.worldmonitor.app/blog/authors/elie-habib/
+
+## Articles
+
+- [Build a Custom OSINT Dashboard Without Coding](https://www.worldmonitor.app/blog/posts/build-custom-osint-dashboard-without-code/): Create a World Monitor widget with a plain-language prompt, inspect its preview and save it to your dashboard. Understand access, storage and data limits.
+  Published: 2026-11-17
+- [Strategic Water Levels: satellite lidar readings for 50 reservoirs](https://www.worldmonitor.app/blog/posts/strategic-water-levels-reservoirs-satellite-lidar/): World Monitor now tracks 50 strategic reservoirs and lakes with NASA ICESat-2 lidar. What the levels show, what each status means, and where the data stops.
+  Published: 2026-11-12
+- [Hormuz, Friday Night: The Tanker Claim Was Already on World Monitor](https://www.worldmonitor.app/blog/posts/hormuz-tanker-reports-awareness-gap/): UKMTO’s Hormuz warning came Monday. The IRGC tanker claim was in World Monitor Friday night, ranked and linked. Why that matters, and why it isn’t just RSS.
+  Published: 2026-10-29; updated: 2026-11-10
+- [How Reliable Are AI Intelligence Summaries?](https://www.worldmonitor.app/blog/posts/ai-intelligence-summary-reliability/): Check AI intelligence summaries against their sources, timestamps and evidence. A practical review workflow for WorldMonitor briefs and geopolitical research.
+  Published: 2026-10-26
+- [How Accurate Is AIS Vessel Tracking? A Guide for OSINT Research](https://www.worldmonitor.app/blog/posts/ais-vessel-tracking-accuracy/): Read AIS vessel positions, identity fields and transmission gaps with care. Learn what ship-tracking data can support in a WorldMonitor investigation.
+  Published: 2026-10-26
+- [What Real-Time Means in an Intelligence Dashboard](https://www.worldmonitor.app/blog/posts/real-time-intelligence-data-freshness/): Learn how event time, source publication, ingestion and refresh differ, so you can judge the freshness of news, flight, vessel and disaster data.
+  Published: 2026-10-26
+- [What Changed Since Your Last Country Briefing?](https://www.worldmonitor.app/blog/posts/country-risk-with-a-memory/): Compare daily country snapshots, check score versions and source times, and write a briefing update that keeps missing dates and uncertainty visible.
+  Published: 2026-10-19; updated: 2026-11-17
+- [14 Best Global Conflict Trackers in 2026: Choose by Use Case](https://www.worldmonitor.app/blog/posts/best-global-conflict-trackers-2026/): Compare 14 conflict trackers for live war maps, active-war lists, policy briefings, event data, and humanitarian analysis, with sources and clear limits.
+  Published: 2026-09-20; updated: 2026-11-17
+- [Military Flight Tracking for OSINT: Aircraft and Conflict Context](https://www.worldmonitor.app/blog/posts/military-flight-tracking-osint/): Track military aircraft with conflict context in WorldMonitor. Inspect activity, assess unusual flight patterns, and understand coverage and history limits.
+  Published: 2026-09-20
+- [We Grade Our Own Forecasts: Inside the Forecast Scorecard](https://www.worldmonitor.app/blog/posts/ai-forecast-accuracy-brier-scorecard-worldmonitor/): How WorldMonitor scores its AI forecasts, with a July 2026 snapshot of 32 forecasts. An audit found scoring errors and withdrew those figures in October 2026.
+  Published: 2026-07-21; updated: 2026-10-07
+- [Geopolitical Alerts in Slack and Telegram](https://www.worldmonitor.app/blog/posts/alerts-notification-channels-worldmonitor/): Connect Slack or Telegram to World Monitor, choose supported alerts or digests, and configure scope and quiet hours. Understand access and delivery limits.
+  Published: 2026-07-21; updated: 2026-11-17
+- [Aviation Intelligence: Airports, Airspace, and Flight Prices as Signals](https://www.worldmonitor.app/blog/posts/aviation-intelligence-airports-airspace-flight-prices/): Track global airports, FAA delays, NOTAM closures, military aircraft, GPS jamming, and live flight prices with WorldMonitor.
+  Published: 2026-07-21; updated: 2026-09-20
+- [Monitor Disease Outbreaks and Air Quality on One Map](https://www.worldmonitor.app/blog/posts/disease-outbreak-air-quality-monitoring-health-signals/): WorldMonitor merges WHO outbreak news, CDC travel notices, and outbreak trackers with OpenAQ and WAQI air-quality sensors into one global health-signals layer.
+  Published: 2026-07-21; updated: 2026-07-22
+- [The Energy Security Dashboard: Oil, Gas, and Grid Risk on One Screen](https://www.worldmonitor.app/blog/posts/energy-security-dashboard-worldmonitor/): Explore WorldMonitor's energy dashboard: panels covering chokepoints, pipelines, gas storage, fuel shortages, crisis policies, and prices.
+  Published: 2026-07-21; updated: 2026-07-22
+- [Track Government Tenders Worldwide in One Feed](https://www.worldmonitor.app/blog/posts/government-tenders-procurement-intelligence-worldmonitor/): WorldMonitor aggregates public tenders from SAM.gov, TED, Contracts Finder, CanadaBuys, GETS, and the World Bank into one searchable procurement feed.
+  Published: 2026-07-21; updated: 2026-07-22
+- [Ground-Truth Inflation: Tracking Real Shelf Prices, Not Just CPI](https://www.worldmonitor.app/blog/posts/ground-truth-inflation-shelf-price-tracking-worldmonitor/): WorldMonitor tracks supermarket shelf prices across four UAE retailers and compares them with the Big Mac Index, FAO food prices, fuel prices, and IMF CPI.
+  Published: 2026-07-21; updated: 2026-07-22
+- [Sanctions Monitoring: Designations and Country Pressure in Real Time](https://www.worldmonitor.app/blog/posts/monitor-global-sanctions-pressure-worldmonitor/): WorldMonitor tracks OFAC SDN and consolidated designations, computes country sanctions pressure, and folds exposure into country risk on the map and via API.
+  Published: 2026-07-21; updated: 2026-07-22
+- [The Good News Dashboard: Positive News with an Intelligence Engine](https://www.worldmonitor.app/blog/posts/positive-news-dashboard-happy-worldmonitor/): Explore Happy Monitor's positive-news catalog covering conservation wins, scientific breakthroughs, clean energy, and live human-progress indicators.
+  Published: 2026-07-21; updated: 2026-11-17
+- [Real-Time Radiation Monitoring: Read the Sensors, Not the Rumors](https://www.worldmonitor.app/blog/posts/real-time-radiation-monitoring-radnet-safecast/): WorldMonitor merges EPA RadNet stations and Safecast citizen sensors into a live radiation layer, with nuclear sites and IAEA irradiators for map context.
+  Published: 2026-07-21; updated: 2026-07-22
+- [Track Tariffs and Trade Policy Before They Hit Your Costs](https://www.worldmonitor.app/blog/posts/tariff-tracker-trade-policy-monitoring-worldmonitor/): Track WTO tariff baselines, US customs revenue, food-price indices, and trade news in WorldMonitor to spot policy shifts before they reach invoices.
+  Published: 2026-07-21; updated: 2026-07-22
+- [Track Refugee and Displacement Flows with UNHCR Data](https://www.worldmonitor.app/blog/posts/track-refugee-displacement-flows-unhcr-worldmonitor/): WorldMonitor maps refugee and IDP populations from UNHCR's official API — displacement flows on the map, a dedicated panel, and structured data for agents.
+  Published: 2026-07-21; updated: 2026-07-22
+- [WorldMonitor Is Not an Open-Source Palantir](https://www.worldmonitor.app/blog/posts/worldmonitor-is-not-palantir/): WorldMonitor turns public data across markets, trade, conflict, energy, and infrastructure into live dashboards, APIs, and agent tools — not a Palantir clone.
+  Published: 2026-07-21; updated: 2026-07-22
+- [Free vs. Paid Real-Time Intelligence Dashboards: What to Compare](https://www.worldmonitor.app/blog/posts/free-vs-paid-real-time-intelligence-dashboards/): Compare free and paid intelligence dashboards using seven buying criteria and 2026 price anchors ranging from $0 to $24,000 per year.
+  Published: 2026-07-07; updated: 2026-10-18
+- [What the Data Showed 72 Hours Before a Geopolitical Shock](https://www.worldmonitor.app/blog/posts/72-hour-geopolitical-event-retro-template-worldmonitor/): A reusable 72-hour retro template for investigating whether signals were visible before a chokepoint, conflict, market, cyber, or humanitarian event escalated.
+  Published: 2026-06-13; updated: 2026-07-22
+- [Country Resilience Index Methodology](https://www.worldmonitor.app/blog/posts/country-resilience-index-methodology-explained/): A practical guide to the WorldMonitor Country Resilience Index: 72 indicators across 21 active dimensions and 6 domains, with transparent 0-100 scoring.
+  Published: 2026-06-13; updated: 2026-07-22
+- [Critical Minerals and HHI: Measuring Supply Concentration Risk](https://www.worldmonitor.app/blog/posts/critical-minerals-hhi-supply-risk-explained/): How WorldMonitor uses 2024 production data and the Herfindahl-Hirschman Index to explain supply concentration in lithium, cobalt, rare earths, and more.
+  Published: 2026-06-13; updated: 2026-07-22
+- [Geopolitical Risk Monitoring for Traders and Analysts](https://www.worldmonitor.app/blog/posts/geopolitics-to-markets-pipeline-macro-traders-worldmonitor/): Connect geopolitical reporting to market exposure. Build a research watchlist, compare source dates and separate observed prices from hypothetical scenarios.
+  Published: 2026-06-13; updated: 2026-11-17
+- [Humanitarian Situational Awareness Workflow](https://www.worldmonitor.app/blog/posts/humanitarian-situational-awareness-ngo-security-monitoring-worldmonitor/): A field-security workflow for NGOs using displacement, humanitarian summaries, advisories, disease alerts, disasters, and country-risk context.
+  Published: 2026-06-13; updated: 2026-07-22
+- [Self-Host WorldMonitor: Run an Open Source OSINT Dashboard Locally](https://www.worldmonitor.app/blog/posts/self-host-worldmonitor-open-source-osint-dashboard/): A practical overview of self-hosting WorldMonitor with Docker or Podman, required secrets, Redis, seeders, optional API keys, and AGPL responsibilities.
+  Published: 2026-06-13; updated: 2026-07-22
+- [Stress-Test a Supply Chain Against a Chokepoint Disruption](https://www.worldmonitor.app/blog/posts/stress-test-supply-chain-scenario-engine-worldmonitor/): Choose a disruption scenario, set country and closure severity, inspect coverage and save the assumptions without treating modeled scores as financial losses.
+  Published: 2026-06-13; updated: 2026-11-17
+- [What Is a Maritime Chokepoint?](https://www.worldmonitor.app/blog/posts/what-is-a-maritime-chokepoint/): Learn what maritime chokepoints are, how WorldMonitor tracks its waterway registry, and how to interpret live flow estimates, disruptions, and status scores.
+  Published: 2026-06-13; updated: 2026-09-10
+- [Embed a Live Global Intelligence Map in Any Article](https://www.worldmonitor.app/blog/posts/embed-live-global-map-worldmonitor/): World Monitor now supports a public iframe map for conflicts, earthquakes, protests, and weather, with attribution and validated embed parameters.
+  Published: 2026-06-11; updated: 2026-07-22
+- [Ask Claude What's Happening in the World](https://www.worldmonitor.app/blog/posts/ask-claude-whats-happening-worldmonitor-mcp/): Connect Claude to WorldMonitor's MCP server so non-developers can ask live questions about conflicts, markets, chokepoints, country risk, and breaking news.
+  Published: 2026-06-10; updated: 2026-07-22
+- [Build a Geopolitical Risk Agent with WorldMonitor MCP](https://www.worldmonitor.app/blog/posts/build-geopolitical-risk-agent-worldmonitor-mcp/): Give Claude, Cursor, or your own AI agent live conflict, market, maritime, aviation, and country-risk context through WorldMonitor's MCP server.
+  Published: 2026-06-10; updated: 2026-07-22
+- [Country Risk Due Diligence with WorldMonitor](https://www.worldmonitor.app/blog/posts/country-risk-monitoring-due-diligence-worldmonitor/): Use CII, advisory provenance, sanctions, macro indicators, and conflict events to screen country exposure before investments, suppliers, trips, or market entry.
+  Published: 2026-06-10; updated: 2026-09-10
+- [Energy Shock Monitoring: Chokepoints, Fuel, and Markets](https://www.worldmonitor.app/blog/posts/energy-shock-monitoring-chokepoints-worldmonitor/): How analysts can monitor oil, gas, electricity, maritime chokepoints, fuel shortages, and policy responses with WorldMonitor before an energy shock spreads.
+  Published: 2026-06-10; updated: 2026-09-10
+- [Free Geopolitical Data APIs in 2026](https://www.worldmonitor.app/blog/posts/free-geopolitical-data-apis-2026/): A practical comparison of ACLED, GDELT, UCDP, USGS, NASA FIRMS, Cloudflare Radar, and WorldMonitor for developers building geopolitical risk tools.
+  Published: 2026-06-10; updated: 2026-06-13
+- [Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor](https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/): Turn WorldMonitor API and MCP data into practical alerts for country risk, chokepoints, cyber threats, forecasts, and data freshness without alert fatigue.
+  Published: 2026-06-10; updated: 2026-07-22
+- [Build a Supply Chain Early Warning Dashboard with WorldMonitor's API](https://www.worldmonitor.app/blog/posts/supply-chain-early-warning-dashboard-worldmonitor-api/): A practical blueprint for monitoring chokepoints, port activity, energy disruption, trade policy, and commodity signals before procurement surprises.
+  Published: 2026-06-10; updated: 2026-09-10
+- [Give Your AI Agent Eyes on the World: The World Monitor MCP Server](https://www.worldmonitor.app/blog/posts/worldmonitor-mcp-server-ai-agents-real-time-intelligence/): Connect Claude, Cursor, or any MCP client to live geopolitical intelligence tools. Real-time country risk, conflicts, chokepoints, and markets for AI agents.
+  Published: 2026-06-10; updated: 2026-07-22
+- [Build a Supply-Chain Early-Warning System in an Afternoon](https://www.worldmonitor.app/blog/posts/build-supply-chain-early-warning-system-api/): Score your trade lanes for chokepoint exposure, subscribe to disruption webhooks, and pipe alerts to Slack with this World Monitor API tutorial.
+  Published: 2026-06-08; updated: 2026-09-10
+- [Monitor Country Risk Like an Intelligence Agency](https://www.worldmonitor.app/blog/posts/country-risk-monitoring-workflow-for-analysts/): A four-step country risk workflow: baseline scores, dossier deep-dives, continuous watch, and automated alerts across free and Pro tools.
+  Published: 2026-06-06; updated: 2026-09-10
+- [Investigate Breaking News with OSINT](https://www.worldmonitor.app/blog/posts/verify-breaking-news-osint-workflow-journalists/): Compare breaking-news reports with flight, vessel and outage observations. Record source provenance, timestamps, coverage gaps and unresolved claims.
+  Published: 2026-06-04; updated: 2026-11-17
+- [The 15-Minute Morning Intelligence Briefing: A Repeatable Daily Workflow](https://www.worldmonitor.app/blog/posts/daily-intelligence-briefing-workflow-15-minutes/): A minute-by-minute morning briefing routine for analysts: world brief, risk movers, watchlists, regional context, forward indicators, and automation.
+  Published: 2026-06-02; updated: 2026-07-22
+- [Country Instability Index: How Real-Time Risk Scoring Works](https://www.worldmonitor.app/blog/posts/country-instability-index-methodology-explained/): World Monitor explains CII signal weights, baseline blending, score floors, and what a 0-100 country instability score means for analysts.
+  Published: 2026-05-30; updated: 2026-09-01
+- [Monitor Shipping Chokepoint Risk with World Monitor](https://www.worldmonitor.app/blog/posts/tracking-global-trade-routes-chokepoints-freight-costs/): Compare shipping chokepoint observations, conflict context and freight benchmarks. Learn to separate measured transits, modeled flow and missing coverage.
+  Published: 2026-03-15; updated: 2026-11-17
+- [World Monitor vs Bloomberg, Palantir, Dataminr, and Recorded Future](https://www.worldmonitor.app/blog/posts/worldmonitor-vs-traditional-intelligence-tools/): Compare World Monitor with Bloomberg, Palantir, Dataminr, and Recorded Future across capabilities, licensing models, and data coverage.
+  Published: 2026-03-11; updated: 2026-10-18
+- [Build on World Monitor: APIs and Developer Platform](https://www.worldmonitor.app/blog/posts/build-on-worldmonitor-developer-api-open-source/): Build intelligence apps on World Monitor's typed API: generated services, Protocol Buffers, edge functions, and TypeScript clients. AGPL-3.0.
+  Published: 2026-03-09; updated: 2026-10-18
+- [Private AI Intelligence: World Monitor Without the Cloud](https://www.worldmonitor.app/blog/posts/ai-powered-intelligence-without-the-cloud/): Run AI-powered intelligence analysis on your own hardware. World Monitor supports Ollama, LM Studio, and in-browser ML for private geopolitical analysis.
+  Published: 2026-03-07
+- [Cmd+K: Search Everything on the Planet in Under a Second](https://www.worldmonitor.app/blog/posts/command-palette-search-everything-instantly/): Fuzzy-search countries, map layers, and commands with World Monitor's Cmd+K palette. Multilingual, keyboard-driven intelligence access.
+  Published: 2026-03-06; updated: 2026-07-22
+- [Intelligence Without Borders: Multilingual World Monitor](https://www.worldmonitor.app/blog/posts/worldmonitor-in-21-languages-global-intelligence-for-everyone/): World Monitor supports localized interfaces with full RTL Arabic, CJK, and locale-specific news feeds. AI analysis and search in your preferred language, free.
+  Published: 2026-03-04; updated: 2026-07-22
+- [Prediction Markets and AI Forecasting in World Monitor](https://www.worldmonitor.app/blog/posts/prediction-markets-ai-forecasting-geopolitics/): World Monitor combines Polymarket odds with AI geopolitical forecasting, putting market probabilities beside live intelligence for actionable context.
+  Published: 2026-03-03; updated: 2026-07-22
+- [Watch the World Live: Webcam Streams from Geopolitical Hotspots](https://www.worldmonitor.app/blog/posts/live-webcams-from-geopolitical-hotspots/): Stream live webcams from Tehran, Kyiv, Jerusalem, Taipei, and beyond. Get real-time situational awareness from global regions on World Monitor, free.
+  Published: 2026-03-01; updated: 2026-07-22
+- [Satellite Imagery OSINT in Your Browser](https://www.worldmonitor.app/blog/posts/satellite-imagery-orbital-surveillance/): Access satellite imagery for geopolitical hotspots in World Monitor. Search by location, time, and cloud cover, then overlay it on live intelligence layers.
+  Published: 2026-02-28; updated: 2026-06-13
+- [Monitor Global Supply Chains and Commodity Disruptions in Real Time](https://www.worldmonitor.app/blog/posts/monitor-global-supply-chains-and-commodity-disruptions/): Track commodity prices, port disruptions, pipeline infrastructure, and supply chain risks in real time. Free supply chain monitoring dashboard on World Monitor.
+  Published: 2026-02-26; updated: 2026-09-10
+- [Cyber Threat Intelligence with Geopolitical Context](https://www.worldmonitor.app/blog/posts/cyber-threat-intelligence-for-security-teams/): Track botnets, malware URLs, and internet outages with geopolitical context. Integrates Feodo Tracker, URLhaus, and AlienVault OTX on one map.
+  Published: 2026-02-24
+- [Real-Time Market Intelligence with World Monitor Finance](https://www.worldmonitor.app/blog/posts/real-time-market-intelligence-for-traders-and-analysts/): Monitor stock exchanges, central banks, commodities, and macro signals in one free dashboard. World Monitor Finance gives traders the geopolitical edge.
+  Published: 2026-02-21; updated: 2026-07-22
+- [Real-Time Natural Disaster Monitoring with World Monitor](https://www.worldmonitor.app/blog/posts/natural-disaster-monitoring-earthquakes-fires-volcanoes/): Track earthquakes, satellite-detected fires, volcanic eruptions, and floods in real time. Free disaster monitoring with geopolitical context on World Monitor.
+  Published: 2026-02-19; updated: 2026-07-22
+- [Free OSINT Dashboard and Live Tracker Map](https://www.worldmonitor.app/blog/posts/osint-for-everyone-open-source-intelligence-democratized/): Track conflict, ships and aircraft on World Monitor's free live OSINT map. Follow a regional workflow and understand AI access, timestamps and coverage limits.
+  Published: 2026-02-17; updated: 2026-11-17
+- [Track Global Conflicts: Sources, Maps and AI Summaries](https://www.worldmonitor.app/blog/posts/track-global-conflicts-in-real-time/): Use World Monitor to follow conflict reporting and map context. Check event dates, source coverage and AI summaries before drawing conclusions.
+  Published: 2026-02-14; updated: 2026-11-17
+- [Specialized Intelligence Dashboards on One Platform](https://www.worldmonitor.app/blog/posts/five-dashboards-one-platform-worldmonitor-variants/): Explore World Monitor dashboards for geopolitics, technology, finance, commodities, positive news, and energy, all built on one platform.
+  Published: 2026-02-12; updated: 2026-07-22
+- [What Is World Monitor? The Free Real-Time Global Intelligence Dashboard](https://www.worldmonitor.app/blog/posts/what-is-worldmonitor-real-time-global-intelligence/): World Monitor is a free, open-source intelligence dashboard correlating conflicts, markets, shipping, infrastructure, and live news on one map.
+  Published: 2026-02-10; updated: 2026-10-26
+
+## Comparisons and buying guides
+
+- [All buying guides](https://www.worldmonitor.app/blog/guides/)
+- [ACLED alternatives for intelligence teams](https://www.worldmonitor.app/blog/alternatives/acled/): ACLED alternatives ranked by why teams leave: access limits, live monitoring, alerts and API. Compare World Monitor, Liveuamap and Recorded Future.
+- [Crisis24 alternatives for intelligence teams](https://www.worldmonitor.app/blog/alternatives/crisis24/): Crisis24 alternatives ranked by why teams leave: cost, self-serve access, alert routing and API. Compare World Monitor, Factal, Dataminr and Recorded Future.
+- [Dataminr alternatives for intelligence teams](https://www.worldmonitor.app/blog/alternatives/dataminr/): Dataminr alternatives for breaking alerts, ranked by cost, self-serve access, verification and API: World Monitor, Factal, Liveuamap and Recorded Future.
+- [Factal alternatives for intelligence teams](https://www.worldmonitor.app/blog/alternatives/factal/): Factal alternatives for incident alerts, ranked by published pricing, self-serve rules, alert routing and API. Compare World Monitor, Dataminr and Liveuamap.
+- [Liveuamap alternatives for intelligence teams](https://www.worldmonitor.app/blog/alternatives/liveuamap/): Liveuamap alternatives ranked by wider coverage, alert rules, API access and structured data. Compare World Monitor, ACLED, Factal and Dataminr.
+- [Recorded Future alternatives for intelligence teams](https://www.worldmonitor.app/blog/alternatives/recorded-future/): Recorded Future alternatives ranked by cost, self-serve access, alerts and API. Compare World Monitor, Dataminr, Factal and Crisis24 for geopolitical risk.
+- [Best conflict data platforms for researchers](https://www.worldmonitor.app/blog/best/conflict-data-platforms-for-researchers/): Compare conflict data platforms for researchers: ACLED for coded event datasets, World Monitor for live cross-domain context and API, and Liveuamap for cases.
+- [Best conflict monitoring tools for humanitarian teams](https://www.worldmonitor.app/blog/best/conflict-monitoring-tools-for-humanitarian-teams/): Compare conflict monitoring tools for NGOs: ACLED for trend data, Crisis24 for staff assistance, World Monitor (free map, Pro country alerts), and Factal.
+- [Best geopolitical monitoring tools for energy analysts](https://www.worldmonitor.app/blog/best/geopolitical-monitoring-tools-for-energy-analysts/): Compare geopolitical tools for energy analysts: World Monitor for live Hormuz and Red Sea chokepoint traffic, Dataminr for site alerts, and Recorded Future.
+- [Best geopolitical monitoring tools for journalists](https://www.worldmonitor.app/blog/best/geopolitical-monitoring-tools-for-journalists/): Compare geopolitical monitoring tools for journalists: Liveuamap for one conflict, World Monitor for tiered source labels, ACLED for trends, and Factal.
+- [Best geopolitical risk tools for supply chain teams](https://www.worldmonitor.app/blog/best/geopolitical-risk-tools-for-supply-chain-teams/): Compare geopolitical risk tools for supply chain teams: World Monitor for live chokepoint traffic and route alerts, Dataminr for sites, and Recorded Future.
+- [Best global intelligence dashboards for macro analysts](https://www.worldmonitor.app/blog/best/global-intelligence-dashboards-for-macro-analysts/): Compare global intelligence dashboards for macro analysts: World Monitor for live events, chokepoints and markets, ACLED for conflict data, Recorded Future.
+- [Best intelligence APIs for developers](https://www.worldmonitor.app/blog/best/intelligence-apis-for-developers/): Compare geopolitical intelligence APIs for developers and AI agents: World Monitor for self-serve REST, SDKs and MCP, Recorded Future, and ACLED event data.
+- [Best OSINT dashboards for students](https://www.worldmonitor.app/blog/best/osint-dashboards-for-students/): Compare OSINT dashboards for students: World Monitor for a free, open-source global map with tiered source labels, ACLED for conflict coding, and Liveuamap.
+- [Best risk intelligence platforms for corporate security teams](https://www.worldmonitor.app/blog/best/risk-intelligence-platforms-for-corporate-security-teams/): Compare risk intelligence platforms for corporate security teams: Dataminr for GSOCs, World Monitor for self-serve alerts, Recorded Future and Crisis24.
+- [Best travel risk tools for travel managers](https://www.worldmonitor.app/blog/best/travel-risk-tools-for-travel-managers/): Compare travel risk tools for travel managers: Crisis24 for duty-of-care assistance, Dataminr for enterprise alerts, and World Monitor for country alerts.
+- [World Monitor vs ACLED](https://www.worldmonitor.app/blog/vs/acled/): World Monitor vs ACLED for conflict tracking: ACLED provides coded research datasets, while World Monitor adds a live map, country alerts, REST API and MCP.
+- [World Monitor vs Crisis24](https://www.worldmonitor.app/blog/vs/crisis24/): World Monitor vs Crisis24 for travel and security risk: Crisis24 covers traveler assistance, while World Monitor offers self-serve country alerts and an API.
+- [World Monitor vs Dataminr](https://www.worldmonitor.app/blog/vs/dataminr/): World Monitor vs Dataminr for breaking event alerts: Dataminr offers enterprise SLA detection, while World Monitor provides self-serve alert rules and API.
+- [World Monitor vs Factal](https://www.worldmonitor.app/blog/vs/factal/): World Monitor vs Factal for incident alerts: Factal has 24/7 journalist verification, while World Monitor offers self-serve alert rules, webhooks, API and MCP.
+- [World Monitor vs Liveuamap](https://www.worldmonitor.app/blog/vs/liveuamap/): World Monitor vs Liveuamap for conflict maps: Liveuamap offers low-cost regional conflict feeds, while World Monitor adds shipping, flights, alerts and API.
+- [World Monitor vs Recorded Future](https://www.worldmonitor.app/blog/vs/recorded-future/): World Monitor vs Recorded Future for risk intelligence: Recorded Future covers enterprise cyber investigations, while World Monitor offers self-serve alerts.
+
+## Related machine-readable resources
+
+- [World Monitor overview](https://www.worldmonitor.app/llms.txt)
+- [Extended platform reference](https://www.worldmonitor.app/llms-full.txt)
+- [Developer and API reference](https://www.worldmonitor.app/api/llms.txt)
+- [Global intelligence glossary](https://www.worldmonitor.app/blog/glossary/)

@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "slug": "iraq",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.7,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lực lượng người Kurd rút khỏi loạt căn cứ ở miền bắc Iraq",
+        "source": "Thanh Niên",
+        "url": "https://thanhnien.vn/luc-luong-nguoi-kurd-rut-khoi-loat-can-cu-o-mien-bac-iraq-185261124105427736.htm",
+        "publishedAt": "2026-11-24T04:02:00.000Z"
+      },
+      {
+        "title": "Iraq’s Oil Minister Denies Ouster Rumors as Najaf Smuggling Scandal Widens",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/iraqs-oil-minister-denies-ouster-rumors-as-najaf-smuggling-scandal-widens",
+        "publishedAt": "2026-11-23T19:06:00.000Z"
+      },
+      {
+        "title": "Al-Sisi, Iraqi PM discuss regional de-escalation, energy, trade and water security",
+        "source": "Daily News Egypt",
+        "url": "https://dailynewsegypt.com/2026/11/23/al-sisi-iraqi-pm-discuss-regional-de-escalation-energy-trade-and-water-security/",
+        "publishedAt": "2026-11-23T17:44:15.000Z"
+      },
+      {
+        "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
+        "publishedAt": "2026-11-23T17:40:31.000Z"
+      },
+      {
+        "title": "PKK abandons more shelters in Iraq as terror-free Türkiye gains pace",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/war-on-terror/pkk-abandons-more-shelters-in-iraq-as-terror-free-turkiye-gains-pace",
+        "publishedAt": "2026-11-23T11:17:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIraq’s Oil Minister denies ouster rumors as the Najaf smuggling scandal widens. [2]\n\nKEY RISKS\nThe most severe government travel advisory for Iraq is Do Not Travel, indicating a high risk for foreign nationals. [E2]\n\nWATCH ITEMS\nWhether the PKK will abandon more shelters in Iraq as Türkiye pursues a terror-free agenda. [5]\nWhether the Najaf smuggling scandal will lead to the ouster of Iraq’s Oil Minister. [2]",
+      "generatedAt": "2026-11-24T04:51:54.012Z",
+      "sources": [
+        {
+          "title": "Lực lượng người Kurd rút khỏi loạt căn cứ ở miền bắc Iraq",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/luc-luong-nguoi-kurd-rut-khoi-loat-can-cu-o-mien-bac-iraq-185261124105427736.htm",
+          "publishedAt": "2026-11-24T04:02:00.000Z"
+        },
+        {
+          "title": "Iraq’s Oil Minister Denies Ouster Rumors as Najaf Smuggling Scandal Widens",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/iraqs-oil-minister-denies-ouster-rumors-as-najaf-smuggling-scandal-widens",
+          "publishedAt": "2026-11-23T19:06:00.000Z"
+        },
+        {
+          "title": "Al-Sisi, Iraqi PM discuss regional de-escalation, energy, trade and water security",
+          "source": "Daily News Egypt",
+          "url": "https://dailynewsegypt.com/2026/11/23/al-sisi-iraqi-pm-discuss-regional-de-escalation-energy-trade-and-water-security/",
+          "publishedAt": "2026-11-23T17:44:15.000Z"
+        },
+        {
+          "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
+          "publishedAt": "2026-11-23T17:40:31.000Z"
+        },
+        {
+          "title": "PKK abandons more shelters in Iraq as terror-free Türkiye gains pace",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/war-on-terror/pkk-abandons-more-shelters-in-iraq-as-terror-free-turkiye-gains-pace",
+          "publishedAt": "2026-11-23T11:17:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Iraq is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: www.unc.edu",
+        "sourceUrl": "https://www.unc.edu/posts/2026/11/23/former-army-medic-embarks-on-physician-assistant-career/",
+        "occurredAt": "2026-11-24T00:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: www.stripes.com",
+        "sourceUrl": "https://www.stripes.com/theaters/us/2026-11-23/decorated-marine-veteran-ncis-investigation-23556818.html",
+        "occurredAt": "2026-11-23T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: www.stripes.com",
+        "sourceUrl": "https://www.stripes.com/theaters/us/2026-11-23/decorated-marine-veteran-ncis-investigation-23556818.html",
+        "occurredAt": "2026-11-23T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Iraq",
+        "summary": "source: monocle.com",
+        "sourceUrl": "https://monocle.com/culture/film/the-search-for-iraqs-lost-film-legacy-inside-baghdads-cinema-archive/",
+        "occurredAt": "2026-11-23T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Iraq",
+        "summary": "source: www.azernews.az",
+        "sourceUrl": "https://www.azernews.az/region/267911.html",
+        "occurredAt": "2026-11-23T10:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/asia/senior-isis-leader-killed-in-eastern-iraq-537814",
+        "occurredAt": "2026-11-23T02:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/senior-islamic-state-leader-killed-in-iraq-s-diyala-province",
+        "occurredAt": "2026-11-22T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/senior-islamic-state-leader-killed-in-iraq-s-diyala-province",
+        "occurredAt": "2026-11-22T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/senior-islamic-state-leader-killed-in-iraq-s-diyala-province",
+        "occurredAt": "2026-11-22T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: wjactv.com",
+        "sourceUrl": "https://wjactv.com/news/local/spc-chad-a-edmundson-memorial-foundation-gives-free-dinners-to-blair-co-veterans",
+        "occurredAt": "2026-11-22T21:45:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

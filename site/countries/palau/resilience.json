@@ -1,0 +1,97 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PW",
+  "countryName": "Palau",
+  "slug": "palau",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.6,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Palau launches major water system upgrades to reduce leaks, improve supply",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/palau-launches-major-water-system-upgrades-to-reduce-leaks-improve-supply/",
+        "publishedAt": "2026-11-20T08:50:40.000Z"
+      },
+      {
+        "title": "Whipps signs law expanding Palau’s aircraft registry",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/whipps-signs-law-expanding-palaus-aircraft-registry/",
+        "publishedAt": "2026-11-20T08:29:04.000Z"
+      },
+      {
+        "title": "Palau to access climate funding for power system upgrades",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/palau-to-access-climate-funding-for-power-system-upgrades/",
+        "publishedAt": "2026-11-20T08:19:39.000Z"
+      },
+      {
+        "title": "Regional surveillance is key to protecting Pacific livelihoods: Palau Fisheries Minister",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/09/02/regional-surveillance-is-key-to-protecting-pacific-livelihoods-palau-fisheries-minister/",
+        "publishedAt": "2026-11-23T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Palau, FSM And Marshall Islands To Recieve $450 Million Funding Boost From US",
+        "source": "scoop.co.nz",
+        "url": "https://www.scoop.co.nz/stories/WO2611/S00185/palau-fsm-and-marshall-islands-to-recieve-450-million-funding-boost-from-us.htm",
+        "publishedAt": "2026-11-19T05:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPalau launches major water system upgrades to reduce leaks, improve supply. [1]\nWhipps signs law expanding Palau’s aircraft registry. [2]\n\nWATCH ITEMS\nWhether the $450 million funding boost from the US to Palau, FSM and Marshall Islands will be disbursed and allocated as planned. [5]",
+      "generatedAt": "2026-11-24T04:32:52.422Z",
+      "sources": [
+        {
+          "title": "Palau launches major water system upgrades to reduce leaks, improve supply",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/palau-launches-major-water-system-upgrades-to-reduce-leaks-improve-supply/",
+          "publishedAt": "2026-11-20T08:50:40.000Z"
+        },
+        {
+          "title": "Whipps signs law expanding Palau’s aircraft registry",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/whipps-signs-law-expanding-palaus-aircraft-registry/",
+          "publishedAt": "2026-11-20T08:29:04.000Z"
+        },
+        {
+          "title": "Palau to access climate funding for power system upgrades",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/palau-to-access-climate-funding-for-power-system-upgrades/",
+          "publishedAt": "2026-11-20T08:19:39.000Z"
+        },
+        {
+          "title": "Regional surveillance is key to protecting Pacific livelihoods: Palau Fisheries Minister",
+          "source": "pina.com.fj",
+          "url": "https://pina.com.fj/2026/09/02/regional-surveillance-is-key-to-protecting-pacific-livelihoods-palau-fisheries-minister/",
+          "publishedAt": "2026-11-23T15:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Palau, FSM And Marshall Islands To Recieve $450 Million Funding Boost From US",
+          "source": "scoop.co.nz",
+          "url": "https://www.scoop.co.nz/stories/WO2611/S00185/palau-fsm-and-marshall-islands-to-recieve-450-million-funding-boost-from-us.htm",
+          "publishedAt": "2026-11-19T05:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

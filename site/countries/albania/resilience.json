@@ -1,0 +1,87 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "slug": "albania",
+  "rank": 21,
+  "overallScore": 64.1,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lara Colturi Makes History With Albania’s First Alpine Skiing World Cup Win",
+        "source": "Tirana Times",
+        "url": "https://www.tiranatimes.com/lara-colturi-makes-history-with-albanias-first-alpine-skiing-world-cup-win/",
+        "publishedAt": "2026-11-23T15:42:31.000Z"
+      },
+      {
+        "title": "Croacia, Costa Rica, Chile, Albania y Perú lideran el Índice de Desarrollo Sostenible",
+        "source": "Proceso Digital",
+        "url": "https://proceso.hn/croacia-costa-rica-chile-albania-y-peru-lideran-el-indice-de-desarrollo-sostenible/",
+        "publishedAt": "2026-11-23T13:44:45.000Z"
+      },
+      {
+        "title": "Going After Protesters, Albania’s Opposition Democrats Seek Relevance, Control",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/23/going-after-protesters-albanias-opposition-democrats-seek-relevance-control/bi/",
+        "publishedAt": "2026-11-23T06:52:58.000Z"
+      },
+      {
+        "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+        "publishedAt": "2026-11-22T22:39:47.000Z"
+      },
+      {
+        "title": "Albania Needs €9.8 Billion to Meet EU Environmental Standards",
+        "source": "Tirana Times",
+        "url": "https://www.tiranatimes.com/albania-needs-e9-8-billion-to-meet-eu-environmental-standards/",
+        "publishedAt": "2026-11-23T15:19:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAlbania needs €9.8 billion to meet EU environmental standards. [4]\n\nWATCH ITEMS\nWhether the opposition Democrats' actions against protesters will affect political stability in Albania. [2]\nWhether the luxury development planned on disputed land involving Jared Kushner will proceed amid local claims of ownership. [3]",
+      "generatedAt": "2026-11-24T04:22:31.412Z",
+      "sources": [
+        {
+          "title": "Croacia, Costa Rica, Chile, Albania y Perú lideran el Índice de Desarrollo Sostenible",
+          "source": "Proceso Digital",
+          "url": "https://proceso.hn/croacia-costa-rica-chile-albania-y-peru-lideran-el-indice-de-desarrollo-sostenible/",
+          "publishedAt": "2026-11-23T13:44:45.000Z"
+        },
+        {
+          "title": "Going After Protesters, Albania’s Opposition Democrats Seek Relevance, Control",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/23/going-after-protesters-albanias-opposition-democrats-seek-relevance-control/bi/",
+          "publishedAt": "2026-11-23T06:52:58.000Z"
+        },
+        {
+          "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+          "source": "NPR World",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+          "publishedAt": "2026-11-22T22:39:47.000Z"
+        },
+        {
+          "title": "Albania Needs €9.8 Billion to Meet EU Environmental Standards",
+          "source": "Tirana Times",
+          "url": "https://www.tiranatimes.com/albania-needs-e9-8-billion-to-meet-eu-environmental-standards/",
+          "publishedAt": "2026-11-23T15:19:12.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

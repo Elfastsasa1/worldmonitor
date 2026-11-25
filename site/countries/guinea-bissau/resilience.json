@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GW",
+  "countryName": "Guinea-Bissau",
+  "slug": "guinea-bissau",
+  "rank": 153,
+  "overallScore": 39.6,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "2027 AFCON Qualifiers: Guinea-Bissau take charge, Tanzania finish window winless",
+        "source": "kawowo.com",
+        "url": "https://kawowo.com/2026/11/18/2027-afcon-qualifiers-guinea-bissau-take-charge-tanzania-finish-window-winless/",
+        "publishedAt": "2026-11-18T10:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea-Bissau Elections Explained",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/guinea-bissau-elections-explained-2026/",
+        "publishedAt": "2026-11-17T15:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

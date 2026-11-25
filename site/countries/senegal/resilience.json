@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "slug": "senegal",
+  "rank": 131,
+  "overallScore": 43.2,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pétanque – Mondiaux de Thaïlande : Madagascar renverse le Sénégal au forceps et rejoint le dernier carré",
+        "source": "Midi Madagasikara",
+        "url": "https://midi-madagasikara.mg/petanque-mondiaux-de-thailande-madagascar-renverse-le-senegal-au-forceps-et-rejoint-le-dernier-carre/?utm_source=rss&utm_medium=rss&utm_campaign=petanque-mondiaux-de-thailande-madagascar-renverse-le-senegal-au-forceps-et-rejoint-le-dernier-carre",
+        "publishedAt": "2026-11-24T03:00:00.000Z"
+      },
+      {
+        "title": "Morocco and Senegal await AFCON final verdict after court case",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
+        "publishedAt": "2026-11-23T23:15:00.000Z"
+      },
+      {
+        "title": "Veredicto do TAS põe fim à novela da final da CAN 2025 entre Marrocos e Senegal",
+        "source": "Rádio Nacional de Angola (RNA)",
+        "url": "https://rna.ao/rna.ao/2026/11/23/veredicto-do-tas-poe-fim-a-novela-da-final-da-can-2025-entre-marrocos-e-senegal/",
+        "publishedAt": "2026-11-23T20:36:19.000Z"
+      },
+      {
+        "title": "Máxima incertidumbre: el TAS dará a conocer este martes su fallo sobre el recurso de Senegal por la Copa Africana",
+        "source": "RPP Noticias",
+        "url": "https://rpp.pe/futbol/futbol-mundial/copa-africana-tas-dara-a-conocer-este-martes-fallo-sobre-recurso-de-senegal-en-final-contra-marruecos-noticia-1719325",
+        "publishedAt": "2026-11-23T19:53:47.000Z"
+      },
+      {
+        "title": "Međunarodni sud odlučio - ko je šampion Afrike, Senegal ili Maroko?",
+        "source": "Oslobođenje",
+        "url": "https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/medunarodni-sud-odlucio-ko-je-sampion-afrike-senegal-ili-maroko/",
+        "publishedAt": "2026-11-23T19:10:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMorocco and Senegal await the AFCON final verdict after a court case. [2]\n\nWHAT THIS MEANS FOR SENEGAL\nThe most severe government travel advisory World Monitor tracks for Senegal is Exercise Increased Caution, as of Nov 24, 2026. [2][E1]\n\nKEY RISKS\nSenegal has a net energy import dependency of 69% (World Bank Open Data, 2023). [E3]",
+      "generatedAt": "2026-11-24T04:34:22.547Z",
+      "sources": [
+        {
+          "title": "Pétanque – Mondiaux de Thaïlande : Madagascar renverse le Sénégal au forceps et rejoint le dernier carré",
+          "source": "Midi Madagasikara",
+          "url": "https://midi-madagasikara.mg/petanque-mondiaux-de-thailande-madagascar-renverse-le-senegal-au-forceps-et-rejoint-le-dernier-carre/?utm_source=rss&utm_medium=rss&utm_campaign=petanque-mondiaux-de-thailande-madagascar-renverse-le-senegal-au-forceps-et-rejoint-le-dernier-carre",
+          "publishedAt": "2026-11-24T03:00:00.000Z"
+        },
+        {
+          "title": "Morocco and Senegal await AFCON final verdict after court case",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/morocco-and-senegal-await-afcon-final-verdict-after-court-case/",
+          "publishedAt": "2026-11-23T23:15:00.000Z"
+        },
+        {
+          "title": "Veredicto do TAS põe fim à novela da final da CAN 2025 entre Marrocos e Senegal",
+          "source": "Rádio Nacional de Angola (RNA)",
+          "url": "https://rna.ao/rna.ao/2026/11/23/veredicto-do-tas-poe-fim-a-novela-da-final-da-can-2025-entre-marrocos-e-senegal/",
+          "publishedAt": "2026-11-23T20:36:19.000Z"
+        },
+        {
+          "title": "Máxima incertidumbre: el TAS dará a conocer este martes su fallo sobre el recurso de Senegal por la Copa Africana",
+          "source": "RPP Noticias",
+          "url": "https://rpp.pe/futbol/futbol-mundial/copa-africana-tas-dara-a-conocer-este-martes-fallo-sobre-recurso-de-senegal-en-final-contra-marruecos-noticia-1719325",
+          "publishedAt": "2026-11-23T19:53:47.000Z"
+        },
+        {
+          "title": "Međunarodni sud odlučio - ko je šampion Afrike, Senegal ili Maroko?",
+          "source": "Oslobođenje",
+          "url": "https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/medunarodni-sud-odlucio-ko-je-sampion-afrike-senegal-ili-maroko/",
+          "publishedAt": "2026-11-23T19:10:12.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Senegal is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E3",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "69%",
+          "factText": "Senegal has a net energy import dependency of 69% (World Bank Open Data, 2023).",
+          "asOf": "2023-12-31T00:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

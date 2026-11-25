@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "slug": "mauritius",
+  "rank": 74,
+  "overallScore": 55,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Over 6,200 live animals exported to Mauritius amid FMD outbreaks",
+        "source": "Namibia Economist",
+        "url": "https://economist.com.na/over-6200-live-animals-exported-to-mauritius-amid-fmd-outbreaks/",
+        "publishedAt": "2026-11-20T10:45:57.000Z"
+      },
+      {
+        "title": "Drought strains Mauritius' agricultural sector pushing up food prices",
+        "source": "africanews.com",
+        "url": "https://www.africanews.com/2026/11/22/drought-strains-mauritius-agricultural-sector-pushing-up-food-prices/",
+        "publishedAt": "2026-11-22T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritius Union Says 22 Ex-Garment Workers Died Unpaid",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/mauritius-garment-workers-die-waiting-for-pay/",
+        "publishedAt": "2026-11-21T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Senior Chinese legislator visits Mauritius to promote exchanges-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20261121/bc98381f9604494390cb2882786fd843/c.html",
+        "publishedAt": "2026-11-21T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Senior Chinese legislator visits Mauritius to promote exchanges-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/africa/20261121/2fbf723b7f354112b7a72366a68c31de/c.html",
+        "publishedAt": "2026-11-20T23:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOver 6,200 live animals have been exported to Mauritius amid foot-and-mouth disease outbreaks. [1]\nA drought is straining Mauritius' agricultural sector and pushing up food prices. [2]\n\nWATCH ITEMS\nWhether the 22 ex-garment workers who died unpaid, as reported by the Mauritius Union, will receive compensation. [3]",
+      "generatedAt": "2026-11-24T04:31:04.362Z",
+      "sources": [
+        {
+          "title": "Over 6,200 live animals exported to Mauritius amid FMD outbreaks",
+          "source": "Namibia Economist",
+          "url": "https://economist.com.na/over-6200-live-animals-exported-to-mauritius-amid-fmd-outbreaks/",
+          "publishedAt": "2026-11-20T10:45:57.000Z"
+        },
+        {
+          "title": "Drought strains Mauritius' agricultural sector pushing up food prices",
+          "source": "africanews.com",
+          "url": "https://www.africanews.com/2026/11/22/drought-strains-mauritius-agricultural-sector-pushing-up-food-prices/",
+          "publishedAt": "2026-11-22T15:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mauritius Union Says 22 Ex-Garment Workers Died Unpaid",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/mauritius-garment-workers-die-waiting-for-pay/",
+          "publishedAt": "2026-11-21T20:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Senior Chinese legislator visits Mauritius to promote exchanges-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20261121/bc98381f9604494390cb2882786fd843/c.html",
+          "publishedAt": "2026-11-21T00:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Senior Chinese legislator visits Mauritius to promote exchanges-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/africa/20261121/2fbf723b7f354112b7a72366a68c31de/c.html",
+          "publishedAt": "2026-11-20T23:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

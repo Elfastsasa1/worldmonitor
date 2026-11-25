@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "methodologyVersion": "v14",
+  "score": 33,
+  "approximate24HourMovement": -3,
+  "instabilityLevel": "Normal",
+  "observedAt": "2026-11-24T04:44:58.181Z",
+  "capturedAt": "2026-11-24",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

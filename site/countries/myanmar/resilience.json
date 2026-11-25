@@ -1,0 +1,157 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "slug": "myanmar",
+  "rank": 144,
+  "overallScore": 41.4,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Malaysia to continue working with Myanmar on refugee repatriation, PM says after genocide ruling - Reuters",
+        "source": "Reuters — Myanmar (Burma)",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2g1ZFlkOUVKUkNtc2tfVzgzbmRfZEljdVRGY3FZMVRWY082YWZMRGFIM0pmRXVqT3lrd0F6SmRzVmxmRENsVnVQUm8wcl9nakVEMWdIeGNWbmd3OHFpbWdxcDEyWGprWGhMWlVxaFFfdFJBZ3Ywc05MTnpiVkNxQ2RYUE4tRWVETDh5enZGVWtNRW9YX3B5S3BIN05sZ2ZxcmJpRXJuSll5eGhxRmRXTjlHc2RLMHV6WXBRcjZrQTZhNUlram84?oc=5",
+        "publishedAt": "2026-11-24T04:15:00.000Z"
+      },
+      {
+        "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+        "publishedAt": "2026-11-24T03:00:04.000Z"
+      },
+      {
+        "title": "Great Britain:  UK Leads Global Action With Major New Measures Against Myanmar Military Following Landmark Genocide Judgment",
+        "source": "The St. Kitts-Nevis Observer",
+        "url": "https://www.thestkittsnevisobserver.com/great-britain-uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment/",
+        "publishedAt": "2026-11-24T01:42:34.000Z"
+      },
+      {
+        "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+        "publishedAt": "2026-11-23T23:10:22.000Z"
+      },
+      {
+        "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - AP News",
+        "source": "AP — Myanmar (Burma)",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVBJWEV0SGdadmoxMlJmUUIzdEIydWRtanp4WkhxcTlzeVJjdkV1Tm5PdDJOVnZZZ1IyX0l1eHVZUzJhN0Q1N1ZPMmJQVmpDNU15RnBLcXRhZkJKQll5ZFNiYjVJMmpoZVY0UDdlUDRoMnNjOVQ2Z3E4WHBxejhqOThaa2kyMGZiQ1BYZkxCRDY?oc=5",
+        "publishedAt": "2026-11-20T23:57:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe UK has announced new measures against Myanmar's military following the landmark genocide judgment. [3]",
+      "generatedAt": "2026-11-24T04:53:42.696Z",
+      "sources": [
+        {
+          "title": "Malaysia to continue working with Myanmar on refugee repatriation, PM says after genocide ruling - Reuters",
+          "source": "Reuters — Myanmar (Burma)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2g1ZFlkOUVKUkNtc2tfVzgzbmRfZEljdVRGY3FZMVRWY082YWZMRGFIM0pmRXVqT3lrd0F6SmRzVmxmRENsVnVQUm8wcl9nakVEMWdIeGNWbmd3OHFpbWdxcDEyWGprWGhMWlVxaFFfdFJBZ3Ywc05MTnpiVkNxQ2RYUE4tRWVETDh5enZGVWtNRW9YX3B5S3BIN05sZ2ZxcmJpRXJuSll5eGhxRmRXTjlHc2RLMHV6WXBRcjZrQTZhNUlram84?oc=5",
+          "publishedAt": "2026-11-24T04:15:00.000Z"
+        },
+        {
+          "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+          "publishedAt": "2026-11-24T03:00:04.000Z"
+        },
+        {
+          "title": "Great Britain: UK Leads Global Action With Major New Measures Against Myanmar Military Following Landmark Genocide Judgment",
+          "source": "The St. Kitts-Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/great-britain-uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment/",
+          "publishedAt": "2026-11-24T01:42:34.000Z"
+        },
+        {
+          "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+          "publishedAt": "2026-11-23T23:10:22.000Z"
+        },
+        {
+          "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - AP News",
+          "source": "AP — Myanmar (Burma)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVBJWEV0SGdadmoxMlJmUUIzdEIydWRtanp4WkhxcTlzeVJjdkV1Tm5PdDJOVnZZZ1IyX0l1eHVZUzJhN0Q1N1ZPMmJQVmpDNU15RnBLcXRhZkJKQll5ZFNiYjVJMmpoZVY0UDdlUDRoMnNjOVQ2Z3E4WHBxejhqOThaa2kyMGZiQ1BYZkxCRDY?oc=5",
+          "publishedAt": "2026-11-20T23:57:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [
+      {
+        "title": "GDELT 192 — in Myanmar",
+        "summary": "source: www.theglobeandmail.com",
+        "sourceUrl": "https://www.theglobeandmail.com/opinion/article-the-icjs-guilty-finding-against-myanmar-gives-language-to-the/",
+        "occurredAt": "2026-11-23T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.bnionline.net",
+        "sourceUrl": "https://www.bnionline.net/en/news/death-toll-rises-five-following-military-airstrikes-myanmars-mon-state",
+        "occurredAt": "2026-11-23T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.bnionline.net",
+        "sourceUrl": "https://www.bnionline.net/en/news/death-toll-rises-five-following-military-airstrikes-myanmars-mon-state",
+        "occurredAt": "2026-11-23T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Myanmar",
+        "summary": "source: www.bnionline.net",
+        "sourceUrl": "https://www.bnionline.net/en/news/death-toll-rises-five-following-military-airstrikes-myanmars-mon-state",
+        "occurredAt": "2026-11-23T15:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.1045wjjk.com",
+        "sourceUrl": "https://www.1045wjjk.com/2026/11/22/floridas-latest-weapon-against-invasive-snakes-robot-rabbits/",
+        "occurredAt": "2026-11-23T05:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.manilatimes.net",
+        "sourceUrl": "https://www.manilatimes.net/2026/11/23/world/asia-oceania/myanmar-to-eliminate-graft-in-military-recruitment/2475681",
+        "occurredAt": "2026-11-22T17:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/11/22/myanmar-says-it-is-combatting-graft-in-military-draft-process",
+        "occurredAt": "2026-11-22T09:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/11/22/myanmar-says-it-is-combatting-graft-in-military-draft-process",
+        "occurredAt": "2026-11-22T09:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/22112026-global-interest-in-myanmars-rare-earths-might-overshadow-implementation-of-icjs-ruling-on-rohingyas-analysis/",
+        "occurredAt": "2026-11-22T02:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

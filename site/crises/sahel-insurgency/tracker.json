@@ -1,0 +1,65 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "sahel-insurgency",
+  "title": "Sahel insurgency tracker",
+  "shortTitle": "Sahel insurgency",
+  "description": "Sahel insurgency in Burkina Faso, Mali and Niger: JNIM and Islamic State, key actors, a sourced timeline, what to watch, and monthly conflict data.",
+  "overview": "This tracker covers the central Sahel states of Burkina Faso, Mali and Niger, whose insurgencies cross shared borders. Totals are aggregated from subnational humanitarian records and are not a territorial control map, a displacement estimate, or a forecast.",
+  "coverage": [
+    {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    {
+      "code": "ML",
+      "name": "Mali"
+    },
+    {
+      "code": "NE",
+      "name": "Niger"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 105,
+    "fatalities": 182,
+    "politicalViolenceEvents": 104,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "BF",
+        "name": "Burkina Faso",
+        "events": 27,
+        "fatalities": 24,
+        "political": 27,
+        "demonstrations": 0,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "ML",
+        "name": "Mali",
+        "events": 64,
+        "fatalities": 36,
+        "political": 63,
+        "demonstrations": 1,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "NE",
+        "name": "Niger",
+        "events": 14,
+        "fatalities": 122,
+        "political": 14,
+        "demonstrations": 0,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

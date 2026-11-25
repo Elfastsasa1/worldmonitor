@@ -1,0 +1,164 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "slug": "djibouti",
+  "rank": 135,
+  "overallScore": 42.9,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Taxe carbone : Djibouti aux avant-postes face aux armateurs",
+        "source": "Jeune Afrique",
+        "url": "https://www.jeuneafrique.com/1858259/economie-entreprises/taxe-carbone-djibouti-aux-avant-postes-face-aux-armateurs/",
+        "publishedAt": "2026-11-23T14:47:04.000Z"
+      },
+      {
+        "title": "Le Président Guelleh reçoit les Lettres de Créances de 6 nouveaux Ambassadeurs affectés par leurs pays respectifs auprès de Djibouti",
+        "source": "RTD Djibouti",
+        "url": "https://rtd.dj/le-president-guelleh-recoit-les-lettres-de-creances-de-6-nouveaux-ambassadeurs-affectes-par-leurs-pays-respectifs-aupres-de-djibouti/",
+        "publishedAt": "2026-11-23T14:23:03.000Z"
+      },
+      {
+        "title": "DROITS DE L’HOMME : Djibouti engage une réforme pour renforcer l’indépendance de son institution et sa conformité aux principes de Paris",
+        "source": "La Nation",
+        "url": "https://www.lanation.dj/droits-de-lhomme-djibouti-engage-une-reforme-pour-renforcer-lindependance-de-son-institution-et-sa-conformite-aux-principes-de-paris/",
+        "publishedAt": "2026-11-23T07:57:28.000Z"
+      },
+      {
+        "title": "Qatar Charity provides food baskets to thousands of refugees in Djibouti",
+        "source": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/738775/qatar/qatar-charity-provides-food-baskets-to-thousands-of-refugees-in-djibouti",
+        "publishedAt": "2026-11-22T16:08:00.000Z"
+      },
+      {
+        "title": "Djibouti : une économie en pleine dynamique, portée par des performances remarquables en 2026",
+        "source": "La Nation",
+        "url": "https://www.lanation.dj/djibouti-une-economie-en-pleine-dynamique-portee-par-des-performances-remarquables-en-2026/",
+        "publishedAt": "2026-11-23T07:56:17.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nDjibouti is at the forefront of carbon tax efforts facing shipowners. [1]\nPresident Guelleh received letters of credence from six new ambassadors accredited to Djibouti. [2]",
+      "generatedAt": "2026-11-24T04:25:29.873Z",
+      "sources": [
+        {
+          "title": "Taxe carbone : Djibouti aux avant-postes face aux armateurs",
+          "source": "Jeune Afrique",
+          "url": "https://www.jeuneafrique.com/1858259/economie-entreprises/taxe-carbone-djibouti-aux-avant-postes-face-aux-armateurs/",
+          "publishedAt": "2026-11-23T14:47:04.000Z"
+        },
+        {
+          "title": "Le Président Guelleh reçoit les Lettres de Créances de 6 nouveaux Ambassadeurs affectés par leurs pays respectifs auprès de Djibouti",
+          "source": "RTD Djibouti",
+          "url": "https://rtd.dj/le-president-guelleh-recoit-les-lettres-de-creances-de-6-nouveaux-ambassadeurs-affectes-par-leurs-pays-respectifs-aupres-de-djibouti/",
+          "publishedAt": "2026-11-23T14:23:03.000Z"
+        },
+        {
+          "title": "DROITS DE L’HOMME : Djibouti engage une réforme pour renforcer l’indépendance de son institution et sa conformité aux principes de Paris",
+          "source": "La Nation",
+          "url": "https://www.lanation.dj/droits-de-lhomme-djibouti-engage-une-reforme-pour-renforcer-lindependance-de-son-institution-et-sa-conformite-aux-principes-de-paris/",
+          "publishedAt": "2026-11-23T07:57:28.000Z"
+        },
+        {
+          "title": "Qatar Charity provides food baskets to thousands of refugees in Djibouti",
+          "source": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/738775/qatar/qatar-charity-provides-food-baskets-to-thousands-of-refugees-in-djibouti",
+          "publishedAt": "2026-11-22T16:08:00.000Z"
+        },
+        {
+          "title": "Djibouti : une économie en pleine dynamique, portée par des performances remarquables en 2026",
+          "source": "La Nation",
+          "url": "https://www.lanation.dj/djibouti-une-economie-en-pleine-dynamique-portee-par-des-performances-remarquables-en-2026/",
+          "publishedAt": "2026-11-23T07:56:17.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [
+      {
+        "title": "GDELT 195 — in Djibouti",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-saudi-attack-telecoms-facilities-kills-17",
+        "occurredAt": "2026-11-23T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-saudi-attack-telecoms-facilities-kills-17",
+        "occurredAt": "2026-11-23T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: ktbb.com",
+        "sourceUrl": "https://ktbb.com/post/?p=1563219",
+        "occurredAt": "2026-11-23T12:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.santafenewmexican.com",
+        "sourceUrl": "https://www.santafenewmexican.com/ap/business/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_e4b6996d-bbd7-5250-871c-1eb04921ccb6.html",
+        "occurredAt": "2026-11-23T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.santafenewmexican.com",
+        "sourceUrl": "https://www.santafenewmexican.com/ap/business/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_e4b6996d-bbd7-5250-871c-1eb04921ccb6.html",
+        "occurredAt": "2026-11-23T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-saudi-arabias-rabigh-oil-refinery",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-saudi-arabias-rabigh-oil-refinery",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-saudi-arabias-rabigh-oil-refinery",
+        "occurredAt": "2026-11-22T17:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: isp.netscape.com",
+        "sourceUrl": "https://isp.netscape.com/pf/story/0001/20261122/8d1680a23d592667db1ce1969b55b4f2",
+        "occurredAt": "2026-11-22T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Djibouti",
+        "summary": "source: www.ksat.com",
+        "sourceUrl": "https://www.ksat.com/news/world/2026/11/22/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/",
+        "occurredAt": "2026-11-22T16:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "slug": "laos",
+  "rank": 88,
+  "overallScore": 53,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Laos-Malaysia Trade Rises 158 Percent to USD 60.7 Million in 2025",
+        "source": "Laotian Times",
+        "url": "https://laotiantimes.com/2026/11/23/laos-malaysia-trade-rises-158-percent-to-usd-60-7-million-in-2025/",
+        "publishedAt": "2026-11-23T06:48:07.000Z"
+      },
+      {
+        "title": "Laos, North Korea Hold First Joint Committee Meeting in 12 Years",
+        "source": "Laotian Times",
+        "url": "https://laotiantimes.com/2026/11/23/laos-north-korea-hold-first-joint-committee-meeting-in-12-years/",
+        "publishedAt": "2026-11-23T05:04:57.000Z"
+      },
+      {
+        "title": "That Luang festival celebrated in Vientiane, Laos-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20261124/77c3ef074ba54057a626e92d74044e37/c.html",
+        "publishedAt": "2026-11-24T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Recipe of the Year winner Laura McLellan proud to spotlight Laos cuisine",
+        "source": "abc.net.au",
+        "url": "https://www.abc.net.au/news/2026-11-23/recipe-of-the-year-winner-laura-mclellan-on-top-prize/107397656",
+        "publishedAt": "2026-11-22T21:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Laos DPM Thongsavan Phomvihane in Malaysia for three-day official visit",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/news/nation/2026/11/22/laos-dpm-thongsavan-phomvihane-in-malaysia-for-three-day-official-visit",
+        "publishedAt": "2026-11-22T11:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLaos-Malaysia trade rose 158 percent to USD 60.7 million in 2025. [1]\nLaos and North Korea held their first joint committee meeting in 12 years. [2]\n\nKEY RISKS\nLaos is linked to 9 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the first joint committee meeting between Laos and North Korea in 12 years will lead to expanded bilateral cooperation. [2]",
+      "generatedAt": "2026-11-24T04:52:56.562Z",
+      "sources": [
+        {
+          "title": "Laos-Malaysia Trade Rises 158 Percent to USD 60.7 Million in 2025",
+          "source": "Laotian Times",
+          "url": "https://laotiantimes.com/2026/11/23/laos-malaysia-trade-rises-158-percent-to-usd-60-7-million-in-2025/",
+          "publishedAt": "2026-11-23T06:48:07.000Z"
+        },
+        {
+          "title": "Laos, North Korea Hold First Joint Committee Meeting in 12 Years",
+          "source": "Laotian Times",
+          "url": "https://laotiantimes.com/2026/11/23/laos-north-korea-hold-first-joint-committee-meeting-in-12-years/",
+          "publishedAt": "2026-11-23T05:04:57.000Z"
+        },
+        {
+          "title": "That Luang festival celebrated in Vientiane, Laos-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/asiapacific/20261124/77c3ef074ba54057a626e92d74044e37/c.html",
+          "publishedAt": "2026-11-24T01:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Laos DPM Thongsavan Phomvihane in Malaysia for three-day official visit",
+          "source": "thestar.com.my",
+          "url": "https://www.thestar.com.my/news/nation/2026/11/22/laos-dpm-thongsavan-phomvihane-in-malaysia-for-three-day-official-visit",
+          "publishedAt": "2026-11-22T11:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "9",
+          "factText": "Laos is linked to 9 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

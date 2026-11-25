@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NI",
+  "countryName": "Nicaragua",
+  "slug": "nicaragua",
+  "rank": 68,
+  "overallScore": 55.4,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Días muy calurosos y noches más frescas, así se sentirá el clima esta semana en Nicaragua",
+        "source": "Nicaragua Investiga",
+        "url": "https://nicaraguainvestiga.com/nacion/175825-clima-nicaragua-tercera-semana-noviembre-2026/?utm_source=rss&utm_medium=rss&utm_campaign=clima-nicaragua-tercera-semana-noviembre-2026",
+        "publishedAt": "2026-11-23T20:32:15.000Z"
+      },
+      {
+        "title": "Exclusion of Exiled Bishops Shakes the Nicaraguan Episcopal Conference",
+        "source": "Divergentes",
+        "url": "https://www.divergentes.com/exclusion-exiled-bishops-episcopal-conference/",
+        "publishedAt": "2026-11-23T17:17:26.000Z"
+      },
+      {
+        "title": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
+        "source": "g1 Mundo",
+        "url": "https://g1.globo.com/mundo/noticia/2026/11/21/os-cidadaos-impedidos-pelo-governo-ortega-de-voltar-a-nicaragua-sou-ilegal-no-meu-proprio-pais.ghtml",
+        "publishedAt": "2026-11-21T20:10:26.000Z"
+      },
+      {
+        "title": "Dictadura Ortega-Murillo convirtió retroactividad jurídica en el instrumento clave de su régimen de facto en Nicaragua",
+        "source": "Divergentes",
+        "url": "https://www.divergentes.com/dictadura-ortega-murillo-retroactividad-juridica-instrumento-clave-regimen-facto-nicaragua/",
+        "publishedAt": "2026-11-23T15:55:41.000Z"
+      },
+      {
+        "title": "Maradiaga desafía a Ortega y Murillo: exige permitir el regreso de opositores para hacer política dentro de Nicaragua",
+        "source": "Nicaragua Investiga",
+        "url": "https://nicaraguainvestiga.com/politica/175808-maradiaga-desafia-a-ortega-y-murillo-exige-permitir-el-regreso-de-opositores-para-hacer-politica-dentro-de-nicaragua/?utm_source=rss&utm_medium=rss&utm_campaign=maradiaga-desafia-a-ortega-y-murillo-exige-permitir-el-regreso-de-opositores-para-hacer-politica-dentro-de-nicaragua",
+        "publishedAt": "2026-11-21T00:14:59.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Ortega-Murillo regime has made legal retroactivity a key instrument of its de facto rule in Nicaragua. [4]\nExiled bishops have been excluded from the Nicaraguan Episcopal Conference, causing upheaval. [2]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Nicaragua is Reconsider Travel, as of Nov 24, 2026, indicating elevated risk for foreign engagement. [E1]\n\nWATCH ITEMS\nWhether Maradiaga's demand that Ortega and Murillo allow the return of opponents for political activity will be heeded. [5]\nWhether citizens prevented by the Ortega government from returning to Nicaragua will be allowed re-entry. [3]",
+      "generatedAt": "2026-11-24T04:31:50.539Z",
+      "sources": [
+        {
+          "title": "Días muy calurosos y noches más frescas, así se sentirá el clima esta semana en Nicaragua",
+          "source": "Nicaragua Investiga",
+          "url": "https://nicaraguainvestiga.com/nacion/175825-clima-nicaragua-tercera-semana-noviembre-2026/?utm_source=rss&utm_medium=rss&utm_campaign=clima-nicaragua-tercera-semana-noviembre-2026",
+          "publishedAt": "2026-11-23T20:32:15.000Z"
+        },
+        {
+          "title": "Exclusion of Exiled Bishops Shakes the Nicaraguan Episcopal Conference",
+          "source": "Divergentes",
+          "url": "https://www.divergentes.com/exclusion-exiled-bishops-episcopal-conference/",
+          "publishedAt": "2026-11-23T17:17:26.000Z"
+        },
+        {
+          "title": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
+          "source": "g1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/21/os-cidadaos-impedidos-pelo-governo-ortega-de-voltar-a-nicaragua-sou-ilegal-no-meu-proprio-pais.ghtml",
+          "publishedAt": "2026-11-21T20:10:26.000Z"
+        },
+        {
+          "title": "Dictadura Ortega-Murillo convirtió retroactividad jurídica en el instrumento clave de su régimen de facto en Nicaragua",
+          "source": "Divergentes",
+          "url": "https://www.divergentes.com/dictadura-ortega-murillo-retroactividad-juridica-instrumento-clave-regimen-facto-nicaragua/",
+          "publishedAt": "2026-11-23T15:55:41.000Z"
+        },
+        {
+          "title": "Maradiaga desafía a Ortega y Murillo: exige permitir el regreso de opositores para hacer política dentro de Nicaragua",
+          "source": "Nicaragua Investiga",
+          "url": "https://nicaraguainvestiga.com/politica/175808-maradiaga-desafia-a-ortega-y-murillo-exige-permitir-el-regreso-de-opositores-para-hacer-politica-dentro-de-nicaragua/?utm_source=rss&utm_medium=rss&utm_campaign=maradiaga-desafia-a-ortega-y-murillo-exige-permitir-el-regreso-de-opositores-para-hacer-politica-dentro-de-nicaragua",
+          "publishedAt": "2026-11-21T00:14:59.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Nicaragua is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

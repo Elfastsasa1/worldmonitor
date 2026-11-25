@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LC",
+  "countryName": "Saint Lucia",
+  "slug": "saint-lucia",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.72,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "SAINT LUCIA PREPARED TO DEFEND CIP AMID GROWING EU PRESSURE",
+        "source": "DBS TV St Lucia",
+        "url": "https://dbstvstlucia.com/saint-lucia-prepared-to-defend-cip-amid-growing-eu-pressure/",
+        "publishedAt": "2026-11-24T00:00:10.000Z"
+      },
+      {
+        "title": "St Lucia offers 3 one-time payments for pensioners, PAP clients",
+        "source": "St Vincent Times",
+        "url": "https://www.stvincenttimes.com/st-lucia-offers-3-one-time-payments-for-pensioners-pap-clients/",
+        "publishedAt": "2026-11-23T19:28:00.000Z"
+      },
+      {
+        "title": "ONE INJURED AS SPEEDBOAT SINKS IN LABRELOTTE BAY BOAT COLLISION IN SAINT LUCIA – HTS News 4orce",
+        "source": "htsstlucia.org",
+        "url": "https://www.htsstlucia.org/one-injured-as-speedboat-sinks-in-labrelotte-bay-boat-collision-in-saint-lucia/",
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "SAINT LUCIA MOBILE DENTAL CLINIC HIGHLIGHTS ROTARY–HEALTH MINISTRY PARTNERSHIP – HTS News 4orce",
+        "source": "htsstlucia.org",
+        "url": "https://www.htsstlucia.org/saint-lucia-mobile-dental-clinic-highlights-rotary-health-ministry-partnership/",
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "SKNVibes | Kemal Brown to Judge and Speak at the Orbtronics Innovation Summit 2026 in Saint Lucia",
+        "source": "sknvibes.com",
+        "url": "https://www.sknvibes.com/news/newsdetails.cfm/128106",
+        "publishedAt": "2026-11-20T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA speedboat sank in Labrelotte Bay after a collision, injuring one person. [3]\n\nKEY RISKS\nThe most severe government travel advisory for St. Lucia is Exercise Increased Caution, which may deter tourism. [E1]",
+      "generatedAt": "2026-11-24T04:29:27.942Z",
+      "sources": [
+        {
+          "title": "SAINT LUCIA PREPARED TO DEFEND CIP AMID GROWING EU PRESSURE",
+          "source": "DBS TV St Lucia",
+          "url": "https://dbstvstlucia.com/saint-lucia-prepared-to-defend-cip-amid-growing-eu-pressure/",
+          "publishedAt": "2026-11-24T00:00:10.000Z"
+        },
+        {
+          "title": "St Lucia offers 3 one-time payments for pensioners, PAP clients",
+          "source": "St Vincent Times",
+          "url": "https://www.stvincenttimes.com/st-lucia-offers-3-one-time-payments-for-pensioners-pap-clients/",
+          "publishedAt": "2026-11-23T19:28:00.000Z"
+        },
+        {
+          "title": "ONE INJURED AS SPEEDBOAT SINKS IN LABRELOTTE BAY BOAT COLLISION IN SAINT LUCIA – HTS News 4orce",
+          "source": "htsstlucia.org",
+          "url": "https://www.htsstlucia.org/one-injured-as-speedboat-sinks-in-labrelotte-bay-boat-collision-in-saint-lucia/",
+          "publishedAt": "2026-11-24T00:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "SAINT LUCIA MOBILE DENTAL CLINIC HIGHLIGHTS ROTARY–HEALTH MINISTRY PARTNERSHIP – HTS News 4orce",
+          "source": "htsstlucia.org",
+          "url": "https://www.htsstlucia.org/saint-lucia-mobile-dental-clinic-highlights-rotary-health-ministry-partnership/",
+          "publishedAt": "2026-11-24T00:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "SKNVibes | Kemal Brown to Judge and Speak at the Orbtronics Innovation Summit 2026 in Saint Lucia",
+          "source": "sknvibes.com",
+          "url": "https://www.sknvibes.com/news/newsdetails.cfm/128106",
+          "publishedAt": "2026-11-20T16:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for St. Lucia is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

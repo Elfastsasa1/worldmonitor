@@ -1,0 +1,111 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DZ",
+  "countryName": "Algeria",
+  "slug": "algeria",
+  "rank": 95,
+  "overallScore": 51.4,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kazakhstan Moves to Expand Air Links With South Korea, Jordan and Algeria",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/11/kazakhstan-moves-to-expand-air-links-with-south-korea-jordan-and-algeria/",
+        "publishedAt": "2026-11-23T08:44:40.000Z"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Algeria: Oncology Innovation Exchange Program",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/algeria-oncology-innovation-exchange-program",
+        "publishedAt": "2026-11-23T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Algeria: President Tebboune Commends Progress On Bled El Hadba-Oued Keberit-Annaba Port Mining Railway Project",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202611230325.html",
+        "publishedAt": "2026-11-23T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Algeria: President Tebboune Commends Work Under National Climate Change Adaptation Plan",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202611230326.html",
+        "publishedAt": "2026-11-23T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Algeria Launches Nationwide Drive to Reclaim Unused Investment Land – الشروق أونلاين",
+        "source": "echoroukonline.com",
+        "url": "https://www.echoroukonline.com/algeria-launches-nationwide-drive-to-reclaim-unused-investment-land",
+        "publishedAt": "2026-11-22T22:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPresident Tebboune commended progress on the Bled El Hadba-Oued Keberit-Annaba Port Mining Railway Project and work under the National Climate Change Adaptation Plan. [3][4]\nAlgeria launched a nationwide drive to reclaim unused investment land. [5]\n\nWATCH ITEMS\nWhether Algeria will join the Mecca Agreement by December 31, 2027, as priced at 10% on a Polymarket market closing Jan 1, 2028. [E4]",
+      "generatedAt": "2026-11-24T04:50:13.567Z",
+      "sources": [
+        {
+          "title": "Kazakhstan Moves to Expand Air Links With South Korea, Jordan and Algeria",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/11/kazakhstan-moves-to-expand-air-links-with-south-korea-jordan-and-algeria/",
+          "publishedAt": "2026-11-23T08:44:40.000Z"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Algeria: Oncology Innovation Exchange Program",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/algeria-oncology-innovation-exchange-program",
+          "publishedAt": "2026-11-23T14:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Algeria: President Tebboune Commends Progress On Bled El Hadba-Oued Keberit-Annaba Port Mining Railway Project",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202611230325.html",
+          "publishedAt": "2026-11-23T11:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Algeria: President Tebboune Commends Work Under National Climate Change Adaptation Plan",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202611230326.html",
+          "publishedAt": "2026-11-23T11:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Algeria Launches Nationwide Drive to Reclaim Unused Investment Land – الشروق أونلاين",
+          "source": "echoroukonline.com",
+          "url": "https://www.echoroukonline.com/algeria-launches-nationwide-drive-to-reclaim-unused-investment-land",
+          "publishedAt": "2026-11-22T22:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "10%",
+          "factText": "A Polymarket market related to Algeria, \"Will Algeria join the Mecca Agreement by December 31, 2027?\", priced Yes at 10% on Nov 24, 2026; it closes Jan 1, 2028.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/which-countries-will-join-the-mecca-agreement-by-december-31-2027"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

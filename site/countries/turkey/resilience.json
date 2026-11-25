@@ -1,0 +1,119 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "slug": "turkey",
+  "rank": 127,
+  "overallScore": 45.2,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Poland reports bird flu outbreak on turkey farm - Reuters",
+        "source": "Reuters — Panama",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0M1MkpxcUZaZEJmcmhjb0FzbjFrTEZFWGpfbFFnRjdzNm1aZkxlcHBSbUp3YUR0NnpBN0FRRElDYnJnOG8ycm12SlRQQjZ6bWZwZFMwajlZM1c1SEJTd21FQUZPM3NPNXZqSndaNlhZb1BaMGpOSVl6X2dNQ2RWaG1qZ1pjWDVEbHYyYmFuTUVGb2o0dVRTUVFxNmhlSTBWTDB5bV80WDhzaW9rbjZQWDV2V1AyMHM?oc=5",
+        "publishedAt": "2026-11-23T12:07:04.000Z"
+      },
+      {
+        "title": "AI data centers throw another wrench into chaotic UN climate talks",
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+        "publishedAt": "2026-11-23T21:09:37.000Z"
+      },
+      {
+        "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
+        "source": "Mongabay",
+        "url": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
+        "publishedAt": "2026-11-23T17:34:45.000Z"
+      },
+      {
+        "title": "Türkiye may tap gold reserves to strengthen forex position: Central bank chief - Türkiye Today",
+        "source": "World Gold Council",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUFtVHNJdXl1bjczTUpGdmx1TlJ4R3dlSkFsZ3pSSlFKZUxmOHNndW1lcmthR1NpbFA3OFF0WmhXLWRuYWJoS1N2UTR4UThhT2lxR0FSQnh4SVVBX1Z5RkFNTkZFTGc2dHFrUnJrUC10Ty1pdUUtUFM3aTk4NWdqSlF0ZDlXeVBnT0phUGpmdDd3a3QtNEZZamxtMmc3cnF0X0JBZ1kzSV9INXI0Q1pXUGRVZ3ZtZWloWV9RMWtiYU0?oc=5",
+        "publishedAt": "2026-11-23T15:51:47.000Z"
+      },
+      {
+        "title": "Cop31 failed. What happens now? – podcast",
+        "source": "Guardian Science",
+        "url": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
+        "publishedAt": "2026-11-23T18:22:29.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPoland reports bird flu outbreak on turkey farm. [1]\nTürkiye may tap gold reserves to strengthen forex position: Central bank chief. [4]\n\nKEY RISKS\nTurkey has a Country Instability Index score of 40 of 100, in the Normal band, as of Nov 24, 2026. [E1]\nTurkey is linked to 392 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E3]\n\nOUTLOOK\nA Polymarket market related to Turkey, \"Greece x Turkey military engagement by December 31?\", priced Yes at 6% on Nov 24, 2026; it closes Jan 1, 2027. [E6]",
+      "generatedAt": "2026-11-24T04:56:37.864Z",
+      "sources": [
+        {
+          "title": "Poland reports bird flu outbreak on turkey farm - Reuters",
+          "source": "Reuters — Panama",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0M1MkpxcUZaZEJmcmhjb0FzbjFrTEZFWGpfbFFnRjdzNm1aZkxlcHBSbUp3YUR0NnpBN0FRRElDYnJnOG8ycm12SlRQQjZ6bWZwZFMwajlZM1c1SEJTd21FQUZPM3NPNXZqSndaNlhZb1BaMGpOSVl6X2dNQ2RWaG1qZ1pjWDVEbHYyYmFuTUVGb2o0dVRTUVFxNmhlSTBWTDB5bV80WDhzaW9rbjZQWDV2V1AyMHM?oc=5",
+          "publishedAt": "2026-11-23T12:07:04.000Z"
+        },
+        {
+          "title": "AI data centers throw another wrench into chaotic UN climate talks",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "publishedAt": "2026-11-23T21:09:37.000Z"
+        },
+        {
+          "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/analysis-the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
+          "publishedAt": "2026-11-23T17:34:45.000Z"
+        },
+        {
+          "title": "Türkiye may tap gold reserves to strengthen forex position: Central bank chief - Türkiye Today",
+          "source": "World Gold Council",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUFtVHNJdXl1bjczTUpGdmx1TlJ4R3dlSkFsZ3pSSlFKZUxmOHNndW1lcmthR1NpbFA3OFF0WmhXLWRuYWJoS1N2UTR4UThhT2lxR0FSQnh4SVVBX1Z5RkFNTkZFTGc2dHFrUnJrUC10Ty1pdUUtUFM3aTk4NWdqSlF0ZDlXeVBnT0phUGpmdDd3a3QtNEZZamxtMmc3cnF0X0JBZ1kzSV9INXI0Q1pXUGRVZ3ZtZWloWV9RMWtiYU0?oc=5",
+          "publishedAt": "2026-11-23T15:51:47.000Z"
+        },
+        {
+          "title": "Cop31 failed. What happens now? – podcast",
+          "source": "Guardian Science",
+          "url": "https://www.theguardian.com/science/audio/2026/nov/23/cop31-failed-what-happens-now-podcast",
+          "publishedAt": "2026-11-23T18:22:29.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "40 of 100 (Normal)",
+          "factText": "Turkey has a Country Instability Index score of 40 of 100, in the Normal band, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:55:00.836Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "392",
+          "factText": "Turkey is linked to 392 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "6%",
+          "factText": "A Polymarket market related to Turkey, \"Greece x Turkey military engagement by December 31?\", priced Yes at 6% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/greece-x-turkey-military-engagement-by-june-30"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

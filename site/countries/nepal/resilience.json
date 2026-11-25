@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "slug": "nepal",
+  "rank": 97,
+  "overallScore": 51.1,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Magnitude 5.3 earthquake strikes Nepal's Koshi province, EMSC says - Reuters",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVElrX0pPUzZueVY0Q05mc2tUOENfd0o4cW1zeFZZTHFJOWdRMWpXZmVLQTZ6ZHIxV1VaQXpCOXBrVmpvazJrdUw5VDNBRzl1Sm83NFRhbDd1UUw4V1BfUDY4c1hKcWxRd1o0Q3BmQ05HOTJ5Zk82aDhpR1RJZzVfM283VDJRT0pMZkpOM2luRWdodlRKRTNnMnBIckZPWXh1dXVPSjF5N1hKSmtISzVkUFlNTUFSTHprMWNNcw?oc=5",
+        "publishedAt": "2026-11-24T01:53:00.000Z"
+      },
+      {
+        "title": "Magnitude 5.3 earthquake strikes Nepal, rattles eastern India - TASS",
+        "source": "TASS",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45Rmx0bEtXSjBJTGRGdFJlc19vVWtscDhSemlIZmVqTlBBVW5zLXNjNmtBZGFaMlJVMHJoM1J2VXVWWTVPSTNlM1lEN3rSAVJBVV95cUxQUXB0UFVobGFZbUR6NWRWZDB3WEtyRUM0VV9CRTIyZS15MHdfbU1CdzF0b0RONkl1OVAwMkh6WmxyS09QMVg0ZzNhU1BrN3c5Z3Bn?oc=5",
+        "publishedAt": "2026-11-24T04:17:30.000Z"
+      },
+      {
+        "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+        "source": "Times of Oman",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+        "publishedAt": "2026-11-24T03:41:00.000Z"
+      },
+      {
+        "title": "India, Nepal Boost Economic Ties: Focus on Co-building & Tech - Rediff MoneyWiz",
+        "source": "ORF Tech (India)",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzd3TEM3WjMySDRJUXR0SnFWR0dHZlhOQWR1d0poNGpDTzgwcW9ESEE3UC1IZGZQM2htN21ETjVTdXVrdWVKcmE3em41U0NuZ2FuQjNTb0hVaElXcGpDTzVvaGlqaVAybFRmQl85VS1FRkpkemRrY1czSDlzaEFNRDI3dVRuZnVxeVlkZDFYY1R3WjNwXzQwLXlySVAwQk5GNkQ4dVVGLTZ1ZklCTGfSAbMBQVVfeXFMT0EySURaTnNGckg1OWxFNW1yaXhhTVc5eVc4Q1NlOHRtU2dadTNqcnJWb2V2N0x2bVRJNVNvV0M5cmNpbU44TFBRYzhFaVA1RS1oekdGMklQRV9KSTZ1OXNaMlBPckIzWXZlbDdqRDluZl9MSWZxaGVpdFZ6WTBldWloTXBtVFhKYU55Y2ZDVnZRR2FseEhkbmdsVHBVeW02U2dabW1WRWZzRjhFQ1NDTUJPUXM?oc=5",
+        "publishedAt": "2026-11-23T14:44:57.000Z"
+      },
+      {
+        "title": "India to establish IIT campus, startup incubator and vocational training institute in Nepal - OnlineKhabar English News",
+        "source": "Startups LATAM",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUg0M2Z1TDRsYkc0TG5hajNnNF9VVV9lV2ZKSGdTNzBSbzJnZXRMMUVGSGtOLUVSSXZKMzd1RHBNUzJxTU5ZbkxrX0Fwc3FPZmVZSFptTG9oNHUtY0xJZVhqblZMblJfSTViOUp5Q0RhTFNBcF9TV0hiaDhLRmI5MnlsOFM1dTFpTWY0QmlZY2l0cV9YaEdPYTRST0ZkYXk2ZUNHaFBPZXdfUVloVjhCbU5iMW51LWJpRWc0Q1ZaRk9MTFFCTWpV?oc=5",
+        "publishedAt": "2026-11-23T11:45:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA magnitude 5.3 earthquake struck Nepal's Koshi province, with tremors felt across eastern India, Bhutan, and China. [1][2][3]\n\nWATCH ITEMS\nWhether India and Nepal will implement the agreed economic initiatives, including the IIT campus, startup incubator, and vocational training institute, as announced. [4][5]",
+      "generatedAt": "2026-11-24T04:54:30.299Z",
+      "sources": [
+        {
+          "title": "Magnitude 5.3 earthquake strikes Nepal's Koshi province, EMSC says - Reuters",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVElrX0pPUzZueVY0Q05mc2tUOENfd0o4cW1zeFZZTHFJOWdRMWpXZmVLQTZ6ZHIxV1VaQXpCOXBrVmpvazJrdUw5VDNBRzl1Sm83NFRhbDd1UUw4V1BfUDY4c1hKcWxRd1o0Q3BmQ05HOTJ5Zk82aDhpR1RJZzVfM283VDJRT0pMZkpOM2luRWdodlRKRTNnMnBIckZPWXh1dXVPSjF5N1hKSmtISzVkUFlNTUFSTHprMWNNcw?oc=5",
+          "publishedAt": "2026-11-24T01:53:00.000Z"
+        },
+        {
+          "title": "Magnitude 5.3 earthquake strikes Nepal, rattles eastern India - TASS",
+          "source": "TASS",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45Rmx0bEtXSjBJTGRGdFJlc19vVWtscDhSemlIZmVqTlBBVW5zLXNjNmtBZGFaMlJVMHJoM1J2VXVWWTVPSTNlM1lEN3rSAVJBVV95cUxQUXB0UFVobGFZbUR6NWRWZDB3WEtyRUM0VV9CRTIyZS15MHdfbU1CdzF0b0RONkl1OVAwMkh6WmxyS09QMVg0ZzNhU1BrN3c5Z3Bn?oc=5",
+          "publishedAt": "2026-11-24T04:17:30.000Z"
+        },
+        {
+          "title": "Earthquake of magnitude 5.4 strikes Nepal, tremors felt across India, Bhutan, China - Times of Oman",
+          "source": "Times of Oman",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhLR0g3eVp6TS05OExSQVdVVDRacW05eXV0UVJoS2Y2OGlZSGhlQXpENnFVM3VRNEZzOGIzU1Z6V0NPZUFvVzZLMmFHeXc5RUZiNlR2VkF4VEM0YXJXcnRhOC1jWEJGZldaTTczWFJTOGpIZ2RuQTR5ejVJWFpDMjJWMnVvMm16VEFxSnl4WUdjU0RJb0hNeWRicU92OXBzanZlUFZzMWlkdEVtQ18yTGxoLWJ2NEZjcEE?oc=5",
+          "publishedAt": "2026-11-24T03:41:00.000Z"
+        },
+        {
+          "title": "India, Nepal Boost Economic Ties: Focus on Co-building & Tech - Rediff MoneyWiz",
+          "source": "ORF Tech (India)",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzd3TEM3WjMySDRJUXR0SnFWR0dHZlhOQWR1d0poNGpDTzgwcW9ESEE3UC1IZGZQM2htN21ETjVTdXVrdWVKcmE3em41U0NuZ2FuQjNTb0hVaElXcGpDTzVvaGlqaVAybFRmQl85VS1FRkpkemRrY1czSDlzaEFNRDI3dVRuZnVxeVlkZDFYY1R3WjNwXzQwLXlySVAwQk5GNkQ4dVVGLTZ1ZklCTGfSAbMBQVVfeXFMT0EySURaTnNGckg1OWxFNW1yaXhhTVc5eVc4Q1NlOHRtU2dadTNqcnJWb2V2N0x2bVRJNVNvV0M5cmNpbU44TFBRYzhFaVA1RS1oekdGMklQRV9KSTZ1OXNaMlBPckIzWXZlbDdqRDluZl9MSWZxaGVpdFZ6WTBldWloTXBtVFhKYU55Y2ZDVnZRR2FseEhkbmdsVHBVeW02U2dabW1WRWZzRjhFQ1NDTUJPUXM?oc=5",
+          "publishedAt": "2026-11-23T14:44:57.000Z"
+        },
+        {
+          "title": "India to establish IIT campus, startup incubator and vocational training institute in Nepal - OnlineKhabar English News",
+          "source": "Startups LATAM",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUg0M2Z1TDRsYkc0TG5hajNnNF9VVV9lV2ZKSGdTNzBSbzJnZXRMMUVGSGtOLUVSSXZKMzd1RHBNUzJxTU5ZbkxrX0Fwc3FPZmVZSFptTG9oNHUtY0xJZVhqblZMblJfSTViOUp5Q0RhTFNBcF9TV0hiaDhLRmI5MnlsOFM1dTFpTWY0QmlZY2l0cV9YaEdPYTRST0ZkYXk2ZUNHaFBPZXdfUVloVjhCbU5iMW51LWJpRWc0Q1ZaRk9MTFFCTWpV?oc=5",
+          "publishedAt": "2026-11-23T11:45:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IR",
+  "countryName": "Iran",
+  "slug": "iran",
+  "rank": 163,
+  "overallScore": 33.7,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Republicans mulling deal that would fund military, but limit operations in Iran",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/republicans-mulling-deal-that-would-fund-military-but-limit-operations-in-iran/",
+        "publishedAt": "2026-11-23T13:24:29.000Z"
+      },
+      {
+        "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+        "source": "Reuters — United Arab Emirates",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+        "publishedAt": "2026-11-23T19:39:43.000Z"
+      },
+      {
+        "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
+        "source": "Bloomberg Energy",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",
+        "publishedAt": "2026-11-24T01:16:00.000Z"
+      },
+      {
+        "title": "Trump Suggests Iran Strikes Will Resume in 2027 If Talks Fail",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_suggests_iran_strikes_will_resume_in_2027_if_talks_fail-23-nov-2026-185150-article/?rss=true",
+        "publishedAt": "2026-11-23T15:28:27.000Z"
+      },
+      {
+        "title": "Afghanistan’s Opium Rebound: The Taliban Are Rationing the Ban, and Iran Is Paying for It - Modern Diplomacy",
+        "source": "Energy Crisis & Shortages",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWJCUkU3eFdJUlUyaXNzc2FlR3ZlR1l1cUd5RDBXNXZqTTRHWDd5QUwwUGUtZnN6WldtN29odUhrRkFjemhrQ2NGTFl2cEdreHpDVEdjRnpyVmo3NHRYcUsxRkIxT3k2S3JhS3prQ254MVdnVXlib2w0eVZJeVFNZlYyRUpTcUR2MDIxbzhVdm4wVnFyTEg1bG4zX0J1ZW8?oc=5",
+        "publishedAt": "2026-11-23T18:41:09.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US has imposed sanctions on dozens linked to Iran's shadow banking networks. [2]\nOil prices held decline on signs of continuing US-Iran diplomacy. [3]\n\nWHAT THIS MEANS FOR IRAN\nSigns of continuing US-Iran diplomacy may ease tensions, but Iran's most severe government travel advisory is Do Not Travel. [3][E2]\n\nOUTLOOK\nA Polymarket market related to Iran, \"US x Iran Effective Ceasefire by November 30?\", priced Yes at 65% on Nov 24, 2026; it closes Nov 30, 2026. [E6]\nA Polymarket market related to Iran, \"Will Iran target the United Arab Emirates by November 30, 2026?\", priced Yes at 12% on Nov 24, 2026; it closes Dec 1, 2026. [E7]\n\nWATCH ITEMS\nWhether Republicans will finalize a deal that would fund the military but limit operations in Iran. [1]",
+      "generatedAt": "2026-11-24T04:51:59.631Z",
+      "sources": [
+        {
+          "title": "Republicans mulling deal that would fund military, but limit operations in Iran",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/republicans-mulling-deal-that-would-fund-military-but-limit-operations-in-iran/",
+          "publishedAt": "2026-11-23T13:24:29.000Z"
+        },
+        {
+          "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+          "source": "Reuters — United Arab Emirates",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+          "publishedAt": "2026-11-23T19:39:43.000Z"
+        },
+        {
+          "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
+          "source": "Bloomberg Energy",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",
+          "publishedAt": "2026-11-24T01:16:00.000Z"
+        },
+        {
+          "title": "Trump Suggests Iran Strikes Will Resume in 2027 If Talks Fail",
+          "source": "Rigzone",
+          "url": "https://www.rigzone.com/news/wire/trump_suggests_iran_strikes_will_resume_in_2027_if_talks_fail-23-nov-2026-185150-article/?rss=true",
+          "publishedAt": "2026-11-23T15:28:27.000Z"
+        },
+        {
+          "title": "Afghanistan’s Opium Rebound: The Taliban Are Rationing the Ban, and Iran Is Paying for It - Modern Diplomacy",
+          "source": "Energy Crisis & Shortages",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWJCUkU3eFdJUlUyaXNzc2FlR3ZlR1l1cUd5RDBXNXZqTTRHWDd5QUwwUGUtZnN6WldtN29odUhrRkFjemhrQ2NGTFl2cEdreHpDVEdjRnpyVmo3NHRYcUsxRkIxT3k2S3JhS3prQ254MVdnVXlib2w0eVZJeVFNZlYyRUpTcUR2MDIxbzhVdm4wVnFyTEg1bG4zX0J1ZW8?oc=5",
+          "publishedAt": "2026-11-23T18:41:09.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Iran is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "65%",
+          "factText": "A Polymarket market related to Iran, \"US x Iran Effective Ceasefire by November 30?\", priced Yes at 65% on Nov 24, 2026; it closes Nov 30, 2026.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "12%",
+          "factText": "A Polymarket market related to Iran, \"Will Iran target the United Arab Emirates by November 30, 2026?\", priced Yes at 12% on Nov 24, 2026; it closes Dec 1, 2026.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/will-iran-target-united-arab-emirates-byptptpt-20260907"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Iran",
+        "summary": "source: www.timeshighereducation.com",
+        "sourceUrl": "https://www.timeshighereducation.com/news/university-leaders-gulf-learn-live-uncertainty",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iran",
+        "summary": "source: www.timeshighereducation.com",
+        "sourceUrl": "https://www.timeshighereducation.com/news/university-leaders-gulf-learn-live-uncertainty",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iran",
+        "summary": "source: timesofindia.indiatimes.com",
+        "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-leadership-rivals-clash-over-iran-threat/articleshow/136116802.cms",
+        "occurredAt": "2026-11-24T02:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iran",
+        "summary": "source: timesofindia.indiatimes.com",
+        "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-leadership-rivals-clash-over-iran-threat/articleshow/136116802.cms",
+        "occurredAt": "2026-11-24T02:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iran",
+        "summary": "source: truthout.org",
+        "sourceUrl": "https://truthout.org/articles/even-hegseths-former-chief-of-staff-says-its-time-for-him-to-be-ousted/",
+        "occurredAt": "2026-11-24T02:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Iran",
+        "summary": "source: www.thevermilion.com",
+        "sourceUrl": "https://www.thevermilion.com/iran-attacks-american-bases-in-bahrain-with-missiles-and-drones-an-industrial-plant-also-hit/article_23187/",
+        "occurredAt": "2026-11-24T01:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Iran",
+        "summary": "source: wrp.org.uk",
+        "sourceUrl": "https://wrp.org.uk/features/build-the-leadership-for-the-world-socialist-revolution/",
+        "occurredAt": "2026-11-24T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 1822 — in Iran",
+        "summary": "source: wrp.org.uk",
+        "sourceUrl": "https://wrp.org.uk/features/build-the-leadership-for-the-world-socialist-revolution/",
+        "occurredAt": "2026-11-24T01:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iran",
+        "summary": "source: www.parrysound.com",
+        "sourceUrl": "https://www.parrysound.com/news/ontario-gas-price-prediction-for-nov-25/article_63136a96-e350-5db8-b1a3-4d745be546f0.html",
+        "occurredAt": "2026-11-24T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Iran",
+        "summary": "source: www.presstv.co.uk",
+        "sourceUrl": "https://www.presstv.co.uk/Detail/2026/11/23/781432/iranian-army-shoots-down-us-lucas-drone-over-strait-of-hormuz",
+        "occurredAt": "2026-11-24T00:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

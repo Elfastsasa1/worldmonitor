@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GD",
+  "countryName": "Grenada",
+  "slug": "grenada",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Grenada lays groundwork for long-term hydrocarbon development",
+        "source": "NOW Grenada",
+        "url": "https://nowgrenada.com/2026/11/grenada-lays-groundwork-for-long-term-hydrocarbon-development/?utm_source=rss&utm_medium=rss&utm_campaign=grenada-lays-groundwork-for-long-term-hydrocarbon-development",
+        "publishedAt": "2026-11-23T21:38:12.000Z"
+      },
+      {
+        "title": "Grenada lays groundwork for long-term hydrocarbon development",
+        "source": "nowgrenada.com",
+        "url": "https://nowgrenada.com/2026/11/grenada-lays-groundwork-for-long-term-hydrocarbon-development/",
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "CULINARY TEAM AWAITING RESULTS | Grenada Broadcasting Network",
+        "source": "gbn.gd",
+        "url": "https://gbn.gd/culinary-team-awaiting-results/",
+        "publishedAt": "2026-11-20T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "FISCAL RULES RETURN IN 2027 | Grenada Broadcasting Network",
+        "source": "gbn.gd",
+        "url": "https://gbn.gd/fiscal-rules-return-in-2027/",
+        "publishedAt": "2026-11-20T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "GOLD SPIKES INITIATIVE TO EXPAND REACH | Grenada Broadcasting Network",
+        "source": "gbn.gd",
+        "url": "https://gbn.gd/gold-spikes-initiative-to-expand-reach/",
+        "publishedAt": "2026-11-20T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGrenada is laying groundwork for long-term hydrocarbon development. [1][2]\n\nWATCH ITEMS\nWhether fiscal rules will return in 2027 as announced. [4]",
+      "generatedAt": "2026-11-24T04:26:43.558Z",
+      "sources": [
+        {
+          "title": "Grenada lays groundwork for long-term hydrocarbon development",
+          "source": "NOW Grenada",
+          "url": "https://nowgrenada.com/2026/11/grenada-lays-groundwork-for-long-term-hydrocarbon-development/?utm_source=rss&utm_medium=rss&utm_campaign=grenada-lays-groundwork-for-long-term-hydrocarbon-development",
+          "publishedAt": "2026-11-23T21:38:12.000Z"
+        },
+        {
+          "title": "Grenada lays groundwork for long-term hydrocarbon development",
+          "source": "nowgrenada.com",
+          "url": "https://nowgrenada.com/2026/11/grenada-lays-groundwork-for-long-term-hydrocarbon-development/",
+          "publishedAt": "2026-11-24T00:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "CULINARY TEAM AWAITING RESULTS | Grenada Broadcasting Network",
+          "source": "gbn.gd",
+          "url": "https://gbn.gd/culinary-team-awaiting-results/",
+          "publishedAt": "2026-11-20T23:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "FISCAL RULES RETURN IN 2027 | Grenada Broadcasting Network",
+          "source": "gbn.gd",
+          "url": "https://gbn.gd/fiscal-rules-return-in-2027/",
+          "publishedAt": "2026-11-20T23:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "GOLD SPIKES INITIATIVE TO EXPAND REACH | Grenada Broadcasting Network",
+          "source": "gbn.gd",
+          "url": "https://gbn.gd/gold-spikes-initiative-to-expand-reach/",
+          "publishedAt": "2026-11-20T23:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

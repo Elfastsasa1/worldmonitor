@@ -1,0 +1,3 @@
+const t={primaryUse:["news","markets","commodities","travel","security","research","api-agent","other"],usageContext:["personal","work"],payer:["self","employer","not-paying"],role:["analyst","trader","journalist","security","government","supply-chain","developer","student","other"]},r=["primaryUse","usageContext","payer","role","alternative"],a=["primaryUse","usageContext"],s=280;function o(e){return Object.prototype.hasOwnProperty.call(t,e)}export{r as A,a,t as b,s as c,o as i};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["audience-profile-urgLNiEm.js"]=1;

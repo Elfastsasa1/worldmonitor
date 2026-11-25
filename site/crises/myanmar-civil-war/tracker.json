@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "myanmar-civil-war",
+  "title": "Myanmar civil war tracker",
+  "shortTitle": "Myanmar civil war",
+  "description": "Myanmar civil war: the military government, resistance forces and ethnic armies, a sourced timeline, what to watch, and monthly conflict events and fatalities.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Myanmar, aggregated from subnational records. It is a country-level pulse, not a comprehensive incident ledger, a territorial control map, or a forecast.",
+  "coverage": [
+    {
+      "code": "MM",
+      "name": "Myanmar"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 234,
+    "fatalities": 185,
+    "politicalViolenceEvents": 234,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "MM",
+        "name": "Myanmar (Burma)",
+        "events": 234,
+        "fatalities": 185,
+        "political": 234,
+        "demonstrations": 0,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

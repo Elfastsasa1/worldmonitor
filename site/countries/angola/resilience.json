@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "slug": "angola",
+  "rank": 133,
+  "overallScore": 43.1,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Conecta Angola Comercial ultrapassa as 100 startups inscritas",
+        "source": "Rádio Nacional de Angola (RNA)",
+        "url": "https://rna.ao/rna.ao/2026/11/23/conecta-angola-comercial-ultrapassa-as-100-startups-inscritas/",
+        "publishedAt": "2026-11-23T22:46:18.000Z"
+      },
+      {
+        "title": "Angola: journée portes ouvertes au Parlement, une opération de séduction",
+        "source": "RFI",
+        "url": "https://www.rfi.fr/fr/afrique/20261123-angola-journ%C3%A9e-portes-ouvertes-au-parlement-une-op%C3%A9ration-de-s%C3%A9duction",
+        "publishedAt": "2026-11-23T20:49:55.000Z"
+      },
+      {
+        "title": "Angola : La première raffinerie d’or inaugurée à Luanda pour 20,7 millions de dollars",
+        "source": "Burkina24",
+        "url": "https://burkina24.com/2026/11/23/angola-la-premiere-raffinerie-dor-inauguree-a-luanda-pour-207-millions-de-dollars/",
+        "publishedAt": "2026-11-23T17:38:36.000Z"
+      },
+      {
+        "title": "L'Angola raffinera désormais son or sur place avec une usine publique de 20,7 millions de dollars",
+        "source": "La Nouvelle Tribune",
+        "url": "https://lanouvelletribune.info/2026/11/langola-raffinera-desormais-son-or-sur-place-avec-une-usine-publique-de-207-millions-de-dollars/",
+        "publishedAt": "2026-11-22T10:03:17.000Z"
+      },
+      {
+        "title": "Angola Opens U$20M Gold Refinery",
+        "source": "Taarifa Rwanda",
+        "url": "https://taarifa.rw/2026/11/21/angola-opens-u20m-gold-refinery/",
+        "publishedAt": "2026-11-21T17:11:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nConecta Angola Comercial has surpassed 100 registered startups. [1]\n\nKEY RISKS\nAngola is linked to 16 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:22:39.413Z",
+      "sources": [
+        {
+          "title": "Conecta Angola Comercial ultrapassa as 100 startups inscritas",
+          "source": "Rádio Nacional de Angola (RNA)",
+          "url": "https://rna.ao/rna.ao/2026/11/23/conecta-angola-comercial-ultrapassa-as-100-startups-inscritas/",
+          "publishedAt": "2026-11-23T22:46:18.000Z"
+        },
+        {
+          "title": "Angola: journée portes ouvertes au Parlement, une opération de séduction",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/fr/afrique/20261123-angola-journ%C3%A9e-portes-ouvertes-au-parlement-une-op%C3%A9ration-de-s%C3%A9duction",
+          "publishedAt": "2026-11-23T20:49:55.000Z"
+        },
+        {
+          "title": "Angola : La première raffinerie d’or inaugurée à Luanda pour 20,7 millions de dollars",
+          "source": "Burkina24",
+          "url": "https://burkina24.com/2026/11/23/angola-la-premiere-raffinerie-dor-inauguree-a-luanda-pour-207-millions-de-dollars/",
+          "publishedAt": "2026-11-23T17:38:36.000Z"
+        },
+        {
+          "title": "L'Angola raffinera désormais son or sur place avec une usine publique de 20,7 millions de dollars",
+          "source": "La Nouvelle Tribune",
+          "url": "https://lanouvelletribune.info/2026/11/langola-raffinera-desormais-son-or-sur-place-avec-une-usine-publique-de-207-millions-de-dollars/",
+          "publishedAt": "2026-11-22T10:03:17.000Z"
+        },
+        {
+          "title": "Angola Opens U$20M Gold Refinery",
+          "source": "Taarifa Rwanda",
+          "url": "https://taarifa.rw/2026/11/21/angola-opens-u20m-gold-refinery/",
+          "publishedAt": "2026-11-21T17:11:53.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "16",
+          "factText": "Angola is linked to 16 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

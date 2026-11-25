@@ -1,0 +1,81 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "slug": "ireland",
+  "rank": 24,
+  "overallScore": 63.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Healthcare company MSD 50th anniversary in Ireland celebrated by Dundalk employees",
+        "source": "Irish Independent",
+        "url": "https://www.independent.ie/county/louth/healthcare-company-msd-50th-anniversary-in-ireland-celebrated-by-dundalk-employees/a/164820161.html",
+        "publishedAt": "2026-11-24T04:00:00.000Z"
+      },
+      {
+        "title": "Vote on Irish schools law set to fall after Stormont veto",
+        "source": "BBC Northern Ireland",
+        "url": "https://www.bbc.co.uk/news/articles/crgj38nlj45wo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-24T00:08:29.000Z"
+      },
+      {
+        "title": "Ireland manager Carla Ward signs contract extension ahead of World Cup play-off",
+        "source": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/carla-ward-contract-extension-2-2-7235761-Nov2026/",
+        "publishedAt": "2026-11-23T21:56:12.000Z"
+      },
+      {
+        "title": "Republic of Ireland head coach Carla Ward extends contract to Euro 2029",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/sport/2026/11/23/republic-of-ireland-head-coach-carla-ward-extends-contract-to-euro-2029/",
+        "publishedAt": "2026-11-23T21:36:26.000Z"
+      },
+      {
+        "title": "Two more arrested in connection with fire that killed five in Irish city of Waterford",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/news/world/europe/waterford-fire-arson-arrests-philip-kim-english-b3090091.html",
+        "publishedAt": "2026-11-23T16:48:39.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHealthcare company MSD celebrated its 50th anniversary in Ireland with Dundalk employees. [1]\nTwo more people have been arrested in connection with a fire that killed five in the Irish city of Waterford. [3]\n\nWATCH ITEMS\nWhether the vote on Irish schools law will fall after the Stormont veto, as reported. [2]\nWhether further arrests will be made in connection with the Waterford fire that killed five. [3]",
+      "generatedAt": "2026-11-24T04:51:43.409Z",
+      "sources": [
+        {
+          "title": "Healthcare company MSD 50th anniversary in Ireland celebrated by Dundalk employees",
+          "source": "Irish Independent",
+          "url": "https://www.independent.ie/county/louth/healthcare-company-msd-50th-anniversary-in-ireland-celebrated-by-dundalk-employees/a/164820161.html",
+          "publishedAt": "2026-11-24T04:00:00.000Z"
+        },
+        {
+          "title": "Vote on Irish schools law set to fall after Stormont veto",
+          "source": "BBC Northern Ireland",
+          "url": "https://www.bbc.co.uk/news/articles/crgj38nlj45wo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-24T00:08:29.000Z"
+        },
+        {
+          "title": "Two more arrested in connection with fire that killed five in Irish city of Waterford",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/waterford-fire-arson-arrests-philip-kim-english-b3090091.html",
+          "publishedAt": "2026-11-23T16:48:39.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

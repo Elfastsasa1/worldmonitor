@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "slug": "portugal",
+  "rank": 12,
+  "overallScore": 65.9,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Portugal assina declaração conjunta com 13 países instando Myanmar a cumprir sentença do TIJ",
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/portugal-assina-declaracao-conjunta-com-13-paises-instando-myanmar-a-cumprir-sentenca-do-tij_n1781164",
+        "publishedAt": "2026-11-23T21:27:22.000Z"
+      },
+      {
+        "title": "Surfista chilena se enfrenta a gigantesca ola en Nazaré, Portugal",
+        "source": "La Tercera",
+        "url": "https://www.latercera.com/videos/noticia/surfista-chilena-se-enfrenta-a-gigantesca-ola-en-nazare-portugal/",
+        "publishedAt": "2026-11-23T20:21:18.000Z"
+      },
+      {
+        "title": "Remessas de emigrantes para Cabo Verde crescem sobretudo a partir de Portugal",
+        "source": "Expresso das Ilhas",
+        "url": "https://expressodasilhas.cv/economia/2026/11/23/remessas-de-emigrantes-para-cabo-verde-crescem-sobretudo-a-partir-de-portugal/105663",
+        "publishedAt": "2026-11-23T17:44:45.000Z"
+      },
+      {
+        "title": "Marc Márquez no falla en Portugal y se cita con la historia de MotoGP: “No daba nada por mí”",
+        "source": "elDiario.es",
+        "url": "https://www.eldiario.es/spin/deportes/marc-marquez-no-falla-portugal-cita-historia-motogp-no-daba-pm_1_13686967.html",
+        "publishedAt": "2026-11-23T16:37:53.000Z"
+      },
+      {
+        "title": "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during talks in Islamabad",
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-talks-in-islamabad",
+        "publishedAt": "2026-11-23T15:46:26.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPakistan has Portugal's full support for GSP+ status, according to a visiting foreign minister during talks in Islamabad. [4]\n\nKEY RISKS\nPortugal is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:32:47.570Z",
+      "sources": [
+        {
+          "title": "Portugal assina declaração conjunta com 13 países instando Myanmar a cumprir sentença do TIJ",
+          "source": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/portugal-assina-declaracao-conjunta-com-13-paises-instando-myanmar-a-cumprir-sentenca-do-tij_n1781164",
+          "publishedAt": "2026-11-23T21:27:22.000Z"
+        },
+        {
+          "title": "Surfista chilena se enfrenta a gigantesca ola en Nazaré, Portugal",
+          "source": "La Tercera",
+          "url": "https://www.latercera.com/videos/noticia/surfista-chilena-se-enfrenta-a-gigantesca-ola-en-nazare-portugal/",
+          "publishedAt": "2026-11-23T20:21:18.000Z"
+        },
+        {
+          "title": "Remessas de emigrantes para Cabo Verde crescem sobretudo a partir de Portugal",
+          "source": "Expresso das Ilhas",
+          "url": "https://expressodasilhas.cv/economia/2026/11/23/remessas-de-emigrantes-para-cabo-verde-crescem-sobretudo-a-partir-de-portugal/105663",
+          "publishedAt": "2026-11-23T17:44:45.000Z"
+        },
+        {
+          "title": "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during talks in Islamabad",
+          "source": "Dawn",
+          "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-talks-in-islamabad",
+          "publishedAt": "2026-11-23T15:46:26.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "3",
+          "factText": "Portugal is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

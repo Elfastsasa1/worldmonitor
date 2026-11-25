@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "slug": "niger",
+  "rank": 164,
+  "overallScore": 32.9,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Obi Meets Niger State Residents, Urges Nigerians To Turn Out For 2027 Elections",
+        "source": "Channels TV",
+        "url": "https://www.channelstv.com/2026/11/23/obi-meets-niger-residents-urges-nigerians-to-turn-out-for-elections/",
+        "publishedAt": "2026-11-23T17:55:35.000Z"
+      },
+      {
+        "title": "Le Niger sur Kalangou du 23 Novembre 2026",
+        "source": "Studio Kalangou",
+        "url": "https://www.studiokalangou.org/143341-sante-respiratoire-droit-penal-formation-numerique-artisans",
+        "publishedAt": "2026-11-23T17:00:00.000Z"
+      },
+      {
+        "title": "Pénurie de carburant au Niger : Agadez conditionne et plafonne les services à la pompe",
+        "source": "Linfodrome",
+        "url": "https://www.linfodrome.com/international/127952-penurie-de-carburant-au-niger-agadez-conditionne-et-plafonne-les-services-a-la-pompe",
+        "publishedAt": "2026-11-23T14:19:00.000Z"
+      },
+      {
+        "title": "Électricité : l'Algérie veut reproduire au Soudan son coup de force du Niger",
+        "source": "La Nouvelle Tribune",
+        "url": "https://lanouvelletribune.info/2026/11/electricite-lalgerie-veut-reproduire-au-soudan-son-coup-de-force-du-niger/",
+        "publishedAt": "2026-11-23T09:33:49.000Z"
+      },
+      {
+        "title": "‘‘1 000 Filles, 1 000 Talents, 1 000 Avenirs, un Niger’’ : L’Unicef et Transform Niger lancent un programme pour l’entrepreneuriat des filles adolescentes",
+        "source": "Le Sahel",
+        "url": "https://www.lesahel.org/1-000-filles-1-000-talents-1-000-avenirs-un-niger-lunicef-et-transform-niger-lancent-un-programme-pour-lentrepreneuriat-des-filles-adole/",
+        "publishedAt": "2026-11-23T09:06:12.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNiger is experiencing a fuel shortage, with Agadez conditioning and capping services at the pump. [3]\n\nKEY RISKS\nThe Do Not Travel advisory indicates a high-risk security environment for foreign nationals in Niger. [E1]\n\nWATCH ITEMS\nWhether the fuel shortage in Agadez will be resolved or spread to other regions. [3]",
+      "generatedAt": "2026-11-24T04:31:39.226Z",
+      "sources": [
+        {
+          "title": "Obi Meets Niger State Residents, Urges Nigerians To Turn Out For 2027 Elections",
+          "source": "Channels TV",
+          "url": "https://www.channelstv.com/2026/11/23/obi-meets-niger-residents-urges-nigerians-to-turn-out-for-elections/",
+          "publishedAt": "2026-11-23T17:55:35.000Z"
+        },
+        {
+          "title": "Le Niger sur Kalangou du 23 Novembre 2026",
+          "source": "Studio Kalangou",
+          "url": "https://www.studiokalangou.org/143341-sante-respiratoire-droit-penal-formation-numerique-artisans",
+          "publishedAt": "2026-11-23T17:00:00.000Z"
+        },
+        {
+          "title": "Pénurie de carburant au Niger : Agadez conditionne et plafonne les services à la pompe",
+          "source": "Linfodrome",
+          "url": "https://www.linfodrome.com/international/127952-penurie-de-carburant-au-niger-agadez-conditionne-et-plafonne-les-services-a-la-pompe",
+          "publishedAt": "2026-11-23T14:19:00.000Z"
+        },
+        {
+          "title": "Électricité : l'Algérie veut reproduire au Soudan son coup de force du Niger",
+          "source": "La Nouvelle Tribune",
+          "url": "https://lanouvelletribune.info/2026/11/electricite-lalgerie-veut-reproduire-au-soudan-son-coup-de-force-du-niger/",
+          "publishedAt": "2026-11-23T09:33:49.000Z"
+        },
+        {
+          "title": "‘‘1 000 Filles, 1 000 Talents, 1 000 Avenirs, un Niger’’ : L’Unicef et Transform Niger lancent un programme pour l’entrepreneuriat des filles adolescentes",
+          "source": "Le Sahel",
+          "url": "https://www.lesahel.org/1-000-filles-1-000-talents-1-000-avenirs-un-niger-lunicef-et-transform-niger-lancent-un-programme-pour-lentrepreneuriat-des-filles-adole/",
+          "publishedAt": "2026-11-23T09:06:12.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Niger is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: theeagleonline.com.ng",
+        "sourceUrl": "https://theeagleonline.com.ng/niger-64-killed-in-reprisal-over-village-heads-murder/",
+        "occurredAt": "2026-11-23T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Niger",
+        "summary": "source: theeagleonline.com.ng",
+        "sourceUrl": "https://theeagleonline.com.ng/niger-64-killed-in-reprisal-over-village-heads-murder/",
+        "occurredAt": "2026-11-23T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: theeagleonline.com.ng",
+        "sourceUrl": "https://theeagleonline.com.ng/niger-64-killed-in-reprisal-over-village-heads-murder/",
+        "occurredAt": "2026-11-23T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: theeagleonline.com.ng",
+        "sourceUrl": "https://theeagleonline.com.ng/niger-64-killed-in-reprisal-over-village-heads-murder/",
+        "occurredAt": "2026-11-23T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: theeagleonline.com.ng",
+        "sourceUrl": "https://theeagleonline.com.ng/niger-64-killed-in-reprisal-over-village-heads-murder/",
+        "occurredAt": "2026-11-23T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: theeagleonline.com.ng",
+        "sourceUrl": "https://theeagleonline.com.ng/niger-64-killed-in-reprisal-over-village-heads-murder/",
+        "occurredAt": "2026-11-23T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/bandits-kill-niger-village-head-five-others/",
+        "occurredAt": "2026-11-22T23:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: saharareporters.com",
+        "sourceUrl": "https://saharareporters.com/2026/11/22/niger-police-command-confirms-gunmen-killed-five-persons-others-mosque-attack-reprisal",
+        "occurredAt": "2026-11-22T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: saharareporters.com",
+        "sourceUrl": "https://saharareporters.com/2026/11/22/niger-police-command-confirms-gunmen-killed-five-persons-others-mosque-attack-reprisal",
+        "occurredAt": "2026-11-22T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Niger",
+        "summary": "source: saharareporters.com",
+        "sourceUrl": "https://saharareporters.com/2026/11/22/niger-police-command-confirms-gunmen-killed-five-persons-others-mosque-attack-reprisal",
+        "occurredAt": "2026-11-22T17:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

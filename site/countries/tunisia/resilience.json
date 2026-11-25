@@ -1,0 +1,106 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "slug": "tunisia",
+  "rank": 140,
+  "overallScore": 42.3,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tunisia looks to expand olive oil presence in Korea",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10947452",
+        "publishedAt": "2026-11-24T04:13:30.000Z"
+      },
+      {
+        "title": "Qatar, Tunisia discuss strengthening labour co-operation",
+        "source": "Gulf Times",
+        "url": "https://www.gulf-times.com/article/738788/qatar/qatar-tunisia-discuss-strengthening-labour-co-operation",
+        "publishedAt": "2026-11-21T21:00:00.000Z"
+      },
+      {
+        "title": "Crisis and Information Blackout in Tunisia: Who Informs The Public?",
+        "source": "Nawaat",
+        "url": "https://nawaat.org/2026/11/21/crisis-and-information-blackout-in-tunisia-who-informs-the-public/",
+        "publishedAt": "2026-11-21T13:00:00.000Z"
+      },
+      {
+        "title": "Agroecological transition in olive based farming systems among smallholder farms in northwestern Tunisia",
+        "source": "icarda.org",
+        "url": "https://icarda.org/publications/56911/agroecological-transition-olive-based-farming-systems-among-smallholder-farms",
+        "publishedAt": "2026-11-23T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tunisia rights activist sentenced to five years in prison",
+        "source": "naharnet.com",
+        "url": "https://naharnet.com/stories/en/323929-tunisia-rights-activist-sentenced-to-five-years-in-prison",
+        "publishedAt": "2026-11-23T12:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTunisia is looking to expand its olive oil presence in Korea. [1]\n\nKEY RISKS\nTunisia is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Qatar and Tunisia will finalise strengthened labour co-operation following their discussions. [2]",
+      "generatedAt": "2026-11-24T04:35:25.854Z",
+      "sources": [
+        {
+          "title": "Tunisia looks to expand olive oil presence in Korea",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10947452",
+          "publishedAt": "2026-11-24T04:13:30.000Z"
+        },
+        {
+          "title": "Qatar, Tunisia discuss strengthening labour co-operation",
+          "source": "Gulf Times",
+          "url": "https://www.gulf-times.com/article/738788/qatar/qatar-tunisia-discuss-strengthening-labour-co-operation",
+          "publishedAt": "2026-11-21T21:00:00.000Z"
+        },
+        {
+          "title": "Crisis and Information Blackout in Tunisia: Who Informs The Public?",
+          "source": "Nawaat",
+          "url": "https://nawaat.org/2026/11/21/crisis-and-information-blackout-in-tunisia-who-informs-the-public/",
+          "publishedAt": "2026-11-21T13:00:00.000Z"
+        },
+        {
+          "title": "Agroecological transition in olive based farming systems among smallholder farms in northwestern Tunisia",
+          "source": "icarda.org",
+          "url": "https://icarda.org/publications/56911/agroecological-transition-olive-based-farming-systems-among-smallholder-farms",
+          "publishedAt": "2026-11-23T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Tunisia rights activist sentenced to five years in prison",
+          "source": "naharnet.com",
+          "url": "https://naharnet.com/stories/en/323929-tunisia-rights-activist-sentenced-to-five-years-in-prison",
+          "publishedAt": "2026-11-23T12:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "8",
+          "factText": "Tunisia is linked to 8 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

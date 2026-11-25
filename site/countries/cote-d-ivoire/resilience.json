@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CI",
+  "countryName": "Côte d’Ivoire",
+  "slug": "cote-d-ivoire",
+  "rank": 136,
+  "overallScore": 42.7,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Côte d’Ivoire – Cacao : 269 milliards FCFA décaissés, des écarts troublants dans le rachat des 100 000 tonnes",
+        "source": "Connection Ivoirienne",
+        "url": "https://connectionivoirienne.net/2026/11/24/cote-divoire-cacao-269-milliards-fcfa-decaisses-des-ecarts-troublants-dans-le-rachat-des-100-000-tonnes/",
+        "publishedAt": "2026-11-23T23:34:18.000Z"
+      },
+      {
+        "title": "Côte d’Ivoire-AIP/ Le BURIDA envisage de prélever des redevances sur les cérémonies de mariage et funéraires",
+        "source": "Agence Ivoirienne de Presse (AIP)",
+        "url": "https://www.aip.ci/cote-divoire-aip-le-burida-envisage-de-prelever-des-redevances-sur-les-ceremonies-de-mariage-et-funeraires/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-burida-envisage-de-prelever-des-redevances-sur-les-ceremonies-de-mariage-et-funeraires",
+        "publishedAt": "2026-11-23T23:15:03.000Z"
+      },
+      {
+        "title": "Matchs amicaux contre la Côte d’Ivoire, la liste des 23 Lionnes convoquées par Alioune Abitalib Fall",
+        "source": "PressAfrik",
+        "url": "https://www.pressafrik.com/Matchs-amicaux-contre-la-Cote-d-Ivoire-la-liste-des-23-Lionnes-convoquees-par-Alioune-Abitalib-Fall_a315001.html",
+        "publishedAt": "2026-11-23T19:55:00.000Z"
+      },
+      {
+        "title": "Côte d'Ivoire - Délestage : Des perturbations signalées à Abidjan et dans plusieurs localités de l’intérieur",
+        "source": "Linfodrome",
+        "url": "https://www.linfodrome.com/societe/127965-cote-d-ivoire-delestage-des-perturbations-signalees-a-abidjan-et-dans-plusieurs-localites-de-l-interieur",
+        "publishedAt": "2026-11-23T18:33:00.000Z"
+      },
+      {
+        "title": "Côte d'Ivoire: visite du président allemand à Abidjan, une première depuis 40 ans",
+        "source": "RFI",
+        "url": "https://www.rfi.fr/fr/afrique/20261123-c%C3%B4te-d-ivoire-visite-du-pr%C3%A9sident-allemand-%C3%A0-abidjan-une-premi%C3%A8re-depuis-40-ans",
+        "publishedAt": "2026-11-23T17:48:08.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe BURIDA plans to levy fees on wedding and funeral ceremonies. [2]\n\nWATCH ITEMS\nWhether the BURIDA will proceed with levying fees on wedding and funeral ceremonies. [2]\nWhether the power outages reported in Abidjan and other localities will be resolved. [4]",
+      "generatedAt": "2026-11-24T04:24:35.964Z",
+      "sources": [
+        {
+          "title": "Côte d’Ivoire – Cacao : 269 milliards FCFA décaissés, des écarts troublants dans le rachat des 100 000 tonnes",
+          "source": "Connection Ivoirienne",
+          "url": "https://connectionivoirienne.net/2026/11/24/cote-divoire-cacao-269-milliards-fcfa-decaisses-des-ecarts-troublants-dans-le-rachat-des-100-000-tonnes/",
+          "publishedAt": "2026-11-23T23:34:18.000Z"
+        },
+        {
+          "title": "Côte d’Ivoire-AIP/ Le BURIDA envisage de prélever des redevances sur les cérémonies de mariage et funéraires",
+          "source": "Agence Ivoirienne de Presse (AIP)",
+          "url": "https://www.aip.ci/cote-divoire-aip-le-burida-envisage-de-prelever-des-redevances-sur-les-ceremonies-de-mariage-et-funeraires/?utm_source=rss&utm_medium=rss&utm_campaign=cote-divoire-aip-le-burida-envisage-de-prelever-des-redevances-sur-les-ceremonies-de-mariage-et-funeraires",
+          "publishedAt": "2026-11-23T23:15:03.000Z"
+        },
+        {
+          "title": "Matchs amicaux contre la Côte d’Ivoire, la liste des 23 Lionnes convoquées par Alioune Abitalib Fall",
+          "source": "PressAfrik",
+          "url": "https://www.pressafrik.com/Matchs-amicaux-contre-la-Cote-d-Ivoire-la-liste-des-23-Lionnes-convoquees-par-Alioune-Abitalib-Fall_a315001.html",
+          "publishedAt": "2026-11-23T19:55:00.000Z"
+        },
+        {
+          "title": "Côte d'Ivoire - Délestage : Des perturbations signalées à Abidjan et dans plusieurs localités de l’intérieur",
+          "source": "Linfodrome",
+          "url": "https://www.linfodrome.com/societe/127965-cote-d-ivoire-delestage-des-perturbations-signalees-a-abidjan-et-dans-plusieurs-localites-de-l-interieur",
+          "publishedAt": "2026-11-23T18:33:00.000Z"
+        },
+        {
+          "title": "Côte d'Ivoire: visite du président allemand à Abidjan, une première depuis 40 ans",
+          "source": "RFI",
+          "url": "https://www.rfi.fr/fr/afrique/20261123-c%C3%B4te-d-ivoire-visite-du-pr%C3%A9sident-allemand-%C3%A0-abidjan-une-premi%C3%A8re-depuis-40-ans",
+          "publishedAt": "2026-11-23T17:48:08.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

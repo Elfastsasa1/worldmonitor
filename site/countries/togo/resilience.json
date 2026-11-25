@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TG",
+  "countryName": "Togo",
+  "slug": "togo",
+  "rank": 132,
+  "overallScore": 43.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Presidente Congolês reúne-se com homólogos do Quénia, RDC e Togo",
+        "source": "Rádio Nacional de Angola (RNA)",
+        "url": "https://rna.ao/rna.ao/2026/11/23/presidente-congoles-reune-se-com-homologos-do-quenia-rdc-e-togo/",
+        "publishedAt": "2026-11-23T20:23:13.000Z"
+      },
+      {
+        "title": "Togo 2027 : le citoyen doit-il seulement payer?",
+        "source": "IciLome",
+        "url": "https://icilome.com/2026/11/togo-2027-le-citoyen-doit-il-seulement-payer/",
+        "publishedAt": "2026-11-23T15:29:12.000Z"
+      },
+      {
+        "title": "The ecotourism boom reviving Togo’s local communities",
+        "source": "Ghana Business News",
+        "url": "https://www.ghanabusinessnews.com/2026/11/23/the-ecotourism-boom-reviving-togos-local-communities/",
+        "publishedAt": "2026-11-23T06:33:08.000Z"
+      },
+      {
+        "title": "CJEAO-Togo fait des médias, des acteurs clés de la gouvernance de l’eau",
+        "source": "Togotopnews",
+        "url": "https://togotopnews.tg/2026/11/20/cjeao-togo-fait-des-medias-des-acteurs-cles-de-la-gouvernance-de-leau/?utm_source=rss&utm_medium=rss&utm_campaign=cjeao-togo-fait-des-medias-des-acteurs-cles-de-la-gouvernance-de-leau",
+        "publishedAt": "2026-11-20T09:41:29.000Z"
+      },
+      {
+        "title": "Au Togo, une opposition fragilisée par la division et la répression",
+        "source": "IciLome",
+        "url": "https://icilome.com/2026/11/au-togo-une-opposition-fragilisee-par-la-division-et-la-repression/",
+        "publishedAt": "2026-11-23T08:09:54.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPresidente Congolês reuniu-se com homólogos do Quénia, RDC e Togo. [1]\nNo Togo, uma oposição fragilizada pela divisão e repressão. [5]\n\nWHAT THIS MEANS FOR TOGO\nA reunião presidencial pode fortalecer a cooperação regional, mas a oposição fragilizada no Togo limita a capacidade de influenciar políticas internas. [1][5][E1]",
+      "generatedAt": "2026-11-24T04:35:07.818Z",
+      "sources": [
+        {
+          "title": "Presidente Congolês reúne-se com homólogos do Quénia, RDC e Togo",
+          "source": "Rádio Nacional de Angola (RNA)",
+          "url": "https://rna.ao/rna.ao/2026/11/23/presidente-congoles-reune-se-com-homologos-do-quenia-rdc-e-togo/",
+          "publishedAt": "2026-11-23T20:23:13.000Z"
+        },
+        {
+          "title": "Togo 2027 : le citoyen doit-il seulement payer?",
+          "source": "IciLome",
+          "url": "https://icilome.com/2026/11/togo-2027-le-citoyen-doit-il-seulement-payer/",
+          "publishedAt": "2026-11-23T15:29:12.000Z"
+        },
+        {
+          "title": "The ecotourism boom reviving Togo’s local communities",
+          "source": "Ghana Business News",
+          "url": "https://www.ghanabusinessnews.com/2026/11/23/the-ecotourism-boom-reviving-togos-local-communities/",
+          "publishedAt": "2026-11-23T06:33:08.000Z"
+        },
+        {
+          "title": "CJEAO-Togo fait des médias, des acteurs clés de la gouvernance de l’eau",
+          "source": "Togotopnews",
+          "url": "https://togotopnews.tg/2026/11/20/cjeao-togo-fait-des-medias-des-acteurs-cles-de-la-gouvernance-de-leau/?utm_source=rss&utm_medium=rss&utm_campaign=cjeao-togo-fait-des-medias-des-acteurs-cles-de-la-gouvernance-de-leau",
+          "publishedAt": "2026-11-20T09:41:29.000Z"
+        },
+        {
+          "title": "Au Togo, une opposition fragilisée par la division et la répression",
+          "source": "IciLome",
+          "url": "https://icilome.com/2026/11/au-togo-une-opposition-fragilisee-par-la-division-et-la-repression/",
+          "publishedAt": "2026-11-23T08:09:54.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Togo is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "slug": "poland",
+  "rank": 38,
+  "overallScore": 61.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian unmanned aerial vehicle violates Polish airspace days after missile incursion",
+        "source": "Kyiv Independent",
+        "url": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/",
+        "publishedAt": "2026-11-24T00:48:51.000Z"
+      },
+      {
+        "title": "NATO may add forces to Europe after Russian missiles fall in Poland",
+        "source": "NV EN",
+        "url": "https://english.nv.ua/nation/nato-may-add-forces-to-europe-after-russian-missiles-fall-in-poland-50661904.html",
+        "publishedAt": "2026-11-23T22:39:00.000Z"
+      },
+      {
+        "title": "NATO allies deploy early warning aircraft to bolster Poland's air defenses after Russian missile incidents - Hromadske",
+        "source": "Hromadske EN",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY1dRU2NjeDZYVTIzbnJzUlIxSG1TaDVCeUJnNHNhOFh2U1F4WThaWWdhQV80dThBakptTGVBcEhQZ2EwZ24tYWRXdmZUdm1hY3U3OHZXZDF1Z0tXbWdPOFYtd2RXamRKMWhGeE9ZOWY4aGp0bFo3OXBrYnYxVEM5c0lhM1VVNmFsMDFLZjVLVmx3NlkwWjRiRHZOTmhMYWRfX0RNZ1o4T1hid3RrbmVnT2s1MzhVbnNKVGttN19uN0RsdDFaV0RMRWxWc3lmUGpxQkU0WXEtVnBzazDSAeABQVVfeXFMT0tKTGlKRUROMjkyY0VRQ19iZnR0X2tiY2tlT0JjT2dOWFpTdnh1QVRld2JrbVZJd0k4c0l0bjZrWU5uMW9RLUFHVHpHSzVjQVhDSnd6S2RBSWhKWVFEMVV6djJOVC1wMl9pUW1hNmlncURoMnFoNmUzaFlRR3BSSFRPemNzNS1SVHp5cFBMU1EwWXplR0pCc3MwVVNXaWltVDVmZnpBUVp1Nzd2QlFYRUhHLUFCdDh0VEZwVWhGVDRkU1ktbjJQNFVHRWJZN2N2N0RkTUc5WWZQUzh6X1NscVQ?oc=5",
+        "publishedAt": "2026-11-23T17:54:00.000Z"
+      },
+      {
+        "title": "Ukraine war spilling into NATO territory",
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+        "publishedAt": "2026-11-22T22:40:22.000Z"
+      },
+      {
+        "title": "Poland reports bird flu outbreak on turkey farm - Reuters",
+        "source": "Reuters — Panama",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0M1MkpxcUZaZEJmcmhjb0FzbjFrTEZFWGpfbFFnRjdzNm1aZkxlcHBSbUp3YUR0NnpBN0FRRElDYnJnOG8ycm12SlRQQjZ6bWZwZFMwajlZM1c1SEJTd21FQUZPM3NPNXZqSndaNlhZb1BaMGpOSVl6X2dNQ2RWaG1qZ1pjWDVEbHYyYmFuTUVGb2o0dVRTUVFxNmhlSTBWTDB5bV80WDhzaW9rbjZQWDV2V1AyMHM?oc=5",
+        "publishedAt": "2026-11-23T12:07:04.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA Russian unmanned aerial vehicle violated Polish airspace days after a missile incursion. [1]\nPoland reported a bird flu outbreak on a turkey farm. [5]\n\nWATCH ITEMS\nWhether NATO will add forces to Europe after Russian missiles fell in Poland. [2]",
+      "generatedAt": "2026-11-24T04:54:59.969Z",
+      "sources": [
+        {
+          "title": "Russian unmanned aerial vehicle violates Polish airspace days after missile incursion",
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/",
+          "publishedAt": "2026-11-24T00:48:51.000Z"
+        },
+        {
+          "title": "NATO may add forces to Europe after Russian missiles fall in Poland",
+          "source": "NV EN",
+          "url": "https://english.nv.ua/nation/nato-may-add-forces-to-europe-after-russian-missiles-fall-in-poland-50661904.html",
+          "publishedAt": "2026-11-23T22:39:00.000Z"
+        },
+        {
+          "title": "NATO allies deploy early warning aircraft to bolster Poland's air defenses after Russian missile incidents - Hromadske",
+          "source": "Hromadske EN",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY1dRU2NjeDZYVTIzbnJzUlIxSG1TaDVCeUJnNHNhOFh2U1F4WThaWWdhQV80dThBakptTGVBcEhQZ2EwZ24tYWRXdmZUdm1hY3U3OHZXZDF1Z0tXbWdPOFYtd2RXamRKMWhGeE9ZOWY4aGp0bFo3OXBrYnYxVEM5c0lhM1VVNmFsMDFLZjVLVmx3NlkwWjRiRHZOTmhMYWRfX0RNZ1o4T1hid3RrbmVnT2s1MzhVbnNKVGttN19uN0RsdDFaV0RMRWxWc3lmUGpxQkU0WXEtVnBzazDSAeABQVVfeXFMT0tKTGlKRUROMjkyY0VRQ19iZnR0X2tiY2tlT0JjT2dOWFpTdnh1QVRld2JrbVZJd0k4c0l0bjZrWU5uMW9RLUFHVHpHSzVjQVhDSnd6S2RBSWhKWVFEMVV6djJOVC1wMl9pUW1hNmlncURoMnFoNmUzaFlRR3BSSFRPemNzNS1SVHp5cFBMU1EwWXplR0pCc3MwVVNXaWltVDVmZnpBUVp1Nzd2QlFYRUhHLUFCdDh0VEZwVWhGVDRkU1ktbjJQNFVHRWJZN2N2N0RkTUc5WWZQUzh6X1NscVQ?oc=5",
+          "publishedAt": "2026-11-23T17:54:00.000Z"
+        },
+        {
+          "title": "Ukraine war spilling into NATO territory",
+          "source": "NPR World",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+          "publishedAt": "2026-11-22T22:40:22.000Z"
+        },
+        {
+          "title": "Poland reports bird flu outbreak on turkey farm - Reuters",
+          "source": "Reuters — Panama",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0M1MkpxcUZaZEJmcmhjb0FzbjFrTEZFWGpfbFFnRjdzNm1aZkxlcHBSbUp3YUR0NnpBN0FRRElDYnJnOG8ycm12SlRQQjZ6bWZwZFMwajlZM1c1SEJTd21FQUZPM3NPNXZqSndaNlhZb1BaMGpOSVl6X2dNQ2RWaG1qZ1pjWDVEbHYyYmFuTUVGb2o0dVRTUVFxNmhlSTBWTDB5bV80WDhzaW9rbjZQWDV2V1AyMHM?oc=5",
+          "publishedAt": "2026-11-23T12:07:04.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

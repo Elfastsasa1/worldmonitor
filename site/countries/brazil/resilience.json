@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "slug": "brazil",
+  "rank": 57,
+  "overallScore": 57.3,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Brazil cuts its 2027 growth forecast to 1.8% and raises inflation to the top of its target",
+        "source": "MercoPress",
+        "url": "https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+        "publishedAt": "2026-11-23T21:40:00.000Z"
+      },
+      {
+        "title": "Longer droughts threaten floating health clinics as Amazon streams run dry",
+        "source": "Mongabay",
+        "url": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
+        "publishedAt": "2026-11-23T19:00:50.000Z"
+      },
+      {
+        "title": "Mubadala Capital is in talks to buy into Brazilian fertilizer port operator Rocha - EnterpriseAM",
+        "source": "Gulf FDI",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVN2cmpTNWplcE9DcEF2QkpMbkxhR3ltdW1ac1RxQTYwY1pMSFAyYWlZNmdBWHBUTVRuWlBLeHh3VXBUUm5RRldEeXZBNXE1X0hfUWE5OWYxczE2OGx4aU5zMW1XZUxOanJyZW54Q3owc1A1SUQtWUFaNGY4Q1Jtd0dWVkxGdUNrakJJSkFhbllUX2U2V1JxUHUyS2Zqb3U5d3ZrRURJUkJCdGlTdXdYZ2tjOHl4Y0Y2WWs0QTlKeXRsVm5vNjd0THRzMm9JZw?oc=5",
+        "publishedAt": "2026-11-22T22:00:00.000Z"
+      },
+      {
+        "title": "Brazilian Iron Ore Stocks Rise at Chinese Ports - Wisevoter",
+        "source": "China Commodity Imports",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1JZVFVHdXV5VmhNZlFMd3YtSGNPUVFLNjBnTFJBa0lwMlB6YlVjdlFQTnduTWFLSGhoUnl6azduOUdnd0dNNW5VQWp5ZXhPSk1lSDcwcWlVMjIyN2RMcWpFNUxSTFh5cWVTUmMtN2lxV2RNcTlLNXFPa1Z3VE95RmU2Y01hWlNtc3g0VHNXY3hyU2hsY0g5Yg?oc=5",
+        "publishedAt": "2026-11-24T00:51:56.000Z"
+      },
+      {
+        "title": "Brazil investigates alleged foreign interference in presidential election despite Lula win",
+        "source": "Brazil Reports",
+        "url": "https://brazilreports.com/brazil-investigates-alleged-foreign-interference-in-presidential-election-despite-lula-win/7471/",
+        "publishedAt": "2026-11-20T22:30:58.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBrazil cuts its 2027 growth forecast to 1.8% and raises inflation to the top of its target. [1]\nLonger droughts threaten floating health clinics as Amazon streams run dry. [2]\n\nOUTLOOK\nA Polymarket market related to Brazil, \"Will the Bank of Brazil make no change to the target for the Selic rate at the December meeting?\", priced Yes at 91% on Nov 24, 2026; it closes Dec 9, 2026. [E6]\n\nWATCH ITEMS\nWhether the alleged foreign interference investigated in Brazil's presidential election will affect the outcome of Lula's win. [5]",
+      "generatedAt": "2026-11-24T04:48:43.339Z",
+      "sources": [
+        {
+          "title": "Brazil cuts its 2027 growth forecast to 1.8% and raises inflation to the top of its target",
+          "source": "MercoPress",
+          "url": "https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "publishedAt": "2026-11-23T21:40:00.000Z"
+        },
+        {
+          "title": "Longer droughts threaten floating health clinics as Amazon streams run dry",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
+          "publishedAt": "2026-11-23T19:00:50.000Z"
+        },
+        {
+          "title": "Mubadala Capital is in talks to buy into Brazilian fertilizer port operator Rocha - EnterpriseAM",
+          "source": "Gulf FDI",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVN2cmpTNWplcE9DcEF2QkpMbkxhR3ltdW1ac1RxQTYwY1pMSFAyYWlZNmdBWHBUTVRuWlBLeHh3VXBUUm5RRldEeXZBNXE1X0hfUWE5OWYxczE2OGx4aU5zMW1XZUxOanJyZW54Q3owc1A1SUQtWUFaNGY4Q1Jtd0dWVkxGdUNrakJJSkFhbllUX2U2V1JxUHUyS2Zqb3U5d3ZrRURJUkJCdGlTdXdYZ2tjOHl4Y0Y2WWs0QTlKeXRsVm5vNjd0THRzMm9JZw?oc=5",
+          "publishedAt": "2026-11-22T22:00:00.000Z"
+        },
+        {
+          "title": "Brazilian Iron Ore Stocks Rise at Chinese Ports - Wisevoter",
+          "source": "China Commodity Imports",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR1JZVFVHdXV5VmhNZlFMd3YtSGNPUVFLNjBnTFJBa0lwMlB6YlVjdlFQTnduTWFLSGhoUnl6azduOUdnd0dNNW5VQWp5ZXhPSk1lSDcwcWlVMjIyN2RMcWpFNUxSTFh5cWVTUmMtN2lxV2RNcTlLNXFPa1Z3VE95RmU2Y01hWlNtc3g0VHNXY3hyU2hsY0g5Yg?oc=5",
+          "publishedAt": "2026-11-24T00:51:56.000Z"
+        },
+        {
+          "title": "Brazil investigates alleged foreign interference in presidential election despite Lula win",
+          "source": "Brazil Reports",
+          "url": "https://brazilreports.com/brazil-investigates-alleged-foreign-interference-in-presidential-election-despite-lula-win/7471/",
+          "publishedAt": "2026-11-20T22:30:58.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "91%",
+          "factText": "A Polymarket market related to Brazil, \"Will the Bank of Brazil make no change to the target for the Selic rate at the December meeting?\", priced Yes at 91% on Nov 24, 2026; it closes Dec 9, 2026.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/bank-of-brazil-decision-in-december-20260918"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "slug": "bosnia-and-herzegovina",
+  "rank": 67,
+  "overallScore": 55.7,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bosnia’s Dodik Gathers Votes, Seeking Veto Over State Policy",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/23/bosnias-dodik-gathers-votes-seeking-veto-over-state-policy/bi/",
+        "publishedAt": "2026-11-23T15:26:23.000Z"
+      },
+      {
+        "title": "In Bosnia il figlio di Milorad Dodik è stato nominato primo ministro della Republika Srpska, proseguendo una discussa dinastia politica",
+        "source": "Il Post",
+        "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/",
+        "publishedAt": "2026-11-22T18:03:10.000Z"
+      },
+      {
+        "title": "Republika Srpska Ban on 1990s Bosnian Army Symbols Ruled Unconstitutional",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/republika-srpska-ban-on-1990s-bosnian-army-symbols-ruled-unconstitutional/btj/",
+        "publishedAt": "2026-11-20T17:26:12.000Z"
+      },
+      {
+        "title": "Bosnia Federation’s PM and Interior Minister Indicted Over Police Appointments",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/bosnia-federations-pm-and-interior-minister-indicted-over-police-appointments/bi/",
+        "publishedAt": "2026-11-20T15:05:13.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBosnia’s Dodik is gathering votes to seek a veto over state policy. [1]\nThe Republika Srpska ban on 1990s Bosnian Army symbols has been ruled unconstitutional. [3]\n\nWATCH ITEMS\nWhether Dodik will succeed in gathering enough votes to secure a veto over state policy. [1]",
+      "generatedAt": "2026-11-24T04:23:04.695Z",
+      "sources": [
+        {
+          "title": "Bosnia’s Dodik Gathers Votes, Seeking Veto Over State Policy",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/23/bosnias-dodik-gathers-votes-seeking-veto-over-state-policy/bi/",
+          "publishedAt": "2026-11-23T15:26:23.000Z"
+        },
+        {
+          "title": "In Bosnia il figlio di Milorad Dodik è stato nominato primo ministro della Republika Srpska, proseguendo una discussa dinastia politica",
+          "source": "Il Post",
+          "url": "https://www.ilpost.it/2026/11/22/dodik-figlio-bosnia/",
+          "publishedAt": "2026-11-22T18:03:10.000Z"
+        },
+        {
+          "title": "Republika Srpska Ban on 1990s Bosnian Army Symbols Ruled Unconstitutional",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/republika-srpska-ban-on-1990s-bosnian-army-symbols-ruled-unconstitutional/btj/",
+          "publishedAt": "2026-11-20T17:26:12.000Z"
+        },
+        {
+          "title": "Bosnia Federation’s PM and Interior Minister Indicted Over Police Appointments",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/bosnia-federations-pm-and-interior-minister-indicted-over-police-appointments/bi/",
+          "publishedAt": "2026-11-20T15:05:13.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

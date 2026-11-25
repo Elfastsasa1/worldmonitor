@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "slug": "finland",
+  "rank": 9,
+  "overallScore": 67.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+        "publishedAt": "2026-11-23T19:41:45.000Z"
+      },
+      {
+        "title": "Russia retrieves burning cargo ship from Gulf of Finland after drone strike",
+        "source": "Yle News",
+        "url": "https://yle.fi/a/74-20258435?origin=rss",
+        "publishedAt": "2026-11-23T09:35:36.000Z"
+      },
+      {
+        "title": "Recon Marines Join Finnish Naval Exercise, Baltic NATO Naval Drills - USNI News",
+        "source": "USNI News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDJmb1BJMG90NTg5Qml6X0FLS3dJNVhFRW1RT1diS24ybmNWR29jV3Z1UF9nVjl4MjlzdXMwNm9ObEh2WE5FUEdDamhEREJIcXluLUhhb0lITVViWUZHRVl4cGxxNkZLMUVoLTlPbFlMbTd3UVUwWWlQdWw2RHZZSm1aYm1mVnRNa2RNRlM3Z3dMZkJzek4zdTZKaEdiUG1r?oc=5",
+        "publishedAt": "2026-11-23T18:22:00.000Z"
+      },
+      {
+        "title": "Drone-Hit Russian Cargo Ship Leaves Finnish Waters Despite Sanctions Hold",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/",
+        "publishedAt": "2026-11-23T16:01:55.000Z"
+      },
+      {
+        "title": "Finland får beröm av Google – men inte jobben",
+        "source": "Hufvudstadsbladet",
+        "url": "https://www.hbl.fi/ekonomi/finland-far-berom-av-google-men-inte-jobben/",
+        "publishedAt": "2026-11-24T03:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA Russian cargo ship hit by a drone strike was retrieved from the Gulf of Finland, and another drone-hit Russian cargo ship left Finnish waters despite a sanctions hold. [2][4]\nRecon Marines have joined a Finnish naval exercise as part of Baltic NATO naval drills. [3]\n\nWATCH ITEMS\nWhether the Ukraine war will spread further, as Kyiv targets Russian vessels in Libya. [1]",
+      "generatedAt": "2026-11-24T04:26:18.272Z",
+      "sources": [
+        {
+          "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+          "publishedAt": "2026-11-23T19:41:45.000Z"
+        },
+        {
+          "title": "Russia retrieves burning cargo ship from Gulf of Finland after drone strike",
+          "source": "Yle News",
+          "url": "https://yle.fi/a/74-20258435?origin=rss",
+          "publishedAt": "2026-11-23T09:35:36.000Z"
+        },
+        {
+          "title": "Recon Marines Join Finnish Naval Exercise, Baltic NATO Naval Drills - USNI News",
+          "source": "USNI News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDJmb1BJMG90NTg5Qml6X0FLS3dJNVhFRW1RT1diS24ybmNWR29jV3Z1UF9nVjl4MjlzdXMwNm9ObEh2WE5FUEdDamhEREJIcXluLUhhb0lITVViWUZHRVl4cGxxNkZLMUVoLTlPbFlMbTd3UVUwWWlQdWw2RHZZSm1aYm1mVnRNa2RNRlM3Z3dMZkJzek4zdTZKaEdiUG1r?oc=5",
+          "publishedAt": "2026-11-23T18:22:00.000Z"
+        },
+        {
+          "title": "Drone-Hit Russian Cargo Ship Leaves Finnish Waters Despite Sanctions Hold",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/drone-hit-russian-cargo-ship-leaves-finnish-waters-despite-sanctions-hold/",
+          "publishedAt": "2026-11-23T16:01:55.000Z"
+        },
+        {
+          "title": "Finland får beröm av Google – men inte jobben",
+          "source": "Hufvudstadsbladet",
+          "url": "https://www.hbl.fi/ekonomi/finland-far-berom-av-google-men-inte-jobben/",
+          "publishedAt": "2026-11-24T03:00:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

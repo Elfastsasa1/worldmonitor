@@ -1,0 +1,120 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "slug": "egypt",
+  "rank": 112,
+  "overallScore": 48.6,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Whose Mediterranean? Shared opportunity for Türkiye and Egypt",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/opinion/op-ed/whose-mediterranean-shared-opportunity-for-turkiye-and-egypt",
+        "publishedAt": "2026-11-23T21:05:00.000Z"
+      },
+      {
+        "title": "Egypt signs agreements to strengthen protection of underwater cultural heritage",
+        "source": "Daily News Egypt",
+        "url": "https://dailynewsegypt.com/2026/11/23/egypt-signs-agreements-to-strengthen-protection-of-underwater-cultural-heritage/",
+        "publishedAt": "2026-11-23T17:54:09.000Z"
+      },
+      {
+        "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
+        "publishedAt": "2026-11-23T17:40:31.000Z"
+      },
+      {
+        "title": "Libyan Army denies withdrawal of Egyptian military experts from Benghazi",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/libyan-army-denies-withdrawal-of-egyptian-military-experts-from-benghazi/",
+        "publishedAt": "2026-11-23T15:09:15.000Z"
+      },
+      {
+        "title": "Egyptian FM discusses de-escalation with counterparts",
+        "source": "Mehr News",
+        "url": "https://en.mehrnews.com/news/249623/Egyptian-FM-discusses-de-escalation-with-counterparts",
+        "publishedAt": "2026-11-23T06:54:29.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEgypt and Iraq have pledged closer energy and military ties during Al Zaidi's first Cairo visit. [3]\nEgyptian FM is discussing de-escalation with counterparts. [5]\n\nWHAT THIS MEANS FOR EGYPT\nEgypt's discussions on de-escalation come as the Suez Canal remains a shipping chokepoint tracked for Egypt. [5][E5]\n\nKEY RISKS\nThe most severe government travel advisory World Monitor tracks for Egypt is Exercise Increased Caution. [E2]\n\nOUTLOOK\nA Polymarket market priced Yes at 5% on Nov 24, 2026 for Egypt joining the Mecca Agreement by December 31, 2026; it closes Jan 1, 2027. [E8]\n\nWATCH ITEMS\nWhether the Libyan Army will deny withdrawal of Egyptian military experts from Benghazi as reported. [4]",
+      "generatedAt": "2026-11-24T04:26:02.373Z",
+      "sources": [
+        {
+          "title": "Whose Mediterranean? Shared opportunity for Türkiye and Egypt",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/opinion/op-ed/whose-mediterranean-shared-opportunity-for-turkiye-and-egypt",
+          "publishedAt": "2026-11-23T21:05:00.000Z"
+        },
+        {
+          "title": "Egypt signs agreements to strengthen protection of underwater cultural heritage",
+          "source": "Daily News Egypt",
+          "url": "https://dailynewsegypt.com/2026/11/23/egypt-signs-agreements-to-strengthen-protection-of-underwater-cultural-heritage/",
+          "publishedAt": "2026-11-23T17:54:09.000Z"
+        },
+        {
+          "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
+          "publishedAt": "2026-11-23T17:40:31.000Z"
+        },
+        {
+          "title": "Libyan Army denies withdrawal of Egyptian military experts from Benghazi",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/libyan-army-denies-withdrawal-of-egyptian-military-experts-from-benghazi/",
+          "publishedAt": "2026-11-23T15:09:15.000Z"
+        },
+        {
+          "title": "Egyptian FM discusses de-escalation with counterparts",
+          "source": "Mehr News",
+          "url": "https://en.mehrnews.com/news/249623/Egyptian-FM-discusses-de-escalation-with-counterparts",
+          "publishedAt": "2026-11-23T06:54:29.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Egypt is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E5",
+          "kind": "chokepoint",
+          "label": "Chokepoint tracker",
+          "value": "Suez Canal",
+          "factText": "Suez Canal is a shipping chokepoint World Monitor tracks for Egypt.",
+          "asOf": "2026-11-24T04:25:59.545Z",
+          "url": "https://www.worldmonitor.app/chokepoints/suez-canal/"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "5%",
+          "factText": "A Polymarket market related to Egypt, \"Will Egypt join the Mecca Agreement by December 31, 2026?\", priced Yes at 5% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:20:45.018Z",
+          "url": "https://polymarket.com/event/which-countries-will-join-the-mecca-agreement-by-december-31"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

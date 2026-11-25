@@ -1,0 +1,913 @@
+{
+  "dataset": "forecast-resolution-scorecard",
+  "underAudit": {
+    "since": "2026-10-07",
+    "reason": "An audit found three errors in how forecasts were scored. Some outcomes were recorded as \"did not happen\" without reading the data that decides them. Some forecasts were counted more than once. Some were scored at a probability other than the one published.",
+    "issue": 8990
+  },
+  "record": {
+    "availability": "ok",
+    "freshness": "current",
+    "coverage": "small-sample",
+    "headline": "insufficient",
+    "failureCode": ""
+  },
+  "attemptedAt": "2026-11-24",
+  "capturedAt": "2026-11-24",
+  "generatedAt": "2026-11-23T06:03:25.551Z",
+  "measurementAgeHours": 23,
+  "staleAfterHours": 36,
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "scoreConvention": "Lower Brier and lower log score are better. The published delta is the market Brier minus the forecast Brier, and lower is better, so a negative delta means the market scored better.",
+  "headlineCohort": {
+    "scored": 49,
+    "excludedScored": 310,
+    "excludedOrigins": [
+      "bet_engine",
+      "state_derived",
+      "unknown"
+    ],
+    "definition": "every scored entry except those whose generationOrigin is listed in excludedOrigins; an absent origin is filed as unknown and is excluded"
+  },
+  "pooledPopulations": {
+    "calibration": "all-scored-entries",
+    "vsMarketSkill": "all-scored-entries",
+    "overall": "all-scored-entries"
+  },
+  "ledgerPopulation": "published-forecasts",
+  "confidenceIntervals": {
+    "proportions": {
+      "published": true,
+      "method": "wilson-95"
+    },
+    "meanScores": {
+      "brier": {
+        "published": true,
+        "method": "family-level percentile bootstrap (each resample draws whole forecast families), 2000 resamples, seed 7072"
+      },
+      "logScore": {
+        "published": false,
+        "trackedIn": "https://github.com/koala73/worldmonitor/issues/7072"
+      },
+      "skillScore": {
+        "published": true,
+        "method": "family-level percentile bootstrap (each resample draws whole forecast families), 2000 resamples, seed 7072",
+        "perDomain": false
+      }
+    }
+  },
+  "intervals": {
+    "method": "wilson-95",
+    "void": {
+      "successes": 434,
+      "count": 549,
+      "ci95": [
+        0.754528,
+        0.822491
+      ]
+    },
+    "byDomain": {
+      "conflict": {
+        "successes": 78,
+        "count": 99,
+        "ci95": [
+          0.697387,
+          0.856865
+        ]
+      },
+      "cyber": {
+        "successes": 124,
+        "count": 124,
+        "ci95": [
+          0.969951,
+          1
+        ]
+      },
+      "energy": {
+        "successes": 0,
+        "count": 8,
+        "ci95": [
+          0,
+          0.324408
+        ]
+      },
+      "geopolitical": {
+        "successes": 0,
+        "count": 8,
+        "ci95": [
+          0,
+          0.324408
+        ]
+      },
+      "infrastructure": {
+        "successes": 20,
+        "count": 20,
+        "ci95": [
+          0.838875,
+          1
+        ]
+      },
+      "macro": {
+        "successes": 0,
+        "count": 10,
+        "ci95": [
+          0,
+          0.277533
+        ]
+      },
+      "market": {
+        "successes": 21,
+        "count": 298,
+        "ci95": [
+          0.04655,
+          0.105322
+        ]
+      },
+      "military": {
+        "successes": 55,
+        "count": 58,
+        "ci95": [
+          0.858606,
+          0.982254
+        ]
+      },
+      "political": {
+        "successes": 20,
+        "count": 20,
+        "ci95": [
+          0.838875,
+          1
+        ]
+      },
+      "supply_chain": {
+        "successes": 119,
+        "count": 151,
+        "ci95": [
+          0.716168,
+          0.845697
+        ]
+      }
+    },
+    "byGenerationOrigin": {
+      "bet_engine": {
+        "successes": 3,
+        "count": 247,
+        "ci95": [
+          0.004139,
+          0.035095
+        ]
+      },
+      "legacy_detector": {
+        "successes": 377,
+        "count": 426,
+        "ci95": [
+          0.851179,
+          0.911893
+        ]
+      },
+      "state_derived": {
+        "successes": 43,
+        "count": 101,
+        "ci95": [
+          0.333777,
+          0.52315
+        ]
+      },
+      "unknown": {
+        "successes": 14,
+        "count": 22,
+        "ci95": [
+          0.429517,
+          0.802668
+        ]
+      }
+    },
+    "calibration": {
+      "0-10": {
+        "successes": 1,
+        "count": 2,
+        "ci95": [
+          0.094531,
+          0.905469
+        ]
+      },
+      "10-20": {
+        "successes": 5,
+        "count": 32,
+        "ci95": [
+          0.068644,
+          0.317541
+        ]
+      },
+      "20-30": {
+        "successes": 12,
+        "count": 54,
+        "ci95": [
+          0.131954,
+          0.349387
+        ]
+      },
+      "30-40": {
+        "successes": 47,
+        "count": 130,
+        "ci95": [
+          0.284021,
+          0.447004
+        ]
+      },
+      "40-50": {
+        "successes": 31,
+        "count": 44,
+        "ci95": [
+          0.557798,
+          0.818445
+        ]
+      },
+      "50-60": {
+        "successes": 15,
+        "count": 29,
+        "ci95": [
+          0.34431,
+          0.686139
+        ]
+      },
+      "60-70": {
+        "successes": 26,
+        "count": 42,
+        "ci95": [
+          0.46814,
+          0.750003
+        ]
+      },
+      "70-80": {
+        "successes": 11,
+        "count": 21,
+        "ci95": [
+          0.323695,
+          0.71656
+        ]
+      },
+      "80-90": {
+        "successes": 4,
+        "count": 4,
+        "ci95": [
+          0.510109,
+          1
+        ]
+      },
+      "90-100": {
+        "successes": 1,
+        "count": 1,
+        "ci95": [
+          0.206549,
+          1
+        ]
+      }
+    },
+    "scoredShare": {
+      "successes": 115,
+      "count": 691,
+      "ci95": [
+        0.140514,
+        0.196025
+      ]
+    },
+    "headlineActualRate": {
+      "successes": 36,
+      "count": 49,
+      "ci95": [
+        0.597377,
+        0.837887
+      ]
+    },
+    "pooledActualRate": {
+      "successes": 153,
+      "count": 359,
+      "ci95": [
+        0.376076,
+        0.477855
+      ]
+    }
+  },
+  "skillVsActualRate": {
+    "definition": "skillScore = 1 - brier / actualRateBrier over the same forecasts, where actualRateBrier = p(1-p) and p is the share that came true in the window. 0 is the same error as always forecasting p, 1 is perfect, below 0 is a larger error. verdict is better or worse only when the family-bootstrap ci95 lies wholly above or below 0.",
+    "minimums": {
+      "families": 30,
+      "yesFamilies": 5,
+      "noFamilies": 5
+    },
+    "perDomainInterval": "not carried: the public API has no room for it under its size cap. Domain intervals, family counts and effective n are in the MCP get_forecast_scorecard result.",
+    "headline": {
+      "scored": 49,
+      "yesCount": 36,
+      "actualRate": 0.7346938775510204,
+      "actualRateBrier": 0.1949187838400666,
+      "brier": 0.22903,
+      "skillScore": -0.17500220085470097,
+      "ci95": [
+        -0.943909,
+        0.212512
+      ],
+      "measurable": false,
+      "verdict": "small-sample"
+    },
+    "byDomain": []
+  },
+  "horizonProjections": {
+    "valuesPublished": false,
+    "gradesStatus": "captured",
+    "gradesPublished": false,
+    "definition": "A projection is not a probability: it comes from a fixed, hand-set curve per domain, identified by curvesVersion. Each row grades one curve version at one horizon, scoring the projection value as a probability at that point in time. brier and realizedRate appear only when measurable is true, which needs the minimums below; other rows carry counts only.",
+    "minimums": {
+      "families": 30,
+      "yesFamilies": 5,
+      "noFamilies": 5
+    },
+    "source": "MCP get_forecast_scorecard (horizonGrades), read from the same stored scorecard as the record above. The REST scorecard does not carry it.",
+    "unversionedScored": 10,
+    "rows": [
+      {
+        "curvesVersion": 1,
+        "horizon": "h24",
+        "scored": 7,
+        "yes": 5,
+        "no": 2,
+        "families": 3,
+        "yesFamilies": 1,
+        "noFamilies": 2,
+        "measurable": false
+      },
+      {
+        "curvesVersion": 1,
+        "horizon": "d7",
+        "scored": 0,
+        "yes": 0,
+        "no": 0,
+        "families": 0,
+        "yesFamilies": 0,
+        "noFamilies": 0,
+        "measurable": false
+      },
+      {
+        "curvesVersion": 1,
+        "horizon": "d30",
+        "scored": 4,
+        "yes": 3,
+        "no": 1,
+        "families": 3,
+        "yesFamilies": 2,
+        "noFamilies": 1,
+        "measurable": false
+      }
+    ]
+  },
+  "scorecard": {
+    "schemaVersion": 3,
+    "generatedAt": 1795413805551,
+    "rollingWindowDays": 180,
+    "methodology": "Brier/log score over resolved YES/NO published forecast windows; VOID and pending entries are counted for coverage but excluded from accuracy math. The ledger totals and the maturity funnel count published forecasts only: shadow bets, scored for evidence but never shown, are left out of them. Each window is one question, and it is scored on the probability published when the window opened; a later re-emission of the same question does not change it. While an outcome-fitted calibration gate passes, that probability is calibrated, and the API does not mark which ones are; after a switch between raw and calibrated publication, the rolling window mixes forecasts published under both. 120 forecasts scored against a data feed we could not read correctly are voided and left out of every score (issue #5233). 322 shadow bet windows that opened on a base-rate placeholder instead of a model forecast are left out of every count, VOID included (issue #8990). Since 8 October 2026, 50 of 118 resolved published forecasts were void (42.4%, 95% interval 33.8% to 51.4%); the target is under 15%. This counts published forecasts first issued on or after that date, so it leaves out unpublished shadow bets and the voids relabelled in the issue #8990 audit.",
+    "totals": {
+      "entries": 691,
+      "resolved": 549,
+      "pending": 92,
+      "pendingJudge": 50,
+      "scored": 115,
+      "void": 434,
+      "voidRate": 0.790528,
+      "publicationCoverage": 0.166425
+    },
+    "overall": {
+      "count": 359,
+      "brier": 0.224591,
+      "logScore": 0.642462
+    },
+    "byDomain": [
+      {
+        "domain": "conflict",
+        "resolved": 99,
+        "scored": 21,
+        "void": 78,
+        "voidRate": 0.787879,
+        "brier": 0.22859,
+        "logScore": 0.638618
+      },
+      {
+        "domain": "cyber",
+        "resolved": 124,
+        "scored": 0,
+        "void": 124,
+        "voidRate": 1
+      },
+      {
+        "domain": "energy",
+        "resolved": 8,
+        "scored": 8,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.156775,
+        "logScore": 0.477297
+      },
+      {
+        "domain": "geopolitical",
+        "resolved": 8,
+        "scored": 8,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.226338,
+        "logScore": 0.617485
+      },
+      {
+        "domain": "infrastructure",
+        "resolved": 20,
+        "scored": 0,
+        "void": 20,
+        "voidRate": 1
+      },
+      {
+        "domain": "macro",
+        "resolved": 10,
+        "scored": 10,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.2905,
+        "logScore": 0.773586
+      },
+      {
+        "domain": "market",
+        "resolved": 298,
+        "scored": 277,
+        "void": 21,
+        "voidRate": 0.07047,
+        "brier": 0.21609,
+        "logScore": 0.621549
+      },
+      {
+        "domain": "military",
+        "resolved": 58,
+        "scored": 3,
+        "void": 55,
+        "voidRate": 0.948276,
+        "brier": 0.2582,
+        "logScore": 0.7039
+      },
+      {
+        "domain": "political",
+        "resolved": 20,
+        "scored": 0,
+        "void": 20,
+        "voidRate": 1
+      },
+      {
+        "domain": "supply_chain",
+        "resolved": 151,
+        "scored": 32,
+        "void": 119,
+        "voidRate": 0.788079,
+        "brier": 0.288327,
+        "logScore": 0.826806
+      }
+    ],
+    "byGenerationOrigin": [
+      {
+        "generationOrigin": "bet_engine",
+        "resolved": 247,
+        "scored": 244,
+        "void": 3,
+        "voidRate": 0.012146,
+        "brier": 0.207946,
+        "logScore": 0.602368
+      },
+      {
+        "generationOrigin": "legacy_detector",
+        "resolved": 426,
+        "scored": 49,
+        "void": 377,
+        "voidRate": 0.884977,
+        "brier": 0.22903,
+        "logScore": 0.679492
+      },
+      {
+        "generationOrigin": "state_derived",
+        "resolved": 101,
+        "scored": 58,
+        "void": 43,
+        "voidRate": 0.425743,
+        "brier": 0.269827,
+        "logScore": 0.735831
+      },
+      {
+        "generationOrigin": "unknown",
+        "resolved": 22,
+        "scored": 8,
+        "void": 14,
+        "voidRate": 0.636364,
+        "brier": 0.377112,
+        "logScore": 0.961587
+      }
+    ],
+    "calibration": [
+      {
+        "bucket": "0-10",
+        "minProbability": 0,
+        "maxProbability": 0.1,
+        "count": 2,
+        "predictedMean": 0.049,
+        "realizedRate": 0.5,
+        "brier": 0.485362
+      },
+      {
+        "bucket": "10-20",
+        "minProbability": 0.1,
+        "maxProbability": 0.2,
+        "count": 32,
+        "predictedMean": 0.135531,
+        "realizedRate": 0.15625,
+        "brier": 0.129909
+      },
+      {
+        "bucket": "20-30",
+        "minProbability": 0.2,
+        "maxProbability": 0.3,
+        "count": 54,
+        "predictedMean": 0.251185,
+        "realizedRate": 0.222222,
+        "brier": 0.171374
+      },
+      {
+        "bucket": "30-40",
+        "minProbability": 0.3,
+        "maxProbability": 0.4,
+        "count": 130,
+        "predictedMean": 0.350931,
+        "realizedRate": 0.361538,
+        "brier": 0.230985
+      },
+      {
+        "bucket": "40-50",
+        "minProbability": 0.4,
+        "maxProbability": 0.5,
+        "count": 44,
+        "predictedMean": 0.425364,
+        "realizedRate": 0.704545,
+        "brier": 0.286759
+      },
+      {
+        "bucket": "50-60",
+        "minProbability": 0.5,
+        "maxProbability": 0.6,
+        "count": 29,
+        "predictedMean": 0.547241,
+        "realizedRate": 0.517241,
+        "brier": 0.256308
+      },
+      {
+        "bucket": "60-70",
+        "minProbability": 0.6,
+        "maxProbability": 0.7,
+        "count": 42,
+        "predictedMean": 0.65269,
+        "realizedRate": 0.619048,
+        "brier": 0.241565
+      },
+      {
+        "bucket": "70-80",
+        "minProbability": 0.7,
+        "maxProbability": 0.8,
+        "count": 21,
+        "predictedMean": 0.724714,
+        "realizedRate": 0.52381,
+        "brier": 0.281911
+      },
+      {
+        "bucket": "80-90",
+        "minProbability": 0.8,
+        "maxProbability": 0.9,
+        "count": 4,
+        "predictedMean": 0.8475,
+        "realizedRate": 1,
+        "brier": 0.024275
+      },
+      {
+        "bucket": "90-100",
+        "minProbability": 0.9,
+        "maxProbability": 1,
+        "count": 1,
+        "predictedMean": 0.93,
+        "realizedRate": 1,
+        "brier": 0.0049
+      }
+    ],
+    "vsMarketSkill": {
+      "count": 98,
+      "forecastBrier": 0.219148,
+      "marketBrier": 0.107887,
+      "brierDelta": -0.111261
+    },
+    "degraded": false,
+    "stale": false,
+    "error": "",
+    "skill": {
+      "count": 49,
+      "brier": 0.22903,
+      "logScore": 0.679492,
+      "excludedScored": 310,
+      "excludedOrigins": [
+        "bet_engine",
+        "state_derived",
+        "unknown"
+      ],
+      "yesCount": 36,
+      "bssCi95": [
+        -0.943909,
+        0.212512
+      ]
+    },
+    "publishedByDomain": [
+      {
+        "domain": "conflict",
+        "count": 14,
+        "brier": 0.153107,
+        "yesCount": 12
+      },
+      {
+        "domain": "market",
+        "count": 12,
+        "brier": 0.216482,
+        "yesCount": 6
+      },
+      {
+        "domain": "military",
+        "count": 3,
+        "brier": 0.2582,
+        "yesCount": 3
+      },
+      {
+        "domain": "supply_chain",
+        "count": 20,
+        "brier": 0.285331,
+        "yesCount": 15
+      }
+    ],
+    "uncertainty": {
+      "method": "family-level percentile bootstrap (each resample draws whole forecast families), 2000 resamples, seed 7072",
+      "overallBrier": {
+        "count": 359,
+        "mean": 0.224591,
+        "ci95": [
+          0.201613,
+          0.249577
+        ],
+        "insufficientSample": false
+      },
+      "skillBrier": {
+        "count": 49,
+        "mean": 0.22903,
+        "ci95": [
+          0.175861,
+          0.273458
+        ],
+        "insufficientSample": true
+      }
+    },
+    "funnel": {
+      "matured": 568,
+      "immature": 123,
+      "maturityUnknown": 0,
+      "resolved": 549,
+      "scored": 115,
+      "pendingHardMatured": 0,
+      "pendingJudgeMatured": 19,
+      "resolvedOfMatured": {
+        "count": 568,
+        "successes": 549,
+        "rate": 0.966549,
+        "ci95": [
+          0.948348,
+          0.978482
+        ]
+      },
+      "scoredOfMatured": {
+        "count": 568,
+        "successes": 115,
+        "rate": 0.202465,
+        "ci95": [
+          0.171468,
+          0.237459
+        ]
+      }
+    },
+    "receipts": [
+      {
+        "question": "GPS interference in Red Sea shipping zone",
+        "forecastAt": 1794650655754,
+        "probability": 0.58,
+        "outcome": "YES",
+        "resolvedAt": 1795413805551,
+        "sourceFeed": "gps-jamming",
+        "observedValue": 5
+      },
+      {
+        "question": "Will \"Military posture escalation: Eastern Mediterranean\" (military, Eastern Mediterranean) resolve YES within its 7d horizon?",
+        "forecastAt": 1794060069821,
+        "probability": 0.41,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Burkina Faso experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Burkina Faso\"?",
+        "forecastAt": 1792080203364,
+        "probability": 0.78,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Cameroon experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Cameroon\"?",
+        "forecastAt": 1792155836648,
+        "probability": 0.394,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Colombia experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Colombia\"?",
+        "forecastAt": 1792069381655,
+        "probability": 0.85,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did DR Congo (Zaire) experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: DR Congo (Zaire)\"?",
+        "forecastAt": 1792054895671,
+        "probability": 0.633,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Ethiopia experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Ethiopia\"?",
+        "forecastAt": 1792191703377,
+        "probability": 0.93,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Myanmar (Burma) experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Myanmar (Burma)\"?",
+        "forecastAt": 1792054895671,
+        "probability": 0.617,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Russia (Soviet Union) experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Russia (Soviet Union)\"?",
+        "forecastAt": 1792054895671,
+        "probability": 0.489,
+        "outcome": "VOID",
+        "resolvedAt": 1795413805551,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 7d horizon, did Yemen experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Escalation risk: Yemen\"?",
+        "forecastAt": 1794099721212,
+        "probability": 0.656,
+        "outcome": "VOID",
+        "resolvedAt": 1795327273537,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Israel experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Israel\"?",
+        "forecastAt": 1791925422999,
+        "probability": 0.65,
+        "outcome": "VOID",
+        "resolvedAt": 1795241086262,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Will \"Military posture escalation: Korean Peninsula\" (military, Korean Peninsula) resolve YES within its 7d horizon?",
+        "forecastAt": 1793757725590,
+        "probability": 0.41,
+        "outcome": "VOID",
+        "resolvedAt": 1795068193634,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did South Africa experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: South Africa\"?",
+        "forecastAt": 1791774114466,
+        "probability": 0.383,
+        "outcome": "VOID",
+        "resolvedAt": 1795068193634,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 7d horizon, did Iraq experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Escalation risk: Iraq\"?",
+        "forecastAt": 1793710994631,
+        "probability": 0.528,
+        "outcome": "VOID",
+        "resolvedAt": 1795068193634,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Oil volatility from Syria instability",
+        "forecastAt": 1792389683290,
+        "probability": 0.32,
+        "outcome": "NO",
+        "resolvedAt": 1794981739394,
+        "sourceFeed": "commodity-prices",
+        "observedValue": 84.9
+      },
+      {
+        "question": "Supply chain disruption: Strait of Hormuz",
+        "forecastAt": 1794344463482,
+        "probability": 0.408,
+        "outcome": "YES",
+        "resolvedAt": 1794981739394,
+        "sourceFeed": "chokepoints",
+        "observedValue": 90
+      },
+      {
+        "question": "Will \"Military posture escalation: Black Sea\" (military, Black Sea) resolve YES within its 7d horizon?",
+        "forecastAt": 1793696507030,
+        "probability": 0.41,
+        "outcome": "VOID",
+        "resolvedAt": 1794981739394,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Within the 30d horizon, did Niger experience a materially escalated level of armed conflict versus its recent baseline, consistent with \"Active armed conflict: Niger\"?",
+        "forecastAt": 1791781225842,
+        "probability": 0.383,
+        "outcome": "VOID",
+        "resolvedAt": 1794981739394,
+        "voidReason": "beyond_archive_horizon"
+      },
+      {
+        "question": "Grain/Energy price impact from Kerch Strait disruption",
+        "forecastAt": 1792235077949,
+        "probability": 0.35,
+        "outcome": "NO",
+        "resolvedAt": 1794895248412,
+        "sourceFeed": "commodity-prices",
+        "observedValue": 586.75
+      },
+      {
+        "question": "Will \"Elevated military air activity near Iran Theater\" (military, Middle East) resolve YES within its 7d horizon?",
+        "forecastAt": 1793682012252,
+        "probability": 0.252,
+        "outcome": "VOID",
+        "resolvedAt": 1794895248412,
+        "voidReason": "beyond_archive_horizon"
+      }
+    ],
+    "marketAlerts": {
+      "generatedAt": 1795496157681,
+      "windowHours": 6,
+      "rollingWindowDays": 30,
+      "methodology": "An emission resolves HIT when a story first tracked by the English news digest within six hours after the emission has at least one Tier 1 or Tier 2 source and its title names the same entity: for a market, an alias match for the symbol's registry entity or a whole-word match of the market name of four or more characters; for a prediction market, a topic keyword that appears in the question itself. It resolves MISS when six hours pass with no such story. It resolves VOID, and is not counted, when the story archive for its window expired before the resolver read it. Lead time is the gap between emission and the matching story's first tracking. The base rate applies the same rule to a control window of the same length for the same entity that starts 24 hours before each scored emission, counted only when the archive covers the control window, no alert for that entity was open during it, and the emission and the control fall on the same side of a weekend in UTC.",
+      "byType": [
+        {
+          "type": "prediction_leads_news",
+          "scored": 10,
+          "hitRate": 0.2,
+          "baseN": 6,
+          "baseHitRate": 0,
+          "pairedHitRate": 0
+        },
+        {
+          "type": "explained_market_move",
+          "scored": 398,
+          "hitRate": 0.2989949748743719,
+          "baseN": 125,
+          "baseHitRate": 0.288,
+          "pairedHitRate": 0.328,
+          "medianLeadTimeMs": 5182320
+        },
+        {
+          "type": "silent_divergence",
+          "scored": 1138,
+          "hitRate": 0.023725834797891036,
+          "baseN": 338,
+          "baseHitRate": 0.023668639053254437,
+          "pairedHitRate": 0.029585798816568046
+        },
+        {
+          "type": "flow_price_divergence",
+          "scored": 24,
+          "hitRate": 0.6666666666666666,
+          "baseN": 9,
+          "baseHitRate": 0.8888888888888888,
+          "pairedHitRate": 0.5555555555555556
+        }
+      ]
+    },
+    "underAudit": {
+      "since": "2026-10-07",
+      "reason": "An audit found three errors in how forecasts were scored. Some outcomes were recorded as \"did not happen\" without reading the data that decides them. Some forecasts were counted more than once. Some were scored at a probability other than the one published.",
+      "issue": 8990
+    }
+  }
+}

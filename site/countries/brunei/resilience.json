@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "slug": "brunei",
+  "rank": 51,
+  "overallScore": 58.1,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Voyah brand set to enter Brunei market in 2027",
+        "source": "The Bruneian",
+        "url": "https://thebruneian.news/2026/11/23/voyah-brand-set-to-enter-brunei-market-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=voyah-brand-set-to-enter-brunei-market-in-2027",
+        "publishedAt": "2026-11-23T08:35:53.000Z"
+      },
+      {
+        "title": "Brunei, Singapore mark five decades of defence ties",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/23/brunei-singapore-mark-five-decades-of-defence-ties",
+        "publishedAt": "2026-11-23T05:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei lights up for World Children's Day, remembers children in Palestine",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/bruneilights-up-for-world-childrens-day-remembers-children-in-palestine",
+        "publishedAt": "2026-11-22T06:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei forum flags El Nino threats",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/20/brunei-forum-flags-el-nino-threats",
+        "publishedAt": "2026-11-20T07:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei Sultan calls for stronger regional cooperation on food, energy security",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/18/brunei-sultan-calls-for-stronger-regional-cooperation-on-food-energy-security",
+        "publishedAt": "2026-11-18T05:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVoyah brand is set to enter the Brunei market in 2027. [1]\nBrunei and Singapore are marking five decades of defence ties. [2]\n\nWATCH ITEMS\nWhether the Voyah brand will successfully enter the Brunei market in 2027 as announced. [1]",
+      "generatedAt": "2026-11-24T04:23:44.164Z",
+      "sources": [
+        {
+          "title": "Voyah brand set to enter Brunei market in 2027",
+          "source": "The Bruneian",
+          "url": "https://thebruneian.news/2026/11/23/voyah-brand-set-to-enter-brunei-market-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=voyah-brand-set-to-enter-brunei-market-in-2027",
+          "publishedAt": "2026-11-23T08:35:53.000Z"
+        },
+        {
+          "title": "Brunei, Singapore mark five decades of defence ties",
+          "source": "thestar.com.my",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/23/brunei-singapore-mark-five-decades-of-defence-ties",
+          "publishedAt": "2026-11-23T05:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Brunei lights up for World Children's Day, remembers children in Palestine",
+          "source": "thestar.com.my",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/bruneilights-up-for-world-childrens-day-remembers-children-in-palestine",
+          "publishedAt": "2026-11-22T06:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Brunei forum flags El Nino threats",
+          "source": "thestar.com.my",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/20/brunei-forum-flags-el-nino-threats",
+          "publishedAt": "2026-11-20T07:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Brunei Sultan calls for stronger regional cooperation on food, energy security",
+          "source": "thestar.com.my",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/18/brunei-sultan-calls-for-stronger-regional-cooperation-on-food-energy-security",
+          "publishedAt": "2026-11-18T05:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

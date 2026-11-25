@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "slug": "guatemala",
+  "rank": 106,
+  "overallScore": 49.7,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "La Asamblea tiene más funcionarios que los congresos de Costa Rica, Guatemala, El Salvador y Honduras juntos",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/politica/la-asamblea-tiene-mas-funcionarios-que-los-congresos-de-costa-rica-guatemala-el-salvador-y-honduras-juntos/",
+        "publishedAt": "2026-11-21T05:01:00.000Z"
+      },
+      {
+        "title": "Gunmen Kill Four Outside Guatemala Nightclub",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/zoho-nightclub-attack-guatemala-city-four-dead/",
+        "publishedAt": "2026-11-24T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mexican drug boss wanted by the United States arrested in Guatemala",
+        "source": "albeu.com",
+        "url": "https://albeu.com/english/mexican-drug-boss-wanted-by-the-united-states-arrested-in-guatemala/1111158/",
+        "publishedAt": "2026-11-22T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guatemala City Nightclub Attack Kills 4",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/guatemala-city-zona-9-nightclub-shooting-four-dead-2026/",
+        "publishedAt": "2026-11-21T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guatemala Jails 7 Ex-Police Over Two Deaths",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/guatemala-seven-ex-police-jailed-gay-couple-deaths/",
+        "publishedAt": "2026-11-21T14:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGunmen killed four people outside a Guatemala City nightclub. [2][4]\n\nKEY RISKS\nGuatemala is linked to 65 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the arrest of a Mexican drug boss wanted by the United States in Guatemala will lead to further security developments. [3]",
+      "generatedAt": "2026-11-24T04:27:09.522Z",
+      "sources": [
+        {
+          "title": "La Asamblea tiene más funcionarios que los congresos de Costa Rica, Guatemala, El Salvador y Honduras juntos",
+          "source": "La Prensa",
+          "url": "https://www.prensa.com/politica/la-asamblea-tiene-mas-funcionarios-que-los-congresos-de-costa-rica-guatemala-el-salvador-y-honduras-juntos/",
+          "publishedAt": "2026-11-21T05:01:00.000Z"
+        },
+        {
+          "title": "Gunmen Kill Four Outside Guatemala Nightclub",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/zoho-nightclub-attack-guatemala-city-four-dead/",
+          "publishedAt": "2026-11-24T01:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mexican drug boss wanted by the United States arrested in Guatemala",
+          "source": "albeu.com",
+          "url": "https://albeu.com/english/mexican-drug-boss-wanted-by-the-united-states-arrested-in-guatemala/1111158/",
+          "publishedAt": "2026-11-22T14:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Guatemala City Nightclub Attack Kills 4",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/guatemala-city-zona-9-nightclub-shooting-four-dead-2026/",
+          "publishedAt": "2026-11-21T20:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Guatemala Jails 7 Ex-Police Over Two Deaths",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/guatemala-seven-ex-police-jailed-gay-couple-deaths/",
+          "publishedAt": "2026-11-21T14:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "65",
+          "factText": "Guatemala is linked to 65 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "US",
+  "countryName": "United States",
+  "slug": "united-states",
+  "rank": 52,
+  "overallScore": 58,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+        "publishedAt": "2026-11-24T00:30:11.000Z"
+      },
+      {
+        "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+        "source": "Reuters — United Arab Emirates",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+        "publishedAt": "2026-11-23T19:39:43.000Z"
+      },
+      {
+        "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
+        "source": "Bloomberg Energy",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",
+        "publishedAt": "2026-11-24T01:16:00.000Z"
+      },
+      {
+        "title": "Myanmar junta rejects ICJ genocide ruling as unfair, invokes Trump, Xi, and Putin",
+        "source": "Myanmar Now",
+        "url": "https://myanmar-now.org/en/news/myanmar-junta-rejects-icj-genocide-ruling-as-unfair-invokes-trump-xi-and-putin/",
+        "publishedAt": "2026-11-20T08:59:50.000Z"
+      },
+      {
+        "title": "Trump Suggests Iran Strikes Will Resume in 2027 If Talks Fail",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/wire/trump_suggests_iran_strikes_will_resume_in_2027_if_talks_fail-23-nov-2026-185150-article/?rss=true",
+        "publishedAt": "2026-11-23T15:28:27.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nZelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'. [1]\nThe US imposed sanctions on dozens linked to Iran's shadow banking networks. [2]\n\nOUTLOOK\nA Polymarket market prices the next White House Press Secretary being announced by November 30, 2026 at 16% as of Nov 24, 2026, closing Dec 1, 2026. [E5]\n\nWATCH ITEMS\nWhether Trump will resume Iran strikes in 2027 if talks fail. [5]",
+      "generatedAt": "2026-11-24T04:36:11.811Z",
+      "sources": [
+        {
+          "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+          "publishedAt": "2026-11-24T00:30:11.000Z"
+        },
+        {
+          "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+          "source": "Reuters — United Arab Emirates",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+          "publishedAt": "2026-11-23T19:39:43.000Z"
+        },
+        {
+          "title": "Oil Holds Decline on Signs of Continuing US-Iran Diplomacy - Bloomberg.com",
+          "source": "Bloomberg Energy",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVqRHVCelVPeW5pSEVHY2NRTVVFNUVLemNoM3M5a0N1MERHM2t6OEdOUGlSRVA5VW5wYzhuNVUzTlFYYzBXMmlIbmZ4bkNVT09ON280dld0WFBPbnJpaG1NODN0XzJZV1ZTRFcyR3hUZGZ3NW5Pc04zZ1JIaG5mR2hicHdTcGxuYTNhNE1LemwtclRGTllHQ04wcng4Zw?oc=5",
+          "publishedAt": "2026-11-24T01:16:00.000Z"
+        },
+        {
+          "title": "Myanmar junta rejects ICJ genocide ruling as unfair, invokes Trump, Xi, and Putin",
+          "source": "Myanmar Now",
+          "url": "https://myanmar-now.org/en/news/myanmar-junta-rejects-icj-genocide-ruling-as-unfair-invokes-trump-xi-and-putin/",
+          "publishedAt": "2026-11-20T08:59:50.000Z"
+        },
+        {
+          "title": "Trump Suggests Iran Strikes Will Resume in 2027 If Talks Fail",
+          "source": "Rigzone",
+          "url": "https://www.rigzone.com/news/wire/trump_suggests_iran_strikes_will_resume_in_2027_if_talks_fail-23-nov-2026-185150-article/?rss=true",
+          "publishedAt": "2026-11-23T15:28:27.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "16%",
+          "factText": "A Polymarket market related to United States, \"Next White House Press Secretary announced by November 30, 2026?\", priced Yes at 16% on Nov 24, 2026; it closes Dec 1, 2026.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/next-press-secretary-announced-byptptpt"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

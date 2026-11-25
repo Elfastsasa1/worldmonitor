@@ -1,0 +1,116 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VC",
+  "countryName": "Saint Vincent and the Grenadines",
+  "slug": "saint-vincent-and-the-grenadines",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "St. Vincent Shifts to Economic Diplomacy in Year One",
+        "source": "St Vincent Times",
+        "url": "https://www.stvincenttimes.com/st-vincent-shifts-to-economic-diplomacy-in-year-one/",
+        "publishedAt": "2026-11-23T17:59:50.000Z"
+      },
+      {
+        "title": "Madagascar: Radio Saint Vincent De Paul - A new voice of faith",
+        "source": "Vatican News English",
+        "url": "https://www.vaticannews.va/en/africa/news/2026-11/madagascar-radio-saint-vincent-de-paul-a-new-voice-of-faith.html",
+        "publishedAt": "2026-11-23T09:30:00.000Z"
+      },
+      {
+        "title": "Saint Vincent And The Grenadines Partners With U.S. Department of Energy to Strengthen Nuclear Safeguards Implementation",
+        "source": "gov.vc",
+        "url": "https://www.gov.vc/index.php/media-center/4510-st-vincent-and-the-grenadines-partners-with-u-s-department-of-energy-to-strengthen-nuclear-safeguards-implementation",
+        "publishedAt": "2026-11-18T16:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Royal Saint Vincent And The Grenadines Police Force (RSVGPF) Recruitment Drive",
+        "source": "security.gov.vc",
+        "url": "https://security.gov.vc/security/index.php?option=com_content&view=article&id=1771:royal-saint-vincent-and-the-grenadines-police-force-rsvgpf-recruitment-drive&catid=19:news&Itemid=144",
+        "publishedAt": "2026-11-17T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Notice of Intent For The Declaration of Saint Vincent And The Grenadines National Standards",
+        "source": "gov.vc",
+        "url": "https://www.gov.vc/index.php/media-center/4508-notice-of-intent-for-the-declaration-of-saint-vincent-and-the-grenadines-national-standards",
+        "publishedAt": "2026-11-17T17:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSt. Vincent has shifted to economic diplomacy in its first year. [1]\n\nWHAT THIS MEANS FOR ST. VINCENT & GRENADINES\nThe shift to economic diplomacy may support St. Vincent & Grenadines' partnership with the U.S. Department of Energy to strengthen nuclear safeguards implementation. [3][E1]\n\nKEY RISKS\nSt. Vincent & Grenadines is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the Royal Saint Vincent And The Grenadines Police Force (RSVGPF) recruitment drive will succeed. [4]",
+      "generatedAt": "2026-11-24T04:36:24.022Z",
+      "sources": [
+        {
+          "title": "St. Vincent Shifts to Economic Diplomacy in Year One",
+          "source": "St Vincent Times",
+          "url": "https://www.stvincenttimes.com/st-vincent-shifts-to-economic-diplomacy-in-year-one/",
+          "publishedAt": "2026-11-23T17:59:50.000Z"
+        },
+        {
+          "title": "Madagascar: Radio Saint Vincent De Paul - A new voice of faith",
+          "source": "Vatican News English",
+          "url": "https://www.vaticannews.va/en/africa/news/2026-11/madagascar-radio-saint-vincent-de-paul-a-new-voice-of-faith.html",
+          "publishedAt": "2026-11-23T09:30:00.000Z"
+        },
+        {
+          "title": "Saint Vincent And The Grenadines Partners With U.S. Department of Energy to Strengthen Nuclear Safeguards Implementation",
+          "source": "gov.vc",
+          "url": "https://www.gov.vc/index.php/media-center/4510-st-vincent-and-the-grenadines-partners-with-u-s-department-of-energy-to-strengthen-nuclear-safeguards-implementation",
+          "publishedAt": "2026-11-18T16:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Royal Saint Vincent And The Grenadines Police Force (RSVGPF) Recruitment Drive",
+          "source": "security.gov.vc",
+          "url": "https://security.gov.vc/security/index.php?option=com_content&view=article&id=1771:royal-saint-vincent-and-the-grenadines-police-force-rsvgpf-recruitment-drive&catid=19:news&Itemid=144",
+          "publishedAt": "2026-11-17T20:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Notice of Intent For The Declaration of Saint Vincent And The Grenadines National Standards",
+          "source": "gov.vc",
+          "url": "https://www.gov.vc/index.php/media-center/4508-notice-of-intent-for-the-declaration-of-saint-vincent-and-the-grenadines-national-standards",
+          "publishedAt": "2026-11-17T17:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for St. Vincent & Grenadines is Exercise Normal Precautions, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "3",
+          "factText": "St. Vincent & Grenadines is linked to 3 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

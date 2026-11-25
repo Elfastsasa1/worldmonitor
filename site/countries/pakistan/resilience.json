@@ -1,0 +1,191 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "slug": "pakistan",
+  "rank": 146,
+  "overallScore": 41.1,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "'Carrying hopes of 250m people': Zeeshan Ali to be first Pakistani in space aboard China's Shenzhou-24",
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-in-space-aboard-chinas-shenzhou-24",
+        "publishedAt": "2026-11-24T04:40:07.000Z"
+      },
+      {
+        "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+        "publishedAt": "2026-11-24T04:22:29.000Z"
+      },
+      {
+        "title": "¿Qué busca el régimen de Cuba en Pakistán?",
+        "source": "Diario de Cuba",
+        "url": "https://diariodecuba.com/cuba/1795463376_69987.html",
+        "publishedAt": "2026-11-23T19:49:36.000Z"
+      },
+      {
+        "title": "Pakistan, Oman eye long-term oil partnership",
+        "source": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2641942/pakistan-oman-eye-long-term-oil-partnership",
+        "publishedAt": "2026-11-23T16:55:41.000Z"
+      },
+      {
+        "title": "India a ‘major power’, ranked 3rd globally; Pakistan ‘punched above its weight’ in 2026, says study",
+        "source": "Scroll.in",
+        "url": "https://scroll.in/latest/1097256/india-a-major-power-ranked-3rd-globally-pakistan-punched-above-its-weight-in-2026-says-study?utm_source=rss&utm_medium=public",
+        "publishedAt": "2026-11-23T15:20:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nZeeshan Ali is set to become the first Pakistani in space aboard China's Shenzhou-24. [1]\nChina's Shenzhou-24 spaceship will include its first foreign astronaut from Pakistan. [2]\n\nKEY RISKS\nThe most severe government travel advisory for Pakistan is Reconsider Travel. [E2]\n\nOUTLOOK\nA Polymarket market on Pakistan military action against Yemen by December 31, 2026 is priced at 14% and closes Dec 31, 2026. [E5]\nA Polymarket market on India striking Pakistan by December 31, 2026 is priced at 6% and closes Jan 1, 2027. [E6]\n\nWATCH ITEMS\nWhether the regime of Cuba will achieve its objectives in Pakistan. [3]\nWhether India will strike Pakistan by December 31, 2026. [E6]",
+      "generatedAt": "2026-11-24T04:54:56.065Z",
+      "sources": [
+        {
+          "title": "'Carrying hopes of 250m people': Zeeshan Ali to be first Pakistani in space aboard China's Shenzhou-24",
+          "source": "Dawn",
+          "url": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-in-space-aboard-chinas-shenzhou-24",
+          "publishedAt": "2026-11-24T04:40:07.000Z"
+        },
+        {
+          "title": "China's Shenzhou-24 spaceship to include first foreign astronaut from Pakistan",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-spaceship-to-include-first-foreign-astronaut-from-pakistan/article71737165.ece",
+          "publishedAt": "2026-11-24T04:22:29.000Z"
+        },
+        {
+          "title": "¿Qué busca el régimen de Cuba en Pakistán?",
+          "source": "Diario de Cuba",
+          "url": "https://diariodecuba.com/cuba/1795463376_69987.html",
+          "publishedAt": "2026-11-23T19:49:36.000Z"
+        },
+        {
+          "title": "Pakistan, Oman eye long-term oil partnership",
+          "source": "Express Tribune",
+          "url": "https://tribune.com.pk/story/2641942/pakistan-oman-eye-long-term-oil-partnership",
+          "publishedAt": "2026-11-23T16:55:41.000Z"
+        },
+        {
+          "title": "India a ‘major power’, ranked 3rd globally; Pakistan ‘punched above its weight’ in 2026, says study",
+          "source": "Scroll.in",
+          "url": "https://scroll.in/latest/1097256/india-a-major-power-ranked-3rd-globally-pakistan-punched-above-its-weight-in-2026-says-study?utm_source=rss&utm_medium=public",
+          "publishedAt": "2026-11-23T15:20:53.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Pakistan is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "14%",
+          "factText": "A Polymarket market related to Pakistan, \"Pakistan military action against Yemen by December 31, 2026?\", priced Yes at 14% on Nov 24, 2026; it closes Dec 31, 2026.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/pakistan-military-action-against-yemen-by-20260909"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "6%",
+          "factText": "A Polymarket market related to Pakistan, \"Will India strike Pakistan by December 31, 2026?\", priced Yes at 6% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://polymarket.com/event/india-strike-on-pakistan-by"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 193 — in Pakistan",
+        "summary": "source: pakobserver.net",
+        "sourceUrl": "https://pakobserver.net/best-mobile-phones-under-rs100000-in-pakistan-in-2026-models-performance-gaming-and-cameras/",
+        "occurredAt": "2026-11-23T21:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Pakistan",
+        "summary": "source: www.pakistantoday.com.pk",
+        "sourceUrl": "https://www.pakistantoday.com.pk/2026/11/23/rich-land-people-thars-resources-are-not-used-for-those-who-live-there",
+        "occurredAt": "2026-11-23T20:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Pakistan",
+        "summary": "source: balochwarna.com",
+        "sourceUrl": "https://balochwarna.com/2026/11/pakistani-forces-killed-two-teenagers-and-a-private-school-admin-in-balochistan/",
+        "occurredAt": "2026-11-23T19:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Pakistan",
+        "summary": "source: balochwarna.com",
+        "sourceUrl": "https://balochwarna.com/2026/11/pakistani-forces-killed-two-teenagers-and-a-private-school-admin-in-balochistan/",
+        "occurredAt": "2026-11-23T19:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Pakistan",
+        "summary": "source: balochwarna.com",
+        "sourceUrl": "https://balochwarna.com/2026/11/balochistan-pakistan-forces-burn-houses-of-baloch-civilians-byc/",
+        "occurredAt": "2026-11-23T19:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Pakistan",
+        "summary": "source: balochwarna.com",
+        "sourceUrl": "https://balochwarna.com/2026/11/balochistan-pakistan-forces-burn-houses-of-baloch-civilians-byc/",
+        "occurredAt": "2026-11-23T19:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Pakistan",
+        "summary": "source: balochwarna.com",
+        "sourceUrl": "https://balochwarna.com/2026/11/pakistani-forces-killed-two-teenagers-and-a-private-school-admin-in-balochistan/",
+        "occurredAt": "2026-11-23T19:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Pakistan",
+        "summary": "source: ianslive.in",
+        "sourceUrl": "https://ianslive.in/pakistani-forces-forcibly-disappear-healthcare-worker-from-his-workplace-in-balochistan--20261123232355",
+        "occurredAt": "2026-11-23T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Pakistan",
+        "summary": "source: ianslive.in",
+        "sourceUrl": "https://ianslive.in/pakistani-forces-forcibly-disappear-healthcare-worker-from-his-workplace-in-balochistan--20261123232355",
+        "occurredAt": "2026-11-23T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Pakistan",
+        "summary": "source: ianslive.in",
+        "sourceUrl": "https://ianslive.in/pakistani-forces-forcibly-disappear-healthcare-worker-from-his-workplace-in-balochistan--20261123232355",
+        "occurredAt": "2026-11-23T18:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

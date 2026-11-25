@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "slug": "bangladesh",
+  "rank": 147,
+  "overallScore": 40.6,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - AP News",
+        "source": "AP — Myanmar (Burma)",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVBJWEV0SGdadmoxMlJmUUIzdEIydWRtanp4WkhxcTlzeVJjdkV1Tm5PdDJOVnZZZ1IyX0l1eHVZUzJhN0Q1N1ZPMmJQVmpDNU15RnBLcXRhZkJKQll5ZFNiYjVJMmpoZVY0UDdlUDRoMnNjOVQ2Z3E4WHBxejhqOThaa2kyMGZiQ1BYZkxCRDY?oc=5",
+        "publishedAt": "2026-11-20T23:57:00.000Z"
+      },
+      {
+        "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier - Reuters",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+        "publishedAt": "2026-11-24T02:56:00.000Z"
+      },
+      {
+        "title": "8th uranium shipment arrives at Rooppur Nuclear Power Plant - Daily Times Of Bangladesh",
+        "source": "Uranium Market",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREhGNjFlSWhzYlFUUGNpZWVQNFhwQS10YnNoYklBV0N2aWpIMHF1NWN0ejczbWZUQU9DUXNuM1V4dDVhN3diLUl0MFBjM29ncnJFb3NPU01ESEExTXp2d2Uxa0k0LVlqWEVZVUx2ekVSVnNvLTJIa3hMREhpeXlyUHMyRQ?oc=5",
+        "publishedAt": "2026-11-24T03:47:03.000Z"
+      },
+      {
+        "title": "Sheikh Hasina plans to return to Bangladesh from exile on Dec. 16",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+        "publishedAt": "2026-11-24T04:29:27.000Z"
+      },
+      {
+        "title": "Sheikh Hasina seeks to return to Bangladesh on Dec 16 on state carrier",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891",
+        "publishedAt": "2026-11-24T04:06:24.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSheikh Hasina seeks to return to Bangladesh on December 16 on a state carrier. [2][4][5]\nThe 8th uranium shipment has arrived at the Rooppur Nuclear Power Plant. [3]\n\nWATCH ITEMS\nWhether Sheikh Hasina will return to Bangladesh on December 16 as planned. [2][4][5]",
+      "generatedAt": "2026-11-24T04:48:16.649Z",
+      "sources": [
+        {
+          "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar - AP News",
+          "source": "AP — Myanmar (Burma)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVBJWEV0SGdadmoxMlJmUUIzdEIydWRtanp4WkhxcTlzeVJjdkV1Tm5PdDJOVnZZZ1IyX0l1eHVZUzJhN0Q1N1ZPMmJQVmpDNU15RnBLcXRhZkJKQll5ZFNiYjVJMmpoZVY0UDdlUDRoMnNjOVQ2Z3E4WHBxejhqOThaa2kyMGZiQ1BYZkxCRDY?oc=5",
+          "publishedAt": "2026-11-20T23:57:00.000Z"
+        },
+        {
+          "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier - Reuters",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+          "publishedAt": "2026-11-24T02:56:00.000Z"
+        },
+        {
+          "title": "8th uranium shipment arrives at Rooppur Nuclear Power Plant - Daily Times Of Bangladesh",
+          "source": "Uranium Market",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREhGNjFlSWhzYlFUUGNpZWVQNFhwQS10YnNoYklBV0N2aWpIMHF1NWN0ejczbWZUQU9DUXNuM1V4dDVhN3diLUl0MFBjM29ncnJFb3NPU01ESEExTXp2d2Uxa0k0LVlqWEVZVUx2ekVSVnNvLTJIa3hMREhpeXlyUHMyRQ?oc=5",
+          "publishedAt": "2026-11-24T03:47:03.000Z"
+        },
+        {
+          "title": "Sheikh Hasina plans to return to Bangladesh from exile on Dec. 16",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+          "publishedAt": "2026-11-24T04:29:27.000Z"
+        },
+        {
+          "title": "Sheikh Hasina seeks to return to Bangladesh on Dec 16 on state carrier",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891",
+          "publishedAt": "2026-11-24T04:06:24.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "slug": "north-macedonia",
+  "rank": 84,
+  "overallScore": 53.3,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-11-23T13:46:00.000Z"
+      },
+      {
+        "title": "Doctors appeal for HPV vaccination, youngest cervical cancer case in North Macedonia is 18",
+        "source": "albeu.com",
+        "url": "https://albeu.com/english/doctors-appeal-for-hpv-vaccination-youngest-cervical-cancer-case-in-north-macedonia-is-18/1111473/",
+        "publishedAt": "2026-11-22T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Decline in number of bus passengers in North Macedonia",
+        "source": "albeu.com",
+        "url": "https://albeu.com/english/decline-in-number-of-bus-passengers-in-north-macedonia/1109917/",
+        "publishedAt": "2026-11-21T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bulgarian Embassy Arsonist in North Macedonia Ordered to Pay €3,400 in Damages - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/view_news.php?id=241676",
+        "publishedAt": "2026-11-19T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "North Macedonia arrests 5 over foiled terror plot in Greece linked to Iranian wanted by FBI",
+        "source": "mymotherlode.com",
+        "url": "https://mymotherlode.com/news/world/11318306/north-macedonia-arrests-5-over-foiled-terror-plot-in-greece-linked-to-iranian-wanted-by-fbi.html",
+        "publishedAt": "2026-11-17T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorth Macedonia remains stalled on its EU path after 21 years as a candidate. [1]\nDoctors appeal for HPV vaccination as the youngest cervical cancer case in North Macedonia is 18. [2]\n\nWATCH ITEMS\nWhether the Bulgarian Embassy arsonist will pay the ordered €3,400 in damages remains unresolved. [4]",
+      "generatedAt": "2026-11-24T04:30:31.061Z",
+      "sources": [
+        {
+          "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-11-23T13:46:00.000Z"
+        },
+        {
+          "title": "Doctors appeal for HPV vaccination, youngest cervical cancer case in North Macedonia is 18",
+          "source": "albeu.com",
+          "url": "https://albeu.com/english/doctors-appeal-for-hpv-vaccination-youngest-cervical-cancer-case-in-north-macedonia-is-18/1111473/",
+          "publishedAt": "2026-11-22T14:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Decline in number of bus passengers in North Macedonia",
+          "source": "albeu.com",
+          "url": "https://albeu.com/english/decline-in-number-of-bus-passengers-in-north-macedonia/1109917/",
+          "publishedAt": "2026-11-21T20:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bulgarian Embassy Arsonist in North Macedonia Ordered to Pay €3,400 in Damages - Novinite.com",
+          "source": "novinite.com",
+          "url": "https://www.novinite.com/view_news.php?id=241676",
+          "publishedAt": "2026-11-19T00:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "North Macedonia arrests 5 over foiled terror plot in Greece linked to Iranian wanted by FBI",
+          "source": "mymotherlode.com",
+          "url": "https://mymotherlode.com/news/world/11318306/north-macedonia-arrests-5-over-foiled-terror-plot-in-greece-linked-to-iranian-wanted-by-fbi.html",
+          "publishedAt": "2026-11-17T23:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "slug": "thailand",
+  "rank": 92,
+  "overallScore": 52.1,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bifröst, The Oh-So-Quiet Side Of War",
+        "source": "The Reykjavík Grapevine",
+        "url": "https://grapevine.is/feature/2026/11/22/bifrost-the-oh-so-quiet-side-of-war/",
+        "publishedAt": "2026-11-22T23:29:08.000Z"
+      },
+      {
+        "title": "Thailand supplies up to 80% of Myanmar mining chemicals, moves to curb exports amid toxic river crisis - Nation Thailand",
+        "source": "Mine Web (SNL)",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XbDFQOS1sZlBSX2lhWVRyMk1LWVgzNktwd0xmTHFQUGlJRXFCWEEyZlU0Z1pRTFhLUGR4VS1zbDJ2MFRxQ1NoX1pGcGU1NlJEaFlzdmpzVnRDOUUwR1N6TnhR?oc=5",
+        "publishedAt": "2026-11-24T03:21:00.000Z"
+      },
+      {
+        "title": "Thai Stock Market Outlook on 24 November 2026 - kaohoon international",
+        "source": "Market Outlook",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45QVF1TThiejdueWRHYnNibWZvSDNaOHM0S3cxUERlMUs1NXBQQUxybzRja2lpVXdYWWVQR2t5U2pObjduZjkxWWJOZFpDNmNWRU00RDZYb2RMSkZWbUJlQQ?oc=5",
+        "publishedAt": "2026-11-24T02:56:09.000Z"
+      },
+      {
+        "title": "Cambodia protests Thai military construction, unauthorised tours of occupied territory",
+        "source": "Phnom Penh Post",
+        "url": "https://phnompenhpost.com/national/cambodia-protests-thai-military-construction-unauthorised-tours-of-occupied-territory/",
+        "publishedAt": "2026-11-24T03:14:06.000Z"
+      },
+      {
+        "title": "เอกอัครราชทูต ณ กรุงมาปูโต ส่งเสริมกิจการร้านอาหารไทย “Pekai’s Thai Pub and Restaurant”ใจกลางกรุงมาปูโต",
+        "source": "Matichon",
+        "url": "https://www.matichon.co.th/foreign/news_5987297",
+        "publishedAt": "2026-11-24T02:14:06.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThailand supplies up to 80% of Myanmar mining chemicals and is moving to curb exports amid a toxic river crisis. [2]\nCambodia has protested Thai military construction and unauthorized tours of occupied territory. [4]\n\nWATCH ITEMS\nWhether Cambodia will escalate its protest over Thai military construction and unauthorized tours of occupied territory. [4]\nWhether Thailand will follow through on curbing mining chemical exports to Myanmar as announced. [2]",
+      "generatedAt": "2026-11-24T04:56:22.972Z",
+      "sources": [
+        {
+          "title": "Bifröst, The Oh-So-Quiet Side Of War",
+          "source": "The Reykjavík Grapevine",
+          "url": "https://grapevine.is/feature/2026/11/22/bifrost-the-oh-so-quiet-side-of-war/",
+          "publishedAt": "2026-11-22T23:29:08.000Z"
+        },
+        {
+          "title": "Thailand supplies up to 80% of Myanmar mining chemicals, moves to curb exports amid toxic river crisis - Nation Thailand",
+          "source": "Mine Web (SNL)",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XbDFQOS1sZlBSX2lhWVRyMk1LWVgzNktwd0xmTHFQUGlJRXFCWEEyZlU0Z1pRTFhLUGR4VS1zbDJ2MFRxQ1NoX1pGcGU1NlJEaFlzdmpzVnRDOUUwR1N6TnhR?oc=5",
+          "publishedAt": "2026-11-24T03:21:00.000Z"
+        },
+        {
+          "title": "Thai Stock Market Outlook on 24 November 2026 - kaohoon international",
+          "source": "Market Outlook",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45QVF1TThiejdueWRHYnNibWZvSDNaOHM0S3cxUERlMUs1NXBQQUxybzRja2lpVXdYWWVQR2t5U2pObjduZjkxWWJOZFpDNmNWRU00RDZYb2RMSkZWbUJlQQ?oc=5",
+          "publishedAt": "2026-11-24T02:56:09.000Z"
+        },
+        {
+          "title": "Cambodia protests Thai military construction, unauthorised tours of occupied territory",
+          "source": "Phnom Penh Post",
+          "url": "https://phnompenhpost.com/national/cambodia-protests-thai-military-construction-unauthorised-tours-of-occupied-territory/",
+          "publishedAt": "2026-11-24T03:14:06.000Z"
+        },
+        {
+          "title": "เอกอัครราชทูต ณ กรุงมาปูโต ส่งเสริมกิจการร้านอาหารไทย “Pekai’s Thai Pub and Restaurant”ใจกลางกรุงมาปูโต",
+          "source": "Matichon",
+          "url": "https://www.matichon.co.th/foreign/news_5987297",
+          "publishedAt": "2026-11-24T02:14:06.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

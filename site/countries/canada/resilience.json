@@ -1,0 +1,112 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "slug": "canada",
+  "rank": 44,
+  "overallScore": 59.4,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The Woman Who Took Canada to Court Over Genocide",
+        "source": "New York Times World",
+        "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+        "publishedAt": "2026-11-23T21:21:53.000Z"
+      },
+      {
+        "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+        "publishedAt": "2026-11-20T12:02:00.000Z"
+      },
+      {
+        "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
+        "publishedAt": "2026-11-23T23:32:21.000Z"
+      },
+      {
+        "title": "Heavy swell and high tides expected to lead to coastal flooding in parts of B.C.",
+        "source": "Vancouver Sun",
+        "url": "https://vancouversun.com/news/heavy-swell-high-tides-expected-coastal-flooding-parts-of-bc",
+        "publishedAt": "2026-11-24T02:23:50.000Z"
+      },
+      {
+        "title": "Why Nvidia couldn't afford to lose Jensen Huang | About That",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/player/play/9.7433479?cmp=rss",
+        "publishedAt": "2026-11-24T00:32:27.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Pentagon is taking fresh aim at Canada's military readiness and defence spending priorities. [3]\n\nOUTLOOK\nA Polymarket market on whether the Bank of Canada will make no change to the target for the overnight rate at the December interest rate announcement is priced Yes at 49% as of Nov 24, 2026, closing Dec 9, 2026. [E4]\nA Polymarket market on a US-Canada diplomatic agreement to lower tariffs by December 31 is priced Yes at 30% as of Nov 24, 2026, closing Jan 1, 2027. [E5]\n\nWATCH ITEMS\nWhether the woman who took Canada to court over genocide will obtain a ruling or settlement. [1]\nWhether the US sanctions on the Italian mafia group in Canada and the Australian biker gang will lead to enforcement actions in Canada. [2]",
+      "generatedAt": "2026-11-24T04:49:03.838Z",
+      "sources": [
+        {
+          "title": "The Woman Who Took Canada to Court Over Genocide",
+          "source": "New York Times World",
+          "url": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
+          "publishedAt": "2026-11-23T21:21:53.000Z"
+        },
+        {
+          "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+          "publishedAt": "2026-11-20T12:02:00.000Z"
+        },
+        {
+          "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
+          "publishedAt": "2026-11-23T23:32:21.000Z"
+        },
+        {
+          "title": "Heavy swell and high tides expected to lead to coastal flooding in parts of B.C.",
+          "source": "Vancouver Sun",
+          "url": "https://vancouversun.com/news/heavy-swell-high-tides-expected-coastal-flooding-parts-of-bc",
+          "publishedAt": "2026-11-24T02:23:50.000Z"
+        },
+        {
+          "title": "Why Nvidia couldn't afford to lose Jensen Huang | About That",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/player/play/9.7433479?cmp=rss",
+          "publishedAt": "2026-11-24T00:32:27.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "49%",
+          "factText": "A Polymarket market related to Canada, \"Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?\", priced Yes at 49% on Nov 24, 2026; it closes Dec 9, 2026.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/bank-of-canada-decision-in-december-20260908230600011"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "30%",
+          "factText": "A Polymarket market related to Canada, \"US-Canada diplomatic agreement to lower tariffs by December 31?\", priced Yes at 30% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:41:37.239Z",
+          "url": "https://polymarket.com/event/us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

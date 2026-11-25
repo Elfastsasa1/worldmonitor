@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HU",
+  "countryName": "Hungary",
+  "slug": "hungary",
+  "rank": 46,
+  "overallScore": 58.9,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Karakol museum opens permanent exhibition on Hungarian explorers of Tien Shan",
+        "source": "Akipress",
+        "url": "https://akipress.com/news:932816",
+        "publishedAt": "2026-11-24T03:20:25.000Z"
+      },
+      {
+        "title": "Hungarian PM says he will visit Zakarpattia region soon",
+        "source": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-polytics/4187709-hungarian-pm-says-he-will-visit-zakarpattia-region-soon.html",
+        "publishedAt": "2026-11-24T02:45:00.000Z"
+      },
+      {
+        "title": "Hungarian PM Magyar calls Orbán's anti-Ukraine campaign a crime and vows to visit Zakarpattia",
+        "source": "NV EN",
+        "url": "https://english.nv.ua/nation/hungarian-pm-magyar-plans-visit-to-ukraine-s-zakarpattia-50661774.html",
+        "publishedAt": "2026-11-23T16:06:00.000Z"
+      },
+      {
+        "title": "Hungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/hungarys-pm-to-visit-transcarpathia-pledges-support-to-ukrainian-people-and-local-hungaria",
+        "publishedAt": "2026-11-23T13:09:29.000Z"
+      },
+      {
+        "title": "Cash Scandals, Arrests, Shrinking Alliances: Can Hungary’s Fidesz Survive?",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/23/cash-scandals-arrests-shrinking-alliances-can-hungarys-fidesz-survive/rd/",
+        "publishedAt": "2026-11-23T06:52:54.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHungarian PM says he will visit Zakarpattia region soon. [2]\nHungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians. [4]\n\nWATCH ITEMS\nWhether the Hungarian PM will visit Zakarpattia as stated. [2]",
+      "generatedAt": "2026-11-24T04:51:34.999Z",
+      "sources": [
+        {
+          "title": "Karakol museum opens permanent exhibition on Hungarian explorers of Tien Shan",
+          "source": "Akipress",
+          "url": "https://akipress.com/news:932816",
+          "publishedAt": "2026-11-24T03:20:25.000Z"
+        },
+        {
+          "title": "Hungarian PM says he will visit Zakarpattia region soon",
+          "source": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-polytics/4187709-hungarian-pm-says-he-will-visit-zakarpattia-region-soon.html",
+          "publishedAt": "2026-11-24T02:45:00.000Z"
+        },
+        {
+          "title": "Hungarian PM Magyar calls Orbán's anti-Ukraine campaign a crime and vows to visit Zakarpattia",
+          "source": "NV EN",
+          "url": "https://english.nv.ua/nation/hungarian-pm-magyar-plans-visit-to-ukraine-s-zakarpattia-50661774.html",
+          "publishedAt": "2026-11-23T16:06:00.000Z"
+        },
+        {
+          "title": "Hungary's PM to visit Transcarpathia, pledges support to Ukrainian people and local Hungarians",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/hungarys-pm-to-visit-transcarpathia-pledges-support-to-ukrainian-people-and-local-hungaria",
+          "publishedAt": "2026-11-23T13:09:29.000Z"
+        },
+        {
+          "title": "Cash Scandals, Arrests, Shrinking Alliances: Can Hungary’s Fidesz Survive?",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/23/cash-scandals-arrests-shrinking-alliances-can-hungarys-fidesz-survive/rd/",
+          "publishedAt": "2026-11-23T06:52:54.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

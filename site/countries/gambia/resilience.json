@@ -1,0 +1,108 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "slug": "gambia",
+  "rank": 122,
+  "overallScore": 46.4,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bensouda says Gambia has failed in tourism policy, vows year-round attractions",
+        "source": "The Point",
+        "url": "https://thepoint.gm/africa/gambia/headlines/bensouda-says-gambia-has-failed-in-tourism-policy-vows-year-round-attractions",
+        "publishedAt": "2026-11-23T11:31:21.000Z"
+      },
+      {
+        "title": "A lei imputa o dever de agir contra genocídios a todos os países, não apenas Gâmbia e África do Sul",
+        "source": "Folha Mundo",
+        "url": "https://www1.folha.uol.com.br/colunas/bianca-santana/2026/11/a-lei-imputa-o-dever-de-agir-contra-genocidios-a-todos-os-paises-nao-apenas-gambia-e-africa-do-sul.shtml",
+        "publishedAt": "2026-11-22T20:24:00.000Z"
+      },
+      {
+        "title": "Gambia: Voting Based On Sentiments Must End",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202611230511.html",
+        "publishedAt": "2026-11-23T16:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Team Gambia Grand Coalition registers progressive moves across regions",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/team-gambia-grand-coalition-registers-progressive-moves-across-regions",
+        "publishedAt": "2026-11-23T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gambia Reportedly Halts 134 Migrants",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/gambia-stops-134-would-be-migrants-90-senegalese/",
+        "publishedAt": "2026-11-21T20:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBensouda says Gambia has failed in tourism policy and vows year-round attractions. [1]\nGambia reportedly halts 134 migrants. [5]\n\nWHAT THIS MEANS FOR GAMBIA\nBensouda's vow of year-round attractions may be challenged by the most severe government travel advisory for Gambia being Exercise Increased Caution. [1][E1]\n\nWATCH ITEMS\nWhether Gambia will implement year-round attractions as vowed by Bensouda. [1]",
+      "generatedAt": "2026-11-24T04:26:55.911Z",
+      "sources": [
+        {
+          "title": "Bensouda says Gambia has failed in tourism policy, vows year-round attractions",
+          "source": "The Point",
+          "url": "https://thepoint.gm/africa/gambia/headlines/bensouda-says-gambia-has-failed-in-tourism-policy-vows-year-round-attractions",
+          "publishedAt": "2026-11-23T11:31:21.000Z"
+        },
+        {
+          "title": "A lei imputa o dever de agir contra genocídios a todos os países, não apenas Gâmbia e África do Sul",
+          "source": "Folha Mundo",
+          "url": "https://www1.folha.uol.com.br/colunas/bianca-santana/2026/11/a-lei-imputa-o-dever-de-agir-contra-genocidios-a-todos-os-paises-nao-apenas-gambia-e-africa-do-sul.shtml",
+          "publishedAt": "2026-11-22T20:24:00.000Z"
+        },
+        {
+          "title": "Gambia: Voting Based On Sentiments Must End",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202611230511.html",
+          "publishedAt": "2026-11-23T16:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Team Gambia Grand Coalition registers progressive moves across regions",
+          "source": "thepoint.gm",
+          "url": "https://thepoint.gm/africa/gambia/headlines/team-gambia-grand-coalition-registers-progressive-moves-across-regions",
+          "publishedAt": "2026-11-23T12:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Gambia Reportedly Halts 134 Migrants",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/gambia-stops-134-would-be-migrants-90-senegalese/",
+          "publishedAt": "2026-11-21T20:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Gambia is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

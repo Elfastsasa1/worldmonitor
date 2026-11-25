@@ -1,0 +1,114 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZW",
+  "countryName": "Zimbabwe",
+  "slug": "zimbabwe",
+  "rank": 154,
+  "overallScore": 39.4,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/prominent-zimbabwean-preacher-arrested-on-sexual-assault-allegations/",
+        "publishedAt": "2026-11-24T00:32:00.000Z"
+      },
+      {
+        "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T14:55:14.000Z"
+      },
+      {
+        "title": "Safari in Zimbabwe: Elefanten beim Frühstück, Löwenkämpfe bei Nacht [premium]",
+        "source": "Die Presse",
+        "url": "https://www.diepresse.com/41484930/safari-in-zimbabwe-elefanten-beim-fruehstueck-loewenkaempfe-bei-nacht",
+        "publishedAt": "2026-11-23T14:49:16.000Z"
+      },
+      {
+        "title": "Uebert Angel Cooperates with Zimbabwe Authorities, Denies 'Doom' Warnings",
+        "source": "faceofmalawi.com",
+        "url": "https://www.faceofmalawi.com/2026/11/24/mdntv-9360da791d2cf153cd8074dd/",
+        "publishedAt": "2026-11-24T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Namib Minerals revives Zimbabwe's Redwing mine with first gold pour",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/namib-minerals-revives-zimbabwes-redwing-mine-with-first-gold-pour/",
+        "publishedAt": "2026-11-23T19:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA prominent Zimbabwean preacher has been arrested on sexual assault allegations. [1]\nNamib Minerals has revived Zimbabwe's Redwing mine with its first gold pour. [5]\n\nWHAT THIS MEANS FOR ZIMBABWE\nThe arrest of a prominent preacher on sexual assault allegations may affect public trust in religious institutions in Zimbabwe. [1][E1]\n\nKEY RISKS\nZimbabwe is linked to 21 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether Uebert Angel will continue to cooperate with Zimbabwe authorities as he denies 'doom' warnings. [4]",
+      "generatedAt": "2026-11-24T04:37:12.117Z",
+      "sources": [
+        {
+          "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/prominent-zimbabwean-preacher-arrested-on-sexual-assault-allegations/",
+          "publishedAt": "2026-11-24T00:32:00.000Z"
+        },
+        {
+          "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-23T14:55:14.000Z"
+        },
+        {
+          "title": "Safari in Zimbabwe: Elefanten beim Frühstück, Löwenkämpfe bei Nacht [premium]",
+          "source": "Die Presse",
+          "url": "https://www.diepresse.com/41484930/safari-in-zimbabwe-elefanten-beim-fruehstueck-loewenkaempfe-bei-nacht",
+          "publishedAt": "2026-11-23T14:49:16.000Z"
+        },
+        {
+          "title": "Uebert Angel Cooperates with Zimbabwe Authorities, Denies 'Doom' Warnings",
+          "source": "faceofmalawi.com",
+          "url": "https://www.faceofmalawi.com/2026/11/24/mdntv-9360da791d2cf153cd8074dd/",
+          "publishedAt": "2026-11-24T03:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Namib Minerals revives Zimbabwe's Redwing mine with first gold pour",
+          "source": "channelafrica.co.za",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/namib-minerals-revives-zimbabwes-redwing-mine-with-first-gold-pour/",
+          "publishedAt": "2026-11-23T19:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Zimbabwe is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "21",
+          "factText": "Zimbabwe is linked to 21 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

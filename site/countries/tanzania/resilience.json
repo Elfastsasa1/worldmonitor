@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TZ",
+  "countryName": "Tanzania",
+  "slug": "tanzania",
+  "rank": 141,
+  "overallScore": 42.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Nigeria’s CMFC to Finance Tanzanian Gold Mining Company - THISDAYLIVE",
+        "source": "Mine Web (SNL)",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcllONkwtcUJxY0hkTmZtdk9KX1lJbHNsRXNVUnlySzgxQ1RxcV94QmJzYy1BVUpfUUI0UTBqRnUybHZocTFDbnFqa0h3LXZEekZnRDJ6ZU92RmZDUkQ5N09XbXRqdXlKYm15SUgyUE1MYmJjNGR6VmxodmduXzRrVUNHTUhMeGs1cWQ2Skowd3doYW1fTVJsX3Jn?oc=5",
+        "publishedAt": "2026-11-24T00:31:30.000Z"
+      },
+      {
+        "title": "Tanzania: Towering flames engulf beachfront hotels in Zanzibar",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/video/2026/11/23/tanzania-towering-flames-engulf-beachfront-hotels-in-zanzibar",
+        "publishedAt": "2026-11-23T21:48:46.000Z"
+      },
+      {
+        "title": "L’Oréal-recognised Tanzanian scientist turns to augmented reality to support children with autism",
+        "source": "The Citizen Tanzania",
+        "url": "https://www.thecitizen.co.tz/tanzania/news/national/l-or%C3%A9al-recognised-tanzanian-scientist-turns-to-augmented-reality-to-support-children-with-autism-5679234",
+        "publishedAt": "2026-11-23T16:17:30.000Z"
+      },
+      {
+        "title": "Call for Tanzanians to uphold moral values, ethical Tanzania",
+        "source": "Daily News",
+        "url": "https://dailynews.co.tz/call-for-tanzanians-to-uphold-moral-values-ethical-tanzania/",
+        "publishedAt": "2026-11-23T15:14:19.000Z"
+      },
+      {
+        "title": "Tanzania Military Academy Loses 86 Cadets to Desertion, Dishonesty and Indiscipline as Samia Commissions New Officers",
+        "source": "The Chanzo",
+        "url": "https://thechanzo.com/2026/11/22/tanzania-military-academy-loses-86-cadets-to-desertion-dishonesty-and-indiscipline-as-samia-commissions-new-officers/",
+        "publishedAt": "2026-11-22T09:46:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTanzania Military Academy loses 86 cadets to desertion, dishonesty and indiscipline as Samia commissions new officers. [5]\nTowering flames engulf beachfront hotels in Zanzibar. [2]\n\nWHAT THIS MEANS FOR TANZANIA\nThe beachfront hotel fires in Zanzibar could deter tourism, even though the most severe government travel advisory for Tanzania is Exercise Increased Caution. [2][E1]\n\nWATCH ITEMS\nWhether the 86 cadets who deserted or were dismissed from the Tanzania Military Academy will be recovered or disciplined. [5]",
+      "generatedAt": "2026-11-24T04:35:55.500Z",
+      "sources": [
+        {
+          "title": "Nigeria’s CMFC to Finance Tanzanian Gold Mining Company - THISDAYLIVE",
+          "source": "Mine Web (SNL)",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcllONkwtcUJxY0hkTmZtdk9KX1lJbHNsRXNVUnlySzgxQ1RxcV94QmJzYy1BVUpfUUI0UTBqRnUybHZocTFDbnFqa0h3LXZEekZnRDJ6ZU92RmZDUkQ5N09XbXRqdXlKYm15SUgyUE1MYmJjNGR6VmxodmduXzRrVUNHTUhMeGs1cWQ2Skowd3doYW1fTVJsX3Jn?oc=5",
+          "publishedAt": "2026-11-24T00:31:30.000Z"
+        },
+        {
+          "title": "Tanzania: Towering flames engulf beachfront hotels in Zanzibar",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/video/2026/11/23/tanzania-towering-flames-engulf-beachfront-hotels-in-zanzibar",
+          "publishedAt": "2026-11-23T21:48:46.000Z"
+        },
+        {
+          "title": "L’Oréal-recognised Tanzanian scientist turns to augmented reality to support children with autism",
+          "source": "The Citizen Tanzania",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/national/l-or%C3%A9al-recognised-tanzanian-scientist-turns-to-augmented-reality-to-support-children-with-autism-5679234",
+          "publishedAt": "2026-11-23T16:17:30.000Z"
+        },
+        {
+          "title": "Call for Tanzanians to uphold moral values, ethical Tanzania",
+          "source": "Daily News",
+          "url": "https://dailynews.co.tz/call-for-tanzanians-to-uphold-moral-values-ethical-tanzania/",
+          "publishedAt": "2026-11-23T15:14:19.000Z"
+        },
+        {
+          "title": "Tanzania Military Academy Loses 86 Cadets to Desertion, Dishonesty and Indiscipline as Samia Commissions New Officers",
+          "source": "The Chanzo",
+          "url": "https://thechanzo.com/2026/11/22/tanzania-military-academy-loses-86-cadets-to-desertion-dishonesty-and-indiscipline-as-samia-commissions-new-officers/",
+          "publishedAt": "2026-11-22T09:46:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Tanzania is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KR",
+  "countryName": "South Korea",
+  "slug": "south-korea",
+  "rank": 43,
+  "overallScore": 59.5,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "South Korea says several Russian aircraft flew into its air defense zone - AP News",
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSS12cWZyNHNoNWpmOTNnVWhuWWQwSmY1SDU5SjR5YXdxOWJtakJSVGl1RlZlZ09tbDdEUWVXTVc4dHhmN3RnVzFVRDVQSnR5UnBoTjNMOXJqLWxPUWJpSGdTZDQ2VldRVGd2LWN5bEZuYmoxQVdPcnNxemZGQXNya2p3RkpBVlFhWDlvYzJSWmtuZXFXSWxLYkRxSGpRSTJINjlCRFNpR3BDU1lpTVpJ?oc=5",
+        "publishedAt": "2026-11-24T03:23:00.000Z"
+      },
+      {
+        "title": "Japan and South Korea face petrol rationing threat as Iran war disrupts oil routes - Herald.Wales",
+        "source": "Energy Crisis & Shortages",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhEUWFNeW4yTXpsdFd4MnJpV3RsU2lUczVXcEF0QWlkNWc2R1E2MVc4R1hNTUtfaFhWM0RTM3l5MTJkemtQTHFQUUs2NGZuTzZSbWxieDJnblo2RFhmNHcyMUxRdlBRT2w2V2RBdUFYSnpka3lDOHdKdnhNZXR4WWd3MjkxQ2VleDZrbXRpcmQ0S2lIUHJPT0tiVVVtV0x0c3djUzJxOEJXUkJucTJ3Q1hrV2NmQ2xCb1E?oc=5",
+        "publishedAt": "2026-11-23T20:01:26.000Z"
+      },
+      {
+        "title": "South Korea Briefly Issues Air Raid Warning Over Russian Plane - Bloomberg.com",
+        "source": "Bloomberg Commodities",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFyUGVQejJJUkVBTGFNcjJTZ0Qtb2JGbGpDemhMMXZ2dVk2N0NCWGNaRDRoVHBxSkRRSm5lbFdSbWloMU8xQmdrajE2UU5VRGlnU2tyRVRDS1BBM0EzOXRnOVRPbV84SWNlZGlHbmhmcDlPb1k2UlJGWkdUcUN4TjU3QVZYRi0yVHI1SDE4cVZwcU5pMzVBNHlNMmtOU0tNT1ZNNXRCSVlTWE5PS1R0b2REdw?oc=5",
+        "publishedAt": "2026-11-24T04:06:00.000Z"
+      },
+      {
+        "title": "Inside South Korea’s Strategy for Global AI Leadership - mexicoelections.wilsoncenter.org",
+        "source": "Wilson Center",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnhBV2JTdFNydkZxT0tsNENUU3ZrRUxsTG96U2pVbUlEVlVFUk4zSS15UHVwSXRPeHB0WFBCWl9CQ0VqQ1I4SFBUcEdDWFNOU2o1MGZBZV9icXdDajlsYkdoY2RyVGZYNEVoSnMycVh3R1JreXdYdUUtTWQ1QUpJenhTb2FOQnM0bWczQ1pNUlNZRGJfaTBZSG5hNVY?oc=5",
+        "publishedAt": "2026-11-23T18:38:51.000Z"
+      },
+      {
+        "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+        "publishedAt": "2026-11-24T04:14:43.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSouth Korea says several Russian aircraft flew into its air defense zone. [1]\nSouth Korea briefly issued an air raid warning over a Russian plane. [3]\n\nOUTLOOK\nA Kalshi market related to South Korea, \"Will South Korean President Lee Jae-myung serve their full term?: Yes\", priced Yes at 65% on Nov 24, 2026; it closes Jul 1, 2030. [E6]\n\nWATCH ITEMS\nWhether South Korea tells island residents to take shelter after Russian military aircraft approach will be resolved. [5]",
+      "generatedAt": "2026-11-24T04:52:46.481Z",
+      "sources": [
+        {
+          "title": "South Korea says several Russian aircraft flew into its air defense zone - AP News",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSS12cWZyNHNoNWpmOTNnVWhuWWQwSmY1SDU5SjR5YXdxOWJtakJSVGl1RlZlZ09tbDdEUWVXTVc4dHhmN3RnVzFVRDVQSnR5UnBoTjNMOXJqLWxPUWJpSGdTZDQ2VldRVGd2LWN5bEZuYmoxQVdPcnNxemZGQXNya2p3RkpBVlFhWDlvYzJSWmtuZXFXSWxLYkRxSGpRSTJINjlCRFNpR3BDU1lpTVpJ?oc=5",
+          "publishedAt": "2026-11-24T03:23:00.000Z"
+        },
+        {
+          "title": "Japan and South Korea face petrol rationing threat as Iran war disrupts oil routes - Herald.Wales",
+          "source": "Energy Crisis & Shortages",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhEUWFNeW4yTXpsdFd4MnJpV3RsU2lUczVXcEF0QWlkNWc2R1E2MVc4R1hNTUtfaFhWM0RTM3l5MTJkemtQTHFQUUs2NGZuTzZSbWxieDJnblo2RFhmNHcyMUxRdlBRT2w2V2RBdUFYSnpka3lDOHdKdnhNZXR4WWd3MjkxQ2VleDZrbXRpcmQ0S2lIUHJPT0tiVVVtV0x0c3djUzJxOEJXUkJucTJ3Q1hrV2NmQ2xCb1E?oc=5",
+          "publishedAt": "2026-11-23T20:01:26.000Z"
+        },
+        {
+          "title": "South Korea Briefly Issues Air Raid Warning Over Russian Plane - Bloomberg.com",
+          "source": "Bloomberg Commodities",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenFyUGVQejJJUkVBTGFNcjJTZ0Qtb2JGbGpDemhMMXZ2dVk2N0NCWGNaRDRoVHBxSkRRSm5lbFdSbWloMU8xQmdrajE2UU5VRGlnU2tyRVRDS1BBM0EzOXRnOVRPbV84SWNlZGlHbmhmcDlPb1k2UlJGWkdUcUN4TjU3QVZYRi0yVHI1SDE4cVZwcU5pMzVBNHlNMmtOU0tNT1ZNNXRCSVlTWE5PS1R0b2REdw?oc=5",
+          "publishedAt": "2026-11-24T04:06:00.000Z"
+        },
+        {
+          "title": "Inside South Korea’s Strategy for Global AI Leadership - mexicoelections.wilsoncenter.org",
+          "source": "Wilson Center",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnhBV2JTdFNydkZxT0tsNENUU3ZrRUxsTG96U2pVbUlEVlVFUk4zSS15UHVwSXRPeHB0WFBCWl9CQ0VqQ1I4SFBUcEdDWFNOU2o1MGZBZV9icXdDajlsYkdoY2RyVGZYNEVoSnMycVh3R1JreXdYdUUtTWQ1QUpJenhTb2FOQnM0bWczQ1pNUlNZRGJfaTBZSG5hNVY?oc=5",
+          "publishedAt": "2026-11-23T18:38:51.000Z"
+        },
+        {
+          "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+          "publishedAt": "2026-11-24T04:14:43.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Kalshi prediction market",
+          "value": "65%",
+          "factText": "A Kalshi market related to South Korea, \"Will South Korean President Lee Jae-myung serve their full term?: Yes\", priced Yes at 65% on Nov 24, 2026; it closes Jul 1, 2030.",
+          "asOf": "2026-11-24T04:52:14.645Z",
+          "url": "https://kalshi.com/markets/KXFULLTERMSKPRES-29"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

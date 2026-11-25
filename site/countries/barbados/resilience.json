@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BB",
+  "countryName": "Barbados",
+  "slug": "barbados",
+  "rank": 36,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.66,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Barbados sets February deadline for CARICOM AI framework",
+        "source": "Barbados Today",
+        "url": "https://barbadostoday.bb/2026/11/23/barbados-sets-february-deadline-for-caricom-ai-framework/",
+        "publishedAt": "2026-11-24T01:00:06.000Z"
+      },
+      {
+        "title": "Grassalco gaat Barbados helpen landbouwproductie te verhogen met Surinaamse expertise",
+        "source": "Suriname Herald",
+        "url": "https://www.srherald.com/suriname/2026/11/23/grassalco-gaat-barbados-helpen-landbouwproductie-te-verhogen-met-surinaamse-expertise/",
+        "publishedAt": "2026-11-23T23:03:14.000Z"
+      },
+      {
+        "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+        "publishedAt": "2026-11-23T16:53:13.000Z"
+      },
+      {
+        "title": "Barbados announces new crime prevention initiative targeting youth and communities",
+        "source": "The St. Kitts-Nevis Observer",
+        "url": "https://www.thestkittsnevisobserver.com/barbados-announces-new-crime-prevention-initiative-targeting-youth-and-communities/",
+        "publishedAt": "2026-11-23T00:56:00.000Z"
+      },
+      {
+        "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+        "publishedAt": "2026-11-22T12:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBarbados has set a February deadline for a CARICOM AI framework. [1]\nBarbados announced a new crime prevention initiative targeting youth and communities. [4]",
+      "generatedAt": "2026-11-24T04:23:08.754Z",
+      "sources": [
+        {
+          "title": "Barbados sets February deadline for CARICOM AI framework",
+          "source": "Barbados Today",
+          "url": "https://barbadostoday.bb/2026/11/23/barbados-sets-february-deadline-for-caricom-ai-framework/",
+          "publishedAt": "2026-11-24T01:00:06.000Z"
+        },
+        {
+          "title": "Grassalco gaat Barbados helpen landbouwproductie te verhogen met Surinaamse expertise",
+          "source": "Suriname Herald",
+          "url": "https://www.srherald.com/suriname/2026/11/23/grassalco-gaat-barbados-helpen-landbouwproductie-te-verhogen-met-surinaamse-expertise/",
+          "publishedAt": "2026-11-23T23:03:14.000Z"
+        },
+        {
+          "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+          "publishedAt": "2026-11-23T16:53:13.000Z"
+        },
+        {
+          "title": "Barbados announces new crime prevention initiative targeting youth and communities",
+          "source": "The St. Kitts-Nevis Observer",
+          "url": "https://www.thestkittsnevisobserver.com/barbados-announces-new-crime-prevention-initiative-targeting-youth-and-communities/",
+          "publishedAt": "2026-11-23T00:56:00.000Z"
+        },
+        {
+          "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+          "publishedAt": "2026-11-22T12:00:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

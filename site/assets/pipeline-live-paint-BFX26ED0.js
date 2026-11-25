@@ -1,0 +1,3 @@
+import{t as i}from"./theme-colors-ToRFEbn-.js";function o(e){if(!e.upstreamUnavailable)return"";const a=e.pipelines??[],l=a.some(n=>n.commodityType==="gas"),p=a.some(n=>n.commodityType==="oil");return l&&!p?i("components.supplyChain.oilPipelinesUnavailable",{defaultValue:"Oil pipeline data unavailable"}):p&&!l?i("components.supplyChain.gasPipelinesUnavailable",{defaultValue:"Gas pipeline data unavailable"}):i("components.supplyChain.upstreamUnavailable")}function t(e){var a;return!!(e.upstreamUnavailable&&!(((a=e.pipelines)==null?void 0:a.length)>0))}export{o as p,t as s};
+
+;(globalThis.__WM_CHUNK_OWNERSHIP__||(globalThis.__WM_CHUNK_OWNERSHIP__={}))["pipeline-live-paint-BFX26ED0.js"]=1;

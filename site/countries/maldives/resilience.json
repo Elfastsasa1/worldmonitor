@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "slug": "maldives",
+  "rank": 80,
+  "overallScore": 54.1,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Dhiraagu Maldives Road Race record adhadhegge dhuvuntherinna eku ninmaalaifi",
+        "source": "Dhauru",
+        "url": "https://dhauru.com/post/business/47022",
+        "publishedAt": "2026-11-20T16:52:36.000Z"
+      },
+      {
+        "title": "JA Manafaru, Maldives",
+        "source": "cntraveller.com",
+        "url": "https://www.cntraveller.com/hotels/north-province/ja-manafaru-maldives",
+        "publishedAt": "2026-11-23T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Crossroads Maldives puts the focus on villa stays",
+        "source": "ttgasia.com",
+        "url": "https://www.ttgasia.com/2026/11/23/crossroads-maldives-puts-the-focus-on-villa-stays/",
+        "publishedAt": "2026-11-23T08:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "A budget that bets on cheaper oil - Maldives Independent",
+        "source": "maldivesindependent.com",
+        "url": "https://maldivesindependent.com/opinion/a-budget-that-bets-on-cheaper-oil-7078",
+        "publishedAt": "2026-11-22T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Maldives Luxury Travel Guide: A Local's Advice on Islands, Villas and Experiences",
+        "source": "luxurytravelmagazine.com",
+        "url": "https://www.luxurytravelmagazine.com/news-articles/the-maldives-luxury-travel-guide-a-locals-advice-on-islands-villas-and-experiences",
+        "publishedAt": "2026-11-18T13:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Dhiraagu Maldives Road Race record adhadhegge dhuvuntherinna eku ninmaalaifi. [1]\nCrossroads Maldives puts the focus on villa stays. [3]\n\nWATCH ITEMS\nWhether the budget's bet on cheaper oil will materialize as global prices evolve. [4]",
+      "generatedAt": "2026-11-24T04:31:09.068Z",
+      "sources": [
+        {
+          "title": "Dhiraagu Maldives Road Race record adhadhegge dhuvuntherinna eku ninmaalaifi",
+          "source": "Dhauru",
+          "url": "https://dhauru.com/post/business/47022",
+          "publishedAt": "2026-11-20T16:52:36.000Z"
+        },
+        {
+          "title": "JA Manafaru, Maldives",
+          "source": "cntraveller.com",
+          "url": "https://www.cntraveller.com/hotels/north-province/ja-manafaru-maldives",
+          "publishedAt": "2026-11-23T14:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Crossroads Maldives puts the focus on villa stays",
+          "source": "ttgasia.com",
+          "url": "https://www.ttgasia.com/2026/11/23/crossroads-maldives-puts-the-focus-on-villa-stays/",
+          "publishedAt": "2026-11-23T08:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "A budget that bets on cheaper oil - Maldives Independent",
+          "source": "maldivesindependent.com",
+          "url": "https://maldivesindependent.com/opinion/a-budget-that-bets-on-cheaper-oil-7078",
+          "publishedAt": "2026-11-22T12:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

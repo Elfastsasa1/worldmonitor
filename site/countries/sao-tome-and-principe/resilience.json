@@ -1,0 +1,33 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ST",
+  "countryName": "São Tomé and Príncipe",
+  "slug": "sao-tome-and-principe",
+  "rank": 93,
+  "overallScore": 52.1,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "6 Setembro de São Tomé e 1º Maio de Príncipe disputam com “garra” o título de campão nacional",
+        "source": "STP-Press",
+        "url": "https://www.stp-press.st/2026/11/20/6-setembro-de-sao-tome-e-1o-maio-de-principe-disputam-titulo-de-campao-sao-tomense/",
+        "publishedAt": "2026-11-20T16:03:10.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

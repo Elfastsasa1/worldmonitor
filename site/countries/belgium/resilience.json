@@ -1,0 +1,95 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "slug": "belgium",
+  "rank": 42,
+  "overallScore": 60.2,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Flights cancelled in Belgium due to cost-of-living strike",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/flights-cancelled-in-belgium-due-to-cost-of-living-strike/",
+        "publishedAt": "2026-11-24T00:52:00.000Z"
+      },
+      {
+        "title": "Belgium: Workers march against spending cuts as living costs rise",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/video/2026/11/23/belgium-workers-march-against-spending-cuts-as-living-costs-rise",
+        "publishedAt": "2026-11-23T21:09:46.000Z"
+      },
+      {
+        "title": "Airports, public transport shut down amid national strike in Belgium",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
+        "publishedAt": "2026-11-23T16:10:30.000Z"
+      },
+      {
+        "title": "Germany face Belgium in Nations League quarterfinals — Klopp plays down favorites tag",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-11-20T14:53:00.000Z"
+      },
+      {
+        "title": "Embassy of Oman in Belgium celebrates glorious National Day",
+        "source": "timesofoman.com",
+        "url": "https://timesofoman.com/article/179450-embassy-of-oman-in-belgium-celebrates-glorious-national-day",
+        "publishedAt": "2026-11-23T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFlights have been cancelled in Belgium due to a cost-of-living strike. [1]\nAirports and public transport have been shut down amid a national strike in Belgium. [3]\n\nWATCH ITEMS\nWhether workers' demands against spending cuts will be addressed as living costs rise. [2]",
+      "generatedAt": "2026-11-24T04:48:21.075Z",
+      "sources": [
+        {
+          "title": "Flights cancelled in Belgium due to cost-of-living strike",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/flights-cancelled-in-belgium-due-to-cost-of-living-strike/",
+          "publishedAt": "2026-11-24T00:52:00.000Z"
+        },
+        {
+          "title": "Belgium: Workers march against spending cuts as living costs rise",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/video/2026/11/23/belgium-workers-march-against-spending-cuts-as-living-costs-rise",
+          "publishedAt": "2026-11-23T21:09:46.000Z"
+        },
+        {
+          "title": "Airports, public transport shut down amid national strike in Belgium",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
+          "publishedAt": "2026-11-23T16:10:30.000Z"
+        },
+        {
+          "title": "Germany face Belgium in Nations League quarterfinals — Klopp plays down favorites tag",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-11-20T14:53:00.000Z"
+        },
+        {
+          "title": "Embassy of Oman in Belgium celebrates glorious National Day",
+          "source": "timesofoman.com",
+          "url": "https://timesofoman.com/article/179450-embassy-of-oman-in-belgium-celebrates-glorious-national-day",
+          "publishedAt": "2026-11-23T23:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

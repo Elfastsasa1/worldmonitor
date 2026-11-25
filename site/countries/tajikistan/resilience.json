@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TJ",
+  "countryName": "Tajikistan",
+  "slug": "tajikistan",
+  "rank": 41,
+  "overallScore": 60.4,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push - Reuters",
+        "source": "Reuters — Mali",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
+        "publishedAt": "2026-11-23T13:35:53.000Z"
+      },
+      {
+        "title": "EU pressure on Tajikistan to arrest Putin backfired – analyst (VIDEO)",
+        "source": "RT",
+        "url": "https://rt-english.com/russia/649273-tajikistan-quits-icc-politicization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "publishedAt": "2026-11-24T02:41:10.000Z"
+      },
+      {
+        "title": "Tajikistan to Withdraw From International Criminal Court",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/tajikistan-to-withdraw-from-international-criminal-court/",
+        "publishedAt": "2026-11-23T18:45:55.000Z"
+      },
+      {
+        "title": "Tajikistan follows US call, withdraws from ICC",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-11-23T18:40:00.000Z"
+      },
+      {
+        "title": "Tajikistan Is Leaving the ICC",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/11/tajikistan-is-leaving-the-icc/",
+        "publishedAt": "2026-11-23T18:28:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTajikistan has decided to withdraw from the International Criminal Court. [1][3][4][5]\n\nWHAT THIS MEANS FOR TAJIKISTAN\nTajikistan's withdrawal from the ICC, following a US diplomatic push, may reduce its legal obligations regarding the arrest of foreign leaders, as suggested by an analyst's comment on EU pressure. [1][2][E1]\n\nKEY RISKS\nTajikistan is linked to 6 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:35:16.467Z",
+      "sources": [
+        {
+          "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push - Reuters",
+          "source": "Reuters — Mali",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
+          "publishedAt": "2026-11-23T13:35:53.000Z"
+        },
+        {
+          "title": "EU pressure on Tajikistan to arrest Putin backfired – analyst (VIDEO)",
+          "source": "RT",
+          "url": "https://rt-english.com/russia/649273-tajikistan-quits-icc-politicization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publishedAt": "2026-11-24T02:41:10.000Z"
+        },
+        {
+          "title": "Tajikistan to Withdraw From International Criminal Court",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/tajikistan-to-withdraw-from-international-criminal-court/",
+          "publishedAt": "2026-11-23T18:45:55.000Z"
+        },
+        {
+          "title": "Tajikistan follows US call, withdraws from ICC",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-11-23T18:40:00.000Z"
+        },
+        {
+          "title": "Tajikistan Is Leaving the ICC",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/11/tajikistan-is-leaving-the-icc/",
+          "publishedAt": "2026-11-23T18:28:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Tajikistan is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "6",
+          "factText": "Tajikistan is linked to 6 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

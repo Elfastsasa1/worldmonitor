@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "slug": "namibia",
+  "rank": 114,
+  "overallScore": 48.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Namibia’s Uranium Exports Fuel Nuclear Ambitions - Windhoek Observer",
+        "source": "Uranium Market",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54VUVDTllfY1NkemFycHpudGwyckZSd3QwWFJscHh5OXdqUnJudGNnRlVNaDhuLVI2aUstSGhYQ0FXenNKdTNkeG04b3hackcwSktneXdpRWs0djE2UEwtUEpCQjdXdERsd0UyRHRKS3d0amdULWZWcHBFZ3hSTmc?oc=5",
+        "publishedAt": "2026-11-24T03:16:21.000Z"
+      },
+      {
+        "title": "Namibia targets 80% food self-sufficiency by 2030",
+        "source": "The Namibian",
+        "url": "https://www.namibian.com.na/namibia-targets-80-food-self-sufficiency-by-2030/",
+        "publishedAt": "2026-11-23T17:00:00.000Z"
+      },
+      {
+        "title": "Guarding the nation, Abandoned by the Law: Namibia’s private security crisis",
+        "source": "Namibia Economist",
+        "url": "https://economist.com.na/guarding-the-nation-abandoned-by-the-law-namibias-private-security-crisis/",
+        "publishedAt": "2026-11-23T11:44:14.000Z"
+      },
+      {
+        "title": "Three Namibian women earn continental sports recognition",
+        "source": "New Era",
+        "url": "https://neweralive.na/three-namibian-women-earn-continental-sports-recognition/",
+        "publishedAt": "2026-11-23T09:50:55.000Z"
+      },
+      {
+        "title": "Sete semanas, 60 países, um cenário: CTBTO conclui exercício histórico na Namíbia",
+        "source": "Jornal Tropical",
+        "url": "https://www.jornaltropical.st/sete-semanas-60-paises-um-cenario-ctbto-conclui-exercicio-historico-na-namibia/",
+        "publishedAt": "2026-11-20T11:15:54.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "unsupported-citation",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

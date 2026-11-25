@@ -1,0 +1,87 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JM",
+  "countryName": "Jamaica",
+  "slug": "jamaica",
+  "rank": 66,
+  "overallScore": 55.7,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Campbell blasts Government over unaccounted Hurricane Melissa relief supplies - Jamaica Gleaner",
+        "source": "The Gleaner",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnBqWGdMUW01S29KYy1kMkhHejNWbkQ1T040YjlMYW9LZjJ2b2VvMWlWNWJOUTlaejdqTkU0clhiTHp1bklCcWlrTGlsSGxQaHg3RWU5eHR5bXJpQWI4SkZaTS1ycUNXWVVNb01zTklibVFhUGlHWlM2akowU0dVQ1l4UEZ2X3cwUzZ1b0lNV0QtdGRsRlZseWoxWXlkaXNzejZ5YW80RElObFpSeFBSX3BiY1ZWQlFGS1ZwWnk2TzkzZUZ3bkU0QzJscw?oc=5",
+        "publishedAt": "2026-11-23T18:54:02.000Z"
+      },
+      {
+        "title": "Jamaica Basel brings the island’s cultural legacy and creative future to Miami Art Week - Caribbean National Weekly",
+        "source": "Banking Rules",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0ZVVzctbldjNV9kVnJIbndWZkZiSFdHb1Y1eGR5R1JXMEFJdy1QelhSazVHQ3ptY0dqUDUxMDFCcGFvZDVFSVB0dW05bmVqTjhFM1c5NDBwX2F4T1c4d29wcXRwZF9McHFjVFgtc3dzN2tLaGxuMFQ3RXlVVlp0RDhMRUVRdGEtWjZQV3MtLXdLRGFramQ1ZzlvWjRnT055OWdBeHBGeV91X3BGYWR5WVFpV2hRWHIyMzJKY0tiSW0yTFFkSl9VdUZOT1Q?oc=5",
+        "publishedAt": "2026-11-24T03:11:26.000Z"
+      },
+      {
+        "title": "BOJ widens inflation fight beyond rate hikes, climate-resilient agriculture gets financing push - Jamaica Gleaner",
+        "source": "BoJ Watch",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUU40cmhNV0xodDV5REs1Wk5VX2pXZGkwYjgyWFUyMURrR1FyZTh0VDdIT2tGVHJrR3J4d1NOQ2NUNDl6MjdNTHJpbTVGaE94dUZ3cEhvSFU3Ul9KRWFWb0tZRnN2TkdfeExVcFJHbkhBeG1JeGViaWtCYXkwVkpQUDZZNHF2RDRtZGVuTTFjMlBSZXlocHlEUGZRVW44N0FyOXZrLWtkWTIxSzlsZDZIazVzVDE2QQ?oc=5",
+        "publishedAt": "2026-11-23T22:54:01.000Z"
+      },
+      {
+        "title": "US, Mexico, Costa Rica and Jamaica to co-host 2031 Women's World Cup; UK gets 2035",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10947442",
+        "publishedAt": "2026-11-24T03:50:28.000Z"
+      },
+      {
+        "title": "Jamaican named among 100 inspirational women in mining",
+        "source": "Jamaica Observer",
+        "url": "https://www.jamaicaobserver.com/2026/11/23/jamaican-named-among-100-inspirational-women-mining/",
+        "publishedAt": "2026-11-24T02:38:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCampbell has criticized the Government over unaccounted Hurricane Melissa relief supplies. [1]\nJamaica Basel is showcasing the island's cultural legacy and creative future at Miami Art Week. [2]",
+      "generatedAt": "2026-11-24T04:52:11.220Z",
+      "sources": [
+        {
+          "title": "Campbell blasts Government over unaccounted Hurricane Melissa relief supplies - Jamaica Gleaner",
+          "source": "The Gleaner",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdnBqWGdMUW01S29KYy1kMkhHejNWbkQ1T040YjlMYW9LZjJ2b2VvMWlWNWJOUTlaejdqTkU0clhiTHp1bklCcWlrTGlsSGxQaHg3RWU5eHR5bXJpQWI4SkZaTS1ycUNXWVVNb01zTklibVFhUGlHWlM2akowU0dVQ1l4UEZ2X3cwUzZ1b0lNV0QtdGRsRlZseWoxWXlkaXNzejZ5YW80RElObFpSeFBSX3BiY1ZWQlFGS1ZwWnk2TzkzZUZ3bkU0QzJscw?oc=5",
+          "publishedAt": "2026-11-23T18:54:02.000Z"
+        },
+        {
+          "title": "Jamaica Basel brings the island’s cultural legacy and creative future to Miami Art Week - Caribbean National Weekly",
+          "source": "Banking Rules",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0ZVVzctbldjNV9kVnJIbndWZkZiSFdHb1Y1eGR5R1JXMEFJdy1QelhSazVHQ3ptY0dqUDUxMDFCcGFvZDVFSVB0dW05bmVqTjhFM1c5NDBwX2F4T1c4d29wcXRwZF9McHFjVFgtc3dzN2tLaGxuMFQ3RXlVVlp0RDhMRUVRdGEtWjZQV3MtLXdLRGFramQ1ZzlvWjRnT055OWdBeHBGeV91X3BGYWR5WVFpV2hRWHIyMzJKY0tiSW0yTFFkSl9VdUZOT1Q?oc=5",
+          "publishedAt": "2026-11-24T03:11:26.000Z"
+        },
+        {
+          "title": "BOJ widens inflation fight beyond rate hikes, climate-resilient agriculture gets financing push - Jamaica Gleaner",
+          "source": "BoJ Watch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUU40cmhNV0xodDV5REs1Wk5VX2pXZGkwYjgyWFUyMURrR1FyZTh0VDdIT2tGVHJrR3J4d1NOQ2NUNDl6MjdNTHJpbTVGaE94dUZ3cEhvSFU3Ul9KRWFWb0tZRnN2TkdfeExVcFJHbkhBeG1JeGViaWtCYXkwVkpQUDZZNHF2RDRtZGVuTTFjMlBSZXlocHlEUGZRVW44N0FyOXZrLWtkWTIxSzlsZDZIazVzVDE2QQ?oc=5",
+          "publishedAt": "2026-11-23T22:54:01.000Z"
+        },
+        {
+          "title": "Jamaican named among 100 inspirational women in mining",
+          "source": "Jamaica Observer",
+          "url": "https://www.jamaicaobserver.com/2026/11/23/jamaican-named-among-100-inspirational-women-mining/",
+          "publishedAt": "2026-11-24T02:38:53.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

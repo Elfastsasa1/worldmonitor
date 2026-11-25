@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "slug": "samoa",
+  "rank": 11,
+  "overallScore": 66.8,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Manusina opens door to eligible Samoan women rugby players for 2027",
+        "source": "RNZ",
+        "url": "https://www.rnz.co.nz/news/pacific/2756676/manusina-opens-door-to-eligible-samoan-women-rugby-players-for-2027",
+        "publishedAt": "2026-11-23T20:24:43.000Z"
+      },
+      {
+        "title": "Head of State welcomes United Arab Emirates Ambassador to Samoa",
+        "source": "Talamua Online News",
+        "url": "https://talamua.com/?p=63160",
+        "publishedAt": "2026-11-22T21:39:38.000Z"
+      },
+      {
+        "title": "Samoa Observer | Calls grow for parade to honour Manu Samoa players",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/123234",
+        "publishedAt": "2026-11-24T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Samoan communities identify 10 climate-related needs",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/123281",
+        "publishedAt": "2026-11-24T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Xavier weakens to tropical disturbance, expected to",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/123285",
+        "publishedAt": "2026-11-24T02:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSamoan communities have identified 10 climate-related needs, as reported by the Samoa Observer. [3]\n\nWATCH ITEMS\nWhether calls for a parade to honour Manu Samoa players will be acted upon. [2]\nThe status of Xavier after it weakened to a tropical disturbance, as reported by the Samoa Observer. [4]",
+      "generatedAt": "2026-11-24T04:36:44.161Z",
+      "sources": [
+        {
+          "title": "Head of State welcomes United Arab Emirates Ambassador to Samoa",
+          "source": "Talamua Online News",
+          "url": "https://talamua.com/?p=63160",
+          "publishedAt": "2026-11-22T21:39:38.000Z"
+        },
+        {
+          "title": "Samoa Observer | Calls grow for parade to honour Manu Samoa players",
+          "source": "samoaobserver.ws",
+          "url": "https://www.samoaobserver.ws/category/samoa/123234",
+          "publishedAt": "2026-11-24T02:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Samoa Observer | Samoan communities identify 10 climate-related needs",
+          "source": "samoaobserver.ws",
+          "url": "https://www.samoaobserver.ws/category/samoa/123281",
+          "publishedAt": "2026-11-24T02:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Samoa Observer | Xavier weakens to tropical disturbance, expected to",
+          "source": "samoaobserver.ws",
+          "url": "https://www.samoaobserver.ws/category/samoa/123285",
+          "publishedAt": "2026-11-24T02:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

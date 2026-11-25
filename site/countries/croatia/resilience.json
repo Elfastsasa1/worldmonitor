@@ -1,0 +1,97 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "slug": "croatia",
+  "rank": 40,
+  "overallScore": 60.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Croatia steps up pressure on Montenegro over border dispute as EU accession deadline looms",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/2026/11/23/croatia-steps-up-pressure-on-montenegro-over-border-dispute-as-eu-accession-deadline-looms",
+        "publishedAt": "2026-11-23T13:40:26.000Z"
+      },
+      {
+        "title": "Croatians rally in Zagreb over psychiatric hospital death",
+        "source": "RTÉ News",
+        "url": "https://www.rte.ie/news/world/2026/1122/1600168-croatia-protest/",
+        "publishedAt": "2026-11-22T04:38:03.000Z"
+      },
+      {
+        "title": "Bitter Land: Croatia’s Unfinished Search for its Wartime Mass Graves",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/bitter-land-croatias-unfinished-search-for-its-wartime-mass-graves/btj/",
+        "publishedAt": "2026-11-20T07:03:49.000Z"
+      },
+      {
+        "title": "Croatia steps up pressure on Montenegro over border dispute as EU accession deadline looms",
+        "source": "tert.am",
+        "url": "https://tert.am/en/news/2026/11/23/Montenegro/4291387",
+        "publishedAt": "2026-11-23T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Croatia cuts fuel prices for 3rd consecutive week-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20261123/65116421846549c78a2c7c614a0675fe/c.html",
+        "publishedAt": "2026-11-23T14:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCroatia has stepped up pressure on Montenegro over a border dispute as an EU accession deadline looms. [1]",
+      "generatedAt": "2026-11-24T04:27:28.989Z",
+      "sources": [
+        {
+          "title": "Croatia steps up pressure on Montenegro over border dispute as EU accession deadline looms",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/2026/11/23/croatia-steps-up-pressure-on-montenegro-over-border-dispute-as-eu-accession-deadline-looms",
+          "publishedAt": "2026-11-23T13:40:26.000Z"
+        },
+        {
+          "title": "Croatians rally in Zagreb over psychiatric hospital death",
+          "source": "RTÉ News",
+          "url": "https://www.rte.ie/news/world/2026/1122/1600168-croatia-protest/",
+          "publishedAt": "2026-11-22T04:38:03.000Z"
+        },
+        {
+          "title": "Bitter Land: Croatia’s Unfinished Search for its Wartime Mass Graves",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/bitter-land-croatias-unfinished-search-for-its-wartime-mass-graves/btj/",
+          "publishedAt": "2026-11-20T07:03:49.000Z"
+        },
+        {
+          "title": "Croatia steps up pressure on Montenegro over border dispute as EU accession deadline looms",
+          "source": "tert.am",
+          "url": "https://tert.am/en/news/2026/11/23/Montenegro/4291387",
+          "publishedAt": "2026-11-23T15:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Croatia cuts fuel prices for 3rd consecutive week-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20261123/65116421846549c78a2c7c614a0675fe/c.html",
+          "publishedAt": "2026-11-23T14:30:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

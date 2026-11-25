@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "slug": "south-africa",
+  "rank": 117,
+  "overallScore": 47.5,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Eswatini Foreign Affairs Minister seeking to manipulate China’s diplomatic ally South Africa to push a Taiwan project seeking to destroy Swaziland News amid “One China Policy” battle of narratives” signs countering of information funding agreement with Islan - Swaziland News",
+        "source": "Swaziland News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS3BoQ1E5SUVZbmVPRFotU29Ya0U1WTRJSDZFN3h3WkVtalc0YXhfNWRtS3VEOGlFYk9taDZiS1FsZEpwaW1yNUxBS3FmS1pjVzZMOA?oc=5",
+        "publishedAt": "2026-11-23T20:08:55.000Z"
+      },
+      {
+        "title": "In South Africa’s Limpopo, residents wonder what the next flood will bring",
+        "source": "Mongabay",
+        "url": "https://news.mongabay.com/2026/11/in-south-africas-limpopo-residents-wonder-what-the-next-flood-will-bring/",
+        "publishedAt": "2026-11-23T17:51:59.000Z"
+      },
+      {
+        "title": "South Africa Targets AI Investment With Data Centers, Startup Funding - We are Tech",
+        "source": "Africa Startups",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTdvM0NVdVlYdjVRY25aVzI3cXpId29YV2lzZjFFLWo1ak5NVkYzV0lTanpmVkJRQ3ZLbU1DNXhWVC1VQ1A1MWV3UFdUN1lZeTd3SjBUV2lROEpwMUc2SEUwbDUwWTRWMTIxQ1owalVVV3UtLTBDWU8tSTE1TEpUMFhwSEM1UFdwMEVIMEpGTGl5b3k4V19yTGo0cUJKOW5oSmktX1BsNTZuUlVfVC1rczhiMHNEckVTTVE?oc=5",
+        "publishedAt": "2026-11-23T15:23:19.000Z"
+      },
+      {
+        "title": "17th statue honoring Japan's wartime sex slavery victims to be unveiled in South Africa",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10947488",
+        "publishedAt": "2026-11-24T04:38:03.000Z"
+      },
+      {
+        "title": "Dad who discovered daughter’s murder on Facebook feels ignored by South African police",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/dad-who-discovered-daughters-murder-on-facebook-feels-ignored-by-south-african-police/",
+        "publishedAt": "2026-11-24T00:45:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEswatini Foreign Affairs Minister is seeking to manipulate South Africa to advance a Taiwan project aimed at destroying Swaziland News. [1]\nIn South Africa's Limpopo region, residents are questioning what the next flood will bring. [2]\n\nWATCH ITEMS\nWhether residents in Limpopo will receive adequate flood preparedness support from authorities. [2]\nWhether South African police will respond to the father who discovered his daughter's murder on Facebook and feels ignored. [5]",
+      "generatedAt": "2026-11-24T04:57:30.724Z",
+      "sources": [
+        {
+          "title": "Eswatini Foreign Affairs Minister seeking to manipulate China’s diplomatic ally South Africa to push a Taiwan project seeking to destroy Swaziland News amid “O...",
+          "source": "Swaziland News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS3BoQ1E5SUVZbmVPRFotU29Ya0U1WTRJSDZFN3h3WkVtalc0YXhfNWRtS3VEOGlFYk9taDZiS1FsZEpwaW1yNUxBS3FmS1pjVzZMOA?oc=5",
+          "publishedAt": "2026-11-23T20:08:55.000Z"
+        },
+        {
+          "title": "In South Africa’s Limpopo, residents wonder what the next flood will bring",
+          "source": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/in-south-africas-limpopo-residents-wonder-what-the-next-flood-will-bring/",
+          "publishedAt": "2026-11-23T17:51:59.000Z"
+        },
+        {
+          "title": "South Africa Targets AI Investment With Data Centers, Startup Funding - We are Tech",
+          "source": "Africa Startups",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTdvM0NVdVlYdjVRY25aVzI3cXpId29YV2lzZjFFLWo1ak5NVkYzV0lTanpmVkJRQ3ZLbU1DNXhWVC1VQ1A1MWV3UFdUN1lZeTd3SjBUV2lROEpwMUc2SEUwbDUwWTRWMTIxQ1owalVVV3UtLTBDWU8tSTE1TEpUMFhwSEM1UFdwMEVIMEpGTGl5b3k4V19yTGo0cUJKOW5oSmktX1BsNTZuUlVfVC1rczhiMHNEckVTTVE?oc=5",
+          "publishedAt": "2026-11-23T15:23:19.000Z"
+        },
+        {
+          "title": "17th statue honoring Japan's wartime sex slavery victims to be unveiled in South Africa",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10947488",
+          "publishedAt": "2026-11-24T04:38:03.000Z"
+        },
+        {
+          "title": "Dad who discovered daughter’s murder on Facebook feels ignored by South African police",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/dad-who-discovered-daughters-murder-on-facebook-feels-ignored-by-south-african-police/",
+          "publishedAt": "2026-11-24T00:45:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

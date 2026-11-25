@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "slug": "colombia",
+  "rank": 100,
+  "overallScore": 50.6,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Presidente de Colombia destaca golpe al narcotráfico con Rompeolas",
+        "source": "El Día",
+        "url": "https://eldia.com.do/presidente-de-colombia-destaca-golpe-al-narcotrafico-con-rompeolas/",
+        "publishedAt": "2026-11-24T04:20:00.000Z"
+      },
+      {
+        "title": "Atentado con ‘cochebomba’ en Colombia deja al menos 12 heridos y graves daños materiales | VIDEOS",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/mundo/latinoamerica/atentado-en-colombia-al-menos-12-heridos-y-graves-danos-materiales-por-explosion-de-cochebomba-meta-villavicencio-abelardo-de-la-espriella-ultimas-noticia/",
+        "publishedAt": "2026-11-24T04:18:30.000Z"
+      },
+      {
+        "title": "Carro-bomba explode na Colômbia",
+        "source": "Estadão Internacional",
+        "url": "https://www.estadao.com.br/internacional/carro-bomba-explode-na-colombia-npr/",
+        "publishedAt": "2026-11-24T04:17:29.000Z"
+      },
+      {
+        "title": "Fuerte explosión frente a la Gobernación del Meta deja al menos once heridos en Colombia",
+        "source": "La Tercera",
+        "url": "https://www.latercera.com/mundo/noticia/fuerte-explosion-frente-a-la-gobernacion-del-meta-deja-al-menos-once-heridos-en-colombia/",
+        "publishedAt": "2026-11-24T03:54:24.000Z"
+      },
+      {
+        "title": "Colombia suma 47 casos diarios de VIH con brechas en diagnóstico y tratamiento",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/mundo/colombia-suma-47-casos-diarios-de-vih-con-brechas-en-diagnostico-y-tratamiento/",
+        "publishedAt": "2026-11-24T02:15:00.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "empty",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

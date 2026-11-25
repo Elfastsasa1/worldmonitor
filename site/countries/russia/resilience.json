@@ -1,0 +1,199 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RU",
+  "countryName": "Russia",
+  "slug": "russia",
+  "rank": 98,
+  "overallScore": 50.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+        "source": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+        "publishedAt": "2026-11-24T04:47:18.000Z"
+      },
+      {
+        "title": "North Korea threatens to force closure of Swiss diplomatic office over sanctions",
+        "source": "NK News",
+        "url": "https://www.nknews.org/2026/11/north-korea-threatens-to-expel-swiss-diplomatic-mission-following-sanctions/",
+        "publishedAt": "2026-11-23T23:13:01.000Z"
+      },
+      {
+        "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+        "publishedAt": "2026-11-24T00:30:11.000Z"
+      },
+      {
+        "title": "Myanmar junta rejects ICJ genocide ruling as unfair, invokes Trump, Xi, and Putin",
+        "source": "Myanmar Now",
+        "url": "https://myanmar-now.org/en/news/myanmar-junta-rejects-icj-genocide-ruling-as-unfair-invokes-trump-xi-and-putin/",
+        "publishedAt": "2026-11-20T08:59:50.000Z"
+      },
+      {
+        "title": "Anti-Annexation Platform: Minsk meeting between Georgian and Russian officials threatens to undermine Geneva talks",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/anti-annexation-platform-minsk-meeting-between-georgian-and-russian-officials-threatens-to-undermine-geneva-talks/",
+        "publishedAt": "2026-11-23T09:55:28.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorth Korea threatens to force closure of Swiss diplomatic office over sanctions. [2]\nZelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'. [3]\n\nKEY RISKS\nRussia has a Country Instability Index score of 68 of 100, in the High band, as of Nov 24, 2026. [E1]\nThe most severe government travel advisory World Monitor tracks for Russia is Do Not Travel, as of Nov 24, 2026. [E2]\n\nOUTLOOK\nA Polymarket market related to Russia, \"Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026?\", priced Yes at 40% on Nov 24, 2026; it closes Dec 1, 2026. [E6]\nA Polymarket market related to Russia, \"NATO x Russia military clash by December 31, 2026?\", priced Yes at 15% on Nov 24, 2026; it closes Jan 1, 2027. [E8]",
+      "generatedAt": "2026-11-24T04:33:26.877Z",
+      "sources": [
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+          "source": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+          "publishedAt": "2026-11-24T04:47:18.000Z"
+        },
+        {
+          "title": "North Korea threatens to force closure of Swiss diplomatic office over sanctions",
+          "source": "NK News",
+          "url": "https://www.nknews.org/2026/11/north-korea-threatens-to-expel-swiss-diplomatic-mission-following-sanctions/",
+          "publishedAt": "2026-11-23T23:13:01.000Z"
+        },
+        {
+          "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+          "publishedAt": "2026-11-24T00:30:11.000Z"
+        },
+        {
+          "title": "Myanmar junta rejects ICJ genocide ruling as unfair, invokes Trump, Xi, and Putin",
+          "source": "Myanmar Now",
+          "url": "https://myanmar-now.org/en/news/myanmar-junta-rejects-icj-genocide-ruling-as-unfair-invokes-trump-xi-and-putin/",
+          "publishedAt": "2026-11-20T08:59:50.000Z"
+        },
+        {
+          "title": "Anti-Annexation Platform: Minsk meeting between Georgian and Russian officials threatens to undermine Geneva talks",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/anti-annexation-platform-minsk-meeting-between-georgian-and-russian-officials-threatens-to-undermine-geneva-talks/",
+          "publishedAt": "2026-11-23T09:55:28.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "68 of 100 (High)",
+          "factText": "Russia has a Country Instability Index score of 68 of 100, in the High band, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:24:36.277Z"
+        },
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Russia is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "40%",
+          "factText": "A Polymarket market related to Russia, \"Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026?\", priced Yes at 40% on Nov 24, 2026; it closes Dec 1, 2026.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/russia-x-ukraine-any-diplomatic-meeting-byptptpt-20261111"
+        },
+        {
+          "id": "E8",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "15%",
+          "factText": "A Polymarket market related to Russia, \"NATO x Russia military clash by December 31, 2026?\", priced Yes at 15% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: www.politico.eu",
+        "sourceUrl": "https://www.politico.eu/article/estonia-foreign-minister-margus-tsahkna-close-border-russia/",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: www.politico.eu",
+        "sourceUrl": "https://www.politico.eu/article/estonia-foreign-minister-margus-tsahkna-close-border-russia/",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: aa.com.tr",
+        "sourceUrl": "https://aa.com.tr/en/russia-ukraine-war/german-ukrainian-firm-says-interceptor-downed-russian-geran-5-drone-in-ukraine/4135214",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Russia",
+        "summary": "source: aa.com.tr",
+        "sourceUrl": "https://aa.com.tr/en/russia-ukraine-war/german-ukrainian-firm-says-interceptor-downed-russian-geran-5-drone-in-ukraine/4135214",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/further-provocations-2/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Russia",
+        "summary": "source: www.wwno.org",
+        "sourceUrl": "https://www.wwno.org/npr-news/2026-11-23/russian-incursions-into-nato-territory-are-increasing",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/further-provocations-2/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/further-provocations-2/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Russia",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/further-provocations-2/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Russia",
+        "summary": "source: www.kyivpost.com",
+        "sourceUrl": "https://www.kyivpost.com/post/90983",
+        "occurredAt": "2026-11-24T03:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

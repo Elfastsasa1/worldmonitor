@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "slug": "uzbekistan",
+  "rank": 39,
+  "overallScore": 60.6,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Uzbekistan to reopen Gisht Kuprik border crossing with Kazakhstan on November 25",
+        "source": "Akipress",
+        "url": "https://akipress.com/news:932827",
+        "publishedAt": "2026-11-24T03:54:56.000Z"
+      },
+      {
+        "title": "Uzbek Fighters Accuse Syrian Security Forces of Harassment and Enforced Disappearances",
+        "source": "The Syrian Observer",
+        "url": "https://syrianobserver.com/security/uzbek-fighters-accuse-syrian-security-forces-of-harassment-and-enforced-disappearances.html",
+        "publishedAt": "2026-11-23T21:01:30.000Z"
+      },
+      {
+        "title": "U-17 Reggae Boyz beaten 6-2 by Uzbekistan",
+        "source": "Jamaica Observer",
+        "url": "https://www.jamaicaobserver.com/2026/11/23/u-17-reggae-boyz-beaten-6-2-uzbekistan/",
+        "publishedAt": "2026-11-23T16:59:12.000Z"
+      },
+      {
+        "title": "Uzbek and Kyrgyz Riders Claim Top Honors at Eurasian Equestrian Final",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/11/uzbek-and-kyrgyz-riders-claim-top-honors-at-eurasian-equestrian-final/",
+        "publishedAt": "2026-11-23T13:31:38.000Z"
+      },
+      {
+        "title": "S&P Upgrades Uzbekistan’s Credit Rating as GDP Revision and Gold Reserves Strengthen Finances",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/sp-upgrades-uzbekistans-credit-rating-as-gdp-revision-and-gold-reserves-strengthen-finances/",
+        "publishedAt": "2026-11-23T11:39:49.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nUzbekistan plans to reopen the Gisht Kuprik border crossing with Kazakhstan on November 25. [1]\nS&P upgraded Uzbekistan’s credit rating following a GDP revision and strengthened gold reserves. [5]\n\nWATCH ITEMS\nWhether Uzbek fighters' accusations of harassment and enforced disappearances by Syrian security forces will lead to further developments. [2]",
+      "generatedAt": "2026-11-24T04:36:20.261Z",
+      "sources": [
+        {
+          "title": "Uzbekistan to reopen Gisht Kuprik border crossing with Kazakhstan on November 25",
+          "source": "Akipress",
+          "url": "https://akipress.com/news:932827",
+          "publishedAt": "2026-11-24T03:54:56.000Z"
+        },
+        {
+          "title": "Uzbek Fighters Accuse Syrian Security Forces of Harassment and Enforced Disappearances",
+          "source": "The Syrian Observer",
+          "url": "https://syrianobserver.com/security/uzbek-fighters-accuse-syrian-security-forces-of-harassment-and-enforced-disappearances.html",
+          "publishedAt": "2026-11-23T21:01:30.000Z"
+        },
+        {
+          "title": "U-17 Reggae Boyz beaten 6-2 by Uzbekistan",
+          "source": "Jamaica Observer",
+          "url": "https://www.jamaicaobserver.com/2026/11/23/u-17-reggae-boyz-beaten-6-2-uzbekistan/",
+          "publishedAt": "2026-11-23T16:59:12.000Z"
+        },
+        {
+          "title": "Uzbek and Kyrgyz Riders Claim Top Honors at Eurasian Equestrian Final",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/11/uzbek-and-kyrgyz-riders-claim-top-honors-at-eurasian-equestrian-final/",
+          "publishedAt": "2026-11-23T13:31:38.000Z"
+        },
+        {
+          "title": "S&P Upgrades Uzbekistan’s Credit Rating as GDP Revision and Gold Reserves Strengthen Finances",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/sp-upgrades-uzbekistans-credit-rating-as-gdp-revision-and-gold-reserves-strengthen-finances/",
+          "publishedAt": "2026-11-23T11:39:49.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

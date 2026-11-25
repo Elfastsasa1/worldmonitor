@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PY",
+  "countryName": "Paraguay",
+  "slug": "paraguay",
+  "rank": 69,
+  "overallScore": 55.4,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Peña pide a Corte Suprema de Paraguay declarar inconstitucional su destitución como presidente",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/mundo/latinoamerica/ueno-bank-santiago-pena-pide-a-la-corte-suprema-de-justicia-de-paraguay-declarar-inconstitucional-su-destitucion-como-presidente-ricardo-preda-ultimas-noticia/",
+        "publishedAt": "2026-11-24T02:31:52.000Z"
+      },
+      {
+        "title": "Detienen en Paraguay a hermano de expresidente Peña por investigación sobre operación inmobiliaria vinculada a Ueno Bank",
+        "source": "La Tercera",
+        "url": "https://www.latercera.com/mundo/noticia/detienen-en-paraguay-a-hermano-de-expresidente-pena-por-investigacion-sobre-operacion-inmobiliaria-vinculada-a-ueno-bank/",
+        "publishedAt": "2026-11-24T01:17:14.000Z"
+      },
+      {
+        "title": "Peña pide declarar inconstitucional su destitución como presidente de Paraguay",
+        "source": "El Comercio",
+        "url": "https://www.elcomercio.com/actualidad/mundo/pena-pide-declarar-inconstitucional-su-destitucion-como-presidente-de-paraguay/",
+        "publishedAt": "2026-11-23T23:41:28.000Z"
+      },
+      {
+        "title": "Casi dos horas rodeado por agentes antes de entregarse: así fue la captura del hermano del expresidente de Paraguay por escándalo de Ueno Bank",
+        "source": "La Nación",
+        "url": "https://www.nacion.com/el-mundo/casi-dos-horas-rodeado-por-agentes-antes-de/ESW7AOLNIJEQ5LTQ37JDFGYYMA/story/",
+        "publishedAt": "2026-11-23T23:32:17.000Z"
+      },
+      {
+        "title": "Paraguay: ordenan detención preventiva de Francisco Peña, hermano del expresidente, por el caso Ueno bank",
+        "source": "RPP Noticias",
+        "url": "https://rpp.pe/mundo/latinoamerica/ordenan-detener-a-hermano-del-expresidente-santiago-pena-por-el-caso-ueno-bank-en-paraguay-noticia-1719351",
+        "publishedAt": "2026-11-23T22:55:21.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFrancisco Peña, brother of the former president, is detained in Paraguay over a real-estate operation linked to Ueno Bank and ordered into preventive detention. [2][4][5]\n\nWHAT THIS MEANS FOR PARAGUAY\nParaguay's travel advisory is Exercise Increased Caution as of Nov 24, 2026. [1][E1]\n\nWATCH ITEMS\nWhether Francisco Peña will remain in preventive detention in the Ueno Bank case. [2][4][5]",
+      "generatedAt": "2026-11-24T04:33:05.738Z",
+      "sources": [
+        {
+          "title": "Peña pide a Corte Suprema de Paraguay declarar inconstitucional su destitución como presidente",
+          "source": "El Comercio Peru",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/ueno-bank-santiago-pena-pide-a-la-corte-suprema-de-justicia-de-paraguay-declarar-inconstitucional-su-destitucion-como-presidente-ricardo-preda-ultimas-noticia/",
+          "publishedAt": "2026-11-24T02:31:52.000Z"
+        },
+        {
+          "title": "Detienen en Paraguay a hermano de expresidente Peña por investigación sobre operación inmobiliaria vinculada a Ueno Bank",
+          "source": "La Tercera",
+          "url": "https://www.latercera.com/mundo/noticia/detienen-en-paraguay-a-hermano-de-expresidente-pena-por-investigacion-sobre-operacion-inmobiliaria-vinculada-a-ueno-bank/",
+          "publishedAt": "2026-11-24T01:17:14.000Z"
+        },
+        {
+          "title": "Peña pide declarar inconstitucional su destitución como presidente de Paraguay",
+          "source": "El Comercio",
+          "url": "https://www.elcomercio.com/actualidad/mundo/pena-pide-declarar-inconstitucional-su-destitucion-como-presidente-de-paraguay/",
+          "publishedAt": "2026-11-23T23:41:28.000Z"
+        },
+        {
+          "title": "Casi dos horas rodeado por agentes antes de entregarse: así fue la captura del hermano del expresidente de Paraguay por escándalo de Ueno Bank",
+          "source": "La Nación",
+          "url": "https://www.nacion.com/el-mundo/casi-dos-horas-rodeado-por-agentes-antes-de/ESW7AOLNIJEQ5LTQ37JDFGYYMA/story/",
+          "publishedAt": "2026-11-23T23:32:17.000Z"
+        },
+        {
+          "title": "Paraguay: ordenan detención preventiva de Francisco Peña, hermano del expresidente, por el caso Ueno bank",
+          "source": "RPP Noticias",
+          "url": "https://rpp.pe/mundo/latinoamerica/ordenan-detener-a-hermano-del-expresidente-santiago-pena-por-el-caso-ueno-bank-en-paraguay-noticia-1719351",
+          "publishedAt": "2026-11-23T22:55:21.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Paraguay is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

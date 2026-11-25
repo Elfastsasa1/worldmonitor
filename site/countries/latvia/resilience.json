@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "slug": "latvia",
+  "rank": 26,
+  "overallScore": 62.7,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian diplomat summoned yet again by Latvia over ongoing aggression",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/politics/diplomacy/23.11.2026-russian-diplomat-summoned-yet-again-by-latvia-over-ongoing-aggression.a673122/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-11-23T17:32:00.000Z"
+      },
+      {
+        "title": "Latvian diaspora community applauds its 'Person of the year'",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/latvians-abroad/23.11.2026-latvian-diaspora-community-applauds-its-person-of-the-year.a673080/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-11-23T14:21:49.000Z"
+      },
+      {
+        "title": "Alleged bribery case involving Latvian Railways in process",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/crime/23.11.2026-alleged-bribery-case-involving-latvian-railways-in-process.a673051/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-11-23T11:39:36.000Z"
+      },
+      {
+        "title": "Latvia on the lookout for a new international football coach",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/culture/sport/23.11.2026-latvia-on-the-lookout-for-a-new-international-football-coach.a673031/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-11-23T10:41:00.000Z"
+      },
+      {
+        "title": "CEE Top 500 has five Latvian companies this year",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/economy/business/23.11.2026-cee-top-500-has-five-latvian-companies-this-year.a673007/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-11-23T08:58:18.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

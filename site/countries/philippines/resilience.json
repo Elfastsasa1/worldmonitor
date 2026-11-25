@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "slug": "philippines",
+  "rank": 81,
+  "overallScore": 53.8,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Sabah-Mindanao power cable raises questions on energy security, regional integration - NewsLine Philippines",
+        "source": "Energy Intel",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9zaXBmWDN5MXNsLS1RUm82SjZ4R2tHM3VaQ2hhVnE4WkhZNWFJbVR3amFrSlNwUGxWWkNERzJpWWYxamdHWXJOWnVQYmtOQWtwVGxxWHA2NU5ZNEJCM3d1UUxMaVZnM01XTlV2OUY0T00yRWRGNlplOGZYMUlvXzFSMThVNEptMnR0ODl2S2RiUTdZVERXLUN1RUVuallKTDJYb29JZw?oc=5",
+        "publishedAt": "2026-11-24T02:35:43.000Z"
+      },
+      {
+        "title": "Home Credit Rolls Out QR Ph Loan Repayment Nationwide with PayMongo - Fintech News Philippines",
+        "source": "Fintech News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1AxaGhkTzlUaGdUd1NWakZCZTBjOWF3MTVSOFpmSENxZmQtc1Y5Qy1EVS0tQ3ZfeXNTVmdwYkhqa3cwRm5oQVJ4UEdoU2s0c3RqcDRkR3Fmb3Z0dDFwQjgwN2QzZ0R3SGdmTmVjSWltazdjLWpGeW0zTW5IMlJTRGN4Z3A3QQ?oc=5",
+        "publishedAt": "2026-11-24T03:14:31.000Z"
+      },
+      {
+        "title": "UAE National Day 2026: Philippine missions announce closure dates",
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/uae/uae-national-day-2026-philippine-missions-announce-closure-dates-1.500758743",
+        "publishedAt": "2026-11-24T04:32:27.000Z"
+      },
+      {
+        "title": "Cayetano asks gov’t to allow 'generous' Filipinos to help pay nat’l debt",
+        "source": "Philippine Daily Inquirer",
+        "url": "https://newsinfo.inquirer.net/2346170/cayetano-asks-govt-to-allow-generous-filipinos-to-help-pay-natl-debt",
+        "publishedAt": "2026-11-24T03:21:56.000Z"
+      },
+      {
+        "title": "Suspect in Miss Philippines Earth runner-up killing arrested in Rizal",
+        "source": "GMA News",
+        "url": "https://www.gmanetwork.com/news/topstories/regions/1010568/suspect-in-miss-philippines-earth-runner-up-killing-arrested-in-rizal/story/",
+        "publishedAt": "2026-11-24T03:06:37.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPhilippine missions have announced closure dates for UAE National Day 2026. [3]\nA suspect in the killing of a Miss Philippines Earth runner-up has been arrested in Rizal. [5]",
+      "generatedAt": "2026-11-24T04:54:51.113Z",
+      "sources": [
+        {
+          "title": "Sabah-Mindanao power cable raises questions on energy security, regional integration - NewsLine Philippines",
+          "source": "Energy Intel",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9zaXBmWDN5MXNsLS1RUm82SjZ4R2tHM3VaQ2hhVnE4WkhZNWFJbVR3amFrSlNwUGxWWkNERzJpWWYxamdHWXJOWnVQYmtOQWtwVGxxWHA2NU5ZNEJCM3d1UUxMaVZnM01XTlV2OUY0T00yRWRGNlplOGZYMUlvXzFSMThVNEptMnR0ODl2S2RiUTdZVERXLUN1RUVuallKTDJYb29JZw?oc=5",
+          "publishedAt": "2026-11-24T02:35:43.000Z"
+        },
+        {
+          "title": "Home Credit Rolls Out QR Ph Loan Repayment Nationwide with PayMongo - Fintech News Philippines",
+          "source": "Fintech News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1AxaGhkTzlUaGdUd1NWakZCZTBjOWF3MTVSOFpmSENxZmQtc1Y5Qy1EVS0tQ3ZfeXNTVmdwYkhqa3cwRm5oQVJ4UEdoU2s0c3RqcDRkR3Fmb3Z0dDFwQjgwN2QzZ0R3SGdmTmVjSWltazdjLWpGeW0zTW5IMlJTRGN4Z3A3QQ?oc=5",
+          "publishedAt": "2026-11-24T03:14:31.000Z"
+        },
+        {
+          "title": "UAE National Day 2026: Philippine missions announce closure dates",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/uae/uae-national-day-2026-philippine-missions-announce-closure-dates-1.500758743",
+          "publishedAt": "2026-11-24T04:32:27.000Z"
+        },
+        {
+          "title": "Cayetano asks gov’t to allow 'generous' Filipinos to help pay nat’l debt",
+          "source": "Philippine Daily Inquirer",
+          "url": "https://newsinfo.inquirer.net/2346170/cayetano-asks-govt-to-allow-generous-filipinos-to-help-pay-natl-debt",
+          "publishedAt": "2026-11-24T03:21:56.000Z"
+        },
+        {
+          "title": "Suspect in Miss Philippines Earth runner-up killing arrested in Rizal",
+          "source": "GMA News",
+          "url": "https://www.gmanetwork.com/news/topstories/regions/1010568/suspect-in-miss-philippines-earth-runner-up-killing-arrested-in-rizal/story/",
+          "publishedAt": "2026-11-24T03:06:37.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

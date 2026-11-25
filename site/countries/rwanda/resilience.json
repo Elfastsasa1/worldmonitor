@@ -1,0 +1,110 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "slug": "rwanda",
+  "rank": 130,
+  "overallScore": 43.3,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Rwanda, Denmark Sign Agreement to Ease Employment Restrictions for Diplomats’ Families",
+        "source": "KT Press",
+        "url": "https://www.ktpress.rw/2026/11/rwanda-denmark-sign-agreement-to-ease-employment-restrictions-for-diplomats-families/",
+        "publishedAt": "2026-11-23T21:48:55.000Z"
+      },
+      {
+        "title": "Danmark og Rwanda underskriver aftale forud for udrejseordning",
+        "source": "Jyllands-Posten",
+        "url": "https://jyllands-posten.dk/politik/ECE19860932/danmark-og-rwanda-underskriver-aftale-forud-for-udrejseordning/",
+        "publishedAt": "2026-11-23T18:13:00.000Z"
+      },
+      {
+        "title": "UN Under-Secretary-General for Peace Operations visits Rwanda",
+        "source": "Taarifa Rwanda",
+        "url": "https://taarifa.rw/2026/11/23/un-under-secretary-general-for-peace-operations-visits-rwanda/",
+        "publishedAt": "2026-11-23T11:31:40.000Z"
+      },
+      {
+        "title": "For 28 million Starving Congolese, Kinshasa is Serving Up Rwanda as the Menu",
+        "source": "KT Press",
+        "url": "https://www.ktpress.rw/2026/11/for-28-million-starving-congolese-kinshasa-is-serving-up-rwanda-as-the-menu/",
+        "publishedAt": "2026-11-23T16:10:35.000Z"
+      },
+      {
+        "title": "An Open Letter to James Gasana and Nkiko Nsengimana on Their Book, “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth”",
+        "source": "KT Press",
+        "url": "https://www.ktpress.rw/2026/11/an-open-letter-to-james-gasana-and-nkiko-nsengimana-on-their-book-rwanda-dismantling-the-hutu-tutsi-twa-identity-myth/",
+        "publishedAt": "2026-11-23T12:58:36.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRwanda and Denmark signed an agreement to ease employment restrictions for diplomats' families. [1]\nThe UN Under-Secretary-General for Peace Operations visited Rwanda. [3]\n\nWHAT THIS MEANS FOR RWANDA\nThe agreement with Denmark to ease employment restrictions for diplomats' families may improve bilateral relations and diplomatic operations in Rwanda. [1][E1]\n\nKEY RISKS\nRwanda is linked to 19 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]\n\nWATCH ITEMS\nWhether the UN Under-Secretary-General for Peace Operations' visit leads to new peacekeeping commitments or policy changes involving Rwanda. [3]",
+      "generatedAt": "2026-11-24T04:33:30.929Z",
+      "sources": [
+        {
+          "title": "Rwanda, Denmark Sign Agreement to Ease Employment Restrictions for Diplomats’ Families",
+          "source": "KT Press",
+          "url": "https://www.ktpress.rw/2026/11/rwanda-denmark-sign-agreement-to-ease-employment-restrictions-for-diplomats-families/",
+          "publishedAt": "2026-11-23T21:48:55.000Z"
+        },
+        {
+          "title": "Danmark og Rwanda underskriver aftale forud for udrejseordning",
+          "source": "Jyllands-Posten",
+          "url": "https://jyllands-posten.dk/politik/ECE19860932/danmark-og-rwanda-underskriver-aftale-forud-for-udrejseordning/",
+          "publishedAt": "2026-11-23T18:13:00.000Z"
+        },
+        {
+          "title": "UN Under-Secretary-General for Peace Operations visits Rwanda",
+          "source": "Taarifa Rwanda",
+          "url": "https://taarifa.rw/2026/11/23/un-under-secretary-general-for-peace-operations-visits-rwanda/",
+          "publishedAt": "2026-11-23T11:31:40.000Z"
+        },
+        {
+          "title": "For 28 million Starving Congolese, Kinshasa is Serving Up Rwanda as the Menu",
+          "source": "KT Press",
+          "url": "https://www.ktpress.rw/2026/11/for-28-million-starving-congolese-kinshasa-is-serving-up-rwanda-as-the-menu/",
+          "publishedAt": "2026-11-23T16:10:35.000Z"
+        },
+        {
+          "title": "An Open Letter to James Gasana and Nkiko Nsengimana on Their Book, “Rwanda: Dismantling the Hutu-Tutsi-Twa Identity Myth”",
+          "source": "KT Press",
+          "url": "https://www.ktpress.rw/2026/11/an-open-letter-to-james-gasana-and-nkiko-nsengimana-on-their-book-rwanda-dismantling-the-hutu-tutsi-twa-identity-myth/",
+          "publishedAt": "2026-11-23T12:58:36.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Rwanda is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "19",
+          "factText": "Rwanda is linked to 19 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

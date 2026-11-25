@@ -1,0 +1,191 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UA",
+  "countryName": "Ukraine",
+  "slug": "ukraine",
+  "rank": 116,
+  "overallScore": 47.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+        "source": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+        "publishedAt": "2026-11-24T04:47:18.000Z"
+      },
+      {
+        "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+        "publishedAt": "2026-11-24T00:30:11.000Z"
+      },
+      {
+        "title": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike - Reuters",
+        "source": "Reuters — North Korea",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5",
+        "publishedAt": "2026-11-23T10:35:20.000Z"
+      },
+      {
+        "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+        "source": "Cyprus Mail",
+        "url": "https://cyprus-mail.com/2026/11/23/eu-commission-proposes-ban-on-russian-athletes-ex-fighters-in-new-russia-sanctions-package",
+        "publishedAt": "2026-11-23T20:59:24.000Z"
+      },
+      {
+        "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+        "publishedAt": "2026-11-23T19:41:45.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nZelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'. [2]\nKremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike. [3]\n\nKEY RISKS\nUkraine has a net energy import dependency of 34% (Eurostat, 2020). [E4]\n\nWATCH ITEMS\nWhether Russia and Ukraine will hold any diplomatic meeting by November 30, 2026. [E6]\nWhether Russia and Ukraine will agree a ceasefire by December 31, 2026. [E7]",
+      "generatedAt": "2026-11-24T04:36:01.199Z",
+      "sources": [
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+          "source": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+          "publishedAt": "2026-11-24T04:47:18.000Z"
+        },
+        {
+          "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+          "publishedAt": "2026-11-24T00:30:11.000Z"
+        },
+        {
+          "title": "Kremlin accuses Ukraine of 'terrorist activity' in Baltic after cargo ship drone strike - Reuters",
+          "source": "Reuters — North Korea",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFRzVmFLOEJvbjlNVzJnWWUyWFNaS1kzMHptZGptNFdQSGYxeVZDd1pHZ2JrNmZ1V0N0RkFvWEVnb3BFcjVLQ1FqSHBxY2NPQjVlZ2lRVUVNdDZwc1puemdGSDg2QmZyT1J6ZmY0cDZpRXNGYm9EcTJ6OUFEbEsyWllzWW4xaHhfeXIwVzM4a3ZZd1FldUxOQnpyYUhOZUR5LWh3VVoyNFh2WEM3bjlpSGlnMmtPUnBaMkVsZG8wcFZoQlFtYURj?oc=5",
+          "publishedAt": "2026-11-23T10:35:20.000Z"
+        },
+        {
+          "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+          "source": "Cyprus Mail",
+          "url": "https://cyprus-mail.com/2026/11/23/eu-commission-proposes-ban-on-russian-athletes-ex-fighters-in-new-russia-sanctions-package",
+          "publishedAt": "2026-11-23T20:59:24.000Z"
+        },
+        {
+          "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
+          "publishedAt": "2026-11-23T19:41:45.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E4",
+          "kind": "energy",
+          "label": "Net energy import dependency",
+          "value": "34%",
+          "factText": "Ukraine has a net energy import dependency of 34% (Eurostat, 2020).",
+          "asOf": "2020-12-31T00:00:00.000Z"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "40%",
+          "factText": "A Polymarket market related to Ukraine, \"Will Russia and Ukraine hold any diplomatic meeting by November 30, 2026?\", priced Yes at 40% on Nov 24, 2026; it closes Dec 1, 2026.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/russia-x-ukraine-any-diplomatic-meeting-byptptpt-20261111"
+        },
+        {
+          "id": "E7",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "11%",
+          "factText": "A Polymarket market related to Ukraine, \"Russia x Ukraine ceasefire agreement by December 31, 2026?\", priced Yes at 11% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:32:21.754Z",
+          "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: cedarnews.net",
+        "sourceUrl": "https://cedarnews.net/newstasks/1187703/nt-social-media-figure-mango-inquirer-fights/",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: cedarnews.net",
+        "sourceUrl": "https://cedarnews.net/newstasks/1187703/nt-social-media-figure-mango-inquirer-fights/",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Ukraine",
+        "summary": "source: macaudailytimes.com.mo",
+        "sourceUrl": "https://macaudailytimes.com.mo/ukrainian-drones-hit-a-russian-warship-at-a-naval-base-in-libya.html",
+        "occurredAt": "2026-11-24T03:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Ukraine",
+        "summary": "source: macaudailytimes.com.mo",
+        "sourceUrl": "https://macaudailytimes.com.mo/ukrainian-drones-hit-a-russian-warship-at-a-naval-base-in-libya.html",
+        "occurredAt": "2026-11-24T03:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Ukraine",
+        "summary": "source: macaudailytimes.com.mo",
+        "sourceUrl": "https://macaudailytimes.com.mo/ukrainian-drones-hit-a-russian-warship-at-a-naval-base-in-libya.html",
+        "occurredAt": "2026-11-24T03:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/further-provocations-2/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Ukraine",
+        "summary": "source: www.wwno.org",
+        "sourceUrl": "https://www.wwno.org/npr-news/2026-11-23/russian-incursions-into-nato-territory-are-increasing",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/author/stanislav-krapivnik/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/ol-jacques-baud-breaking-ukraine-says-it-sank-russias-newest-warship-off-libya/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.greanvillepost.com",
+        "sourceUrl": "https://www.greanvillepost.com/ol-jacques-baud-breaking-ukraine-says-it-sank-russias-newest-warship-off-libya/",
+        "occurredAt": "2026-11-24T03:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

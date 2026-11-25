@@ -1,0 +1,99 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FM",
+  "countryName": "Micronesia",
+  "slug": "micronesia",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.61,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "TNC Strengthens Monitoring and Learning Across Micronesia and Polynesia",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/tnc-strengthens-monitoring-and-learning-across-micronesia-and-polynesia/",
+        "publishedAt": "2026-11-20T07:58:38.000Z"
+      },
+      {
+        "title": "One Pacific Airways to launch Micronesia island – hoping flights",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/one-pacific-airways-to-launch-micronesia-island-hoping-flights/",
+        "publishedAt": "2026-11-20T07:05:30.000Z"
+      },
+      {
+        "title": "UOG awarded $700K in USDA grants to bolster workforce development in food and agriculture across Micronesia",
+        "source": "mvariety.com",
+        "url": "https://www.mvariety.com/news/community_bulletins/uog-awarded-700k-in-usda-grants-to-bolster-workforce-development-in-food-and-agriculture-across/article_501aa699-2551-4565-97a8-5f31402c06b8.html",
+        "publishedAt": "2026-11-19T16:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "GVB Celebrates Relaunch of Håfa Adai Pledge Program with P.H.R. Ken Micronesia, Inc.",
+        "source": "forimmediaterelease.net",
+        "url": "https://forimmediaterelease.net/gvb-celebrates-relaunch-of-hafa-adai-pledge-program-with-p-h-r-ken-micronesia-inc/",
+        "publishedAt": "2026-11-19T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "GVB Celebrates Relaunch of Håfa Adai Pledge Program with P.H.R. Ken Micronesia, Inc.",
+        "source": "eturbonews.com",
+        "url": "https://eturbonews.com/gvb-celebrates-relaunch-of-hafa-adai-pledge-program-with-p-h-r-ken-micronesia-inc/",
+        "publishedAt": "2026-11-18T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTNC is strengthening monitoring and learning across Micronesia and Polynesia. [1]\nOne Pacific Airways plans to launch island-hopping flights in Micronesia. [2]\n\nWATCH ITEMS\nWhether One Pacific Airways will successfully launch its planned island-hopping flights in Micronesia. [2]",
+      "generatedAt": "2026-11-24T04:26:26.104Z",
+      "sources": [
+        {
+          "title": "TNC Strengthens Monitoring and Learning Across Micronesia and Polynesia",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/tnc-strengthens-monitoring-and-learning-across-micronesia-and-polynesia/",
+          "publishedAt": "2026-11-20T07:58:38.000Z"
+        },
+        {
+          "title": "One Pacific Airways to launch Micronesia island – hoping flights",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/one-pacific-airways-to-launch-micronesia-island-hoping-flights/",
+          "publishedAt": "2026-11-20T07:05:30.000Z"
+        },
+        {
+          "title": "UOG awarded $700K in USDA grants to bolster workforce development in food and agriculture across Micronesia",
+          "source": "mvariety.com",
+          "url": "https://www.mvariety.com/news/community_bulletins/uog-awarded-700k-in-usda-grants-to-bolster-workforce-development-in-food-and-agriculture-across/article_501aa699-2551-4565-97a8-5f31402c06b8.html",
+          "publishedAt": "2026-11-19T16:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "GVB Celebrates Relaunch of Håfa Adai Pledge Program with P.H.R. Ken Micronesia, Inc.",
+          "source": "forimmediaterelease.net",
+          "url": "https://forimmediaterelease.net/gvb-celebrates-relaunch-of-hafa-adai-pledge-program-with-p-h-r-ken-micronesia-inc/",
+          "publishedAt": "2026-11-19T01:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "GVB Celebrates Relaunch of Håfa Adai Pledge Program with P.H.R. Ken Micronesia, Inc.",
+          "source": "eturbonews.com",
+          "url": "https://eturbonews.com/gvb-celebrates-relaunch-of-hafa-adai-pledge-program-with-p-h-r-ken-micronesia-inc/",
+          "publishedAt": "2026-11-18T16:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

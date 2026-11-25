@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "methodologyVersion": "v14",
+  "score": 88,
+  "approximate24HourMovement": 6,
+  "instabilityLevel": "Critical",
+  "observedAt": "2026-11-24T04:44:58.181Z",
+  "capturedAt": "2026-11-24",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

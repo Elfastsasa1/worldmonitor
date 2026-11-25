@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "slug": "azerbaijan",
+  "rank": 47,
+  "overallScore": 58.4,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Iran, Azerbaijan to finalize deal on oil, gas cooperation",
+        "source": "Mehr News",
+        "url": "https://en.mehrnews.com/news/249647/Iran-Azerbaijan-to-finalize-deal-on-oil-gas-cooperation",
+        "publishedAt": "2026-11-24T04:26:33.000Z"
+      },
+      {
+        "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
+        "source": "OC Media",
+        "url": "https://oc-media.org/a-ship-graveyard-azerbaijani-sailors-on-the-growing-dangers-of-the-black-sea/",
+        "publishedAt": "2026-11-23T12:04:54.000Z"
+      },
+      {
+        "title": "Armenia proposes new constitution in step towards peace with Azerbaijan",
+        "source": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/article/2026-11-23-armenia-proposes-new-constitution-in-step-towards-peace-with-azerbaijan/",
+        "publishedAt": "2026-11-23T10:32:19.000Z"
+      },
+      {
+        "title": "Armenia takes major step for peace with Azerbaijan",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/armenia-takes-major-step-for-peace-with-azerbaijan/news",
+        "publishedAt": "2026-11-23T09:49:00.000Z"
+      },
+      {
+        "title": "Would Trump’s pick for Azerbaijan ambassador put America First?",
+        "source": "Responsible Statecraft",
+        "url": "https://responsiblestatecraft.org/trump-azerbaijan-ambassador-palantir/",
+        "publishedAt": "2026-11-23T05:05:03.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIran and Azerbaijan are set to finalize a deal on oil and gas cooperation. [1]\nArmenia has proposed a new constitution as a step towards peace with Azerbaijan. [3]\n\nWHAT THIS MEANS FOR AZERBAIJAN\nArmenia's constitutional proposal may reduce regional tensions and improve stability for Azerbaijan. [3][E1]",
+      "generatedAt": "2026-11-24T04:48:07.525Z",
+      "sources": [
+        {
+          "title": "Iran, Azerbaijan to finalize deal on oil, gas cooperation",
+          "source": "Mehr News",
+          "url": "https://en.mehrnews.com/news/249647/Iran-Azerbaijan-to-finalize-deal-on-oil-gas-cooperation",
+          "publishedAt": "2026-11-24T04:26:33.000Z"
+        },
+        {
+          "title": "‘A ship graveyard’ — Azerbaijani sailors on the growing dangers of the Black Sea",
+          "source": "OC Media",
+          "url": "https://oc-media.org/a-ship-graveyard-azerbaijani-sailors-on-the-growing-dangers-of-the-black-sea/",
+          "publishedAt": "2026-11-23T12:04:54.000Z"
+        },
+        {
+          "title": "Armenia proposes new constitution in step towards peace with Azerbaijan",
+          "source": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-23-armenia-proposes-new-constitution-in-step-towards-peace-with-azerbaijan/",
+          "publishedAt": "2026-11-23T10:32:19.000Z"
+        },
+        {
+          "title": "Armenia takes major step for peace with Azerbaijan",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/armenia-takes-major-step-for-peace-with-azerbaijan/news",
+          "publishedAt": "2026-11-23T09:49:00.000Z"
+        },
+        {
+          "title": "Would Trump’s pick for Azerbaijan ambassador put America First?",
+          "source": "Responsible Statecraft",
+          "url": "https://responsiblestatecraft.org/trump-azerbaijan-ambassador-palantir/",
+          "publishedAt": "2026-11-23T05:05:03.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Azerbaijan is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

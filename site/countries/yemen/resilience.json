@@ -1,0 +1,173 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "slug": "yemen",
+  "rank": 166,
+  "overallScore": 31.2,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Houthi shelling of civilian vehicles in Lahj constitutes a ‘war crime’: Yemeni forces - Al Arabiya English",
+        "source": "Al Arabiya",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTWRCRG5lNkdjZmx0ei0zd245ODlSb3NXVVpGdy0yc0JtNHdydFAzYmhIY3pqeTVvYzFERC1JLVBWYW0tWXFJVXZXQ3RIM2lBbFhraXRmRTcxdFdCYndrZFYtbGY5Q1B5T3R1cGFsZlR5OExyYlgzeVl0NWlhd3EwQlRUNkg4QTNFZzljdUFVdFh5TjNqZlBZamQ5cEZLUGNLU25nTkdNcGg3ZWx5N0o4ZkFBdDRMb1E2WDNaWVM5VlpKUS1aNWdMTHREeE1UdndrRW8zU2xLNlFVbldqZ3dzSWF30gHiAUFVX3lxTFBNZEJEbmU2R2NmbHR6LTN3bjk4OVJvc1dVWkZ3LTJzQm00d3J0UDNiaEhjemp5NW9jMURELUktUFZhbS1ZcUlVdldDdEgzaUFsWGtpdGZFNzF0V0Jid2tkVi1sZjlDUHlPdHVwYWxmVHk4THJiWDN5WXQ1aWF3cTBCVFQ2SDhBM0VnOWN1QVV0WHlOM2pmUFlqZDlwRktQY0tTbmdOR01waDdlbHk3SjhmQUF0NExvUTZYM1pZUzlWWkpRLVo1Z0xMdER4TVR2d2tFbzNTbEs2UVVuV2pnd3NJYXc?oc=5",
+        "publishedAt": "2026-11-23T21:15:00.000Z"
+      },
+      {
+        "title": "Airstrikes Target Houthi Positions in Yemen’s Hodeidah as Drones Circle Sanaa - Yemen Online",
+        "source": "Yemen Online",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZm1ON3VNckJvako2MzNjMmFKbFZsMXhGcmdnWkFTa05TemxhN1VUT3Q2YVNtWmlpUXUyTFlNdE5pVDRRbTc2QzhzVjk3elFCM2VVVTItM29adw?oc=5",
+        "publishedAt": "2026-11-23T12:58:32.000Z"
+      },
+      {
+        "title": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+        "source": "France 24 Français",
+        "url": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+        "publishedAt": "2026-11-24T03:30:10.000Z"
+      },
+      {
+        "title": "Saudi Arabia issues warning alerts; Houthis say strikes in Yemen left 25 dead or missing",
+        "source": "Khaleej Times",
+        "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026",
+        "publishedAt": "2026-11-24T03:20:37.000Z"
+      },
+      {
+        "title": "Saudi strikes on vehicles in Yemen left 25 dead or missing: Houthi media",
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/world/gulf/saudi/saudi-strikes-on-vehicles-in-yemen-left-25-dead-or-missing-houthi-media-1.500758645",
+        "publishedAt": "2026-11-24T03:13:09.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHouthi shelling of civilian vehicles in Lahj is described as a 'war crime' by Yemeni forces. [1]\nAirstrikes targeted Houthi positions in Hodeidah while drones circled Sanaa. [2]\n\nKEY RISKS\nYemen has a Country Instability Index score of 88 of 100, in the Critical band, as of Nov 24, 2026. [E1]\n\nWATCH ITEMS\nWhether the Houthi shelling in Lahj will lead to further international legal action as alleged by Yemeni forces. [1]",
+      "generatedAt": "2026-11-24T04:57:26.065Z",
+      "sources": [
+        {
+          "title": "Houthi shelling of civilian vehicles in Lahj constitutes a ‘war crime’: Yemeni forces - Al Arabiya English",
+          "source": "Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTWRCRG5lNkdjZmx0ei0zd245ODlSb3NXVVpGdy0yc0JtNHdydFAzYmhIY3pqeTVvYzFERC1JLVBWYW0tWXFJVXZXQ3RIM2lBbFhraXRmRTcxdFdCYndrZFYtbGY5Q1B5T3R1cGFsZlR5OExyYlgzeVl0NWlhd3EwQlRUNkg4QTNFZzljdUFVdFh5TjNqZlBZamQ5cEZLUGNLU25nTkdNcGg3ZWx5N0o4ZkFBdDRMb1E2WDNaWVM5VlpKUS1aNWdMTHREeE1UdndrRW8zU2xLNlFVbldqZ3dzSWF30gHiAUFVX3lxTFBNZEJEbmU2R2NmbHR6LTN3bjk4OVJvc1dVWkZ3LTJzQm00d3J0UDNiaEhjemp5NW9jMURELUktUFZhbS1ZcUlVdldDdEgzaUFsWGtpdGZFNzF0V0Jid2tkVi1sZjlDUHlPdHVwYWxmVHk4THJiWDN5WXQ1aWF3cTBCVFQ2SDhBM0VnOWN1QVV0WHlOM2pmUFlqZDlwRktQY0tTbmdOR01waDdlbHk3SjhmQUF0NExvUTZYM1pZUzlWWkpRLVo1Z0xMdER4TVR2d2tFbzNTbEs2UVVuV2pnd3NJYXc?oc=5",
+          "publishedAt": "2026-11-23T21:15:00.000Z"
+        },
+        {
+          "title": "Airstrikes Target Houthi Positions in Yemen’s Hodeidah as Drones Circle Sanaa - Yemen Online",
+          "source": "Yemen Online",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZm1ON3VNckJvako2MzNjMmFKbFZsMXhGcmdnWkFTa05TemxhN1VUT3Q2YVNtWmlpUXUyTFlNdE5pVDRRbTc2QzhzVjk3elFCM2VVVTItM29adw?oc=5",
+          "publishedAt": "2026-11-23T12:58:32.000Z"
+        },
+        {
+          "title": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+          "source": "France 24 Français",
+          "url": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+          "publishedAt": "2026-11-24T03:30:10.000Z"
+        },
+        {
+          "title": "Saudi Arabia issues warning alerts; Houthis say strikes in Yemen left 25 dead or missing",
+          "source": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026",
+          "publishedAt": "2026-11-24T03:20:37.000Z"
+        },
+        {
+          "title": "Saudi strikes on vehicles in Yemen left 25 dead or missing: Houthi media",
+          "source": "Gulf News",
+          "url": "https://gulfnews.com/world/gulf/saudi/saudi-strikes-on-vehicles-in-yemen-left-25-dead-or-missing-houthi-media-1.500758645",
+          "publishedAt": "2026-11-24T03:13:09.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "cii",
+          "label": "Country Instability Index",
+          "value": "88 of 100 (Critical)",
+          "factText": "Yemen has a Country Instability Index score of 88 of 100, in the Critical band, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:55:00.836Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/asia/23-civilians-killed-in-airstrikes-in-yemen-538102",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/asia/23-civilians-killed-in-airstrikes-in-yemen-538102",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/asia/23-civilians-killed-in-airstrikes-in-yemen-538102",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: en.apa.az",
+        "sourceUrl": "https://en.apa.az/asia/23-civilians-killed-in-airstrikes-in-yemen-538102",
+        "occurredAt": "2026-11-24T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/at-least-23-civilians-killed-in-yemen-airstrikes-as-rival-sides-trade-blame",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Yemen",
+        "summary": "source: news.az",
+        "sourceUrl": "https://news.az/news/at-least-23-civilians-killed-in-yemen-airstrikes-as-rival-sides-trade-blame",
+        "occurredAt": "2026-11-24T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: morningstaronline.co.uk",
+        "sourceUrl": "https://morningstaronline.co.uk/article/world-brief-65",
+        "occurredAt": "2026-11-23T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Yemen",
+        "summary": "source: www.prokerala.com",
+        "sourceUrl": "https://www.prokerala.com/news/articles/a1840321.html",
+        "occurredAt": "2026-11-23T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Yemen",
+        "summary": "source: english.news.cn",
+        "sourceUrl": "https://english.news.cn/20261124/dabb567e6907437eae42ccc4a2ccbcb3/c.html",
+        "occurredAt": "2026-11-23T18:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Yemen",
+        "summary": "source: www.thehindu.com",
+        "sourceUrl": "https://www.thehindu.com/news/international/17-killed-in-saudi-attack-on-yemeni-city-houthis/article71735986.ece",
+        "occurredAt": "2026-11-23T17:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

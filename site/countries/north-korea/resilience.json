@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KP",
+  "countryName": "North Korea",
+  "slug": "north-korea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.55,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says - Reuters",
+        "source": "Reuters — Myanmar (Burma)",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtkOGd3MzlTdUM5d1ZnTlNuU1FGVDhJcFd6YlZaYzVBeEtSZDBmUjVzbzdnY0JfVEJ5UkFzN3p1RFMzWGFad3l4c1FsdjUtY1NyeG1LOHB3N2VVNlFmMXlVQXNISmEtd3hNbEVjS3BlVElXMWFKLWhpb2ZMY3QtZUticm1pQXFtV3B4RFY3ZDBtUHp2dnVnLXdZdmxDNzA1THdfRmJiRGdENGRoVXdJcC1SLVgwNjFSQ2x1eG03NlhDVHpJTS16bUV5YkZkQQ?oc=5",
+        "publishedAt": "2026-11-23T22:18:09.000Z"
+      },
+      {
+        "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+        "source": "Daily Maverick",
+        "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+        "publishedAt": "2026-11-24T04:47:18.000Z"
+      },
+      {
+        "title": "North Korea threatens to close Swiss diplomatic office - The Japan Times",
+        "source": "Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzRVYk81bFhuS3BZVDZBdmItVlhfLXJlWXZCeUw0c19Id0k0UTZwcWEzUG5Yc0VRcE1qUWUyd1NtUGdnUU5felYyTS1uWVFoWWpKaWFrV1BjNHlreXRzek9WSkF3LVRxSGZiWThvdzUxWVI2TVdRZy1DVGpSRk1Zb3duOU5GWTBuQ1hyRGxVZ3doVnNSNmZWSVZOX1V5dkZyazVLa3VR?oc=5",
+        "publishedAt": "2026-11-24T03:29:00.000Z"
+      },
+      {
+        "title": "North Korea threatens to force closure of Swiss diplomatic office over sanctions",
+        "source": "NK News",
+        "url": "https://www.nknews.org/2026/11/north-korea-threatens-to-expel-swiss-diplomatic-mission-following-sanctions/",
+        "publishedAt": "2026-11-23T23:13:01.000Z"
+      },
+      {
+        "title": "North Korea Threatens To Close Swiss Diplomatic Office Weeks After Opening",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/north-korea-threatens-to-close-swiss-diplomatic-office-weeks-after-opening-12368343#publisher=newsstand",
+        "publishedAt": "2026-11-24T00:57:03.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorth Korea is threatening to close the Swiss diplomatic office in Pyongyang. [1][2][3][4][5]\n\nWHAT THIS MEANS FOR NORTH KOREA\nThe threat to close the Swiss diplomatic office signals a potential diplomatic rift, even as North Korea faces a Do Not Travel advisory from its most severe government travel advisory. [1][E2]\n\nWATCH ITEMS\nWhether North Korea will follow through on its threat to close the Swiss diplomatic office. [1][2][3][4][5]",
+      "generatedAt": "2026-11-24T04:52:41.811Z",
+      "sources": [
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says - Reuters",
+          "source": "Reuters — Myanmar (Burma)",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtkOGd3MzlTdUM5d1ZnTlNuU1FGVDhJcFd6YlZaYzVBeEtSZDBmUjVzbzdnY0JfVEJ5UkFzN3p1RFMzWGFad3l4c1FsdjUtY1NyeG1LOHB3N2VVNlFmMXlVQXNISmEtd3hNbEVjS3BlVElXMWFKLWhpb2ZMY3QtZUticm1pQXFtV3B4RFY3ZDBtUHp2dnVnLXdZdmxDNzA1THdfRmJiRGdENGRoVXdJcC1SLVgwNjFSQ2x1eG03NlhDVHpJTS16bUV5YkZkQQ?oc=5",
+          "publishedAt": "2026-11-23T22:18:09.000Z"
+        },
+        {
+          "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
+          "source": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-24-north-korea-to-consider-shutting-down-swiss-diplomatic-office-in-pyongyang-kcna-says/",
+          "publishedAt": "2026-11-24T04:47:18.000Z"
+        },
+        {
+          "title": "North Korea threatens to close Swiss diplomatic office - The Japan Times",
+          "source": "Japan Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzRVYk81bFhuS3BZVDZBdmItVlhfLXJlWXZCeUw0c19Id0k0UTZwcWEzUG5Yc0VRcE1qUWUyd1NtUGdnUU5felYyTS1uWVFoWWpKaWFrV1BjNHlreXRzek9WSkF3LVRxSGZiWThvdzUxWVI2TVdRZy1DVGpSRk1Zb3duOU5GWTBuQ1hyRGxVZ3doVnNSNmZWSVZOX1V5dkZyazVLa3VR?oc=5",
+          "publishedAt": "2026-11-24T03:29:00.000Z"
+        },
+        {
+          "title": "North Korea threatens to force closure of Swiss diplomatic office over sanctions",
+          "source": "NK News",
+          "url": "https://www.nknews.org/2026/11/north-korea-threatens-to-expel-swiss-diplomatic-mission-following-sanctions/",
+          "publishedAt": "2026-11-23T23:13:01.000Z"
+        },
+        {
+          "title": "North Korea Threatens To Close Swiss Diplomatic Office Weeks After Opening",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/north-korea-threatens-to-close-swiss-diplomatic-office-weeks-after-opening-12368343#publisher=newsstand",
+          "publishedAt": "2026-11-24T00:57:03.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Do Not Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for North Korea is Do Not Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

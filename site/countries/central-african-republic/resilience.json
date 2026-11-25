@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "slug": "central-african-republic",
+  "rank": 158,
+  "overallScore": 37.2,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Release of Yasmany Moreno and Three Other Cubans in Central African Republic: A Harrowing Ordeal",
+        "source": "cubaheadlines.com",
+        "url": "https://www.cubaheadlines.com/articles/346294",
+        "publishedAt": "2026-11-21T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "IMF Urges Central African Republic to Act",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/central-african-republic-imf-reform-execution-workshop/",
+        "publishedAt": "2026-11-20T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Central African Republic: Rights Defender in Central African Republic Dies",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202611180679.html",
+        "publishedAt": "2026-11-18T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Rights Defender in Central African Republic Dies",
+        "source": "hrw.org",
+        "url": "https://www.hrw.org/news/2026/11/18/rights-defender-in-central-african-republic-dies",
+        "publishedAt": "2026-11-18T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Vakaga: Authorities and Residents Welcome the Renewal of United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic'",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/vakaga-authorities-and-residents-welcome-the-renewal-of-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republics-minusca-mandate",
+        "publishedAt": "2026-11-18T10:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

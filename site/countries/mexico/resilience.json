@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "slug": "mexico",
+  "rank": 125,
+  "overallScore": 45.9,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+        "publishedAt": "2026-11-20T12:02:00.000Z"
+      },
+      {
+        "title": "Mexico nabs yet another top drug lord, but history of 'Kingpin Strategy' mixed - Reuters",
+        "source": "Reuters — Mexico",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1pBZWVVckRVRloxYlltZl9HTDdpNTUybkhwOTFFckhNQ0dSc0lVUlhzbEJ0bHRLS3lCdTl4b1pHUnloMHVKWE9ZMHNsV3AwRGpYR3FJeDIyMjUwZnJYQTdtMWtEVGVKcS0wYkk4RnJzSDVZaXNQMU9iQWVKcUVmVENfeTVMWHp2VlZsNl9ody1PSU9YZzcyWjNZOC1FdjFOOHIzX3A5a1NscVZPeXpXTUpMUmRFQU56cmY0?oc=5",
+        "publishedAt": "2026-11-23T23:13:02.000Z"
+      },
+      {
+        "title": "Alleged drug lord 'El Chapo Isidro' to be tried in Mexico, official says - Reuters",
+        "source": "Reuters LatAm",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkY2bS1qYkxqbl9rb3N1NDRSQ2NsX0lGMFNzVTlkZklkWGRSb1o0a3FJczBrNjJUX1ZHVHVoa3FwU1JPREpKaW5lakhXUGFYQ2UyNzNQbk1sTVN0WVBJbXJsQk9EY2lUTVpXRExEa3duMXFRQjc2VEItcWpnRFI5MWp6bm1mVmc0QjBySXlfdnZLWHhwWlZVR1ZxYU42RTBZbUhmc1RucUs?oc=5",
+        "publishedAt": "2026-11-23T22:19:31.000Z"
+      },
+      {
+        "title": "Alleged drug lord 'El Chapo Isidro' will be tried in Mexico despite US extradition request",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10947449",
+        "publishedAt": "2026-11-24T04:06:05.000Z"
+      },
+      {
+        "title": "Chi tiết chiến dịch 'tia chớp' bắt trùm ma túy khét tiếng Mexico",
+        "source": "Thanh Niên",
+        "url": "https://thanhnien.vn/chi-tiet-chien-dich-tia-chop-bat-trum-ma-tuy-khet-tieng-mexico-185261124094643168.htm",
+        "publishedAt": "2026-11-24T03:34:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMexico has arrested another top drug lord, though the 'Kingpin Strategy' has a mixed history. [2]\nAlleged drug lord 'El Chapo Isidro' will be tried in Mexico despite a US extradition request. [3][4]\n\nWATCH ITEMS\nWhether the trial of 'El Chapo Isidro' in Mexico will proceed without interference or extradition to the US. [3][4]",
+      "generatedAt": "2026-11-24T04:54:04.919Z",
+      "sources": [
+        {
+          "title": "US Sanctions Italian Mafia Group in Canada and Australian Biker Gang with Global Footprint",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/us-sanctions-italian-mafia-group-in-canada-and-australian-biker-gang-with-global-footprint",
+          "publishedAt": "2026-11-20T12:02:00.000Z"
+        },
+        {
+          "title": "Mexico nabs yet another top drug lord, but history of 'Kingpin Strategy' mixed - Reuters",
+          "source": "Reuters — Mexico",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1pBZWVVckRVRloxYlltZl9HTDdpNTUybkhwOTFFckhNQ0dSc0lVUlhzbEJ0bHRLS3lCdTl4b1pHUnloMHVKWE9ZMHNsV3AwRGpYR3FJeDIyMjUwZnJYQTdtMWtEVGVKcS0wYkk4RnJzSDVZaXNQMU9iQWVKcUVmVENfeTVMWHp2VlZsNl9ody1PSU9YZzcyWjNZOC1FdjFOOHIzX3A5a1NscVZPeXpXTUpMUmRFQU56cmY0?oc=5",
+          "publishedAt": "2026-11-23T23:13:02.000Z"
+        },
+        {
+          "title": "Alleged drug lord 'El Chapo Isidro' to be tried in Mexico, official says - Reuters",
+          "source": "Reuters LatAm",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkY2bS1qYkxqbl9rb3N1NDRSQ2NsX0lGMFNzVTlkZklkWGRSb1o0a3FJczBrNjJUX1ZHVHVoa3FwU1JPREpKaW5lakhXUGFYQ2UyNzNQbk1sTVN0WVBJbXJsQk9EY2lUTVpXRExEa3duMXFRQjc2VEItcWpnRFI5MWp6bm1mVmc0QjBySXlfdnZLWHhwWlZVR1ZxYU42RTBZbUhmc1RucUs?oc=5",
+          "publishedAt": "2026-11-23T22:19:31.000Z"
+        },
+        {
+          "title": "Alleged drug lord 'El Chapo Isidro' will be tried in Mexico despite US extradition request",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10947449",
+          "publishedAt": "2026-11-24T04:06:05.000Z"
+        },
+        {
+          "title": "Chi tiết chiến dịch 'tia chớp' bắt trùm ma túy khét tiếng Mexico",
+          "source": "Thanh Niên",
+          "url": "https://thanhnien.vn/chi-tiet-chien-dich-tia-chop-bat-trum-ma-tuy-khet-tieng-mexico-185261124094643168.htm",
+          "publishedAt": "2026-11-24T03:34:00.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

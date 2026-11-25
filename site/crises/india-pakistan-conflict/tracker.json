@@ -1,0 +1,51 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "india-pakistan-conflict",
+  "title": "India–Pakistan conflict tracker",
+  "shortTitle": "India–Pakistan conflict",
+  "description": "India–Pakistan conflict: Kashmir, Operation Sindoor, TTP insurgency, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Pakistan and India. It is a country-level pulse, not a comprehensive incident ledger, a count limited to the bilateral dispute (the Pakistan and India figures include all internal political violence, such as the TTP and Baloch militant insurgencies and unrelated incidents elsewhere in India), or a forecast.",
+  "coverage": [
+    {
+      "code": "PK",
+      "name": "Pakistan"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 1040,
+    "fatalities": 346,
+    "politicalViolenceEvents": 276,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "IN",
+        "name": "India",
+        "events": 669,
+        "fatalities": 17,
+        "political": 109,
+        "demonstrations": 560,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan",
+        "events": 371,
+        "fatalities": 329,
+        "political": 167,
+        "demonstrations": 204,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

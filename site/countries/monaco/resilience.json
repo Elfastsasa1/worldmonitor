@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MC",
+  "countryName": "Monaco",
+  "slug": "monaco",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.44,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Sam Blond Met 200+ AI Sales Startups at Founders Fund, Then Built Monaco: Why Most Get It Wrong, Where AI Beats Your Reps, and the $15,000 Plane",
+        "source": "SaaStr",
+        "url": "https://www.saastr.com/sam-blond-met-200-ai-sales-startups-at-founders-fund-then-built-monaco-why-most-get-it-wrong-where-ai-beats-your-reps-and-the-15000-plane/",
+        "publishedAt": "2026-11-22T15:00:31.000Z"
+      },
+      {
+        "title": "Après le drame survenu fin août, est-il possible de renforcer la sécurité des voyageurs en gare de Monaco ?",
+        "source": "Monaco-Matin",
+        "url": "https://www.nicematin.com/societe/securite/apres-le-drame-survenu-fin-aout-est-il-possible-de-renforcer-la-securite-des-voyageurs-en-gare-de-monaco-10763247",
+        "publishedAt": "2026-11-23T17:04:03.000Z"
+      },
+      {
+        "title": "Monaco Basket Association make it eight straight with Riviera derby rout",
+        "source": "Monaco Life",
+        "url": "https://monacolife.net/monaco-basket-association-make-it-eight-straight-with-riviera-derby-rout/",
+        "publishedAt": "2026-11-23T15:57:58.000Z"
+      },
+      {
+        "title": "Monaco United win in Bastia to set up Coupe de France tie with Nice",
+        "source": "Monaco Life",
+        "url": "https://monacolife.net/monaco-united-win-in-bastia-to-set-up-coupe-de-france-tie-with-nice/",
+        "publishedAt": "2026-11-23T15:57:50.000Z"
+      },
+      {
+        "title": "Monaco hotel beats nearly 100 Fairmont properties to top global award",
+        "source": "Monaco Life",
+        "url": "https://monacolife.net/monaco-hotel-beats-nearly-100-fairmont-properties-to-top-global-award/",
+        "publishedAt": "2026-11-23T15:57:33.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMonaco hotel beats nearly 100 Fairmont properties to top global award. [5]\nMonaco United win in Bastia to set up Coupe de France tie with Nice. [4]\n\nKEY RISKS\nMonaco is linked to 4 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E1]",
+      "generatedAt": "2026-11-24T04:30:03.705Z",
+      "sources": [
+        {
+          "title": "Sam Blond Met 200+ AI Sales Startups at Founders Fund, Then Built Monaco: Why Most Get It Wrong, Where AI Beats Your Reps, and the $15,000 Plane",
+          "source": "SaaStr",
+          "url": "https://www.saastr.com/sam-blond-met-200-ai-sales-startups-at-founders-fund-then-built-monaco-why-most-get-it-wrong-where-ai-beats-your-reps-and-the-15000-plane/",
+          "publishedAt": "2026-11-22T15:00:31.000Z"
+        },
+        {
+          "title": "Après le drame survenu fin août, est-il possible de renforcer la sécurité des voyageurs en gare de Monaco ?",
+          "source": "Monaco-Matin",
+          "url": "https://www.nicematin.com/societe/securite/apres-le-drame-survenu-fin-aout-est-il-possible-de-renforcer-la-securite-des-voyageurs-en-gare-de-monaco-10763247",
+          "publishedAt": "2026-11-23T17:04:03.000Z"
+        },
+        {
+          "title": "Monaco Basket Association make it eight straight with Riviera derby rout",
+          "source": "Monaco Life",
+          "url": "https://monacolife.net/monaco-basket-association-make-it-eight-straight-with-riviera-derby-rout/",
+          "publishedAt": "2026-11-23T15:57:58.000Z"
+        },
+        {
+          "title": "Monaco United win in Bastia to set up Coupe de France tie with Nice",
+          "source": "Monaco Life",
+          "url": "https://monacolife.net/monaco-united-win-in-bastia-to-set-up-coupe-de-france-tie-with-nice/",
+          "publishedAt": "2026-11-23T15:57:50.000Z"
+        },
+        {
+          "title": "Monaco hotel beats nearly 100 Fairmont properties to top global award",
+          "source": "Monaco Life",
+          "url": "https://monacolife.net/monaco-hotel-beats-nearly-100-fairmont-properties-to-top-global-award/",
+          "publishedAt": "2026-11-23T15:57:33.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "4",
+          "factText": "Monaco is linked to 4 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

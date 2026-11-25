@@ -1,0 +1,128 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CU",
+  "countryName": "Cuba",
+  "slug": "cuba",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.6,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cuba acusa EEUU de imponerse a fuerza",
+        "source": "Hoy",
+        "url": "https://hoy.com.do/el-mundo/cuba-acusa-eeuu-imponerse-fuerza_1109687.html",
+        "publishedAt": "2026-11-24T04:00:00.000Z"
+      },
+      {
+        "title": "Los detalles de la nueva ruta de transporte de mercancías entre España y Cuba",
+        "source": "Diario de Cuba",
+        "url": "https://diariodecuba.com/economia/1795480688_69992.html",
+        "publishedAt": "2026-11-24T00:38:08.000Z"
+      },
+      {
+        "title": "Smoking in Cuba and Our New Poverty",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/opinion/smoking-in-cuba-and-our-new-poverty/",
+        "publishedAt": "2026-11-24T00:19:05.000Z"
+      },
+      {
+        "title": "WHO chief visits Cuba amid severe shortages at hospitals and worsening health conditions",
+        "source": "The Independent",
+        "url": "https://www.independent.co.uk/news/world/americas/who-cuba-visit-healthcare-hospitals-power-outages-b3090247.html",
+        "publishedAt": "2026-11-23T21:58:37.000Z"
+      },
+      {
+        "title": "Cuba acusa a EEUU de pretender la «imposición de la paz» mediante «la fuerza»",
+        "source": "Proceso Digital",
+        "url": "https://proceso.hn/cuba-acusa-a-eeuu-de-pretender-la-imposicion-de-la-paz-mediante-la-fuerza/",
+        "publishedAt": "2026-11-23T19:38:55.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCuba acusa a EEUU de pretender la «imposición de la paz» mediante «la fuerza». [5]\nThe WHO chief visits Cuba amid severe shortages at hospitals and worsening health conditions. [4]\n\nWHAT THIS MEANS FOR CUBA\nThe WHO chief's visit highlights severe hospital shortages, which is consistent with the most severe government travel advisory World Monitor tracks for Cuba being Reconsider Travel, as of Nov 24, 2026. [4][E2]\n\nKEY RISKS\nCuba is linked to 127 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E3]\n\nOUTLOOK\nA Polymarket market related to Cuba, \"US strike on Cuba by December 31?\", priced Yes at 7% on Nov 24, 2026; it closes Jan 1, 2027. [E5]\nA Polymarket market related to Cuba, \"Miguel Díaz-Canel out as leader of Cuba by December 31?\", priced Yes at 8% on Nov 24, 2026; it closes Jan 1, 2027. [E6]\n\nWATCH ITEMS\nWhether the WHO chief's visit will lead to improvements in hospital shortages and health conditions. [4]",
+      "generatedAt": "2026-11-24T04:25:06.122Z",
+      "sources": [
+        {
+          "title": "Cuba acusa EEUU de imponerse a fuerza",
+          "source": "Hoy",
+          "url": "https://hoy.com.do/el-mundo/cuba-acusa-eeuu-imponerse-fuerza_1109687.html",
+          "publishedAt": "2026-11-24T04:00:00.000Z"
+        },
+        {
+          "title": "Los detalles de la nueva ruta de transporte de mercancías entre España y Cuba",
+          "source": "Diario de Cuba",
+          "url": "https://diariodecuba.com/economia/1795480688_69992.html",
+          "publishedAt": "2026-11-24T00:38:08.000Z"
+        },
+        {
+          "title": "Smoking in Cuba and Our New Poverty",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/opinion/smoking-in-cuba-and-our-new-poverty/",
+          "publishedAt": "2026-11-24T00:19:05.000Z"
+        },
+        {
+          "title": "WHO chief visits Cuba amid severe shortages at hospitals and worsening health conditions",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/who-cuba-visit-healthcare-hospitals-power-outages-b3090247.html",
+          "publishedAt": "2026-11-23T21:58:37.000Z"
+        },
+        {
+          "title": "Cuba acusa a EEUU de pretender la «imposición de la paz» mediante «la fuerza»",
+          "source": "Proceso Digital",
+          "url": "https://proceso.hn/cuba-acusa-a-eeuu-de-pretender-la-imposicion-de-la-paz-mediante-la-fuerza/",
+          "publishedAt": "2026-11-23T19:38:55.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Reconsider Travel",
+          "factText": "The most severe government travel advisory World Monitor tracks for Cuba is Reconsider Travel, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        },
+        {
+          "id": "E3",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "127",
+          "factText": "Cuba is linked to 127 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        },
+        {
+          "id": "E5",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "7%",
+          "factText": "A Polymarket market related to Cuba, \"US strike on Cuba by December 31?\", priced Yes at 7% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:20:45.018Z",
+          "url": "https://polymarket.com/event/us-strike-on-cuba-by"
+        },
+        {
+          "id": "E6",
+          "kind": "market",
+          "label": "Polymarket prediction market",
+          "value": "8%",
+          "factText": "A Polymarket market related to Cuba, \"Miguel Díaz-Canel out as leader of Cuba by December 31?\", priced Yes at 8% on Nov 24, 2026; it closes Jan 1, 2027.",
+          "asOf": "2026-11-24T04:20:45.018Z",
+          "url": "https://polymarket.com/event/miguel-daz-canel-out-as-leader-of-cuba-by-june-30"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

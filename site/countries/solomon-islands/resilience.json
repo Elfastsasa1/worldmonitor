@@ -1,0 +1,106 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "slug": "solomon-islands",
+  "rank": 54,
+  "overallScore": 57.8,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Solomon Islands scraps security agreement with China in triumph for Australia",
+        "source": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/politics/federal/solomon-islands-scraps-security-agreement-with-china-in-triumph-for-australia-20261124-p61gp4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "publishedAt": "2026-11-24T03:02:02.000Z"
+      },
+      {
+        "title": "Sogavare warns Solomon Islands government against ditching China security pact",
+        "source": "RNZ",
+        "url": "https://www.rnz.co.nz/news/pacific/2761984/sogavare-warns-solomon-islands-government-against-ditching-china-security-pact",
+        "publishedAt": "2026-11-24T01:39:21.000Z"
+      },
+      {
+        "title": "Sogavare warns Solomon Islands risks losing its own interests in termination of China security cooperation",
+        "source": "SIBC",
+        "url": "https://www.sibconline.com.sb/sogavare-warns-solomon-islands-risks-losing-its-own-interests-in-termination-of-china-security-cooperation/",
+        "publishedAt": "2026-11-23T23:30:30.000Z"
+      },
+      {
+        "title": "The Solomon Islands lullaby that made millions for everyone else",
+        "source": "abc.net.au",
+        "url": "https://www.abc.net.au/listen/programs/global-roaming/the-solomon-islands-lullaby-that-made-millions-for-everyone-else/107367812",
+        "publishedAt": "2026-11-24T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "16 Solomon Islands Community Organisations to Benefit from US$456,000 in GEF Small Grants",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/11/24/16-solomon-islands-community-organisations-to-benefit-from-us456000-in-gef-small-grants/",
+        "publishedAt": "2026-11-24T00:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSolomon Islands has scrapped its security agreement with China. [1]\nSogavare warns the Solomon Islands government against ditching the China security pact. [2]\n\nKEY RISKS\nThe most severe government travel advisory for Solomon Islands is Exercise Increased Caution, indicating a risk to travelers. [E1]",
+      "generatedAt": "2026-11-24T04:55:33.259Z",
+      "sources": [
+        {
+          "title": "Solomon Islands scraps security agreement with China in triumph for Australia",
+          "source": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/politics/federal/solomon-islands-scraps-security-agreement-with-china-in-triumph-for-australia-20261124-p61gp4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publishedAt": "2026-11-24T03:02:02.000Z"
+        },
+        {
+          "title": "Sogavare warns Solomon Islands government against ditching China security pact",
+          "source": "RNZ",
+          "url": "https://www.rnz.co.nz/news/pacific/2761984/sogavare-warns-solomon-islands-government-against-ditching-china-security-pact",
+          "publishedAt": "2026-11-24T01:39:21.000Z"
+        },
+        {
+          "title": "Sogavare warns Solomon Islands risks losing its own interests in termination of China security cooperation",
+          "source": "SIBC",
+          "url": "https://www.sibconline.com.sb/sogavare-warns-solomon-islands-risks-losing-its-own-interests-in-termination-of-china-security-cooperation/",
+          "publishedAt": "2026-11-23T23:30:30.000Z"
+        },
+        {
+          "title": "The Solomon Islands lullaby that made millions for everyone else",
+          "source": "abc.net.au",
+          "url": "https://www.abc.net.au/listen/programs/global-roaming/the-solomon-islands-lullaby-that-made-millions-for-everyone-else/107367812",
+          "publishedAt": "2026-11-24T02:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "16 Solomon Islands Community Organisations to Benefit from US$456,000 in GEF Small Grants",
+          "source": "pina.com.fj",
+          "url": "https://pina.com.fj/2026/11/24/16-solomon-islands-community-organisations-to-benefit-from-us456000-in-gef-small-grants/",
+          "publishedAt": "2026-11-24T00:45:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Solomon Islands is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

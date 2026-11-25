@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "slug": "malawi",
+  "rank": 138,
+  "overallScore": 42.7,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Ben Phiri delivers blunt verdict on Malawi’s ‘maize obsession’",
+        "source": "Malawi Nyasa Times",
+        "url": "https://www.nyasatimes.com/ben-phiri-delivers-blunt-verdict-on-malawis-maize-obsession/?utm_source=rss&utm_medium=rss&utm_campaign=ben-phiri-delivers-blunt-verdict-on-malawis-maize-obsession",
+        "publishedAt": "2026-11-23T22:27:22.000Z"
+      },
+      {
+        "title": "Video: “Malawi is burning, Mr President” — Malawians ask Mutharika to break his silence",
+        "source": "Malawi24",
+        "url": "https://malawi24.com/2026/11/23/video-malawi-is-burning-mr-president-mimi-mtambo-asks-mutharika-to-break-his-silence/",
+        "publishedAt": "2026-11-23T14:44:46.000Z"
+      },
+      {
+        "title": "Malawi Defence Force puts troops to the test",
+        "source": "The Times Group Malawi",
+        "url": "https://times.mw/malawi-defence-force-puts-troops-to-the-test/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-defence-force-puts-troops-to-the-test",
+        "publishedAt": "2026-11-23T11:54:45.000Z"
+      },
+      {
+        "title": "Mukhito backs digital overhaul of Malawi Police",
+        "source": "Malawi Nyasa Times",
+        "url": "https://www.nyasatimes.com/mukhito-backs-digital-overhaul-of-malawi-police/?utm_source=rss&utm_medium=rss&utm_campaign=mukhito-backs-digital-overhaul-of-malawi-police",
+        "publishedAt": "2026-11-23T14:53:39.000Z"
+      },
+      {
+        "title": "Malawi earns $53.5 million from gold exports in August",
+        "source": "The Times Group Malawi",
+        "url": "https://times.mw/malawi-earns-53-5-million-from-gold-exports-in-august/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-earns-53-5-million-from-gold-exports-in-august",
+        "publishedAt": "2026-11-23T11:37:09.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBen Phiri has delivered a blunt verdict on Malawi's 'maize obsession'. [1]\n\nWHAT THIS MEANS FOR MALAWI\nThe public pressure on President Mutharika to address the situation comes as the most severe government travel advisory for Malawi is Exercise Increased Caution. [2][E1]\n\nKEY RISKS\nThe most severe government travel advisory for Malawi is Exercise Increased Caution, indicating a risk for travelers. [E1]",
+      "generatedAt": "2026-11-24T04:31:13.391Z",
+      "sources": [
+        {
+          "title": "Ben Phiri delivers blunt verdict on Malawi’s ‘maize obsession’",
+          "source": "Malawi Nyasa Times",
+          "url": "https://www.nyasatimes.com/ben-phiri-delivers-blunt-verdict-on-malawis-maize-obsession/?utm_source=rss&utm_medium=rss&utm_campaign=ben-phiri-delivers-blunt-verdict-on-malawis-maize-obsession",
+          "publishedAt": "2026-11-23T22:27:22.000Z"
+        },
+        {
+          "title": "Video: “Malawi is burning, Mr President” — Malawians ask Mutharika to break his silence",
+          "source": "Malawi24",
+          "url": "https://malawi24.com/2026/11/23/video-malawi-is-burning-mr-president-mimi-mtambo-asks-mutharika-to-break-his-silence/",
+          "publishedAt": "2026-11-23T14:44:46.000Z"
+        },
+        {
+          "title": "Malawi Defence Force puts troops to the test",
+          "source": "The Times Group Malawi",
+          "url": "https://times.mw/malawi-defence-force-puts-troops-to-the-test/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-defence-force-puts-troops-to-the-test",
+          "publishedAt": "2026-11-23T11:54:45.000Z"
+        },
+        {
+          "title": "Mukhito backs digital overhaul of Malawi Police",
+          "source": "Malawi Nyasa Times",
+          "url": "https://www.nyasatimes.com/mukhito-backs-digital-overhaul-of-malawi-police/?utm_source=rss&utm_medium=rss&utm_campaign=mukhito-backs-digital-overhaul-of-malawi-police",
+          "publishedAt": "2026-11-23T14:53:39.000Z"
+        },
+        {
+          "title": "Malawi earns $53.5 million from gold exports in August",
+          "source": "The Times Group Malawi",
+          "url": "https://times.mw/malawi-earns-53-5-million-from-gold-exports-in-august/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-earns-53-5-million-from-gold-exports-in-august",
+          "publishedAt": "2026-11-23T11:37:09.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Malawi is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

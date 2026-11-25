@@ -1,0 +1,51 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "ukraine-war",
+  "title": "Russia–Ukraine war tracker",
+  "shortTitle": "Russia–Ukraine war",
+  "description": "Russia–Ukraine war: background since 2014, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities for both countries.",
+  "overview": "This tracker compares the latest available monthly conflict summaries for Ukraine and Russia. The totals reflect the maintained humanitarian dataset's country records and are not a battlefield map, casualty estimate, or prediction.",
+  "coverage": [
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 4117,
+    "fatalities": 2619,
+    "politicalViolenceEvents": 4102,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "RU",
+        "name": "Russia",
+        "events": 860,
+        "fatalities": 37,
+        "political": 851,
+        "demonstrations": 9,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "UA",
+        "name": "Ukraine",
+        "events": 3257,
+        "fatalities": 2582,
+        "political": 3251,
+        "demonstrations": 6,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

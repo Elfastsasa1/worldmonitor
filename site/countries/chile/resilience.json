@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CL",
+  "countryName": "Chile",
+  "slug": "chile",
+  "rank": 49,
+  "overallScore": 58.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Copper rout threatens Chile’s budget recovery hopes - Mining.com",
+        "source": "Copper Market",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Qzd5VGpWY18tMko0UE1fYm43d2FXNUtLaDNrN19oYzRDcUIyR3lOdGtlYWpSMHFZbk1qVXpwRHRFdUlnT05PMm8yM1JQRU9mOVNrdWRkaWFvZWE2M3RqVGhFSW43VHZfTENiMExfT29vTXQxYVFMQVgwTkhFRlU?oc=5",
+        "publishedAt": "2026-11-23T22:22:53.000Z"
+      },
+      {
+        "title": "Copper rout threatens Chile’s budget recovery hopes",
+        "source": "Mining.com",
+        "url": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/",
+        "publishedAt": "2026-11-23T17:49:17.000Z"
+      },
+      {
+        "title": "Copper rout and Chile’s budget: capex and project risk notes for mine planners - Geomechanics.io",
+        "source": "Copper Market",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0oxdWNPOEhZd0Q1enkxVUFBMXJJcE9jdmR6ZHYwM2dKYlZkU0dDd3RTVDFnVWZYVllGR2JKcjEzY3hUUGp6NXNIQ1dtTUNTYjJqMkVtVEV3TnEybGhhTkdKR09PdnVFZWx1OXNhcTlFeWpkRzdVYjdBZGZzN0daNUZZNjYtSjQ5TUdVT2lMOC1jZklSbG9wOEU2WWp2dUtKUGl1Zzl2UEZBcTRTNG5qbG1qbDJtTXBI?oc=5",
+        "publishedAt": "2026-11-24T00:01:00.000Z"
+      },
+      {
+        "title": "Temblor en Chile: magnitud y epicentro del último sismo de hoy, lunes 23 de noviembre",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-en-vivo-epicentro-intensidad-y-magnitud-del-ultimo-sismo-reportado-el-23-y-24-de-noviembre-2026-segun-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
+        "publishedAt": "2026-11-24T02:02:58.000Z"
+      },
+      {
+        "title": "Vanessa Kaiser (PNL) afirma que caso Firmas debería poner fin a acuerdo en Senado: “Me cuesta creer que Chile Vamos lo mantenga con estos antecedentes”",
+        "source": "La Tercera",
+        "url": "https://www.latercera.com/politica/noticia/vanessa-kaiser-pnl-afirma-que-caso-firmas-deberia-poner-fin-a-acuerdo-en-senado-me-cuesta-creer-que-chile-vamos-lo-mantenga-con-estos-antecedentes/",
+        "publishedAt": "2026-11-24T01:06:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA copper rout threatens Chile's budget recovery hopes. [1]\n\nWATCH ITEMS\nWhether the copper rout will further affect Chile's budget recovery and project risk for mine planners. [1][3]",
+      "generatedAt": "2026-11-24T04:49:19.106Z",
+      "sources": [
+        {
+          "title": "Copper rout threatens Chile’s budget recovery hopes - Mining.com",
+          "source": "Copper Market",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Qzd5VGpWY18tMko0UE1fYm43d2FXNUtLaDNrN19oYzRDcUIyR3lOdGtlYWpSMHFZbk1qVXpwRHRFdUlnT05PMm8yM1JQRU9mOVNrdWRkaWFvZWE2M3RqVGhFSW43VHZfTENiMExfT29vTXQxYVFMQVgwTkhFRlU?oc=5",
+          "publishedAt": "2026-11-23T22:22:53.000Z"
+        },
+        {
+          "title": "Copper rout threatens Chile’s budget recovery hopes",
+          "source": "Mining.com",
+          "url": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/",
+          "publishedAt": "2026-11-23T17:49:17.000Z"
+        },
+        {
+          "title": "Copper rout and Chile’s budget: capex and project risk notes for mine planners - Geomechanics.io",
+          "source": "Copper Market",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0oxdWNPOEhZd0Q1enkxVUFBMXJJcE9jdmR6ZHYwM2dKYlZkU0dDd3RTVDFnVWZYVllGR2JKcjEzY3hUUGp6NXNIQ1dtTUNTYjJqMkVtVEV3TnEybGhhTkdKR09PdnVFZWx1OXNhcTlFeWpkRzdVYjdBZGZzN0daNUZZNjYtSjQ5TUdVT2lMOC1jZklSbG9wOEU2WWp2dUtKUGl1Zzl2UEZBcTRTNG5qbG1qbDJtTXBI?oc=5",
+          "publishedAt": "2026-11-24T00:01:00.000Z"
+        },
+        {
+          "title": "Temblor en Chile: magnitud y epicentro del último sismo de hoy, lunes 23 de noviembre",
+          "source": "El Comercio Peru",
+          "url": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-en-vivo-epicentro-intensidad-y-magnitud-del-ultimo-sismo-reportado-el-23-y-24-de-noviembre-2026-segun-csn-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
+          "publishedAt": "2026-11-24T02:02:58.000Z"
+        },
+        {
+          "title": "Vanessa Kaiser (PNL) afirma que caso Firmas debería poner fin a acuerdo en Senado: “Me cuesta creer que Chile Vamos lo mantenga con estos antecedentes”",
+          "source": "La Tercera",
+          "url": "https://www.latercera.com/politica/noticia/vanessa-kaiser-pnl-afirma-que-caso-firmas-deberia-poner-fin-a-acuerdo-en-senado-me-cuesta-creer-que-chile-vamos-lo-mantenga-con-estos-antecedentes/",
+          "publishedAt": "2026-11-24T01:06:53.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

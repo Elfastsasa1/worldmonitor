@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "slug": "slovenia",
+  "rank": 15,
+  "overallScore": 64.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "EU Approves Slovenia's Final €271.8M Recovery Fund Payment",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/eu-approves-slovenias-final-e271-8m-recovery-1781207/",
+        "publishedAt": "2026-11-20T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Battery-powered tram by Chinese manufacturer takes test run in Slovenia-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/europe/20261120/dcae1ab7f6834416be53704ab60b7849/c.html",
+        "publishedAt": "2026-11-20T02:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

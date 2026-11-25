@@ -1,0 +1,106 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AT",
+  "countryName": "Austria",
+  "slug": "austria",
+  "rank": 20,
+  "overallScore": 64.1,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Austria beschert Salzburg erste Niederlage und leistet Schützenhilfe für Rapid",
+        "source": "Der Standard",
+        "url": "https://www.derstandard.at/story/3000000350489/austria-beschert-salzburg-erste-niederlage-und-leistet-schuetzenhilfe-fuer-rapid?ref=rss",
+        "publishedAt": "2026-11-23T08:06:03.000Z"
+      },
+      {
+        "title": "Behind the Austrian ‘State Printer’ at the Heart of Liberia’s Rejected US$54.7m ID Deal",
+        "source": "FrontPage Africa",
+        "url": "https://frontpageafricaonline.com/behind-the-austrian-state-printer-at-the-heart-of-liberias-rejected-us54-7m-id-deal/",
+        "publishedAt": "2026-11-23T08:01:23.000Z"
+      },
+      {
+        "title": "Áustria diz que site de ministério foi hackeado e que houve acesso a dados de funcionários",
+        "source": "g1 Mundo",
+        "url": "https://g1.globo.com/mundo/noticia/2026/11/20/austria-site-de-ministerio-ataque-hacker.ghtml",
+        "publishedAt": "2026-11-20T22:33:30.000Z"
+      },
+      {
+        "title": "Slovakia, Austria sign memorandum to deepen cross-border cooperation-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20261124/2142510837614939993fea6727d461b9/c.html",
+        "publishedAt": "2026-11-23T21:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "How extreme are the far-right FPO's proposals to tighten Austria's citizenship laws?",
+        "source": "thelocal.at",
+        "url": "https://www.thelocal.at/20261123/how-extreme-are-the-far-right-fpos-proposals-to-tighten-austrias-citizenship-laws",
+        "publishedAt": "2026-11-23T13:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAustria's foreign ministry website was hacked, resulting in access to employee data. [3]\nSlovakia and Austria signed a memorandum to deepen cross-border cooperation. [4]\n\nWHAT THIS MEANS FOR AUSTRIA\nThe hacking of Austria's ministry website raises concerns about cybersecurity vulnerabilities in government institutions. [3][E1]\n\nWATCH ITEMS\nWhether the far-right FPO's proposals to tighten Austria's citizenship laws will gain traction. [5]",
+      "generatedAt": "2026-11-24T04:22:51.244Z",
+      "sources": [
+        {
+          "title": "Austria beschert Salzburg erste Niederlage und leistet Schützenhilfe für Rapid",
+          "source": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000350489/austria-beschert-salzburg-erste-niederlage-und-leistet-schuetzenhilfe-fuer-rapid?ref=rss",
+          "publishedAt": "2026-11-23T08:06:03.000Z"
+        },
+        {
+          "title": "Behind the Austrian ‘State Printer’ at the Heart of Liberia’s Rejected US$54.7m ID Deal",
+          "source": "FrontPage Africa",
+          "url": "https://frontpageafricaonline.com/behind-the-austrian-state-printer-at-the-heart-of-liberias-rejected-us54-7m-id-deal/",
+          "publishedAt": "2026-11-23T08:01:23.000Z"
+        },
+        {
+          "title": "Áustria diz que site de ministério foi hackeado e que houve acesso a dados de funcionários",
+          "source": "g1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/20/austria-site-de-ministerio-ataque-hacker.ghtml",
+          "publishedAt": "2026-11-20T22:33:30.000Z"
+        },
+        {
+          "title": "Slovakia, Austria sign memorandum to deepen cross-border cooperation-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20261124/2142510837614939993fea6727d461b9/c.html",
+          "publishedAt": "2026-11-23T21:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "How extreme are the far-right FPO's proposals to tighten Austria's citizenship laws?",
+          "source": "thelocal.at",
+          "url": "https://www.thelocal.at/20261123/how-extreme-are-the-far-right-fpos-proposals-to-tighten-austrias-citizenship-laws",
+          "publishedAt": "2026-11-23T13:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Normal Precautions",
+          "factText": "The most severe government travel advisory World Monitor tracks for Austria is Exercise Normal Precautions, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

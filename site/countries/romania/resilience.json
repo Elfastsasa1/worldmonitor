@@ -1,0 +1,95 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "slug": "romania",
+  "rank": 48,
+  "overallScore": 58.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Document - UNHCR Romania Ukraine Refugee Situation Update - 23 November 2026 - UNHCR - The UN Refugee Agency",
+        "source": "UNHCR",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LOTdlNFhYcEFLNklodklBdDJjSU91ZHp5dzR2REIzbWpGaVJXbDZNYmhXbHBUOHZsTXYtRVJSdEZTRjFzMS13V0JNOHdvcWQzVEdLR1VWcjVROXNkdE1z?oc=5",
+        "publishedAt": "2026-11-23T16:01:14.000Z"
+      },
+      {
+        "title": "ROMANIA - UNHCR - The UN Refugee Agency",
+        "source": "UNHCR",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tVjNENWRKYjBqeXFGVG9DT0MteE5TTlgzelh2WGMwOTlFZFR1ekZfcVl6dFoyc3dYcThORDd3UTBoMkxaNFFqTW9aMzRQWWpZRDhRZmJiWDlsRUh1dGZvYQ?oc=5",
+        "publishedAt": "2026-11-23T16:01:15.000Z"
+      },
+      {
+        "title": "Criminals and Russians under sanctions may have operated in Europe using forged Romanian citizenships",
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/international/article/2026/11/23/criminals-and-russians-under-sanctions-may-have-operated-in-europe-using-forged-romanian-citizenships_6787324_4.html",
+        "publishedAt": "2026-11-23T11:56:59.000Z"
+      },
+      {
+        "title": "Russia Summons Romanian Ambassador Over Youth Athletes Visa Denial",
+        "source": "Moscow Times",
+        "url": "https://www.themoscowtimes.com/2026/11/20/russia-summons-romanian-ambassador-over-youth-athletes-visa-denial-a94336",
+        "publishedAt": "2026-11-20T15:47:14.000Z"
+      },
+      {
+        "title": "Romania: Romanian Beer Market Headed Down Towards 13.3 Million Hectoliters (…)",
+        "source": "romaniapress.com",
+        "url": "https://www.romaniapress.com/news=198228",
+        "publishedAt": "2026-11-24T03:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nUNHCR reports on the Romania Ukraine refugee situation as of 23 November 2026. [1]\nCriminals and Russians under sanctions may have operated in Europe using forged Romanian citizenships. [3]\n\nWATCH ITEMS\nWhether Russia will take further action after summoning the Romanian ambassador over youth athletes visa denial. [4]\nWhether the Romanian beer market will continue its decline towards 13.3 million hectoliters. [5]",
+      "generatedAt": "2026-11-24T04:55:15.978Z",
+      "sources": [
+        {
+          "title": "Document - UNHCR Romania Ukraine Refugee Situation Update - 23 November 2026 - UNHCR - The UN Refugee Agency",
+          "source": "UNHCR",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LOTdlNFhYcEFLNklodklBdDJjSU91ZHp5dzR2REIzbWpGaVJXbDZNYmhXbHBUOHZsTXYtRVJSdEZTRjFzMS13V0JNOHdvcWQzVEdLR1VWcjVROXNkdE1z?oc=5",
+          "publishedAt": "2026-11-23T16:01:14.000Z"
+        },
+        {
+          "title": "ROMANIA - UNHCR - The UN Refugee Agency",
+          "source": "UNHCR",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tVjNENWRKYjBqeXFGVG9DT0MteE5TTlgzelh2WGMwOTlFZFR1ekZfcVl6dFoyc3dYcThORDd3UTBoMkxaNFFqTW9aMzRQWWpZRDhRZmJiWDlsRUh1dGZvYQ?oc=5",
+          "publishedAt": "2026-11-23T16:01:15.000Z"
+        },
+        {
+          "title": "Criminals and Russians under sanctions may have operated in Europe using forged Romanian citizenships",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/23/criminals-and-russians-under-sanctions-may-have-operated-in-europe-using-forged-romanian-citizenships_6787324_4.html",
+          "publishedAt": "2026-11-23T11:56:59.000Z"
+        },
+        {
+          "title": "Russia Summons Romanian Ambassador Over Youth Athletes Visa Denial",
+          "source": "Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/20/russia-summons-romanian-ambassador-over-youth-athletes-visa-denial-a94336",
+          "publishedAt": "2026-11-20T15:47:14.000Z"
+        },
+        {
+          "title": "Romania: Romanian Beer Market Headed Down Towards 13.3 Million Hectoliters (…)",
+          "source": "romaniapress.com",
+          "url": "https://www.romaniapress.com/news=198228",
+          "publishedAt": "2026-11-24T03:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

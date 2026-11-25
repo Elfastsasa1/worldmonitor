@@ -1,0 +1,257 @@
+{
+  "dataset": "country-instability-index",
+  "methodologyVersion": "v14",
+  "capturedAt": "2026-11-24",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-11-24.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "countries": [
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "score": 88,
+      "approximate24HourMovement": 6,
+      "instabilityLevel": "Critical",
+      "observedAt": "2026-11-24T04:44:58.181Z"
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "score": 80,
+      "approximate24HourMovement": 10,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "score": 80,
+      "approximate24HourMovement": 8,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "score": 75,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:44:58.181Z"
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "score": 70,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "score": 70,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "score": 70,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "score": 69,
+      "approximate24HourMovement": 9,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "score": 68,
+      "approximate24HourMovement": 6,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "score": 67,
+      "approximate24HourMovement": 1,
+      "instabilityLevel": "High",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "score": 61,
+      "approximate24HourMovement": 1,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "score": 61,
+      "approximate24HourMovement": -3,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "score": 60,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "score": 60,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "score": 60,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:44:58.181Z"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "score": 57,
+      "approximate24HourMovement": 43,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "score": 55,
+      "approximate24HourMovement": -2,
+      "instabilityLevel": "Elevated",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "score": 50,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "score": 50,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "score": 50,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "score": 50,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "score": 50,
+      "approximate24HourMovement": 0,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "score": 39,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:44:58.181Z"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "score": 33,
+      "approximate24HourMovement": -3,
+      "instabilityLevel": "Normal",
+      "observedAt": "2026-11-24T04:44:58.181Z"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "score": 27,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "score": 24,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "score": 22,
+      "approximate24HourMovement": 1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:44:58.181Z"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "score": 19,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "score": 18,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "score": 17,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "score": 16,
+      "approximate24HourMovement": -1,
+      "instabilityLevel": "Low",
+      "observedAt": "2026-11-24T04:34:46.946Z"
+    }
+  ]
+}

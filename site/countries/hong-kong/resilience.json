@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "slug": "hong-kong",
+  "rank": 78,
+  "overallScore": 54.7,
+  "dimensionCoverage": 0.72,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "CICC's 2027 Hong Kong Stock Market Outlook: The Hong Kong market can only move forward by breaking through existing barriers; strategize along three key approaches. - 富途牛牛",
+        "source": "Market Outlook",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTNUcVdSdGUwX1pJdGNBdTQyNDVvRkdVaFE4MVVSam8tZnVVSm9WOXhVaDZURlhSWl9KNG1pakhNel84bTg0TkNPMzNUU2RYOE5QY3pmalJwazRwX3RpN0tTVmhoU0tKUG1LX2pjelJIMHY2VGxHc3REa1FjNFFNWkpMeVFlcGJOYUw5MlBLUnlsY2dya0doUkRB?oc=5",
+        "publishedAt": "2026-11-24T01:36:00.000Z"
+      },
+      {
+        "title": "NewJeans agency Ador faces US trademark dispute with Hong Kong fashion retailer",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10946543",
+        "publishedAt": "2026-11-23T08:56:57.000Z"
+      },
+      {
+        "title": "BIT Capital Expands Asia-Pacific Activities with Focus on Hong Kong and Singapore, Bringing Its Human × AI Approach to Asian Investors",
+        "source": "The Bruneian",
+        "url": "https://thebruneian.news/2026/11/23/bit-capital-expands-asia-pacific-activities-with-focus-on-hong-kong-and-singapore-bringing-its-human-x-ai-approach-to-asian-investors/?utm_source=rss&utm_medium=rss&utm_campaign=bit-capital-expands-asia-pacific-activities-with-focus-on-hong-kong-and-singapore-bringing-its-human-x-ai-approach-to-asian-investors",
+        "publishedAt": "2026-11-23T06:10:00.000Z"
+      },
+      {
+        "title": "Hong Kong AI Robotics Centre Launches One-Day AI Robotics Controller Certification Course with EdUHK and Cyberport as Supporting Partners",
+        "source": "Laotian Times",
+        "url": "https://laotiantimes.com/2026/11/23/hong-kong-ai-robotics-centre-launches-one-day-ai-robotics-controller-certification-course-with-eduhk-and-cyberport-as-supporting-partners/",
+        "publishedAt": "2026-11-23T05:30:00.000Z"
+      },
+      {
+        "title": "Standard Chartered Becomes the First to Introduce Skylife Work Hubs at Hong Kong International Airport",
+        "source": "Laotian Times",
+        "url": "https://laotiantimes.com/2026/11/23/standard-chartered-becomes-the-first-to-introduce-skylife-work-hubs-at-hong-kong-international-airport/",
+        "publishedAt": "2026-11-23T04:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCICC's 2027 Hong Kong Stock Market Outlook states the Hong Kong market can only move forward by breaking through existing barriers. [1]\nBIT Capital is expanding its Asia-Pacific activities with a focus on Hong Kong and Singapore, bringing its Human × AI approach to Asian investors. [3]\n\nKEY RISKS\nThe most severe government travel advisory for Hong Kong is Exercise Increased Caution, which may deter business travel and investment. [E1]\n\nWATCH ITEMS\nWhether the trademark dispute between NewJeans agency Ador and a Hong Kong fashion retailer will be resolved. [2]",
+      "generatedAt": "2026-11-24T04:27:18.344Z",
+      "sources": [
+        {
+          "title": "CICC's 2027 Hong Kong Stock Market Outlook: The Hong Kong market can only move forward by breaking through existing barriers; strategize along three key approa...",
+          "source": "Market Outlook",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTNUcVdSdGUwX1pJdGNBdTQyNDVvRkdVaFE4MVVSam8tZnVVSm9WOXhVaDZURlhSWl9KNG1pakhNel84bTg0TkNPMzNUU2RYOE5QY3pmalJwazRwX3RpN0tTVmhoU0tKUG1LX2pjelJIMHY2VGxHc3REa1FjNFFNWkpMeVFlcGJOYUw5MlBLUnlsY2dya0doUkRB?oc=5",
+          "publishedAt": "2026-11-24T01:36:00.000Z"
+        },
+        {
+          "title": "NewJeans agency Ador faces US trademark dispute with Hong Kong fashion retailer",
+          "source": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10946543",
+          "publishedAt": "2026-11-23T08:56:57.000Z"
+        },
+        {
+          "title": "BIT Capital Expands Asia-Pacific Activities with Focus on Hong Kong and Singapore, Bringing Its Human × AI Approach to Asian Investors",
+          "source": "The Bruneian",
+          "url": "https://thebruneian.news/2026/11/23/bit-capital-expands-asia-pacific-activities-with-focus-on-hong-kong-and-singapore-bringing-its-human-x-ai-approach-to-asian-investors/?utm_source=rss&utm_medium=rss&utm_campaign=bit-capital-expands-asia-pacific-activities-with-focus-on-hong-kong-and-singapore-bringing-its-human-x-ai-approach-to-asian-investors",
+          "publishedAt": "2026-11-23T06:10:00.000Z"
+        },
+        {
+          "title": "Hong Kong AI Robotics Centre Launches One-Day AI Robotics Controller Certification Course with EdUHK and Cyberport as Supporting Partners",
+          "source": "Laotian Times",
+          "url": "https://laotiantimes.com/2026/11/23/hong-kong-ai-robotics-centre-launches-one-day-ai-robotics-controller-certification-course-with-eduhk-and-cyberport-as-supporting-partners/",
+          "publishedAt": "2026-11-23T05:30:00.000Z"
+        },
+        {
+          "title": "Standard Chartered Becomes the First to Introduce Skylife Work Hubs at Hong Kong International Airport",
+          "source": "Laotian Times",
+          "url": "https://laotiantimes.com/2026/11/23/standard-chartered-becomes-the-first-to-introduce-skylife-work-hubs-at-hong-kong-international-airport/",
+          "publishedAt": "2026-11-23T04:00:00.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E1",
+          "kind": "advisory",
+          "label": "Travel advisory",
+          "value": "Exercise Increased Caution",
+          "factText": "The most severe government travel advisory World Monitor tracks for Hong Kong is Exercise Increased Caution, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T04:02:47.039Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

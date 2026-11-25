@@ -1,0 +1,101 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TV",
+  "countryName": "Tuvalu",
+  "slug": "tuvalu",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.62,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tuvalu and Vanuatu join global push to end fossil fuel subsidies",
+        "source": "Islands Business",
+        "url": "https://islandsbusiness.com/news-break/tuvalu-and-vanuatu-join-global-push-to-end-fossil-fuel-subsidies/",
+        "publishedAt": "2026-11-23T23:27:21.000Z"
+      },
+      {
+        "title": "How Tuvalu, a tiny island nation, is coping with rising sea levels - Jowhar News Leader",
+        "source": "jowhar.com",
+        "url": "https://jowhar.com/how-tuvalu-a-tiny-island-nation-is-coping-with-rising-sea-levels/",
+        "publishedAt": "2026-11-19T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "How Tuvalu Is Adjusting to Rising Seas Threatening Its Future - Jowhar News Leader",
+        "source": "jowhar.com",
+        "url": "https://jowhar.com/how-tuvalu-is-adjusting-to-rising-seas-threatening-its-future/",
+        "publishedAt": "2026-11-19T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "How tiny nation of Tuvalu is adapting to rising seas",
+        "source": "rte.ie",
+        "url": "https://www.rte.ie/news/world/2026/1119/1599763-tuvalu-climate-change/",
+        "publishedAt": "2026-11-19T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "How tiny nation of Tuvalu is adapting to rising seas",
+        "source": "rte.ie",
+        "url": "https://www.rte.ie/news/2026/1119/1599763-tuvalu-climate-change/",
+        "publishedAt": "2026-11-19T08:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTuvalu and Vanuatu have joined a global push to end fossil fuel subsidies. [1]\nTuvalu is coping with rising sea levels, which threaten its future. [2][3][4][5]\n\nWATCH ITEMS\nWhether Tuvalu's adaptation measures will be sufficient to counter the ongoing threat of rising sea levels. [2][3][4][5]",
+      "generatedAt": "2026-11-24T04:35:45.177Z",
+      "sources": [
+        {
+          "title": "Tuvalu and Vanuatu join global push to end fossil fuel subsidies",
+          "source": "Islands Business",
+          "url": "https://islandsbusiness.com/news-break/tuvalu-and-vanuatu-join-global-push-to-end-fossil-fuel-subsidies/",
+          "publishedAt": "2026-11-23T23:27:21.000Z"
+        },
+        {
+          "title": "How Tuvalu, a tiny island nation, is coping with rising sea levels - Jowhar News Leader",
+          "source": "jowhar.com",
+          "url": "https://jowhar.com/how-tuvalu-a-tiny-island-nation-is-coping-with-rising-sea-levels/",
+          "publishedAt": "2026-11-19T21:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "How Tuvalu Is Adjusting to Rising Seas Threatening Its Future - Jowhar News Leader",
+          "source": "jowhar.com",
+          "url": "https://jowhar.com/how-tuvalu-is-adjusting-to-rising-seas-threatening-its-future/",
+          "publishedAt": "2026-11-19T16:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "How tiny nation of Tuvalu is adapting to rising seas",
+          "source": "rte.ie",
+          "url": "https://www.rte.ie/news/world/2026/1119/1599763-tuvalu-climate-change/",
+          "publishedAt": "2026-11-19T16:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "How tiny nation of Tuvalu is adapting to rising seas",
+          "source": "rte.ie",
+          "url": "https://www.rte.ie/news/2026/1119/1599763-tuvalu-climate-change/",
+          "publishedAt": "2026-11-19T08:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

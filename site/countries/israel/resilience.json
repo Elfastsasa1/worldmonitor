@@ -1,0 +1,86 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "slug": "israel",
+  "rank": 55,
+  "overallScore": 57.5,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+        "publishedAt": "2026-11-24T03:00:04.000Z"
+      },
+      {
+        "title": "Myanmar genocide judgment may bolster Gaza case against Israel - Reuters",
+        "source": "Reuters — Liberia",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXpvX3JTUmpQTWxpbnp3ZFFxaVFmd3ZEUjhSbmFlNDBwbG4tcWNmTzNnSkZXVks3YzlsSUNqOXk3QThrZXRONnBaSlh6RXp1YndKOFhKcEhQeHJGdjFzYlhKdnBnLXR6clpkQkl2ejh4UzJmaVhNbXc3My1ucEpqS0UzNTFmYzhNY2F6UV9sTHJ3RWlsdUFrWUxtQ2pPRHJUYWV3RlI2eVB3Q2N3bnVhMkUtenBUcXlq?oc=5",
+        "publishedAt": "2026-11-20T15:29:00.000Z"
+      },
+      {
+        "title": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/23/myanmar-genocide-ruling",
+        "publishedAt": "2026-11-23T11:00:54.000Z"
+      },
+      {
+        "title": "Gaza war has undone 77 years of human development, UN warns",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+        "publishedAt": "2026-11-23T12:00:00.000Z"
+      },
+      {
+        "title": "Israeli strikes kill at least four Palestinians in Gaza, including UNRWA employee - War on Gaza - War on Gaza - Ahram Online",
+        "source": "Ahram Online",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVlYWpvT1k3OV9QVGxwY2ZoWmNPNnZCZER3SzhWbHZBWnFaNUFaLUV0MTFJTE1aMTJkaW1BcVUxd0pVcktUOWh1dDV5ZXNydVRNaHN1b21uMEZTREFqeTI4U0JzWDdkNXljTjJHbUNhc0dhcnNzS0t0WEpJS2RjcHJEMUJIN0FOeE9ZRFY4TDZOUDhQM3BYMWVXWEtVTE56VHREdkV3QjFmQ2g2eTVYakxuNDh5T0RrYlFn?oc=5",
+        "publishedAt": "2026-11-23T20:53:22.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Israel",
+        "summary": "source: www.timeshighereducation.com",
+        "sourceUrl": "https://www.timeshighereducation.com/news/university-leaders-gulf-learn-live-uncertainty",
+        "occurredAt": "2026-11-24T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Israel",
+        "summary": "source: www.theyeshivaworld.com",
+        "sourceUrl": "https://www.theyeshivaworld.com/news/israel-news/2626946/violence-rising-nationalist-crime-incidents-in-yehuda-and-shomron-jump-74-in-two-years.html",
+        "occurredAt": "2026-11-24T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Israel",
+        "summary": "source: www.theyeshivaworld.com",
+        "sourceUrl": "https://www.theyeshivaworld.com/news/israel-news/2626946/violence-rising-nationalist-crime-incidents-in-yehuda-and-shomron-jump-74-in-two-years.html",
+        "occurredAt": "2026-11-24T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Israel",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-three-people-killed-israeli-strike-near-police-outpost-gazas-khan",
+        "occurredAt": "2026-11-24T04:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": "unsupported-citation",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

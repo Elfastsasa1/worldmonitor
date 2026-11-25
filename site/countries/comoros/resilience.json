@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "slug": "comoros",
+  "rank": 111,
+  "overallScore": 48.6,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Comoros Bill Cuts Growth Forecast to 3.1%",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/comoros-revised-budget-2026-growth-forecast/",
+        "publishedAt": "2026-11-19T11:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "BREAKING NEWS: Claude Le Roy resigns as Congo coach after Comoros defeat in AFCON 2027 qualifier – Ghanamma.com",
+        "source": "ghanamma.com",
+        "url": "https://www.ghanamma.com/2026/11/18/breaking-news-claude-le-roy-resigns-as-congo-coach-after-comoros-defeat-in-afcon-2027-qualifier/",
+        "publishedAt": "2026-11-18T02:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

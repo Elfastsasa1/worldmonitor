@@ -1,0 +1,51 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "iran-israel-escalation",
+  "title": "Iran–Israel war tracker",
+  "shortTitle": "Iran–Israel war",
+  "description": "Iran–Israel war: background on the 2025 and 2026 wars, key actors, a sourced timeline, what to watch, and monthly conflict events and fatalities.",
+  "overview": "This tracker keeps a deliberately narrow geographic boundary: it compares the latest available monthly conflict summaries for Iran and Israel. It does not claim to capture every regional spillover event, diplomatic development, or military movement.",
+  "coverage": [
+    {
+      "code": "IR",
+      "name": "Iran"
+    },
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 338,
+    "fatalities": 36,
+    "politicalViolenceEvents": 33,
+    "referencePeriod": "2026-11-01",
+    "asOf": "2026-11-24T03:45:53.206Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "IR",
+        "name": "Iran",
+        "events": 313,
+        "fatalities": 36,
+        "political": 33,
+        "demonstrations": 280,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      },
+      {
+        "code": "IL",
+        "name": "Israel",
+        "events": 25,
+        "fatalities": 0,
+        "political": 0,
+        "demonstrations": 25,
+        "referencePeriod": "2026-11-01",
+        "updatedAt": "2026-11-24T03:45:53.206Z"
+      }
+    ]
+  }
+}

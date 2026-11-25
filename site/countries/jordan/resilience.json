@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "slug": "jordan",
+  "rank": 87,
+  "overallScore": 53,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Jordanian Startup invoiceQ Raises $5 Million in Series A Funding to Expand Across MENA - entARABI",
+        "source": "MENA Startups",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWl9JcllndmMwcUd5SEZqaFRCREs2enJrWkJ3VDBMQ1NCYTZOcTkzOTVDUGswMXRLRC1TQ0VxSkNwTFVSVkNFSUFUQnRrTzE5VnJxaGVrRTQ3NS02Rllrdjg2ZXJRQ2ZzQjJ4TWxsRW11UWtRU1ZvSXFETjVqVmliLVNJZi1hV0FuejNDaERUd2RfeFp6UnY1dTlpR0p6YWozUzJySTliM1BCTXAwRm9mWTlZa003R1ZCcGc?oc=5",
+        "publishedAt": "2026-11-23T15:53:20.000Z"
+      },
+      {
+        "title": "From warming the bench to breaking records: Giddey eclipses Jordan with stunning game for Bulls",
+        "source": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/sport/basketball/from-warming-the-bench-to-breaking-records-giddey-eclipses-jordan-with-stunning-game-for-bulls-20261124-p61gri.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "publishedAt": "2026-11-24T04:13:19.000Z"
+      },
+      {
+        "title": "Bulls beat Cavaliers 122-108 behind Jordan Hawkins’ 19 points and 63 off the bench",
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/sports/basketball/2026/11/23/bulls-beat-cavaliers-122-108-behind-jordan-hawkins-19-points-and-63-off-the-bench",
+        "publishedAt": "2026-11-24T03:59:42.000Z"
+      },
+      {
+        "title": "«Il est là pour mettre les macronistes dans des valises» : Jordan Bardella dépeint David Lisnard en «contrebandier» du camp présidentiel",
+        "source": "Le Figaro",
+        "url": "https://www.lefigaro.fr/elections/presidentielles/le-nouvel-artiste-qui-monte-sur-les-planches-jordan-bardella-epingle-david-lisnard-en-contrebandier-du-macronisme-20261123",
+        "publishedAt": "2026-11-23T23:58:55.000Z"
+      },
+      {
+        "title": "Jordan Bardella affirme qu'\"à sa connaissance\" personne au RN n'a bénéficié de fuites et juge \"étrange\" le \"timing\" de la perquisition du siège de son parti",
+        "source": "Franceinfo",
+        "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-affirme-qu-a-sa-connaissance-personne-au-rn-n-a-beneficie-de-fuites-et-juge-etrange-le-timing-de-la-perquisition-du-siege-de-son-parti_8296713.html#xtor=RSS-3-[lestitres]",
+        "publishedAt": "2026-11-23T22:56:02.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nJordanian startup invoiceQ raised $5 million in Series A funding to expand across MENA. [1]\n\nWATCH ITEMS\nWhether invoiceQ will successfully expand across MENA following its Series A funding round. [1]",
+      "generatedAt": "2026-11-24T04:52:14.825Z",
+      "sources": [
+        {
+          "title": "Jordanian Startup invoiceQ Raises $5 Million in Series A Funding to Expand Across MENA - entARABI",
+          "source": "MENA Startups",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWl9JcllndmMwcUd5SEZqaFRCREs2enJrWkJ3VDBMQ1NCYTZOcTkzOTVDUGswMXRLRC1TQ0VxSkNwTFVSVkNFSUFUQnRrTzE5VnJxaGVrRTQ3NS02Rllrdjg2ZXJRQ2ZzQjJ4TWxsRW11UWtRU1ZvSXFETjVqVmliLVNJZi1hV0FuejNDaERUd2RfeFp6UnY1dTlpR0p6YWozUzJySTliM1BCTXAwRm9mWTlZa003R1ZCcGc?oc=5",
+          "publishedAt": "2026-11-23T15:53:20.000Z"
+        },
+        {
+          "title": "From warming the bench to breaking records: Giddey eclipses Jordan with stunning game for Bulls",
+          "source": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/sport/basketball/from-warming-the-bench-to-breaking-records-giddey-eclipses-jordan-with-stunning-game-for-bulls-20261124-p61gri.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publishedAt": "2026-11-24T04:13:19.000Z"
+        },
+        {
+          "title": "Bulls beat Cavaliers 122-108 behind Jordan Hawkins’ 19 points and 63 off the bench",
+          "source": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/sports/basketball/2026/11/23/bulls-beat-cavaliers-122-108-behind-jordan-hawkins-19-points-and-63-off-the-bench",
+          "publishedAt": "2026-11-24T03:59:42.000Z"
+        },
+        {
+          "title": "«Il est là pour mettre les macronistes dans des valises» : Jordan Bardella dépeint David Lisnard en «contrebandier» du camp présidentiel",
+          "source": "Le Figaro",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/le-nouvel-artiste-qui-monte-sur-les-planches-jordan-bardella-epingle-david-lisnard-en-contrebandier-du-macronisme-20261123",
+          "publishedAt": "2026-11-23T23:58:55.000Z"
+        },
+        {
+          "title": "Jordan Bardella affirme qu'\"à sa connaissance\" personne au RN n'a bénéficié de fuites et juge \"étrange\" le \"timing\" de la perquisition du siège de son parti",
+          "source": "Franceinfo",
+          "url": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-affirme-qu-a-sa-connaissance-personne-au-rn-n-a-beneficie-de-fuites-et-juge-etrange-le-timing-de-la-perquisition-du-siege-de-son-parti_8296713.html#xtor=RSS-3-[lestitres]",
+          "publishedAt": "2026-11-23T22:56:02.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GY",
+  "countryName": "Guyana",
+  "slug": "guyana",
+  "rank": 91,
+  "overallScore": 52.3,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Duizenden huishoudens in Guyana bijna twee dagen zonder stroom",
+        "source": "De West",
+        "url": "https://dagbladdewest.com/2026/11/23/duizenden-huishoudens-in-guyana-bijna-twee-dagen-zonder-stroom/",
+        "publishedAt": "2026-11-24T00:30:46.000Z"
+      },
+      {
+        "title": "Guyana offers 50% bill cut after outage",
+        "source": "Barbados Today",
+        "url": "https://barbadostoday.bb/2026/11/23/guyana-offers-50-bill-cut-after-outage/",
+        "publishedAt": "2026-11-23T18:58:16.000Z"
+      },
+      {
+        "title": "President Ali wil geen centimeter van de Essequibo afstaan, maar Guyana houdt Tigri bezet",
+        "source": "Suriname Herald",
+        "url": "https://www.srherald.com/buitenland/2026/11/23/president-ali-wil-geen-centimeter-van-de-essequibo-afstaan-maar-guyana-houdt-tigri-bezet/",
+        "publishedAt": "2026-11-23T16:20:25.000Z"
+      },
+      {
+        "title": "‘Guyana will not bargain away its territorial integrity’ – President Ali",
+        "source": "Kaieteur News",
+        "url": "https://kaieteurnewsonline.com/2026/11/23/guyana-will-not-bargain-away-its-territorial-integrity-president-ali/",
+        "publishedAt": "2026-11-23T14:20:34.000Z"
+      },
+      {
+        "title": "OPINION: America’s sellout requires Guyana’s number one",
+        "source": "Demerara Waves Online News",
+        "url": "https://demerarawaves.com/2026/11/23/opinion-americas-sellout-requires-guyanas-number-one/",
+        "publishedAt": "2026-11-23T10:39:56.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPresident Ali stated that Guyana will not bargain away its territorial integrity. [4]\n\nWATCH ITEMS\nWhether the government will restore reliable electricity service after the prolonged outage and the offered 50% bill cut. [1][2]",
+      "generatedAt": "2026-11-24T04:51:20.848Z",
+      "sources": [
+        {
+          "title": "Duizenden huishoudens in Guyana bijna twee dagen zonder stroom",
+          "source": "De West",
+          "url": "https://dagbladdewest.com/2026/11/23/duizenden-huishoudens-in-guyana-bijna-twee-dagen-zonder-stroom/",
+          "publishedAt": "2026-11-24T00:30:46.000Z"
+        },
+        {
+          "title": "Guyana offers 50% bill cut after outage",
+          "source": "Barbados Today",
+          "url": "https://barbadostoday.bb/2026/11/23/guyana-offers-50-bill-cut-after-outage/",
+          "publishedAt": "2026-11-23T18:58:16.000Z"
+        },
+        {
+          "title": "President Ali wil geen centimeter van de Essequibo afstaan, maar Guyana houdt Tigri bezet",
+          "source": "Suriname Herald",
+          "url": "https://www.srherald.com/buitenland/2026/11/23/president-ali-wil-geen-centimeter-van-de-essequibo-afstaan-maar-guyana-houdt-tigri-bezet/",
+          "publishedAt": "2026-11-23T16:20:25.000Z"
+        },
+        {
+          "title": "‘Guyana will not bargain away its territorial integrity’ – President Ali",
+          "source": "Kaieteur News",
+          "url": "https://kaieteurnewsonline.com/2026/11/23/guyana-will-not-bargain-away-its-territorial-integrity-president-ali/",
+          "publishedAt": "2026-11-23T14:20:34.000Z"
+        },
+        {
+          "title": "OPINION: America’s sellout requires Guyana’s number one",
+          "source": "Demerara Waves Online News",
+          "url": "https://demerarawaves.com/2026/11/23/opinion-americas-sellout-requires-guyanas-number-one/",
+          "publishedAt": "2026-11-23T10:39:56.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

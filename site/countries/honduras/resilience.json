@@ -1,0 +1,93 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HN",
+  "countryName": "Honduras",
+  "slug": "honduras",
+  "rank": 108,
+  "overallScore": 49.4,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "“No cederemos nuestro patio trasero”, afirma Hegseth durante visita a Honduras",
+        "source": "Criterio.hn",
+        "url": "https://criterio.hn/no-cederemos-nuestro-patio-trasero-afirma-hegseth-durante-visita-a-honduras/",
+        "publishedAt": "2026-11-24T02:15:00.000Z"
+      },
+      {
+        "title": "Caravana migrante proveniente de Honduras sale de Chiapas con destino a Ciudad de México",
+        "source": "Proceso Digital",
+        "url": "https://proceso.hn/caravana-migrante-proveniente-de-honduras-sale-de-chiapas-con-destino-a-ciudad-de-mexico/",
+        "publishedAt": "2026-11-24T01:25:19.000Z"
+      },
+      {
+        "title": "Entre pressão religiosa e explosão de gravidez infantil, Honduras restringe direitos reprodutivos",
+        "source": "RFI Brasil",
+        "url": "https://www.rfi.fr/br/am%C3%A9ricas/20261123-entre-press%C3%A3o-religiosa-e-explos%C3%A3o-de-gravidez-infantil-honduras-restringe-direitos-reprodutivos",
+        "publishedAt": "2026-11-23T17:10:20.000Z"
+      },
+      {
+        "title": "La Asamblea tiene más funcionarios que los congresos de Costa Rica, Guatemala, El Salvador y Honduras juntos",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/politica/la-asamblea-tiene-mas-funcionarios-que-los-congresos-de-costa-rica-guatemala-el-salvador-y-honduras-juntos/",
+        "publishedAt": "2026-11-21T05:01:00.000Z"
+      },
+      {
+        "title": "Adultos mayores en Honduras enfrentan los niveles más altos de pobreza de América Latina",
+        "source": "Criterio.hn",
+        "url": "https://criterio.hn/adultos-mayores-en-honduras-enfrentan-los-niveles-mas-altos-de-pobreza-de-america-latina/",
+        "publishedAt": "2026-11-24T00:29:48.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHegseth stated during a visit to Honduras that the country will not cede its backyard. [1]\nHonduras is restricting reproductive rights amid religious pressure and an explosion of child pregnancy. [3]\n\nWATCH ITEMS\nWhether the restriction of reproductive rights in Honduras will lead to further international criticism or domestic unrest. [3]",
+      "generatedAt": "2026-11-24T04:27:24.769Z",
+      "sources": [
+        {
+          "title": "“No cederemos nuestro patio trasero”, afirma Hegseth durante visita a Honduras",
+          "source": "Criterio.hn",
+          "url": "https://criterio.hn/no-cederemos-nuestro-patio-trasero-afirma-hegseth-durante-visita-a-honduras/",
+          "publishedAt": "2026-11-24T02:15:00.000Z"
+        },
+        {
+          "title": "Caravana migrante proveniente de Honduras sale de Chiapas con destino a Ciudad de México",
+          "source": "Proceso Digital",
+          "url": "https://proceso.hn/caravana-migrante-proveniente-de-honduras-sale-de-chiapas-con-destino-a-ciudad-de-mexico/",
+          "publishedAt": "2026-11-24T01:25:19.000Z"
+        },
+        {
+          "title": "Entre pressão religiosa e explosão de gravidez infantil, Honduras restringe direitos reprodutivos",
+          "source": "RFI Brasil",
+          "url": "https://www.rfi.fr/br/am%C3%A9ricas/20261123-entre-press%C3%A3o-religiosa-e-explos%C3%A3o-de-gravidez-infantil-honduras-restringe-direitos-reprodutivos",
+          "publishedAt": "2026-11-23T17:10:20.000Z"
+        },
+        {
+          "title": "La Asamblea tiene más funcionarios que los congresos de Costa Rica, Guatemala, El Salvador y Honduras juntos",
+          "source": "La Prensa",
+          "url": "https://www.prensa.com/politica/la-asamblea-tiene-mas-funcionarios-que-los-congresos-de-costa-rica-guatemala-el-salvador-y-honduras-juntos/",
+          "publishedAt": "2026-11-21T05:01:00.000Z"
+        },
+        {
+          "title": "Adultos mayores en Honduras enfrentan los niveles más altos de pobreza de América Latina",
+          "source": "Criterio.hn",
+          "url": "https://criterio.hn/adultos-mayores-en-honduras-enfrentan-los-niveles-mas-altos-de-pobreza-de-america-latina/",
+          "publishedAt": "2026-11-24T00:29:48.000Z"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

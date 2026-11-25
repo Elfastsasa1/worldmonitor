@@ -1,0 +1,102 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "slug": "ecuador",
+  "rank": 115,
+  "overallScore": 48.2,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Apagón en Ecuador: Varias ciudades registran cortes de luz simultáneos la noche de este lunes | VIDEOS",
+        "source": "El Comercio Peru",
+        "url": "https://elcomercio.pe/mundo/latinoamerica/apagon-en-ecuador-varias-ciudades-registran-cortes-de-luz-simultaneos-la-noche-de-este-lunes-quito-guayaquil-daniel-noboa-ultimas-noticia/",
+        "publishedAt": "2026-11-24T03:56:14.000Z"
+      },
+      {
+        "title": "Daniel Noboa anuncia que el salario básico subirá a 500 dólares en Ecuador",
+        "source": "El Comercio",
+        "url": "https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncia-que-el-salario-basico-subira-a-500-dolares-en-ecuador-2026/",
+        "publishedAt": "2026-11-24T02:51:11.000Z"
+      },
+      {
+        "title": "Contenedor procedente de Ecuador ocultaba 600 paquetes de presunta droga en Colón",
+        "source": "La Prensa",
+        "url": "https://www.prensa.com/judiciales/contenedor-procedente-de-ecuador-ocultaba-600-paquetes-de-presunta-droga-en-colon/",
+        "publishedAt": "2026-11-23T23:50:00.000Z"
+      },
+      {
+        "title": "Fiscalía de Ecuador formula cargos a William Alcívar tras su expulsión desde España",
+        "source": "La República Colombia",
+        "url": "https://www.larepublica.co/globoeconomia/fiscalia-de-ecuador-formula-cargos-a-william-alcivar-tras-su-expulsion-desde-espana-4531311",
+        "publishedAt": "2026-11-23T22:42:21.000Z"
+      },
+      {
+        "title": "34 ríos y esteros desbordados en cuatro provincias de Ecuador",
+        "source": "El Comercio",
+        "url": "https://www.elcomercio.com/actualidad/ecuador/rios-esteros-desbordados-en-cuatro-provincias/",
+        "publishedAt": "2026-11-24T01:52:06.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPresident Daniel Noboa announced that Ecuador's basic salary will rise to 500 dollars. [2]\n\nKEY RISKS\nEcuador is linked to 29 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026. [E2]",
+      "generatedAt": "2026-11-24T04:25:52.504Z",
+      "sources": [
+        {
+          "title": "Apagón en Ecuador: Varias ciudades registran cortes de luz simultáneos la noche de este lunes | VIDEOS",
+          "source": "El Comercio Peru",
+          "url": "https://elcomercio.pe/mundo/latinoamerica/apagon-en-ecuador-varias-ciudades-registran-cortes-de-luz-simultaneos-la-noche-de-este-lunes-quito-guayaquil-daniel-noboa-ultimas-noticia/",
+          "publishedAt": "2026-11-24T03:56:14.000Z"
+        },
+        {
+          "title": "Daniel Noboa anuncia que el salario básico subirá a 500 dólares en Ecuador",
+          "source": "El Comercio",
+          "url": "https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-anuncia-que-el-salario-basico-subira-a-500-dolares-en-ecuador-2026/",
+          "publishedAt": "2026-11-24T02:51:11.000Z"
+        },
+        {
+          "title": "Contenedor procedente de Ecuador ocultaba 600 paquetes de presunta droga en Colón",
+          "source": "La Prensa",
+          "url": "https://www.prensa.com/judiciales/contenedor-procedente-de-ecuador-ocultaba-600-paquetes-de-presunta-droga-en-colon/",
+          "publishedAt": "2026-11-23T23:50:00.000Z"
+        },
+        {
+          "title": "Fiscalía de Ecuador formula cargos a William Alcívar tras su expulsión desde España",
+          "source": "La República Colombia",
+          "url": "https://www.larepublica.co/globoeconomia/fiscalia-de-ecuador-formula-cargos-a-william-alcivar-tras-su-expulsion-desde-espana-4531311",
+          "publishedAt": "2026-11-23T22:42:21.000Z"
+        },
+        {
+          "title": "34 ríos y esteros desbordados en cuatro provincias de Ecuador",
+          "source": "El Comercio",
+          "url": "https://www.elcomercio.com/actualidad/ecuador/rios-esteros-desbordados-en-cuatro-provincias/",
+          "publishedAt": "2026-11-24T01:52:06.000Z"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "E2",
+          "kind": "sanctions",
+          "label": "US OFAC and Canada SEMA designations",
+          "value": "29",
+          "factText": "Ecuador is linked to 29 US OFAC and Canada SEMA sanctions designations, as of Nov 24, 2026.",
+          "asOf": "2026-11-24T00:04:30.736Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

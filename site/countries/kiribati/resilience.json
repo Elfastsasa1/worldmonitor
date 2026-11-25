@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KI",
+  "countryName": "Kiribati",
+  "slug": "kiribati",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.64,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tributes flow from across the region for Kiribati's late vice president",
+        "source": "rnz.co.nz",
+        "url": "https://www.rnz.co.nz/news/pacific/2678373/tributes-flow-from-across-the-region-for-kiribati-s-late-vice-president",
+        "publishedAt": "2026-11-18T22:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "American musician brings his sound to Kiribati",
+        "source": "islandsbusiness.com",
+        "url": "https://islandsbusiness.com/news-break/american-musician-brings-his-sound-to-kiribati/",
+        "publishedAt": "2026-11-23T05:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CZ",
+  "countryName": "Czechia",
+  "slug": "czechia",
+  "rank": 7,
+  "overallScore": 68,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Democracy Digest: Czechs, Slovaks Mark Velvet Revolution but Both Find Unity Elusive",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/11/20/democracy-digest-czechs-slovaks-mark-velvet-revolution-but-both-find-unity-elusive/rd/",
+        "publishedAt": "2026-11-20T07:04:50.000Z"
+      },
+      {
+        "title": "COAS General Dhiraj Seth successfully concludes official visit to Czech Republic",
+        "source": "aninews.in",
+        "url": "https://aninews.in/news/world/europe/coas-general-dhiraj-seth-successfully-concludes-official-visit-to-czech-republic20261123010324/",
+        "publishedAt": "2026-11-22T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "COAS General Dhiraj Seth successfully concludes official visit to Czech Republic",
+        "source": "webindia123.com",
+        "url": "https://news.webindia123.com/news/Articles/World/20261123/4523178.html",
+        "publishedAt": "2026-11-22T20:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCzechs and Slovaks marked the Velvet Revolution but both find unity elusive. [1]\n\nWATCH ITEMS\nWhether Czechs and Slovaks will find unity remains unresolved. [1]",
+      "generatedAt": "2026-11-24T04:49:55.045Z",
+      "sources": [
+        {
+          "title": "Democracy Digest: Czechs, Slovaks Mark Velvet Revolution but Both Find Unity Elusive",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/20/democracy-digest-czechs-slovaks-mark-velvet-revolution-but-both-find-unity-elusive/rd/",
+          "publishedAt": "2026-11-20T07:04:50.000Z"
+        },
+        {
+          "title": "COAS General Dhiraj Seth successfully concludes official visit to Czech Republic",
+          "source": "aninews.in",
+          "url": "https://aninews.in/news/world/europe/coas-general-dhiraj-seth-successfully-concludes-official-visit-to-czech-republic20261123010324/",
+          "publishedAt": "2026-11-22T21:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "COAS General Dhiraj Seth successfully concludes official visit to Czech Republic",
+          "source": "webindia123.com",
+          "url": "https://news.webindia123.com/news/Articles/World/20261123/4523178.html",
+          "publishedAt": "2026-11-22T20:15:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "slug": "eswatini",
+  "rank": 145,
+  "overallScore": 41.2,
+  "dimensionCoverage": 0.86,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-11-01",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 169,
+  "source": "docs/snapshots/resilience-ranking-2026-11-01.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Eswatini Foreign Affairs Minister seeking to manipulate China’s diplomatic ally South Africa to push a Taiwan project seeking to destroy Swaziland News amid “One China Policy” battle of narratives” signs countering of information funding agreement with Islan - Swaziland News",
+        "source": "Swaziland News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS3BoQ1E5SUVZbmVPRFotU29Ya0U1WTRJSDZFN3h3WkVtalc0YXhfNWRtS3VEOGlFYk9taDZiS1FsZEpwaW1yNUxBS3FmS1pjVzZMOA?oc=5",
+        "publishedAt": "2026-11-23T20:08:55.000Z"
+      },
+      {
+        "title": "Eswatini scores 23/100 on corruption index – Speaker",
+        "source": "Times of Eswatini",
+        "url": "https://times.co.sz/49108/news/eswatini-scores-23-100-on-corruption-index-speaker/",
+        "publishedAt": "2026-11-23T18:01:19.000Z"
+      },
+      {
+        "title": "HIV, refugee deals, and Coca Cola: Eswatini's unique story",
+        "source": "abc.net.au",
+        "url": "https://www.abc.net.au/listen/programs/global-roaming/hiv-refugee-deals-and-coca-cola-eswatini-s-unique-story/107332890",
+        "publishedAt": "2026-11-20T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Eswatini Homes May Pay 43% More for Power",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/eswatini-power-company-tariff-hike-43-percent-2028/",
+        "publishedAt": "2026-11-21T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Royal Swazi Sale Reversal Could Cost Jobs",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/royal-swazi-spa-sale-reversal-eswatini-liquidation-court/",
+        "publishedAt": "2026-11-19T11:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEswatini Foreign Affairs Minister is seeking to manipulate South Africa to push a Taiwan project. [1]\nEswatini scored 23/100 on a corruption index, according to the Speaker. [2]\n\nWATCH ITEMS\nWhether the Royal Swazi Sale reversal will cost jobs remains unresolved. [5]",
+      "generatedAt": "2026-11-24T04:35:02.148Z",
+      "sources": [
+        {
+          "title": "Eswatini Foreign Affairs Minister seeking to manipulate China’s diplomatic ally South Africa to push a Taiwan project seeking to destroy Swaziland News amid “O...",
+          "source": "Swaziland News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LS3BoQ1E5SUVZbmVPRFotU29Ya0U1WTRJSDZFN3h3WkVtalc0YXhfNWRtS3VEOGlFYk9taDZiS1FsZEpwaW1yNUxBS3FmS1pjVzZMOA?oc=5",
+          "publishedAt": "2026-11-23T20:08:55.000Z"
+        },
+        {
+          "title": "Eswatini scores 23/100 on corruption index – Speaker",
+          "source": "Times of Eswatini",
+          "url": "https://times.co.sz/49108/news/eswatini-scores-23-100-on-corruption-index-speaker/",
+          "publishedAt": "2026-11-23T18:01:19.000Z"
+        },
+        {
+          "title": "HIV, refugee deals, and Coca Cola: Eswatini's unique story",
+          "source": "abc.net.au",
+          "url": "https://www.abc.net.au/listen/programs/global-roaming/hiv-refugee-deals-and-coca-cola-eswatini-s-unique-story/107332890",
+          "publishedAt": "2026-11-20T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Eswatini Homes May Pay 43% More for Power",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/eswatini-power-company-tariff-hike-43-percent-2028/",
+          "publishedAt": "2026-11-21T11:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Royal Swazi Sale Reversal Could Cost Jobs",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/royal-swazi-spa-sale-reversal-eswatini-liquidation-court/",
+          "publishedAt": "2026-11-19T11:00:00.000Z",
+          "origin": "country-index"
+        }
+      ],
+      "evidence": []
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-11-24T04:42:31.040Z"
+  }
+}
